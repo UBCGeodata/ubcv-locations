@@ -1,0 +1,372 @@
+SERVICE_ID,BL_ID,NAME,SERVICE_TYPE,BL_NAME,PHOTOURL,URL,HTML,CONTACT,HOURS,MANAGE,STATUS,ADD_ID,GLOBALID,LAT,LONG
+50,570,Museum of Anthropology (MOA),attractions,Museum of Anthropology,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/570.jpg,http://www.moa.ubc.ca,,info@moa.ubc.ca</br>Phone: (604) 822-2974,Mon: Closed; Tues: 10am - 9pm; Wed - Sun: 10am - 5pm,UBC,,AD-228,{7EBA8F9C-E443-4D6A-9CFF-741EC0EBECF7},49.2694117399113,-123.259042711351
+51,046,Asian Centre,attractions,Asian Centre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/046.jpg,http://www.asia.ubc.ca,,asian.studies@ubc.ca</br>Phone: (604) 822-0019,,UBC,,AD-106,{BF7FBD9F-C9A8-4A4F-9344-FE3CE37592D2},49.2667439500749,-123.25872648235
+52,376,Frederic Wood Theatre,attractions,Frederic Wood Theatre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/376.jpg,http://www.theatre.ubc.ca/index.shtml,,thtr.sec@ubc.ca</br>Phone: (604) 822-3880,,UBC,,AD-171,{16A4DFBE-07AA-4EBE-B5E1-F0A2CA77BB8B},49.2681111675154,-123.256838289076
+53,402,Pacific Museum of the Earth,attractions,Earth and Ocean Sciences  - Main,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/402.jpg,http://www.eos.ubc.ca/resources/museum/,,pme@eos.ubc.ca</br>Phone: (604) 822-6992 ,Mon - Fri: 9am - 5pm; Sat / Sun / Stat Holidays: Closed,UBC,,AD-178,{9A28EB29-3AE0-4B64-823F-70C970C97DE5},49.2626732337037,-123.252433641091
+54,432,UBC Tennis Centre,athletics,UBC Tennis Centre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/432.jpg,http://sportfacilities.ubc.ca/tennis-centre/,,kyle.cupido@ubc.ca </br>Phone: (604) 822-4582,Mon - Sat: 8am - 11pm; Stat Holidays: Closed,Athletics,,AD-450,{24727CE2-04EE-494E-85EF-B342ACF90268},49.2597540265956,-123.244937954955
+55,097,UBC Botanical Garden and Centre for Plant Research,attractions,Botanical Garden Centre - Gate House and Shop-In-The-Garden,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/097.jpg,http://www.botanicalgarden.ubc.ca/centre-for-plant-research,,,Daily 9.30am - 5pm,UBC,,AD-120,{AF603930-B2A9-4926-B5E3-425AAC085E2B},49.2540124578448,-123.250521413777
+56,344,Leon and Thea Koerner University Centre,attractions,Leon and Thea Koerner University Centre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/344.jpg,http://www.library.ubc.ca/archives/facclub/welcome.html,,,,UBC,,AD-166,{7CAD9ED1-DBFB-4A60-9622-C761C4463808},49.2688726862937,-123.257138535193
+58,,UBC Ropes Course,athletics,,http://www.flickr.com/photos/26230969@N08/3505922720/in/photostream/,http://www.ubcropescourse.ca,,info@pacificadventure.org</br>(604) 732-3588,,Athletics,,AD-269,{C2174933-0DA7-4225-B4BA-83BA59D37D53},49.2542194126628,-123.242797233065
+59,670,UBC Farm,farmers market,,http://ubcfarm.ubc.ca/wp-content/uploads/2010/05/Picture-043.jpg,http://ubcfarm.ubc.ca,,farm.team@ubc.ca</br>Phone: (604) 822-5092,,UBC,,AD-112,{6BD875C7-C113-42EE-9042-AE67FBB28F07},49.2507676234128,-123.237996055391
+60,097,Greenheart Canopy Walkway,attractions,Botanical Garden Centre - Gate House and Shop-In-The-Garden,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/099.jpg,http://www.botanicalgarden.ubc.ca/canopy-walkway,,,Daily 10am - 4pm,UBC,,AD-114,{8D8D8BE3-3F46-4760-97B3-7560D70E0A51},49.2496105919023,-123.244417588043
+61,320,Dorothy Somerset Studio,attractions,Dorothy Somerset Studios,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/320.jpg,http://www.theatre.ubc.ca/index.shtml,,,,UBC,,AD-163,{D57B0A7B-C11C-48FC-A7E0-267B187B438F},49.2645025964063,-123.254420950078
+62,044,Old Auditorium,attractions,Auditorium,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/044.jpg,http://www.music.ubc.ca/about-us/facilities/old-auditorium.html,,,,UBC,,AD-104,{C8277C2A-2F41-44FB-8F0A-F68C06EB0006},49.2669137430925,-123.256057697036
+65,,University Golf Club,athletics,,http://pinterest.com/pin/124412008426428017/,http://www.universitygolf.com,,(604) 224-1818,,UEL,Non-UBC,AD-128,{3D8D2F34-E822-4DEA-8BDA-CBF68CCF396C},49.263951948055,-123.228769298447
+81,,Lutheran Campus Centre,worship,Lutheran Campus Centre,,,,,,UEL,Non-UBC,AD-324,{A59DCBDD-2911-4E36-B7B8-BA8033A31210},49.2667118142111,-123.24524862583
+143,,University Pharmacy,pharmacy,University Village Pharmacy,,,,,,UEL,Non-UBC,AD-323,{90874833-0881-4A23-9199-95AEBA511783},49.2664949397116,-123.243271738928
+145,,University Drycleaners,commercial_services,University Plaza,,,,,,UEL,Non-UBC,AD-323,{4CDF31A9-6F63-4677-B962-34AC7AEDAF5A},49.2666354742071,-123.242983799562
+148,,Granville Island Produce At University,grocery,University Village,,,,,,UEL,Non-UBC,AD-135,{9F4DA4F8-2234-4302-964B-EE1572F75E81},49.2657520724366,-123.243002207249
+151,,Prime News,retail,University Village,,,,,,UEL,Non-UBC,AD-135,{F26CC97C-1001-41FC-94D1-3F838ABA62CB},49.2660037909998,-123.243040199714
+152,,University VIllage Medical Clinic,medical,University Village,,,,,,UEL,Non-UBC,AD-816,{44635415-0012-4EF1-9F81-ECD603EB08ED},49.2663419013983,-123.24225499008
+155,,"Dollar ""N"" Plus ",retail,University Village,,,,,,UEL,Non-UBC,AD-816,{58997D2D-C7CA-4ECD-8E4D-0F0AE9681672},49.2660450446844,-123.242180921619
+158,,Regent College,commercial_services,Regent College,,,,,,UEL,Non-UBC,AD-135,{2F17036C-1282-4564-BE5B-E6AE6F210E4D},49.2656754991981,-123.244083873478
+160,,Omio Japan Restaurant ,cafe,University Village,,,,,,UEL,Non-UBC,AD-135,{81CE9B4F-C8CE-41A1-B20F-CE49D02571B4},49.2659386594634,-123.242475021485
+16,641,Caribou,child_care,University Services Building,,,<p>Caribou Child Care Services Centre</p>,,,SHHS,,AD-68,{9E7BFD48-C88B-4623-9180-6087BCD84DF6},49.2608156379227,-123.253082168792
+17,205,Salal,child_care,Child Care Services Building 1,,,<p>Salal Child Care Services Centre</p>,,,SHHS,,AD-144,{15F0963C-D965-4A26-9355-D840AD7414E3},49.2599207941335,-123.235234175068
+18,202,Discovery,child_care,Child Care Services Building 3,,,<p>Discovery Child Care Services Centre</p>,,,SHHS,,AD-141,{4469D3FA-039C-4BED-8E33-CEB50D0872D9},49.2597972501257,-123.234420302078
+19,201,Tillicum,child_care,Child Care Services Building 2,,,<p>Tillicum Child Care Services Centre</p>,,,SHHS,,AD-139,{6641B7AE-ABDF-4863-B0E7-3B3B80CA0BB5},49.2595511880424,-123.235096565192
+20,155,Barish,child_care,Child Care Services Administration Building,,,<p>Child Care Services Administration</p>,604-822-5343,Mon - Fri: 8:30 am to 4:30 pm,SHHS,,AD-128,{641A79A2-F103-4962-A25B-BC92E7D20A7B},49.2609049775773,-123.234096727792
+21,204,Little Raven,child_care,Child Care Services Building 5,,,<p>Little Raven Child Care Services Centre</p>,,,SHHS,,AD-142,{7151CA5B-644D-4EA4-8D31-E7D4CA8B2E50},49.2601048203863,-123.233761756573
+22,013,Kids Club,child_care,Kids Club,,,<p>Kids Club Child Care Services Centre</p>,,,SHHS,,AD-92,{99812D3B-91F5-4F16-9815-29B5E326FD99},49.26172998167,-123.23481241035
+23,200,Lilliput,child_care,Child Care Services Building 1,,,<p>Lilliput Child Care Services Centre</p>,,,SHHS,,AD-139,{335A1DEB-4A5D-4523-B4F4-8F8928472B9B},49.2594771659101,-123.235374244359
+24,203,Little Goslings,child_care,Child Care Services Building 4,,,<p>Little Goslings Child Care Services Centre</p>,,,SHHS,,AD-141,{CFEA0350-528B-4769-AC9C-B89CFE642108},49.2598834720014,-123.234155482321
+25,451,Kids Club Jr.,child_care,Sopron House,,,<p>Kids Club Jr. Child Care Services Centre</p>,,,SHHS,,AD-92,{F1DEB712-E03B-4DEC-9621-052E2908BDBC},49.2618621839051,-123.235292385477
+26,206,Sandpiper,child_care,Child Care Services Building 2,,,<p>Sandpiper Child Care Services Centre</p>,,,SHHS,,AD-145,{5C888457-266D-494B-ADDA-D0753E1DACC2},49.2603294968462,-123.234800613303
+27,200,Summer of '73,child_care,Child Care Services Building 1,,,<p>Summer of '73 Child Care Services Centre</p>,,,SHHS,,AD-138,{4825D4C0-C5A5-4EBE-8D25-07530E24291F},49.2594200001749,-123.235562368025
+28,201,Canada Goose,child_care,Child Care Services Building 2,,,<p>Canada Goose Child Care Services Centre</p>,,,SHHS,,AD-140,{C1272341-4840-4353-AC6E-02649C7CB862},49.2596226614475,-123.234885123785
+29,207,Acadia,child_care,Child Care Services Building 3,,,<p>Acadia Child Care Services Centre</p>,,,SHHS,,AD-147,{F2B868E0-BC23-4340-9836-6DEE7AE0008F},49.2608913466556,-123.234729189708
+30,051,Owl at the Barn,child_care,The Barn,,,<p>Owl at the Barn Child Care Services Centre</p>,,,SHHS,,AD-108,{C5B4FFE3-D35E-46BD-922E-BF3A2FC7D06C},49.2619289670646,-123.25112119345
+31,203,Coho,child_care,Child Care Services Building 4,,,<p>Coho Child Care Services Centre</p>,,,SHHS,,AD-141,{BAB226C1-2DEA-41D0-B7E3-7BD75AB7BB5B},49.2599458524099,-123.233955047775
+32,206,Auklet,child_care,Child Care Services Building 2,,,<p>Auklet Child Care Services Centre</p>,,,SHHS,,AD-146,{B4427C08-A450-4D4A-9607-731C930556D9},49.2601872238172,-123.234674938145
+40,790,Safewalk,campus_services,AMS Nest,,http://www.ams.ubc.ca/services/ams-safewalk,,safewalk@ams.ubc.ca</br>(604) 822-5355,Daily: 7pm - 1am,AMS,,AD-273,{0ECA3F94-929F-497E-B110-A508CA765710},49.2664456637766,-123.249864744323
+42,686,University Neighbourhoods Association,campus_services,Granite Terrace Office,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/686.jpg,http://www.myuna.ca/,,reception@myuna.ca</br>General Inquiries: (604) 827-5158,Mon - Fri: 8.30am - 4.30pm,UNA,,AD-335,{DFAAB8E6-2D80-4C6B-964F-2E7937BE0063},49.2550134348877,-123.236231926793
+43,847,TRIUMF - Canada's National Laboratory for Particle and Nuclear Physics,attractions,Isac 1 - Isotope Separator Accelerator (Triumf),http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/847.jpg,http://www.triumf.ca/,,Phone: (604) 222-1047,,Non-UBC,,AD-283,{A80441FF-E4A2-44CA-9B84-20C95AEE353E},49.2471119336379,-123.230116228853
+44,476,Nitobe Memorial Garden,attractions,Japanese Tea House - Nitobe Gardens,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/476.jpg,http://www.botanicalgarden.ubc.ca/nitobe,,development@science.ubc.ca</br>Phone: (604) 822-3404,Daily 9.30am - 5pm (Apr 1 - Oct 31),UBC,,AD-201,{0873E59F-6D84-48AF-9065-D6C2E540F519},49.2661578766153,-123.259150055672
+173,,Suga Sushi,cafe,University Plaza,,,,,,UEL,Non-UBC,AD-323,{378EC252-AAB2-4EDD-8DC3-28D9C795B0E6},49.2666972412571,-123.24257942726
+175,,Student Lucky Market,minimart,University Plaza,,,,,,UEL,Non-UBC,AD-323,{03EBFC8D-4B68-4BC1-BB07-7AB18FAA7F94},49.2666140778257,-123.243084473543
+180,,International Food Court,cafe,University Plaza,,,,,,UEL,Non-UBC,AD-323,{CC39405B-3704-471A-BF97-3719CC109024},49.2666328854734,-123.24280917943
+230,,Oven Fresh Bakery,cafe,University Village,,,,,,UEL,Non-UBC,AD-135,{F4622511-5EE4-4B29-A153-46DE73F71132},49.2660373153125,-123.243467857309
+234,,"Rasoee, the Indian Kitchen",cafe,University Village,,,,,,UEL,Non-UBC,AD-135,{CF412011-78B7-4775-A21D-5F72FABCAA1E},49.26600975576,-123.24344481516
+1,011,Acadia Park Community Centre,community_centre,Acadia Park Community Centre,<Null>,,<Null>,<Null>,<Null>,SHHS,,AD-91,{F40650E4-6E09-4542-BD67-98547D184599},49.2626319645575,-123.237361244744
+2,046,Asian Library,libraries,Asian Centre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/046.jpg,http://asian.library.ubc.ca,,Information Desk: (604) 822-2427,Mon - Fri: 9am - 5pm; Sat/Sun: Closed,Library,,AD-106,{BE48BFCE-FF59-4216-8AD4-F06695DA7F56},49.2667267672744,-123.258544107858
+3,575,Music Library,libraries,Music Building,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/575.jpg,http://music.library.ubc.ca,,Information Desk: (604) 822-3589,Mon - Fri: 9am - 5pm; Sat/Sun: Closed,Library,,AD-229,{BD335542-417A-4906-883D-EB9765A35FCD},49.2673468799838,-123.256713429988
+4,337,Xwi7xwa Library,libraries,First Nations Longhouse,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/337.jpg,http://xwi7xwa.library.ubc.ca/,,Information Desk: (604) 822-8738,Mon - Fri: 9am - 5pm; Sat/Sun: Closed,Library,,AD-165,{76D1ACC8-E2AD-4634-A2F2-48FAD84E05B9},49.2655396742859,-123.257392702725
+5,490,David Lam Management Research Library,libraries,David Lam,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/490.jpg,http://lam.library.ubc.ca/,,Information Desk: (604) 822-9400,Mon - Fri: 9am - 5pm; Sat/Sun: Closed,Library,,AD-205,{AD3EB4B4-10DE-4C0D-8FDA-21D4333D150D},49.2657475348513,-123.254362175196
+6,482,Law Library,libraries,Allard Hall,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/482.jpg,http://www.library.ubc.ca/law,,Information Desk: (604) 822-2275,Mon - Fri: 9am - 5pm; Sat/Sun: Closed,Library,,AD-203,{A9544066-A67A-4337-B60D-88C752BB81C0},49.2699101858802,-123.253364581613
+7,536,Woodward Library,libraries,Woodward Library,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/536.jpg,http://www.library.ubc.ca/bmb/,,Information Desk: (604) 822-2883,Mon - Thurs: 8am - 9pm; Fri: 8am - 5pm; Sat:12pm - 5pm; Sun Closed,Library,,AD-220,{554CF6DE-E2AA-4C0A-A096-5E47ECA9FC95},49.2645570677765,-123.247576796932
+8,234,Education Library,libraries,Neville Scarfe Building - Library,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/234.jpg,http://education.library.ubc.ca/,,Information Desk: (604) 822-3767,Mon - Thurs: 8am - 9pm; Fri: 8am - 5pm; Sat: 12pm - 5pm; Sun: Closed,Library,,AD-103,{6DFCC07F-EC7D-4E86-BDD8-DABC965FF7F5},49.2637956869561,-123.253356496337
+9,515-1,Walter C. Koerner Library,libraries,Walter C. Koerner Library,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/515-1.jpg,http://www.library.ubc.ca/koerner,,Information Desk: (604) 822-2725,Mon - Thurs: 8am - 8pm; Fri: 8am - 5pm; Sat:10am - 5pm; Sun: Closed,Library,,AD-209,{7BD51A78-752B-4154-8840-97BAC2076CB4},49.2666545082328,-123.255131414984
+10,516,Irving K Barber Learning Centre,libraries,Irving K Barber Learning Centre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/516.jpg,http://www.ikebarberlearningcentre.ubc.ca/,,Information Desk: (604) 822-2725,Library Hours: Mon/Thurs/Fri: 9am - 5pm; Tues/Wed: 9am - 8pm; Sat: 12pm - 5pm; Sun: Closed,Library,,AD-210,{A5B99026-3D59-47A5-B912-9D206649006C},49.2675562603686,-123.252705311425
+13,790,The Bike Kitchen,commercial_services,Bike Kitchen,,http://thebikekitchen.com/,,Phone : (604) 827-7333email : bikekitchen@gmail.com,M-F: 10am - 6pm; Sat: 11am - 6pm,AMS,,AD-271,{E4A5DC5E-9D86-41BF-B54A-1A1954F4FCEB},49.2677034191205,-123.250234679748
+14,081,UBC Bookstore,retail,Bookstore,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/081.jpg,http://www.bookstore.ubc.ca/home,,Phone: 1 800 661-3889,M-F: 9.30am - 5.30pm; Sat: 11:00am - 5pm,UBC,,AD-116,{A6AFE9E3-DA71-415E-8E79-5C65B9839FBF},49.2653012541877,-123.250536824921
+15,199,Shoppers Drug Mart,pharmacy,Strangway,http://farm2.staticflickr.com/1393/801765508_a8ee553937.jpg,www.shoppersdrugmart.ca/,,(604) 228-1533,Daily: 8am - 10pm,Non-UBC,,AD-324,{51FD2647-B8EA-43AC-8BF2-12C223C92715},49.2660630857487,-123.245823076821
+70,868,Doug Mitchell Thunderbird Sports Centre,athletics,Doug Mitchell Thunderbird Sports Centre,http://schedule.dmc.ubc.ca/imagegallery/big/bigimage01.jpg,http://sportfacilities.ubc.ca/dmc/,,mike.ikeda@ubc.ca</br>Phone: (604) 827-3900,Mon - Fri: 6am - Midnight; Sat/Sun: 6am - 11pm; Stat Holidays: Closed,Athletics,,AD-295,{544B3BB5-D634-42DF-92E2-D04C6BF379DC},49.2603456728779,-123.241978781893
+71,760,Rugby Pavilion,athletics,Rugby Pavilion,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/760.jpg,,,,,Athletics,,AD-259,{82E9041E-C5EC-4BDD-90D5-11B333EC82B6},49.2586682801796,-123.244014461677
+72,433,UBC Tennis Centre,athletics,UBC Tennis Centre (New),http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/432.jpg,http://sportfacilities.ubc.ca/tennis-centre/,,kyle.cupido@ubc.ca </br>Phone: (604) 822-4582,Mon - Sat: 8am - 11pm; Stat Holidays: Closed,Athletics,,AD-184,{F1A48F49-68B0-40C1-9FA5-DF4B7640A3E5},49.2594386293413,-123.243418271539
+73,422,Cecil Green Park Squash Court,athletics,<Null>,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/420.jpg,http://www.ubcsquash.com,,,,Athletics,,AD-180,{69F308CE-8A01-4086-BEA2-5716333D169A},49.2714199516807,-123.257056055425
+74,034,Aquatic Centre,athletics,Aquatic Centre,http://schedule.dmc.ubc.ca/imagegallery/big/bigimage21.jpg,http://www.aquatics.ubc.ca,,aquatics@interchange.ubc.ca,,Athletics,,AD-102,{BC9FA489-A998-4F4D-B592-443CDE4B7A99},49.2667982281737,-123.249040311455
+75,593-1,Tapestry,seniors,Tapestry,,,,,,Non-UBC,,AD-235,{248DAFA5-00D1-415E-ADC9-7B538FA315EC},49.254635742181,-123.235165394045
+78,802,Epiphany Chapel,worship,Epiphany Chapel,,,,,,Non-UBC,,AD-71,{0CD7BCD0-0246-4ECF-849C-43437952475D},49.2715809711132,-123.252256812486
+79,828,St. Mark's Parish,worship,St. Mark's College,,,,,,Non-UBC,,AD-78,{4CD5812D-85EB-4B4B-98A0-8C22EBE47A53},49.2721606919635,-123.248942678604
+82,8691,Walter Gage Residence,housing_student,Walter Gage Residence,,,,,,SHHS,,AD-297,{0861AAB0-FD2F-4616-A0D4-E8F2AD0AD45D},49.2695270456689,-123.249829368633
+84,544,Place Vanier Residence,housing_student,Place Vanier Residence,,,,,,SHHS,,AD-19,{55A80232-E297-46F8-83C4-ACF0DA9F7416},49.2646310685097,-123.258531698581
+87,540-1,Totem Park Residence Front Desk,housing_student,Totem Park Residence,,,,,,SHHS,,AD-223,{3DB10C03-013F-4A12-9CEB-18152D4117E4},49.2580297267025,-123.253011006774
+89,007-0,Fairiew Crescent Residence ,housing_student,Fairview Crescent Residence,,,,,,SHHS,,AD-898,{21721776-5742-4679-85B5-1DE594C1A027},49.2634112866889,-123.239710984817
+92,697,Wesbrook Fitness Centre,athletics,Wesbrook Community Centre,,,,,,UNA,,AD-57,{EFFD60B2-9671-41DD-A644-9A16BD5B3161},49.2541596035871,-123.237524264078
+93,430,Bodyworks Fitness Centre,athletics,Robert F. Osborne Centre,,,,,,KIN,,AD-183,{DD6E170A-6178-4326-9420-1792F29CFA7C},49.260279558865,-123.2437013938
+94,904,Ponderosa Commons Studio,athletics,Ponderosa Commons Arbutus House,,,,,,Athletics,,AD-84,{3B0B7924-F7DE-4BEB-92F7-2444544240EF},49.2635278859889,-123.25568194588
+96,862,UBC Baseball Indoor Training Centre,athletics,UBC Baseball Indoor Training Centre,,,,,,Athletics,,AD-308,{4E776576-D8D2-487B-BF9F-8108BCD36815},49.2562509523696,-123.239381129236
+102,,Iona Green Playground,park,,,,,,,UNA,,AD-281,{0E150FE0-6F0A-494E-A83E-DC5E0223B8DF},49.2706680170095,-123.250201199293
+103,,St. Andrew's Playground,park,,,,,,,UNA,,AD-304,{4A5E6226-491A-43C5-B55E-21D289295DFB},49.2699556538727,-123.251746480836
+104,,East Campus Park Playground,park,,,,,,,UNA,,AD-969,{BF541156-B518-45C7-8FCC-A2E200B32E40},49.262354998809,-123.239872796918
+105,,Jim Taylor Park Playground,park,,,,,,,UNA,,AD-43,{C19EFD00-7657-4F8C-852B-20603501911B},49.259230049388,-123.247873163916
+106,,Eagles Park Playground,park,,,,,,,UNA,,AD-486,{55197B32-EF43-4922-BB02-9A338994B283},49.2586294306113,-123.246394807983
+107,,Hawthorn Park Playground,park,,,,,,,UNA,,AD-424,{854325E2-96BC-4EAB-956C-3E00D96FF722},49.2578745703685,-123.248411543172
+110,,Brockhouse Park Water Park,park,,,,,,,UNA,,AD-57,{A8B3998C-BAE1-4B21-9F4F-E2F9180FC44B},49.2537148523143,-123.237431102478
+111,,Smith Park Playground,park,,,,,,,UNA,,AD-28,{D08E3B15-1BA1-42A8-9A0C-5257B5B58A38},49.2536406663154,-123.232652971252
+114,795,i Campus Vision,retail,AMS Nest,,,,,,Non-UBC,,AD-273,{8BDC47C5-87E7-4812-B3D8-C8702F345256},49.2666831265988,-123.249954145502
+116,795,Blooming Gift Shop,retail,AMS Nest,,,,,,Non-UBC,,AD-273,{63E10D3E-6C0D-4D45-8C9D-DEA320C0D7C9},49.2666831265988,-123.249954145502
+118,795,AMS Confidential Support Services,campus_services,AMS Nest,,,,,,AMS,,AD-273,{3FE20FE2-C797-409C-B565-698F905F97D5},49.2664456637766,-123.249864744323
+119,689,Careville Health Clinic + Pharmacy,pharmacy,Mews,,,,,,Non-UBC,,AD-341,{1EFDEDE9-4346-47DB-99B3-435AFE6775A8},49.2547757841572,-123.235682442473
+122,689,A Perfect 10 Nail Spa,commercial_services,Mews,,,,,,Non-UBC,,AD-345,{F0A4E2D6-61DA-48E5-A3CE-0D160B76E35E},49.2545233010568,-123.235482416759
+129,686,Xerox Canada,commercial_services,Granite Terrace Office,,,,,,Non-UBC,,AD-335,{4B64CD46-F9CB-4CDC-B162-FA1A10196222},49.2550595222595,-123.236197013263
+132,643,Campus and Community Planning,campus_services,Campus and Community Planning 1,,,,,,UBC,,AD-247,{80C25B3D-2264-4FFD-905B-5250F846D6F0},49.262369644119,-123.253195427279
+133,635,St. John Hospice,medical,St. John Hospice,,,,,,UBC,,AD-244,{C2A027D5-7E9B-4580-8723-8FE259379A9C},49.2554566293783,-123.247461989432
+134,081,Farmer's Market,farmers market,Bookstore,,,,,,UBC,,AD-116,{92F80B08-5640-4CF4-8690-E338B5592F02},49.2654378667787,-123.250423741146
+137,689,Roger's Chocolates,retail,The Mews,,,,,,Non-UBC,,AD-349,{90EA0B2F-EE1F-4833-A92C-0C064DFA768B},49.2546702632339,-123.236081902728
+139,689,Fido,retail,The Mews,,,,,,Non-UBC,,AD-356,{DA724394-1056-49CA-85EA-453600AD3F36},49.2548427330658,-123.235831380384
+197,790,Sprouts,minimart,"Student Union Building (Sub), Basement",,,, , ,Non-UBC,,AD-149,{BFE4B8C8-0EE5-49C1-B0DB-0D278BF0A450},49.2673740558951,-123.249514690738
+203,199,Boulevard Coffee,cafe,Strangway,,,, , ,Non-UBC,,AD-326,{7F93F0FB-6D9A-437A-9D61-13382846F176},49.2660069084128,-123.246465510267
+206,463,Corner Cafe,cafe,UBC Hospital- Koerner Pavilion,,,, , ,Non-UBC,,AD-197,{0618732E-0567-4359-A375-74D70D78C4B8},49.2646477913172,-123.246102047761
+208,841,Great Dane Coffee,cafe,Wespoint,,,, , ,Non-UBC,,AD-81,{D971EC27-A78C-4803-8582-396348E41487},49.2700876799633,-123.250590799505
+211,790,Koya Japan,cafe,"Student Union Building (Sub), Ground Floor",,,, , ,SHHS,,AD-271,{5DE14AD2-48D2-4C2C-942B-AADE0F54BB5D},49.2673931802782,-123.249748830904
+213,797,Loafe Cafe,cafe,Alumni Centre,,,,<Null>,<Null>,Non-UBC,,AD-274,{B586ACF4-E9CA-42B7-95CA-AAAEE29CB9FE},49.2658364267619,-123.250054060316
+215,790,Manchu Wok,cafe,"Student Union Building (Sub), Ground Floor",,,, , ,SHHS,,AD-271,{92138093-0AB1-49C1-B25B-720465D42F12},49.2673931802782,-123.249748830904
+218,232,Neville's,cafe,Neville Scarfe,,,, , ,SHHS,,AD-151,{E2ADFD64-7395-40A8-986A-DBFE7979B6F3},49.2641005102557,-123.253011399983
+219,314,Niche Cafe,cafe,Beaty Biodiversity,,,, , ,SHHS,,AD-161,{4D413B04-3EA3-43AE-B306-51F063F63D19},49.2630545339912,-123.25083349461
+220,790,Pacific Spirit Place,cafe,"Student Union Building (Sub), Ground Floor",,,, , ,SHHS,,AD-271,{A553B28C-5EAF-49B8-83A5-386F3E3C3628},49.2673931802782,-123.249748830904
+222,490,Pizza Pizza,cafe,David Lam,,,, , ,SHHS,,AD-204,{42E56EB7-6C0A-4C16-9528-6BE0F9D28104},49.265811786582,-123.254211030064
+236,007-0,The Original Beanery,cafe,Fairview Crescent Residence,,,, , ,Non-UBC,,AD-929,{A6DBA211-A353-48B0-9353-45B89CD44E84},49.2635911897123,-123.239348000119
+237,386,Agora Cafe,cafe,Macmillan Building,,,, , ,Non-UBC,,AD-175,{AFAB3613-9791-417E-A131-3643F7310FC4},49.2609146099315,-123.251126746156
+238,606,IMS Market,minimart,TEF3,,,, , ,Non-UBC,,AD-238,{B199A2D8-69B2-4AFF-9157-9497D130249E},49.261308099127,-123.246595335599
+239,795,IMS Market,minimart,"AMS Nest, Lower Level",,,, , ,Non-UBC,,AD-273,{691F97D6-3BAE-47DD-BF0C-6C2F719CE040},49.2663384807268,-123.249566189154
+240,795,Delly,cafe,"AMS Nest, Lower Level",,,, , ,Non-UBC,,AD-102,{3C09B67F-A730-487A-8668-B7485F1CC0F7},49.2666078368357,-123.249763560848
+244,795,The Palate,cafe,"AMS Nest, Level 1",,,, , ,AMS,,AD-102,{121F95DB-B66C-4399-8670-26A8F2D68F10},49.2666078368357,-123.249763560848
+251,795,Soup Market,cafe,"AMS Nest, Level 1",,,, , ,Non-UBC,,AD-102,{EA29B45E-1109-4544-B2AA-1D522F0B8395},49.2666078368357,-123.249763560848
+252,81,Harvest,minimart,Ponderosa Commons Oak House,,,, , ,SHHS,,AD-87,{4E5875CF-2451-4611-9D4D-93BDAF851304},49.2639827240312,-123.255741552377
+45,130,Chan Centre for the Performing Arts,attractions,Chan Centre for The Performing Arts,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/130.jpg,http://www.chancentre.com,,chan.centre@ubc.ca</br>Phone: (604) 822-9197,,UBC,,AD-124,{B5B8750C-A203-4E0D-9178-E891505F9FA9},49.2697464805389,-123.255132492208
+46,872-2,Conferences & Accommodation at UBC,commercial_services,Walter H. Gage Residence - Court,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/872-2.jpg,http://www.ubcconferences.com/,,reservations@housing.ubc.ca</br>Phone: (604) 822-1000,,SHHS,,AD-297,{5F458C0B-DD59-4CC2-B687-4E32FADC9277},49.2694389996129,-123.248641335374
+47,314,Beaty Biodiversity Museum,attractions,Beaty Biodiversity Centre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/314.jpg,http://biodiversity.ubc.ca/,,biodiversity.centre@ubc.ca</br>Phone: (604) 822-0862,,UBC,,AD-161,{7920610E-5A80-41F3-8AE4-4689D3AD684E},49.2633567401256,-123.251062463251
+48,575,Roy Barnett Recital Hall,attractions,Music Building,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/575.jpg,http://www.music.ubc.ca/about-us/facilities/roy-barnett-recital-hall.html,,,,UBC,,AD-229,{311BFA7E-20FB-493C-9EA2-202D9EBAB9B0},49.2674391701714,-123.256806431137
+49,420,Cecil Green Park House,attractions,Cecil Green Park House,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/420.jpg,http://www.cecilgreenpark.ubc.ca,,info@cecilgreenpark.ubc.ca</br>Phone: (604) 822-6289,Mon - Fri: 8:30am - 4:30pm,UBC,,AD-180,{28312EDE-10A7-48C7-9698-E15DE76F6FB6},49.2713612660005,-123.257619100949
+33,202,Sitka,child_care,Child Care Services Building 3,,,<p>Sitka Child Care Services Centre</p>,,,SHHS,,AD-140,{8562AA78-09BA-42CC-8813-A2C92F091989},49.2597274955896,-123.234618933059
+34,205,Kittiwake,child_care,Child Care Services Building 1,,,<p>Kittiwake Child Care Services Centre</p>,,,SHHS,,AD-143,{FD910C39-D91A-4C91-8EDD-4A0A5A3FD2DF},49.2600757395317,-123.235338847892
+35,204,Pacific Spirit,child_care,Child Care Services Building 5,,,<p>Pacific Spirit Child Care Services Centre</p>,,,SHHS,,AD-142,{0D904D6D-DEAB-4161-9FBB-D4FA9DDB0269},49.2602865248542,-123.233822152556
+36,770-3,Huckleberry,child_care,Spirit Park Apartments,,,<p>Huckleberry Child Care Services Centre</p>,,,SHHS,,AD-267,{ABD87F8A-9880-476E-8AE4-57DC778922BC},49.2612244243478,-123.239112781266
+262,,Chinook,child_care,Norma Rose Point School,,,,,,SHHS,UEL,,{80E74D47-3D86-4F27-9718-55EE10811150},49.2618473952114,-123.233310328144
+20,155,Chuva,child_care,Child Care Services Administration Building,,,<p>Child Care Services Administration</p>,604-822-5343,Mon - Fri: 8:30 am to 4:30 pm,SHHS,,AD-128,{2F926306-4E3F-4D57-9FE0-29B28F3771E7},49.2610767144707,-123.234278150508
+20,155,Pioggia,child_care,Child Care Services Administration Building,,,<p>Child Care Services Administration</p>,604-822-5343,Mon - Fri: 8:30 am to 4:30 pm,SHHS,,AD-128,{926DE8F5-8A78-4B32-80EB-0459839617D3},49.2609564217664,-123.234327654225
+20,155,Chuva,child_care,Child Care Services Administration Building,,,<p>Child Care Services Administration</p>,604-822-5343,Mon - Fri: 8:30 am to 4:30 pm,SHHS,,AD-128,{C040F48F-AB4D-4229-B06A-3DCC1DD3AD59},49.2607668069707,-123.234166193973
+,,UBC Carding Office,campus_services,UBC Bookstore,,,,,,,,,{BB84A469-E2CA-4451-9C31-652D49BE018E},49.2652687586089,-123.250496752875
+,,UBC Parking Services,campus_services,Bookstore,,,,,,,,,{260EA451-BCAE-4817-B252-BC9BF3767F75},49.2648779824698,-123.250699029399
+,,Hatch Arth Gallery,attractions,The Nest,,,,,,,,,{5DD76C3C-56ED-4008-B51E-80C376757E34},49.2665642053626,-123.249883467677
+,,Royal Bank Cinema,attractions,Chan Centre of Performing Arts,,,,,,,,,{F7885221-D6D6-43A9-98B8-E420D1F6E20D},49.269781481019,-123.255070913077
+263,528,Rose Garden Parkade,parkade,Rose Garden Parkade,,,,,,Parking,,AD-218,{45C45116-13D7-415B-BABC-F6602DCDACFB},49.269543908438,-123.256696909225
+,,Telus Studio Theatre,attractions,Chan Centre of Performing Arts,,,,,,,,,{2A7C9501-DD59-404B-B396-AB4F7850C559},49.269781481019,-123.255070913077
+,,Applied Science Kaiser (Fred) Building,faculty,Kaiser,,,,,,,,,{D473313D-F6C3-4565-A3F5-03BA11BE0EF7},49.2623439951618,-123.250075895414
+,,Arts - Dean's Office ,faculty,Buchanan A,,,,,,,,,{E7E74458-6A93-4E01-BFD3-7FAA348B4EB2},49.268351138118,-123.254921527087
+,,Dentistry - Dean's Office,faculty,Woodward IRC,,,,,,,,,{3D43820B-442E-4E61-8346-C53A6F788B01},49.2647990768132,-123.246729464858
+,,Arts Academic Advising,faculty,Buchanan D,,,,,,,,,{D11E61A5-438A-4F87-9FEF-8A4C1F78DE21},49.2692998565779,-123.254212712821
+,,Dentistry - Student Advising,faculty,JB Macdonald,,,,,,,,,{4FF465B6-DEE6-4DF5-8120-4E455595EA61},49.2655115608422,-123.245450994725
+257,797,Wong-Trainor Welcome Centre,campus_services,Alumni Centre,<Null>,<Null>,,<Null>,,UBC,,AD-274,{2B0A5B38-67B3-45DE-AD02-78571591EF7B},49.2658888754967,-123.249706600231
+,,Building Operations ,campus_services,USB,,,,,,,,,{A30EA944-14C8-4439-AF7E-094D9DF64A22},49.2612893625904,-123.253718537142
+,,Building Access (Key Desk),campus_services,Bookstore,,,,,,,,,{B475663A-E4BF-479A-BA58-F54772221C70},49.2650470543151,-123.25062126434
+,,Campus Sustainability Office,campus_services,CIRS,,,,,,,,,{9D11E681-A44F-4846-8A18-EE0DE08679EC},49.2620485697727,-123.25310958074
+,,Lobby Gallery,attractions,Lui Institute for Global Issues,,,,,,,,,{685986A4-CE44-4990-8EB2-D131AC554A13},49.267565132035,-123.259287823649
+,,Ceremonies and Events ,campus_services,Ponderosa Annex B,,,,,,,,,{88960B2D-8E51-4D90-A7EE-809C0300F0CF},49.2648060083583,-123.255945113371
+,,UBC Food Services Administration,campus_services,Marine Drive Build 6,,,,,,,,,{96492DB4-3F77-407F-B3DA-F4324094D9A4},49.2611468812903,-123.255543682888
+,,The Chung Collection Exhibition,attractions,Irving K. Barber,,,,,,,,,{1CF1D9A9-35DA-40BF-91C3-6AC3C920565C},49.2675562809987,-123.252780180425
+,,Human Resources,campus_services,TEF3,,,,,,,,,{2586A691-0E50-470E-9F49-B0A4A2980E36},49.2611852555618,-123.246378774223
+,,UBC Utilites,campus_services,Power House,,,,,,,,,{9F8D05B1-3C6F-4E19-A845-E15590EBF448},49.2653405674853,-123.254700908613
+,,Chan Shun Concert Hall,attractions,Chan Centre of Performing Arts,,,,,,,,,{4FF59FA9-A147-40ED-9709-0AA8F4030875},49.269781481019,-123.255070913077
+,,UBC Parking Impound Lot,campus_services,2451 East Mall at Sopron Lane,,,,,,,,,{5C1B3484-DBD6-420C-BFA4-FB4D916EE845},49.2604571725167,-123.246911396964
+,,AHVA Gallery,attractions,Audain Art Centre,,,,,,,,,{7CBA071A-A88B-4BDA-BC24-4E72F971B722},49.2638660917631,-123.254562874012
+,,Education,faculty,Scarfe,,,,,,,,,{1424F265-39DD-47E6-99F6-993AA6AC2488},49.2639195846296,-123.252552717888
+264,792,North Parkade,parkade,North Parkade,,,,,,Parking,,AD-272,{3615A4E3-190B-43E6-AD50-77772F24C756},49.2688059696241,-123.250490570653
+266,467,Health Sciences Parkade,parkade,,,,,,,Parking,,AD-199,{EFA86C39-4B54-4A61-A6AE-DC19660C7758},49.263026734782,-123.24742409684
+268,900,West Parkade,parkade,West Parkade,,,,,,Parking,,AD-301,{ECCD4504-E867-4F5E-8F8C-FA31C0069B7C},49.2628943630006,-123.255613518597
+265,052,Fraser River Parkade,parkade,Fraser River Parkade,,,,,,Parking,,AD-109,{C00156A6-19C8-4FA7-90A0-52DE8CBF1EE9},49.266280269011,-123.258367660774
+268,785,Thunderbird Stadium Parking,parkade,Thunderbird Stadium ,,,,,,Parking,,,{CB525073-C6B8-49AD-BA81-65F446BBFB58},49.2548976478969,-123.244231055851
+63,568,Morris and Helen Belkin Art Gallery,attractions,Morris and Helen Belkin Art Gallery,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/568.jpg,http://belkin.ubc.ca,,belkin.gallery@ubc.ca</br>Phone: (604) 822-2759,Mon: Closed; Tues: - Fri: 10am - 5pm; Sat/Sun: 12pm - 5pm,UBC,,AD-226,{EAEE213A-34E8-4577-A705-252CC9D122E4},49.2681364636526,-123.256165752554
+64,774,Birdcoop Fitness Center,athletics,Student Recreation Centre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/774.jpg,http://www.birdcoop.ubc.ca/index.php,,birdcoop@interchange.ubc.ca</br>Phone: (604) 822-6924,,Athletics,,AD-268,{B386D785-77F6-4C71-A7F4-7F48924E74A0},49.2683593195634,-123.248788261621
+66,627,Old Barn Community Centre Exercise Room,athletics,Old Barn Community Centre,http://www.oldbarn.ca/wp-content/uploads/Gym5858.jpg,,,reception@oldbarn.ca</br>Phone: (604) 827-4469,Daily: 7am - 7pm,UNA,,AD-43,{6A3138C6-7232-45D7-AE75-FB794420235C},49.259043494083,-123.248335095339
+67,428,War Memorial Gym,athletics,War Memorial Gymnasium,http://schedule.dmc.ubc.ca/imagegallery/big/bigimage71.jpg,http://sportfacilities.ubc.ca/wmg,,bradley.thomas@ubc.ca</br>Phone: (604) 827-4547,,Athletics,,AD-182,{57C5BB13-C7A1-4B21-9672-9BECEA2D303C},49.2666165408306,-123.248063631988
+68,785,Thunderbird Stadium,athletics,Thunderbird Stadium,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/785.jpg,http://sportfacilities.ubc.ca/thunderbird-stadium/,,thunderbird.stadium@ubc.ca</br>Phone: (604) 822-4142,,Athletics,,AD-269,{A3B966E2-14E8-407A-92F8-22365428D27E},49.2547989235957,-123.244680779436
+69,790,Norm Theatre,attractions,Student Union Building (Sub),http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/790.jpg,http://www.ams.ubc.ca,,webeditor@ams.ubc.ca</br>Phone: (604) 822-2901,,AMS,,AD-271,{A14FA5E8-7049-432D-A5E6-296981F5CD37},49.2674346136331,-123.250093342351
+253,868,Thunderbird Arena,athletics,Doug Mitchell Thunderbird Sports Centre,<Null>,<Null>,,,,Athletics,,AD-185,{D423F318-9A62-4FF6-9A9E-B51A17F31D06},49.2599325224329,-123.241687813414
+254,,Acadia Park Playground,park,,,,,,,SHHS,,AD-706,{D1FA70C4-5EF8-47D3-9F6E-6B42524EB454},49.2629365051782,-123.238065406895
+255,,UBC Skate Park,park,,,,,,,UNA,,AD-270,{699F0BBC-A9CF-42B1-BD15-D867C83315BD},49.260842147762,-123.244471256074
+256,,Basketball Court,park,,,,,,,UNA,,AD-224,{657C39D5-7ABD-4375-B305-B61398C6242E},49.26097442564,-123.244044266485
+258,462,Purdy Pavilion,medical,Purdy Pavilion,<Null>,,,<Null>,<Null>,VCH,,AD-196,{FB31492F-99ED-4F65-ADE9-368578A2A2C0},49.2632648948194,-123.245941928491
+259,537,Detwiller Pavilion,medical,Detwiller Pavilion,<Null>,,,<Null>,<Null>,VCH,,AD-221,{259915C2-8703-4701-8E15-10B636B2C7F7},49.2635491368473,-123.244392322521
+260,,Diesel Bus Loop,transit,,,,,,,TransL,,AD-315,{4BA3FF5E-DF02-445A-96FC-B2BCE94E745B},49.2680909196332,-123.2476535434
+261,,Trolley Bus Loop,transit,,,,,,,TransL,,AD-334,{EA6D564A-F211-44FF-92F5-7DFA2400504E},49.2657862973411,-123.24822312072
+269,785,Wesbrook Village Parking,parkade,<Null>,,,,,,Parking,,<Null>,{C4F7AE82-7DCB-42EB-8B82-74D0B07C49DF},49.2543402584995,-123.23676605646
+270,099,Botanical Garden Parking,parkade,Botanical Garden,,,,,,Parking,,AD-120,{8B1213FC-B636-4217-AAEB-BBA9EA865558},49.2548391754145,-123.251485673274
+,,Canopy Walkway,attractions,UBC Botanical Garden,,,,,,,,,{A8ED5EEC-7049-4FEB-8E49-9BA02F118FDC},49.2541061471512,-123.251247399525
+,,Forestry,faculty,Forestry,,,,,,,,,{0E8A2B5F-2C67-4C4F-85C1-10F6BC72E4BB},49.2604298546214,-123.248311330113
+,,Graduate and Postdoctoral Studies,faculty,Koerner,,,,,,,,,{584C7DFB-09A1-4349-8EB3-491277516DB4},49.2684193397468,-123.257877414384
+,,Land and Food Systems,faculty,MacMillan Building,,,,,,,,,{675C7D1A-B0BE-4081-89F0-FF61787B1C5F},49.260977573198,-123.25101566165
+,,Medicine,faculty,Woodward IRC,,,,,,,,,{D194C81E-6C9D-4E9F-9E49-C186C9AE2BA3},49.2648619155925,-123.246793057336
+,,Peter A. Allard School of Law,faculty,Allard Hall,,,,,,,,,{60697E0C-E69B-4BCF-A893-6EB50845A560},49.2699477703674,-123.253515170691
+,,Pharmaceutical Sciences,faculty,Pharmaceutical Sciences Building,,,,,,,,,{D05CA8EB-6DD1-4B0A-98F3-4479F3DFDE83},49.2623244181042,-123.243177829186
+,,Sauder School of Business,faculty,Henry Angus,,,,,,,,,{C98C434B-C60D-45FD-86EE-4D54F3E4DFCB},49.2651912416651,-123.253919041576
+,,Science,faculty,Earth Science Building,,,,,,,,,{73749C3B-203C-4A5A-9A7B-D0B4AC1BC867},49.2629998654667,-123.252022362876
+267,551,Thunderbird Parkade,parkade,Thunderbird Parkade,,,,,,Parking,,AD-224,{30BB6767-60EB-4A7A-80EC-DE615999E7E3},49.2611432050817,-123.243431372175
+57,,Rose Garden & Flagpole Plaza,attractions,Rose Garden,http://www.maps.ubc.ca/PROD/images/photos/N014_a.jpg,,,<Null>,,UBC,,AD-218,{83649DB0-D373-4E9A-AC13-7FDEDD020DE3},49.2691589370393,-123.256322466013
+,,Father David Bauer Arena,attractions,Doug Mitchell Centre,,,,,,,,,{D256DC88-C12A-4480-A312-B0ADC3F23A68},49.2604123988579,-123.241946837807
+,,PROTRANS BC Community Arena,attractions,Doug Mitchell Centre,,,,,,,,,{3514169B-D15D-4148-9D4B-EB79AC43697F},49.2604123988579,-123.241946837807
+,,Robert F. Osborne Centre/Gymnasium,attractions,Osborne Centre,,,,,,,,,{336B3394-B0FB-42A9-90E2-9C4BD2928536},49.2602584459807,-123.243759054639
+97,,Thunderbird Park Sports Fields,athletics,Thunderbird Park,,,,,,Athletics,,AD-307,{5007441F-2A50-4411-B444-0AC99B67C27C},49.2581446688926,-123.241371106885
+,,College o fHealth Disciplines,school/college,Woodward - IRC,,,,,,,,,{E4AF6FBB-07AF-4231-92B7-4EF584FA1381},49.2647687524937,-123.24692636278
+,,School of Human Kinetics,school/college,War Memorial Gymnasium,,,,,,,,,{CC1D200A-1D6C-48EC-B5AD-3DFDFD35A603},49.266701668546,-123.247849147912
+,,"iSchool@UBC (Library, Archival & Information Studies)",school/college,Irving K. Barber Learning Centre,,,,,,,,,{DA851BDA-0F70-4AEA-BCD8-17ADBFC5C9E1},49.2675294306391,-123.252686261653
+,,Robert H. Lee Graduate School ,school/college,Henry Angus,,,,,,,,,{0E95696D-B878-4F06-AEC8-3753ED7F5908},49.2651550289649,-123.253882504175
+,,"School of LIbrary, Archival & Information Studies (SLAIS)",school/college,Irving K. Barber,,,,,,,,,{8CB0EE03-FB00-40EF-A357-9800FEDC0A00},49.267537605567,-123.252717893837
+100,,Norma Rose Point School,school/college,Norma Rose Point School,,,,,,VSB,Non-UBC,AD-128,{11F844F5-00AB-4263-8F85-3761AE3C1E67},49.2620266904125,-123.232229452937
+99,590,University Hill Secondary School,school/college,University Hill Secondary School,,,,,,VSB,,AD-31,{31C74E25-0934-40B8-B97F-F50BAE24C022},49.2541229403791,-123.239098340347
+,,School of Architecture & Landscape Architecture (SALA),school/college,Fredric Lasserre Building,,,,,,,,,{0AC43AAF-5558-44B5-ACC7-7527B30A1824},49.2676044103643,-123.255947827552
+,,School of Journalism,school/college,Sing Tao Building,,,,,,,,,{497221EB-E78D-4A92-B9E6-0EF6E2522B89},49.2678121656624,-123.257773457388
+,,School of Music,school/college,Music building,,,,,,,,,{257A5287-3493-45CE-8105-0C6632E3B02C},49.2674465142444,-123.256712348287
+,,School of Nursing,school/college,UBC Hospital - Koerner Pavilion,,,,,,,,,{647794A4-4897-41C8-9500-2EA48F44A9C1},49.2641297056319,-123.245960955429
+,,School of Population and Public Health (SPPH),school/college,SPPH,,,,,,,,,{7446D31B-9BC4-4AEC-B3F5-240CD6C9468C},49.2642558565262,-123.248399990014
+,,School of Community and Regional Planning (SCARP),school/college,Fredric Lasserre Building,,,,,,,,,{8B448E43-660F-42C9-8FC6-456AFD1DBF1F},49.2675607670912,-123.256061641926
+,,School of Audiology & Speech Sciences,school/college,Friedman Building,,,,,,,,,{38139B47-0397-4FF6-B2DF-869D20428ACD},49.2653851996787,-123.246243654425
+,,School of Social Work,school/college,Jack Bell Building,,,,,,,,,{1E285F7C-E901-4D1E-947B-71CCF9150079},49.2644786904695,-123.255098275215
+271,465,Ami Cafe,cafe,Centre for Brain Health,,,, , ,Non-UBC,,AD-198,{1A1ED876-9BD0-4485-A0A3-9C2E6225E957},49.2646145398442,-123.244472335924
+,,Go Global International Learning Programs,campus_services,International House,,,,,,,,,{730D385C-ACCB-43A1-AD56-8F452561823A},49.2678031194375,-123.258968465004
+,,UBC Vantage College,school/college,Lower Mall Research Station,,,,,,,,,{F30AE49E-0E9B-4A74-8BCD-F9666771D754},49.2605026428777,-123.255388579825
+,,Graduate Student Services,campus_services,Thea Koerner House,,,,,,,,,{030E1D9D-3FFB-4AEA-8BB3-F078586BB055},49.2683703277225,-123.257836223462
+,,Vancouver School of Economics,school/college,Iona Building,,,,,,,,,{9D328FBB-1069-48E3-9136-303008F98290},49.2709945252435,-123.250374233252
+,,Graduate Student Centre/Society,campus_services,Thea Koerner House,,,,,,,,,{CE6F7204-83B9-4B5B-BCA3-D174128AD054},49.2683703277225,-123.257836223462
+,,Access and Diversity,campus_services,Brock Hall,,,,,,,,,{865648BF-BF4D-4C3D-BDDA-C83B2ED664BE},49.2686318354029,-123.252197351951
+,,"Awards, Fees and Financial Assistance ",campus_services,Brock Hall,,,,,,,,,{2380F4B6-BFBF-4E6C-955F-4CF2C9926D26},49.2686318354029,-123.252197351951
+,,Career Services,campus_services,Brock Hall,,,,,,,,,{A8E06D10-349A-437C-AE3C-003A84F17D8A},49.2686318354029,-123.252197351951
+,,Crane Library,campus_services,Brock Hall Brock Hall Annex,,,,,,,,,{B3949414-32CD-40A4-8405-8EF32302874A},49.2690342815226,-123.252558700061
+,,Enrolment Services,campus_services,Brock Hall,,,,,,,,,{D1FFCD98-3222-41B9-9FC7-83EFD8E4B087},49.2686318354029,-123.252197351951
+,,Equity and Inclusion Office,campus_services,Brock Hall,,,,,,,,,{0A927AD8-0D8D-4C22-AAD2-11138A80342D},49.2686318354029,-123.252197351951
+,,Undergraduate Student Services,campus_services,Brock Hall,,,,,,,,,{22FE8B8F-5293-4292-B0B9-551D654B2404},49.2686318354029,-123.252197351951
+,,International Student Development,campus_services,International House,,,,,,,,,{F8B07E19-3290-43EA-8135-F19D597CA0CE},49.2678031194375,-123.258968465004
+,,Campus Mail,campus_services,University Services Building,,,,,,,,,{75A3ABFB-6172-4142-8422-E2D0B6AD6DFE},49.2613317369286,-123.253751871935
+39,081,Campus Security (Lost and Found),campus_services,Bookstore,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/337.jpg,http://www.security.ubc.ca/,,(604) 822-2222,,UBC,,AD-117,{5DA1F1DE-2469-432E-ACAD-C97F8E0BF406},49.2648751754776,-123.250680596892
+,,Land & Food Systems,libraries,Woodward Library,,,,,,,,,{60983BA4-3026-413E-946C-825F2BEE8294},49.2645648429158,-123.247573170066
+,,Student Health Services,campus_services,UBC Hospital - Koerner Pavilion,,,,,,,,,{E0D7D0BE-BAA5-4EEF-9616-7E8F478D0A3C},49.2639844278988,-123.245717685394
+,,UBC Press,campus_services,Ponderosa Annex B,,,,,,,,,{26EDCC85-0D10-4947-9403-BD993496C868},49.2648383233417,-123.255965969456
+,,Engineering,libraries,Woodward Library,,,,,,,,,{ED5F70A1-8BD7-45A4-8458-9314224D1594},49.2645632023388,-123.247570161346
+,,Student Housing and Hopitality Services,campus_services,Marine Drive Residence - Build 6,,,,,,,,,{F5414E03-3FA5-45D3-9A97-C33197638BD7},49.2611709154279,-123.25558687644
+,,Science,libraries,Woodwark Library,,,,,,,,,{CE3824E3-17E8-41E0-8E67-E22C7401B214},49.2645627498381,-123.247571440107
+,,Wellness Centre,campus_services,Irving K. Barber,,,,,,,,,{0571CE92-2BCB-41D2-A5BF-18D637E960EE},49.2676183021664,-123.252687199357
+,,Village Gate Homes (Rental Housing) ,campus_services,Granite Terrace Office,,,,,,,,,{F60F07BB-ABB2-4BB9-BD11-D6E484BB6CE2},49.2550708174466,-123.236051388153
+,,Data/GIS Lab,libraries,Koerner Library,,,,,,,,,{E4A2465A-2B67-4065-9163-91F1FF3C0C44},49.2666818306781,-123.254492908669
+,,English Language Institute (ELI),campus_services,Continuing Studies Building,,,,,,,,,{75139D70-6F8E-44EB-AD00-AD7F9BF0084F},49.2633650250231,-123.254953645517
+,,West Coast Suites,campus_services,Gage Court / West Coast Suites,,,,,,,,,{17B15E57-4905-48DE-9FEF-96B5D204E638},49.2694780454229,-123.248592277342
+,,Continuing Studies Administrative Office,campus_services,David Strangway Building,,,,,,,,,{D7829E35-9DA7-4BE8-9C90-D27AB6B3DB60},49.265919183755,-123.246245594204
+,,Foresty,libraries,Woodward Library,,,,,,,,,{DFFAF740-B90C-4F90-AB82-68C7BB8046DA},49.2645562984656,-123.247574380853
+,,Government Publications and Maps,libraries,Koerner Library,,,,,,,,,{42B546ED-C82A-49C7-A85F-DC3E6564C5B6},49.2666646855285,-123.255136252263
+,,Allan McGavin Sports Medicine Centre,campus_services,Djavad Mowafaghian Centre for Brain Health,,,,,,,,,{D4DBB576-3F16-4EA4-AE3A-F26FA60EFB61},49.2645006461668,-123.244421255303
+,,Health and Medicine,libraries,Woodwark Library,,,,,,,,,{F4EEB96B-A668-4D72-858F-38F39CBFF301},49.2645627498381,-123.247571440107
+,515-1,Humanities & Social Sciences,libraries,Walter C. Koerner Library,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/515-1.jpg,http://www.library.ubc.ca/koerner,,Information Desk: (604) 822-2725,Mon - Thurs: 8am - 8pm; Fri: 8am - 5pm; Sat:10am - 5pm; Sun: Closed,Library,,,{95BD0D43-8454-4F5B-9192-8A6EEA9CCD16},49.2666545082328,-123.255131414984
+,515-1,Microforms & Journals ,libraries,Walter C. Koerner Library,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/515-1.jpg,http://www.library.ubc.ca/koerner,,Information Desk: (604) 822-2725,Mon - Thurs: 8am - 8pm; Fri: 8am - 5pm; Sat:10am - 5pm; Sun: Closed,Library,,,{AC6194F0-8A9E-434C-A07A-D02162BFB3FB},49.2666545082328,-123.255131414984
+,,Child Care Services ,campus_services,Child Care Services Administration Building,,,,,,,,,{6ED03B48-B218-4CBF-9138-734042A99300},49.2609195221339,-123.234212480275
+,516,"Music, Art & Architecture LIbrary",libraries,Irving K Barber Learning Centre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/516.jpg,http://www.ikebarberlearningcentre.ubc.ca/,,Information Desk: (604) 822-2725,Library Hours: Mon/Thurs/Fri: 9am - 5pm; Tues/Wed: 9am - 8pm; Sat: 12pm - 5pm; Sun: Closed,Library,,,{6EFEC048-8515-40AB-AC05-CB034FBD7956},49.2678760431081,-123.252976054886
+,516,Rare Books and Special Collections,libraries,Irving K Barber Learning Centre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/516.jpg,http://www.ikebarberlearningcentre.ubc.ca/,,Information Desk: (604) 822-2725,Library Hours: Mon/Thurs/Fri: 9am - 5pm; Tues/Wed: 9am - 8pm; Sat: 12pm - 5pm; Sun: Closed,Library,,,{0F4F9900-BC69-472B-A681-5BAEA324DC42},49.2678760431081,-123.252976054886
+,516,University Archives,libraries,Irving K Barber Learning Centre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/516.jpg,http://www.ikebarberlearningcentre.ubc.ca/,,Information Desk: (604) 822-2725,Library Hours: Mon/Thurs/Fri: 9am - 5pm; Tues/Wed: 9am - 8pm; Sat: 12pm - 5pm; Sun: Closed,Library,,,{F5F2A2DF-00B8-49A3-BB9B-ACEBF7C1D209},49.2678760431081,-123.252976054886
+,,Dental Speciality Clinics,campus_services,J.B. Macdonald Building,,,,,,,,,{6B90AC3B-6E0A-4A97-8D10-873DF8A38353},49.2656067917432,-123.245463940859
+,,Family Practice Teaching Unit/Clinic,campus_services,David Strangway,,,,,,,,,{230CAF99-D751-4A55-869F-4F9433294EC7},49.2659080089127,-123.246341005034
+,,The Media Group ,campus_services,Woodward - IRC,,,,,,,,,{F41E812E-EEA8-48D3-9050-7AE94713F4C4},49.2648704156474,-123.24666646303
+,,Hummingbird Child Centre,child_care,Orchard Commons,,,,,,,,,{38BF8D1D-CAAA-4BAA-AA70-2C183B9332E8},49.2603714171927,-123.251276572956
+199,790,A&W,cafe,"Student Union Building (Sub), Ground Floor",,http://www.aw.ca/,, , ,SHHS,,AD-271,{F7C77705-B14C-4813-B25F-935C1DB9AFEE},49.2673931802782,-123.249748830904
+191,544,Vanier's Dining Room,restaurant,Place Vanier Residence,,http://www.food.ubc.ca/place/vaniers-dining-room/,, , ,SHHS,,AD-19,{B4E723BD-789B-484E-8031-D0E6BC7AFE41},49.2648806703784,-123.258818200224
+200,490,Bento Sushi,cafe,David Lam,,http://www.food.ubc.ca/place/bento-sushi/,, , ,SHHS,,AD-204,{879B32CD-2FC6-40EC-AD69-313C4D1B8B7E},49.265811786582,-123.254211030064
+192,869-1,Gage Mini Mart,minimart,Walter H. Gage Residence - Common Block,,http://www.food.ubc.ca/place/gage-mini-mart/,, , ,SHHS,,AD-297,{277C0C99-EE49-4B34-827C-174CE384BFE2},49.2694359703647,-123.249617400599
+201,694,Blenz Coffee,cafe,MBA House,,http://blenz.com/,, , ,Non-UBC,,AD-53,{B1484B28-183B-48CF-B667-3F37E3EF0594},49.2540197224563,-123.235095722887
+202,81,Starbucks,cafe,UBC Bookstore,,http://www.food.ubc.ca/place/starbucks/,, , ,SHHS,,AD-116,{641CB5C9-2DA2-4081-B63D-23D4A2FA4E7C},49.2652674643861,-123.250631473033
+193,544,Hubbards,minimart,Place Vanier Residence,,http://www.food.ubc.ca/place/hubbards,, , ,SHHS,,AD-19,{D2C2E848-DBD3-4F4D-8628-6682A70EBEF4},49.2648806703784,-123.258818200224
+194,81,Corner Store,minimart,UBC Bookstore,,http://shop.bookstore.ubc.ca/c-471-corner-store.aspx,, , ,SHHS,,AD-116,{9AB5D224-316B-4F19-96D7-86A3A98601B1},49.2652127015035,-123.250784867075
+204,570,Cafe MOA,cafe,MOA (Museum of Anthropology),,http://www.food.ubc.ca/place/cafe-MOA/,, , ,SHHS,,AD-228,{73978A38-EFF2-41E6-832D-CEB28462A291},49.2690842804424,-123.259237899653
+205,529,Caffe Perugia,cafe,Life Sciences Centre,,http://www.food.ubc.ca/place/caffe-perugia,, , ,SHHS,,AD-219,{CBB66FCD-FEA3-4FFC-A207-0D09DA429278},49.2624221697946,-123.245952500438
+195,199,Mahony and Sons,restaurant,Strangway,,http://mahonyandsons.com/,, , ,Non-UBC,,AD-327,{36D17B2F-BD01-4A46-84F4-22E813017C61},49.2659582218586,-123.246762186652
+207,790,Daily Dose Cafe,cafe,Pharmaceutical Sciences Building,,http://www.food.ubc.ca/place/daily-dose/,, , ,SHHS,,AD-217,{62CD79E9-CD85-4A0E-BDB4-42885E209272},49.2626264907383,-123.242847359629
+209,516,Ike's Cafe,cafe,I.K. Barber Learning Centre,,http://www.food.ubc.ca/place/ikes/,, , ,SHHS,,AD-210,{1F8F2D1F-DBA4-4729-8D2B-FFD91E8CD938},49.2672017005492,-123.25276539585
+196,540-1,Magda's,minimart,Totem Park Residence Front Desk,,http://www.food.ubc.ca/place/magdas/,, , ,SHHS,,AD-223,{0CD77121-EAA6-4721-8C20-88E0B82DE56C},49.2578796099234,-123.252812100414
+210,473,IRC Snack Bar,cafe,Woodward - IRC,,http://www.food.ubc.ca/place/irc-snackbar/,, , ,SHHS,,AD-220,{75B7EF44-DD9C-4579-ADB9-4CE02091E640},49.2647956303628,-123.247298500315
+212,482,Law Cafe,cafe,"Allard Hall, Second floor",,http://www.food.ubc.ca/place/law-cafe/,, , ,SHHS,,AD-203,{A277DA9A-94F2-4049-8D15-D2C8992539DF},49.2698179702511,-123.253629199752
+214,225,Magma Cafe,cafe,Earth Sciences Building,,http://www.food.ubc.ca/place/magma-cafe/,, , ,SHHS,,AD-178,{C7283DDC-DB2C-4FB8-AE32-4949B7AA082E},49.2626468570992,-123.251833852001
+198,790,Starbucks,cafe,Student Union Building,,http://www.food.ubc.ca/place/starbucks/,, , ,SHHS,,AD-149,{69155220-BDD3-4C24-9C48-9BF85A825621},49.2673325826831,-123.249632495071
+216,904,Mercante,cafe,Ponderosa Commons,,http://www.food.ubc.ca/place/mercante/,, , ,SHHS,,AD-303,{766C53E1-C0B8-41AD-AADC-5AD7BF5AC9A3},49.2637626413802,-123.255015244231
+217,689,Murchie's Tea and Coffee,cafe,The Mews,,http://www.murchies.com/store/,, , ,Non-UBC,,AD-340,{1D34D75D-B399-4653-9376-50D095D5970C},49.2548355967236,-123.235734179414
+250,795,Pie R Squared,cafe,"AMS Nest, Level 1",,http://www.ams.ubc.ca/foodanddrink/piersquared/#,, , ,AMS,,AD-102,{CEC30D2A-F494-4C55-AB2F-C6A094F66D72},49.2666078368357,-123.249763560848
+,,Chapman Learning Commons,libraries,Irving K. Barber Learning Centre,,http://hours.library.ubc.ca/#view-chapman,,,,,,,{046919A1-9955-4364-A219-9C1158B4157B},49.2676270845059,-123.252929612104
+,,Green College,school/college,Green College,,http://www.greencollege.ubc.ca/,,,,,,,{0B09F5C4-9FE4-40C6-A8C1-9F2ABE9F923C},49.2709809647794,-123.256322863176
+,,St. John's College,school/college,St. John's College,,http://stjohns.ubc.ca/,,,,,,,{BF33EF60-D283-44B0-AEF4-1CD0ABA335AB},49.262808439527,-123.256264164302
+,,Palate,cafe,Nest,,http://www.ams.ubc.ca/foodanddrink/palate/,,,,,,,{925385DA-D594-4F74-990C-57769D6F1E25},49.2666139668769,-123.249764067383
+182,,A&W,cafe,University Village Pharmacy,,http://www.aw.ca/,,,,UEL,Non-UBC,AD-323,{10606988-338D-4765-9C09-E02065DEFD45},49.2664700695944,-123.243436667678
+,,Admissions (Undergraduate) ,campus_services,Brock Hall,,https://www.grad.ubc.ca,,,,,,,{F90F38F9-CDF0-49A3-A0E0-556FCCDBA712},49.2686318354029,-123.252197351951
+41,852,University Fire Hall #10,campus_services,Public Safety,,http://www.vanffcpr.org/location/location.php?id=10,,Non Emergency Line (604) 665-6000,,Non-UBC,,AD-286,{517CF01B-E1CA-4737-B5B4-CE810B8A4296},49.2590905720413,-123.237775014192
+221,790,Subway,cafe,"Student Union Building (Sub), Ground Floor",,http://www.food.ubc.ca/place/subway/,, , ,SHHS,,AD-271,{B39DD64B-9334-4238-B69F-E6882B20742F},49.2673931802782,-123.249748830904
+223,490,Qoola,cafe,David Lam,,http://www.food.ubc.ca/place/qoola/,, , ,SHHS,,AD-204,{EE2653BD-5B43-4207-9AF1-678D1C716C73},49.265811786582,-123.254211030064
+224,165,Reboot Cafe,cafe,ICICS/CS,,http://www.food.ubc.ca/place/reboot-cafe/,, , ,SHHS,,AD-130,{EDF26827-8BB8-4507-8EB6-4CFB18E9CACB},49.2609325462409,-123.248604553471
+249,795,Grand Noodle Emporium,cafe,"AMS Nest, Lower Level",,http://www.ams.ubc.ca/foodanddrink/grandnoodle/,, , ,AMS,,AD-102,{FBA5A766-9645-4366-8655-4AFC20BAAC70},49.2666078368357,-123.249763560848
+225,23,Sauder Exchange Cafe,cafe,Henry Angus,,http://www.food.ubc.ca/place/sauder-exchange-cafe/,, , ,SHHS,,AD-98,{FC9DC745-1D37-4095-BB4C-711FEE8C431A},49.2650384195528,-123.253526900493
+226,313,Starbucks,cafe,Kaiser,,http://www.food.ubc.ca/place/starbucks/,, , ,SHHS,,AD-160,{1CDFC81E-DC77-47C0-8D96-91FA0D3C41BC},49.262135309698,-123.250175199884
+227,606,Starbucks,cafe,TEF3,,http://www.food.ubc.ca/place/starbucks/,, , ,SHHS,,AD-238,{8670F50D-FF34-41D7-A529-B2F639640719},49.261308099127,-123.246595335599
+228,121-1,Stir It Up,cafe,Buchanan Building,,http://www.food.ubc.ca/place/stir-it-up-cafe/,, , ,SHHS,,AD-123,{BD0F7862-7C28-43D6-B899-30C7D1262414},49.2683574571169,-123.254740910264
+229,633,The Loop Cafe,cafe,"Centre for Interactive Research in Sustainability (CIRS), Ground Floor",,http://www.food.ubc.ca/place/loop-cafe/,, , ,SHHS,,AD-243,{7F3EFA20-E015-46E3-97AB-CA39B63EE1F9},49.2619501904151,-123.253149199594
+231,490,Tim Hortons,cafe,David Lam,,http://www.food.ubc.ca/place/tim-hortons/,, , ,SHHS,,AD-204,{4C926368-F5E6-45C3-864D-84A6EA517305},49.265811786582,-123.254211030064
+232,353,Tim Hortons,cafe,Forest Sciences Centre,,http://www.food.ubc.ca/place/tim-hortons/,, , ,SHHS,,AD-167,{A6251A5C-3757-4CF7-BAA6-6612FE473B65},49.2604735997352,-123.248813700112
+233,694,Togo Sushi,cafe,MBA House,,http://www.togosushi.ca/ubc.html,, , ,Non-UBC,,AD-336,{DE171756-3A00-40F4-8CF8-F66FD37A466B},49.2539738990147,-123.235385063494
+235,490,Triple O's,cafe,David Lam,,http://www.food.ubc.ca/place/triple-o/,, , ,SHHS,,AD-204,{2199A000-5952-4A9C-8FF9-856840AE3380},49.265811786582,-123.254211030064
+241,795,The Pit,restaurant,"AMS Nest, Lower Level",,http://www.the-pit.ca/,, , ,AMS,,AD-273,{774ABD4E-B8BD-4443-BD30-822632CA438E},49.2667615412836,-123.250105116844
+242,795,Upper Case Cafe,cafe,"AMS Nest, Level 1",,http://www.ams.ubc.ca/foodanddrink/uppercase/,, , ,AMS,,AD-102,{351A850E-AE44-44A9-B9B8-8E22752A92A7},49.2666078368357,-123.249763560848
+243,795,Lower Case Cafe,cafe,"AMS Nest, Lower Level",,http://www.ams.ubc.ca/foodanddrink/lowercase/,, , ,AMS,,AD-102,{895E20CE-AFD0-4D43-A65E-F25B8DD0C87E},49.2666078368357,-123.249763560848
+245,795,Flipside,cafe,"AMS Nest, Lower Level",,http://www.ams.ubc.ca/foodanddrink/flipside/,, , ,AMS,,AD-102,{D141C79E-B510-4581-A47A-EEF7475B6983},49.2666078368357,-123.249763560848
+246,795,Liquid Nutrition,cafe,"AMS Nest, Level 1",,http://www.liquidnutrition.com/,, , ,Non-UBC,,AD-102,{824E5134-A7B9-4CEE-A2C3-2ED9C4490EBC},49.2666078368357,-123.249763560848
+247,795,Peko Peko,cafe,"AMS Nest, Level 1",,http://www.ams.ubc.ca/foodanddrink/pekopeko/,, , ,AMS,,AD-102,{A4AE5A21-42A6-44FF-99E4-4B1A1B8D26D3},49.2666078368357,-123.249763560848
+248,795,Qoola,cafe,"AMS Nest, Level 1",,http://www.food.ubc.ca/place/qoola/,, , ,Non-UBC,,AD-102,{B0077BC0-DAF7-4E59-9670-CD7E11A5C301},49.2666078368357,-123.249763560848
+91,199,Scotia Bank,bank,David Strangway,,"http://www.scotiabank.com/ca/en/0,,2,00.html",,,,Non-UBC,,AD-325,{3DD1447B-6FB4-4B42-A9D6-D21BAA55B84C},49.2660498398454,-123.246144824591
+,,Student Recreaction Centre (SRC),athletics,SRC,,,,,,,,,{5D0243A8-DD1D-4B62-9142-759CDB570948},49.2682555915221,-123.249231011893
+95,434,Gerald McGavin UBC Rugby Centre,athletics,Gerald McGavin UBC Rugby Centre,,http://sportfacilities.ubc.ca/gmrc/,,,,Athletics,,AD-185,{94B23820-95EE-402E-BD0D-3D192D39BCF8},49.2595774817931,-123.24125145744
+,,University Village various venues,retail,University Village,,,,,,,,,{02883A53-BD2C-4462-A972-989656D89591},49.266260700548,-123.242792042141
+,,Wesbrook Village various venues,retail,Wesbrook Village,,,,,,,,,{D37ABCC4-D78E-439C-94EB-7A6272EBC1D2},49.254417695195,-123.235264333238
+11,593-1,Running Room,retail,"Tapestry At Westbrook Village, UBC - North Building",,http://www.runningroom.com/hm/inside.php?id=4442,,Phone (604) 221-1685,M-F: 9.30am - 9pm; Sat: 9.30am - 6pm; Sun: 8.30am - 5pm,Non-UBC,,AD-358,{E551A27C-D0DA-4AE8-9848-546D23FBF916},49.2549509085061,-123.235399695678
+12,686,RBC,bank,Wesbrook Village - Office / Bank,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/686.jpg,http://www.rbcroyalbank.com/personal.html,,,,Non-UBC,,AD-230,{A74214FB-8608-4B48-901D-52122C031EE9},49.2550085181848,-123.23598451126
+37,463,UBC Hospital,medical,Koerner Pavilion,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/463.jpg,http://www.vch.ca/locations-and-services/find-locations/?site_id=164,,(604) 822-7662,Mon - Sun: 8am - 10pm,VCH,,AD-197,{EF2FB1EF-4347-4595-B45F-F217AA8F1EC1},49.2641837250472,-123.246020738895
+38,852,RCMP,campus_services,Public Safety,http://ubyssey.ca/wp-content/uploads/2011/06/wpid-RCMP-office_20101003_Colin-Chia.jpg,http://university.bc.rcmp-grc.gc.ca/,,Non Emergency (604) 224-1322,,Non-UBC,,AD-286,{AE781FC9-5619-430F-B137-8C81E389CCA4},49.2589283321803,-123.238062993281
+76,697,Wesbrook Community Centre,community_centre,Wesbrook Community Centre,,http://planning.ubc.ca/vancouver/projects-consultations/under-construction/neighbourhood-lands/wesbrook-community-centre,,,,UNA,,AD-57,{C47BA330-F7D1-42DD-B4E9-6668856B5F54},49.2540137282375,-123.237573557444
+77,627,Old Barn Community Centre,community_centre,Old Barn Community Centre,,http://www.myuna.ca/oldbarn/,,,,UNA,,AD-43,{3B3ECDFD-7E33-4DDD-A853-B56B265B39EF},49.2588985845136,-123.248292878535
+80,817-4,St. Andrew's Hall,worship,St. Andrew's Hall,,http://www.standrews.edu/,,,,Non-UBC,,AD-304,{F9ADBCBE-A410-432D-BE83-D4E0A80F06D1},49.2703568847939,-123.25189641842
+83,418,Green College,housing_student,Green College,,http://www.greencollege.ubc.ca/,,,,SHHS,,AD-5,{A79B41E9-F535-42C1-95A1-BA6786FA4CF0},49.2709220594641,-123.256407285595
+85,822-1,St. John's College,housing_student,St. John's College,,http://stjohns.ubc.ca/,,,,SHHS,,AD-278,{209E58E7-DDA6-4342-B16E-2ED81044D208},49.2627528557408,-123.256231146931
+86,377-1,Marine Drive Residence Front Desk,housing_student,Marine Drive Residence,,http://vancouver.housing.ubc.ca/residences/marine-drive-residence/,,,,SHHS,,AD-172,{EB8C67A2-E23C-43B3-8DC6-43D06AE7DBE0},49.2614406042969,-123.256758737499
+88,783,Thunderbird Residence  Front Desk,housing_student,Thunderbird Residence,,http://vancouver.housing.ubc.ca/residences/thunderbird/,,,,SHHS,,AD-70,{FE1DF49F-B252-405F-869B-3A6E02A6FB54},49.2594401954116,-123.249315660043
+90,011,Acadia Park Residence Front Desk,housing_student,Acadia Park Residence,,http://vancouver.housing.ubc.ca/residences/acadia-park/,,,,SHHS,,AD-91,{C55E547A-CFE1-4D24-BE48-00BA6D72A826},49.2625191105804,-123.237232474332
+98,593-2,Wesbrook Village Welcome Centre,attractions,Tapestry,,http://www.wesbrookvillage.com/,,,,UBCPT,,AD-236,{E31DECE1-7FFE-446C-A79E-6796FF4723F4},49.2541616981901,-123.2348075579
+121,694,Mozart School of Music,commercial_services,MBA House,,http://www.msmvan.com/,,,,Non-UBC,,AD-339,{99736449-01BB-4BB5-B654-76F0D9F54120},49.2537124546766,-123.235244509224
+123,690,Hot Box Yoga,commercial_services,Wesbrook Professional Building,,http://www.thehotboxyoga.com/,,,,Non-UBC,,AD-277,{F509A66D-7375-43D8-9C35-6E56C1F45092},49.2544332952646,-123.236364521999
+101,199,Nobel Biocare Oral Health Centre,commercial_services,David Strangway,,http://www.dentistry.ubc.ca/treatment/about/,,,,UBC,,AD-323,{7E82E9EC-982B-4A52-B308-68A24AE0BF66},49.2659071282856,-123.245575747537
+108,,Nobel Park Playground + Baseball Field,park,,,http://wesbrook.app2.thoughtshop.com/posts/nobel-park#.VYm4Wfm4S70,,,,UNA,,AD-310,{12781C23-D56C-4FE9-8B99-3D1D4E02DE14},49.2502835773542,-123.23419505221
+124,593-1,Insure BC,commercial_services,Tapestry,,http://www.insurebc.ca/,,,,Non-UBC,,AD-359,{FE986EC1-A152-4132-A4F5-204DD0E33304},49.2548419755911,-123.235361625725
+125,593-1,éliane Hair & Spa,commercial_services,Tapestry,,http://www.elianehairspa.ca/,,,,Non-UBC,,AD-235,{65BFE2A5-8DC8-4C7E-969C-D003818037FF},49.2545729806168,-123.235106194389
+109,,Mundell Park Playground,park,,,http://wesbrook.app2.thoughtshop.com/posts/mundell-park#.VYm4XPm4S70,,,,UNA,,AD-62,{9F951E22-FB3C-4CC4-8AAC-43C6DD9EC002},49.2520744305981,-123.236557574231
+126,689,Kabro Salon,commercial_services,Mews,,http://www.kabrosalon.com/,,,,Non-UBC,,AD-342,{83F1DE48-A5E2-4262-8AD7-6BBD33B4C1D6},49.2546890902822,-123.235616122326
+127,593-1,Wesbrook Village Dental Ctr,commercial_services,Tapestry,,http://www.wesbrookvillagedental.com/,,,,Non-UBC,,AD-360,{14A428CD-6811-44A2-AF8E-1FA3D84DF3A6},49.2547580817449,-123.235293098624
+112,,Khorana Park Playground,park,,,http://wesbrook.app2.thoughtshop.com/posts/khorana-park#.VYm4W_m4S70,,,,UNA,,AD-33,{5C219840-C9FC-4A90-BEBF-203319E15ABB},49.2553529096715,-123.232272643476
+128,689,Wesbrook Eyecare,retail,Mews,,http://wesbrookeyecare.com/,,,,Non-UBC,,AD-346,{D247F068-3F9F-4358-9660-61F14DF96E47},49.2544848397315,-123.235450846838
+113,795,Merit Travel,commercial_services,AMS Nest,,http://www.merit.ca/,,,,Non-UBC,,AD-273,{DF7FA7DE-619B-4874-ADAA-0B444627EB75},49.2666864353001,-123.249949450261
+130,689,University Barbershop,commercial_services,Mews,,http://www.theuniversitybarbershop.com/,,,,Non-UBC,,AD-343,{949E08A9-20F8-4089-8FA2-AD99511280A5},49.2546408255651,-123.235579910167
+115,795,On the Fringe,commercial_services,AMS Nest,,http://www.onthefringehairdesign.com/,,,,Non-UBC,,AD-273,{4B1CA008-DD96-4651-A81C-C8CD854DFA50},49.2666790383957,-123.249938288671
+131,689,Careville Health Clinic,medical,Mews,,http://www.carevillehealth.com/,,,,Non-UBC,,AD-341,{D0F444FF-3356-4489-B983-BA3B54950B7B},49.2547802887452,-123.235681669621
+117,795,Wireless Wave,retail,AMS Nest,,http://www.wirelesswave.ca/about-wirelesswave/,,,,Non-UBC,,AD-273,{BEED113E-D94B-47D8-9C86-9D5EAF739B68},49.2666769813598,-123.249944032142
+135,687,Save-On-Foods,grocery,Save-On-Foods / Granite Terrace Apartments,,http://www.saveonfoods.com/store/ubc,, , ,Non-UBC,,AD-46,{6BAC274F-E9EB-499D-95EA-A01CFBACAB0F},49.2547584812316,-123.23657531036
+120,689,More Bikes,retail,Mews,,http://www.morebikes.ca/,,,,Non-UBC,,AD-353,{2A59EC0B-1C5D-4A65-BB45-4153D21B1EBF},49.2544723023129,-123.235883389856
+136,795,Grocery Checkout,grocery,"AMS Nest, Level 1",,https://www.grocerycheckout.com/default.aspx,, , ,Non-UBC,,AD-273,{B6D4F394-A88B-4804-B3C5-70E716D5E07D},49.2663384807268,-123.249566189154
+141,,Hannah and Samuel Flower Shop,commercial_services,University Village Pharmacy,,http://www.hsflowers.ca/,,,,UEL,Non-UBC,AD-135,{C4C88DB6-B323-47CC-ADEA-A8F6830BF5CE},49.2662262431307,-123.243635760077
+142,,CIBC,bank,University Village Pharmacy,,http://www.cibc.com/,,,,UEL,Non-UBC,AD-323,{493E486C-6B86-45D3-96D9-E62C8E535B3A},49.266410174379,-123.243781248229
+144,,Copiesmart,commercial_services,University Plaza,,http://www.copiesmart.com/,,,,UEL,Non-UBC,AD-323,{6DF4919C-09C8-4F4E-9D56-0407E3FE6F58},49.2666580282356,-123.242861704716
+146,,Staples,commercial_services,University Village,,http://www.staples.ca/,,,,UEL,Non-UBC,AD-816,{EF1FBA68-6F70-4C72-ADDB-3D6B9D208395},49.2662602365141,-123.242196664512
+138,690,BC Liqour Store,retail,Wesbrook Professional Centre,,http://www.bcliquorstores.com/store/192,,,,Non-UBC,,AD-277,{CB3B5609-3F32-47AD-BC81-FB45EE8AA4AD},49.2545292307136,-123.236227530062
+147,,Gold's Gym,commercial_services,University Village,,http://goldsgymbc.ca/,,,,UEL,Non-UBC,AD-816,{7E84A6D0-91C6-42FF-9691-9DABA87A7288},49.2663197479528,-123.242307772507
+149,,House of Vision,retail,University Village,,http://houseofvisionoptical.com/,,,,UEL,Non-UBC,AD-816,{059C135F-A14C-4A3A-AB1E-7BCBBBB791A5},49.2660002257806,-123.242307612629
+150,,Pacific Spirit Dental,medical,University Village,,http://www.pacificspiritdental.ca/,,,,UEL,Non-UBC,AD-135,{BE35F8B6-3782-4B67-90DF-55FA7EFF0FD2},49.2659548899067,-123.242825205889
+140,,Bank of Montreal,bank,University Village,,https://www.bmo.com/main/personal,,,,UEL,Non-UBC,AD-135,{CF087033-6048-4D14-94FA-726C925F1C66},49.2659649250726,-123.243404847342
+153,,Little Mountain Learning Academy ,commercial_services,University Village,,http://www.lmacademics.com/,,,,UEL,Non-UBC,AD-135,{4EC2FAF0-4E75-4A7F-A4FC-9F304F27357B},49.2657975798515,-123.243049374863
+154,,Cellworks Communication Inc.,commercial_services,University Village,,http://www.cellworks.ca/,,,,UEL,Non-UBC,AD-135,{E6A1289D-9C4B-441E-9978-E98988B92573},49.2661714154199,-123.242926636982
+156,,Discount Textbooks,retail,University Village,,http://www.discounttextbooks.ca/,,,,UEL,Non-UBC,AD-135,{0AD00C10-16C7-4685-9205-894B8B1863C5},49.2659170066124,-123.243061334306
+157,904,Ponderosa Commons Residence Front Desk,housing_student,Ponderosa Commons,,http://vancouver.housing.ubc.ca/residences/ponderosa-commons/,,,,SHHS,,AD-258,{B7A6401F-7E39-4FCA-9730-C33ED6D07442},49.2642301713954,-123.255454179141
+159,,Bubble Waffle Cafe,cafe,University Plaza,,http://www.bubblewafflecafe.com/,,,,UEL,Non-UBC,AD-323,{53615EDF-2F18-41C2-A7AD-4A90F07DFBF0},49.266681077224,-123.242692767556
+161,,One More Sushi ,restaurant,University Village,,http://onemoresushi.ca/,,,,UEL,Non-UBC,AD-135,{8C049B70-19B8-43B6-A883-E0AAE82DC3A0},49.2660243175676,-123.242526737341
+162,,Subway,cafe,University Village,,http://www.food.ubc.ca/place/subway/,,,,UEL,Non-UBC,AD-135,{7C418D88-1A8C-4092-8E7B-B31B71A4A35B},49.26589569003,-123.243202698689
+163,,5 Tastes,restaurant,University Village,,http://5tastes.ca/,,,,UEL,Non-UBC,AD-135,{D4D09029-EE26-4868-ACEE-F2C2F4538D45},49.2662215015513,-123.242951928299
+164,,Booster Juice,cafe,University Village,,http://boosterjuice.com/,,,,UEL,Non-UBC,AD-135,{93F93928-E967-4765-A341-FE664093F64D},49.2660745841008,-123.242834903663
+165,,Only U Cafe,cafe,University Village,,http://www.facebook.com/pages/Only-U-Cafe/431021496919221,,,,UEL,Non-UBC,AD-816,{E2B7C0C2-030F-4AAB-A892-E692EDF8A2FC},49.2659773725094,-123.242380536344
+166,,Mini Super,minimart,University Plaza,,http://www.facebook.com/pages/Mini-Super-at-UBC/249485448568472?sk=timeline&amp;ref=page_internal,,,,UEL,Non-UBC,AD-323,{76FA900D-8199-4793-AE6A-B85CC1A8244B},49.2666446610593,-123.242674758308
+172,690,Chef Hung Taiwanese Beef Noodle,restaurant,Wesbrook Professional Centre,,http://www.chefhungnoodle.com/eng/,, , ,Non-UBC,,AD-50,{DAFF28AF-A336-408F-9C9A-F4D57C40A329},49.2543222123371,-123.236284896447
+167,689,BierCraft,restaurant,The Mews,,http://biercraft.com/wesbrook-at-ubc/,, , ,Non-UBC,,AD-354,{1AC5ADE1-A030-437E-9581-BE1E84FA3427},49.2542425787709,-123.235724176614
+174,,McDonald's,cafe,University Plaza,,http://www.mcdonalds.ca/ca/en.html,,,,UEL,Non-UBC,AD-323,{5FA41F61-ED81-4FBF-83DB-4CEC6FBADFEC},49.2667052752948,-123.242511525403
+168,689,Dough Girls Baking,cafe,The Mews,,http://www.doughgirlsbakeshop.com/,, ,<Null>,Non-UBC,,AD-351,{50A5757E-D753-40F4-8394-2F4C1FD44D6B},49.2545602769005,-123.235900842422
+176,,Red Burrito,cafe,University Village,,http://www.redburrito.ca/,,,,UEL,Non-UBC,AD-135,{49D75F3B-66AC-4E99-B712-90FC04CD4F6F},49.2657125016863,-123.243211220692
+177,,Pearl Fever Tea House ,cafe,University Village,,http://www.pearlfever.ca/,,,,UEL,Non-UBC,AD-135,{FC1391E4-9166-489D-8D82-AF838E2AC102},49.265869917897,-123.243176178364
+169,593-1,Jugo Juice,cafe,Tapestry,,http://www.jugojuice.com/en/locations/british-columbia,, ,<Null>,Non-UBC,,AD-361,{C23448B7-5A9E-4CEB-8357-2EBBA2363F3C},49.2544702434261,-123.235057998011
+178,,Starbucks,cafe,University Village,,http://www.food.ubc.ca/place/starbucks/,,,,UEL,Non-UBC,AD-135,{D91A8AEC-BED8-420A-9D4F-635C335F50F0},49.2658502191965,-123.242749304992
+170,593-1,Menchie's Frozen Yogurt,cafe,Tapestry,,http://www.menchies.ca/,, ,<Null>,Non-UBC,,AD-362,{680D0FF6-FE7E-4DF2-9679-74DD6C917015},49.2543703459513,-123.234977987306
+179,,Pita Pit,cafe,University Village,,http://pitapit.ca/,,,,UEL,Non-UBC,AD-816,{A7AB12B4-37E7-4917-86AA-57B9F538671C},49.2660902987569,-123.242124237454
+181,,Pizza Garden,cafe,University Village Pharmacy,,http://www.pizzagarden.ca/,,,,UEL,Non-UBC,AD-323,{812B771F-0E33-47C6-9B22-250DDA7BE667},49.2664647766981,-123.243496912602
+171,627,Bean Around The World,cafe,Old Barn Community Centre,,http://batw.ca/,, ,<Null>,Non-UBC,,AD-43,{80129C81-8E09-44AC-A4D5-F53DAF052B08},49.2588539261912,-123.248047770581
+183,,Blenz,cafe,University Village Pharmacy,,http://blenz.com/,,,,UEL,Non-UBC,AD-323,{7778E22F-8FE5-4A36-ACA0-82F831B3F8AD},49.2664558197625,-123.243576482044
+184,,Vera's Burger Shack,cafe,University Village,,http://www.verasburgershack.com/,,,,UEL,Non-UBC,AD-135,{AE01C99A-5164-4347-9DD0-4E2F3AC64E4D},49.2657986098168,-123.243270773213
+185,344,Sage Bistro,restaurant,Leon and Thea Koerner University Centre,,http://www.food.ubc.ca/place/sage/,, , ,SHHS,,AD-166,{FB1FEAA7-6F9B-4677-A076-F04AD7DFD7B4},49.2687061690439,-123.257040585531
+186,344,Ideas Lunch & Wine Bar,restaurant,"Peter Wall Institute for Advanced Studies, University Centre",,http://www.food.ubc.ca/place/ideas-lunch-wine-bar/,, , ,SHHS,,AD-166,{86C2DD07-FE4D-4033-B3D9-4C54F49D2514},49.2689033934431,-123.256783720736
+187,408,Koerner's Pub,restaurant,Thea Koerner Graduate Centre,,http://koerners.ca/,, , ,Non-UBC,,AD-179,{1F611EC5-2D0C-4B48-ACAC-3695B107C180},49.2684631515985,-123.258104319565
+188,377-1,The Point Grill,restaurant,Marine Drive Residence,,http://www.food.ubc.ca/place/pointgrill/,, , ,SHHS,,AD-248,{6B8043C5-EBF6-4039-8BBD-FCA09764F4AD},49.2617284342738,-123.255456091397
+189,408,Seedlings,restaurant,Thea Koerner Graduate Centre,,http://www.ubcsprouts.ca/initiatives/seedlings/,, , ,Non-UBC,,AD-179,{8D2CC77B-A071-44AB-894F-AC4766F4160F},49.268547689903,-123.257697100604
+190,540-1,Totem Park Dining Room,restaurant,Totem Park Residence,,http://www.food.ubc.ca/place/totem-park-dining-room/,, , ,SHHS,,AD-223,{AB57A125-F41B-45E6-8A41-B0FAA98C1575},49.2578796099234,-123.252812100414
