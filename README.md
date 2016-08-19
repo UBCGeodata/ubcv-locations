@@ -3,6 +3,14 @@ ubcv-locations
 
 Locations on UBC Vancouver Campus.
 
+
+Datasets
+--------
+
+* Data for Services, Addresses, Main Buildings Entrances, and Outdoor Locations are provided.
+* Anything with an address will have an ADD-ID entry which can be joined to the Address dataset.
+
+
 Files Provided
 --------------
 * Provided in geojson, csv, and file geodatabase formats.
