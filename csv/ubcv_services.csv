@@ -1,4 +1,4 @@
-SERVICE_ID,BL_ID,NAME,SERVICE_TYPE,BL_NAME,PHOTOURL,URL,HTML,CONTACT,HOURS,MANAGE,STATUS,ADD_ID,GLOBALID,LAT,LONG
+﻿SERVICE_ID,BL_ID,NAME,SERVICE_TYPE,BL_NAME,PHOTOURL,URL,HTML,CONTACT,HOURS,MANAGE,STATUS,ADD_ID,GLOBALID,LAT,LONG
 50,570,Museum of Anthropology (MOA),attractions,Museum of Anthropology,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/570.jpg,http://www.moa.ubc.ca,,info@moa.ubc.ca</br>Phone: (604) 822-2974,Mon: Closed; Tues: 10am - 9pm; Wed - Sun: 10am - 5pm,UBC,,AD-228,{7EBA8F9C-E443-4D6A-9CFF-741EC0EBECF7},49.2694117399113,-123.259042711351
 51,046,Asian Centre,attractions,Asian Centre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/046.jpg,http://www.asia.ubc.ca,,asian.studies@ubc.ca</br>Phone: (604) 822-0019,,UBC,,AD-106,{BF7FBD9F-C9A8-4A4F-9344-FE3CE37592D2},49.2667439500749,-123.25872648235
 52,376,Frederic Wood Theatre,attractions,Frederic Wood Theatre,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/376.jpg,http://www.theatre.ubc.ca/index.shtml,,thtr.sec@ubc.ca</br>Phone: (604) 822-3880,,UBC,,AD-171,{16A4DFBE-07AA-4EBE-B5E1-F0A2CA77BB8B},49.2681111675154,-123.256838289076
@@ -316,7 +316,7 @@ SERVICE_ID,BL_ID,NAME,SERVICE_TYPE,BL_NAME,PHOTOURL,URL,HTML,CONTACT,HOURS,MANAG
 101,199,Nobel Biocare Oral Health Centre,commercial_services,David Strangway,,http://www.dentistry.ubc.ca/treatment/about/,,,,UBC,,AD-323,{7E82E9EC-982B-4A52-B308-68A24AE0BF66},49.2659071282856,-123.245575747537
 108,,Nobel Park Playground + Baseball Field,park,,,http://wesbrook.app2.thoughtshop.com/posts/nobel-park#.VYm4Wfm4S70,,,,UNA,,AD-310,{12781C23-D56C-4FE9-8B99-3D1D4E02DE14},49.2502835773542,-123.23419505221
 124,593-1,Insure BC,commercial_services,Tapestry,,http://www.insurebc.ca/,,,,Non-UBC,,AD-359,{FE986EC1-A152-4132-A4F5-204DD0E33304},49.2548419755911,-123.235361625725
-125,593-1,�liane Hair & Spa,commercial_services,Tapestry,,http://www.elianehairspa.ca/,,,,Non-UBC,,AD-235,{65BFE2A5-8DC8-4C7E-969C-D003818037FF},49.2545729806168,-123.235106194389
+125,593-1,éliane Hair & Spa,commercial_services,Tapestry,,http://www.elianehairspa.ca/,,,,Non-UBC,,AD-235,{65BFE2A5-8DC8-4C7E-969C-D003818037FF},49.2545729806168,-123.235106194389
 109,,Mundell Park Playground,park,,,http://wesbrook.app2.thoughtshop.com/posts/mundell-park#.VYm4XPm4S70,,,,UNA,,AD-62,{9F951E22-FB3C-4CC4-8AAC-43C6DD9EC002},49.2520744305981,-123.236557574231
 126,689,Kabro Salon,commercial_services,Mews,,http://www.kabrosalon.com/,,,,Non-UBC,,AD-342,{83F1DE48-A5E2-4262-8AD7-6BBD33B4C1D6},49.2546890902822,-123.235616122326
 127,593-1,Wesbrook Village Dental Ctr,commercial_services,Tapestry,,http://www.wesbrookvillagedental.com/,,,,Non-UBC,,AD-360,{14A428CD-6811-44A2-AF8E-1FA3D84DF3A6},49.2547580817449,-123.235293098624
