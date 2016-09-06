@@ -9,6 +9,7 @@ Datasets
 
 * Data for Services, Addresses, Main Buildings Entrances, and Outdoor Locations are provided.
 * Anything with an address will have an ADD-ID entry which can be joined to the Address dataset.
+* Current Summer 2016.
 
 
 Files Provided
