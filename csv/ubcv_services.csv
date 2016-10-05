@@ -57,7 +57,6 @@
 8,234,Education Library,libraries,,,http://education.library.ubc.ca/,,,,Library,,AD-103,{6DFCC07F-EC7D-4E86-BDD8-DABC965FF7F5},49.2637956869561,-123.253356496337
 9,515-1,Walter C. Koerner Library,libraries,,,http://www.library.ubc.ca/koerner,,,,Library,,AD-209,{7BD51A78-752B-4154-8840-97BAC2076CB4},49.2666545082328,-123.255131414984
 10,516,Irving K Barber Learning Centre,libraries,,,http://www.ikebarberlearningcentre.ubc.ca/,,,,Library,,AD-210,{A5B99026-3D59-47A5-B912-9D206649006C},49.2675562603686,-123.252705311425
-13,790,The Bike Kitchen,commercial_services,,,http://thebikekitchen.com/,,,,AMS,,AD-271,{E4A5DC5E-9D86-41BF-B54A-1A1954F4FCEB},49.2677034191205,-123.250234679748
 14,081,UBC Bookstore,retail,,,http://www.bookstore.ubc.ca/home,,,,UBC,,AD-116,{A6AFE9E3-DA71-415E-8E79-5C65B9839FBF},49.2653012541877,-123.250536824921
 15,199,Shoppers Drug Mart,pharmacy,,,www.shoppersdrugmart.ca/,,,,Non-UBC,,AD-324,{51FD2647-B8EA-43AC-8BF2-12C223C92715},49.2660630857487,-123.245823076821
 70,868,Doug Mitchell Thunderbird Sports Centre,athletics,,,http://sportfacilities.ubc.ca/dmc/,,,,Athletics,,AD-295,{544B3BB5-D634-42DF-92E2-D04C6BF379DC},49.2603456728779,-123.241978781893
@@ -98,8 +97,6 @@
 197,790,Sprouts,minimart,,,,,,,Non-UBC,,AD-149,{BFE4B8C8-0EE5-49C1-B0DB-0D278BF0A450},49.2673740558951,-123.249514690738
 203,199,Boulevard Coffee,cafe,,,,,,,Non-UBC,,AD-326,{7F93F0FB-6D9A-437A-9D61-13382846F176},49.2660069084128,-123.246465510267
 206,463,Corner Cafe,cafe,,,,,,,Non-UBC,,AD-197,{0618732E-0567-4359-A375-74D70D78C4B8},49.2646477913172,-123.246102047761
-208,841,Great Dane Coffee,cafe,,,,,,,Non-UBC,,AD-81,{D971EC27-A78C-4803-8582-396348E41487},49.2700876799633,-123.250590799505
-211,790,Koya Japan,cafe,,,,,,,SHHS,,AD-271,{5DE14AD2-48D2-4C2C-942B-AADE0F54BB5D},49.2673931802782,-123.249748830904
 213,797,Loafe Cafe,cafe,,,,,,,Non-UBC,,AD-274,{B586ACF4-E9CA-42B7-95CA-AAAEE29CB9FE},49.2658364267619,-123.250054060316
 215,790,Manchu Wok,cafe,,,,,,,SHHS,,AD-271,{92138093-0AB1-49C1-B25B-720465D42F12},49.2673931802782,-123.249748830904
 218,232,Neville's,cafe,,,,,,,SHHS,,AD-151,{E2ADFD64-7395-40A8-986A-DBFE7979B6F3},49.2641005102557,-123.253011399983
@@ -131,7 +128,6 @@
 ,,UBC Parking Services,campus_services,,,,,,,,,,{260EA451-BCAE-4817-B252-BC9BF3767F75},49.2648779824698,-123.250699029399
 ,,Hatch Arth Gallery,attractions,,,,,,,,,,{5DD76C3C-56ED-4008-B51E-80C376757E34},49.2665642053626,-123.249883467677
 ,,Royal Bank Cinema,attractions,,,,,,,,,,{F7885221-D6D6-43A9-98B8-E420D1F6E20D},49.269781481019,-123.255070913077
-263,528,Rose Garden Parkade,parkade,,,,,,,Parking,,AD-218,{45C45116-13D7-415B-BABC-F6602DCDACFB},49.269543908438,-123.256696909225
 ,,Telus Studio Theatre,attractions,,,,,,,,,,{2A7C9501-DD59-404B-B396-AB4F7850C559},49.269781481019,-123.255070913077
 ,,Applied Science Kaiser (Fred) Building,faculty,,,,,,,,,,{D473313D-F6C3-4565-A3F5-03BA11BE0EF7},49.2623439951618,-123.250075895414
 ,,Arts - Dean's Office ,faculty,,,,,,,,,,{E7E74458-6A93-4E01-BFD3-7FAA348B4EB2},49.268351138118,-123.254921527087
@@ -152,11 +148,6 @@
 ,,UBC Parking Impound Lot,campus_services,,,,,,,,,,{5C1B3484-DBD6-420C-BFA4-FB4D916EE845},49.2604571725167,-123.246911396964
 ,,AHVA Gallery,attractions,,,,,,,,,,{7CBA071A-A88B-4BDA-BC24-4E72F971B722},49.2638660917631,-123.254562874012
 ,,Education,faculty,,,,,,,,,,{1424F265-39DD-47E6-99F6-993AA6AC2488},49.2639195846296,-123.252552717888
-264,792,North Parkade,parkade,,,,,,,Parking,,AD-272,{3615A4E3-190B-43E6-AD50-77772F24C756},49.2688059696241,-123.250490570653
-266,467,Health Sciences Parkade,parkade,,,,,,,Parking,,AD-199,{EFA86C39-4B54-4A61-A6AE-DC19660C7758},49.263026734782,-123.24742409684
-268,900,West Parkade,parkade,,,,,,,Parking,,AD-301,{ECCD4504-E867-4F5E-8F8C-FA31C0069B7C},49.2628943630006,-123.255613518597
-265,052,Fraser River Parkade,parkade,,,,,,,Parking,,AD-109,{C00156A6-19C8-4FA7-90A0-52DE8CBF1EE9},49.266280269011,-123.258367660774
-268,785,Thunderbird Stadium Parking,parkade,,,,,,,Parking,,,{CB525073-C6B8-49AD-BA81-65F446BBFB58},49.2548976478969,-123.244231055851
 63,568,Morris and Helen Belkin Art Gallery,attractions,,,http://belkin.ubc.ca,,,,UBC,,AD-226,{EAEE213A-34E8-4577-A705-252CC9D122E4},49.2681364636526,-123.256165752554
 64,774,Birdcoop Fitness Center,athletics,,,http://www.birdcoop.ubc.ca/index.php,,,,Athletics,,AD-268,{B386D785-77F6-4C71-A7F4-7F48924E74A0},49.2683593195634,-123.248788261621
 66,627,Old Barn Community Centre Exercise Room,athletics,,,,,,,UNA,,AD-43,{6A3138C6-7232-45D7-AE75-FB794420235C},49.259043494083,-123.248335095339
@@ -171,8 +162,6 @@
 259,537,Detwiller Pavilion,medical,,,,,,,VCH,,AD-221,{259915C2-8703-4701-8E15-10B636B2C7F7},49.2635491368473,-123.244392322521
 260,,Diesel Bus Loop,transit,,,,,,,TransL,,AD-315,{4BA3FF5E-DF02-445A-96FC-B2BCE94E745B},49.2680909196332,-123.2476535434
 261,,Trolley Bus Loop,transit,,,,,,,TransL,,AD-334,{EA6D564A-F211-44FF-92F5-7DFA2400504E},49.2657862973411,-123.24822312072
-269,785,Wesbrook Village Parking,parkade,,,,,,,Parking,,<Null>,{C4F7AE82-7DCB-42EB-8B82-74D0B07C49DF},49.2543402584995,-123.23676605646
-270,099,Botanical Garden Parking,parkade,,,,,,,Parking,,AD-120,{8B1213FC-B636-4217-AAEB-BBA9EA865558},49.2548391754145,-123.251485673274
 ,,Canopy Walkway,attractions,,,,,,,,,,{A8ED5EEC-7049-4FEB-8E49-9BA02F118FDC},49.2541061471512,-123.251247399525
 ,,Forestry,faculty,,,,,,,,,,{0E8A2B5F-2C67-4C4F-85C1-10F6BC72E4BB},49.2604298546214,-123.248311330113
 ,,Graduate and Postdoctoral Studies,faculty,,,,,,,,,,{584C7DFB-09A1-4349-8EB3-491277516DB4},49.2684193397468,-123.257877414384
@@ -182,7 +171,6 @@
 ,,Pharmaceutical Sciences,faculty,,,,,,,,,,{D05CA8EB-6DD1-4B0A-98F3-4479F3DFDE83},49.2623244181042,-123.243177829186
 ,,Sauder School of Business,faculty,,,,,,,,,,{C98C434B-C60D-45FD-86EE-4D54F3E4DFCB},49.2651912416651,-123.253919041576
 ,,Science,faculty,,,,,,,,,,{73749C3B-203C-4A5A-9A7B-D0B4AC1BC867},49.2629998654667,-123.252022362876
-267,551,Thunderbird Parkade,parkade,,,,,,,Parking,,AD-224,{30BB6767-60EB-4A7A-80EC-DE615999E7E3},49.2611432050817,-123.243431372175
 57,,Rose Garden & Flagpole Plaza,attractions,,,,,,,UBC,,AD-218,{83649DB0-D373-4E9A-AC13-7FDEDD020DE3},49.2691589370393,-123.256322466013
 ,,Father David Bauer Arena,attractions,,,,,,,,,,{D256DC88-C12A-4480-A312-B0ADC3F23A68},49.2604123988579,-123.241946837807
 ,,PROTRANS BC Community Arena,attractions,,,,,,,,,,{3514169B-D15D-4148-9D4B-EB79AC43697F},49.2604123988579,-123.241946837807
@@ -244,129 +232,148 @@
 ,,Dental Speciality Clinics,campus_services,,,,,,,,,,{6B90AC3B-6E0A-4A97-8D10-873DF8A38353},49.2656067917432,-123.245463940859
 ,,Family Practice Teaching Unit/Clinic,campus_services,,,,,,,,,,{230CAF99-D751-4A55-869F-4F9433294EC7},49.2659080089127,-123.246341005034
 ,,The Media Group ,campus_services,,,,,,,,,,{F41E812E-EEA8-48D3-9050-7AE94713F4C4},49.2648704156474,-123.24666646303
-202,81,Starbucks,cafe,,,http://www.food.ubc.ca/place/starbucks/,,,,SHHS,,AD-116,{641CB5C9-2DA2-4081-B63D-23D4A2FA4E7C},49.2651914346951,-123.250847586671
-,,Hummingbird Child Centre,child_care,,,,,,,,,,{38BF8D1D-CAAA-4BAA-AA70-2C183B9332E8},49.2603714171927,-123.251276572956
-199,790,A&W,cafe,,,http://www.aw.ca/,,,,SHHS,,AD-271,{F7C77705-B14C-4813-B25F-935C1DB9AFEE},49.2673931802782,-123.249748830904
-191,544,Vanier's Dining Room,restaurant,,,http://www.food.ubc.ca/place/vaniers-dining-room/,,,,SHHS,,AD-19,{B4E723BD-789B-484E-8031-D0E6BC7AFE41},49.2648806703784,-123.258818200224
-200,490,Bento Sushi,cafe,,,http://www.food.ubc.ca/place/bento-sushi/,,,,SHHS,,AD-204,{879B32CD-2FC6-40EC-AD69-313C4D1B8B7E},49.265811786582,-123.254211030064
-192,869-1,Gage Mini Mart,minimart,,,http://www.food.ubc.ca/place/gage-mini-mart/,,,,SHHS,,AD-297,{277C0C99-EE49-4B34-827C-174CE384BFE2},49.2694359703647,-123.249617400599
-201,694,Blenz Coffee,cafe,,,http://blenz.com/,,,,Non-UBC,,AD-53,{B1484B28-183B-48CF-B667-3F37E3EF0594},49.2540197224563,-123.235095722887
-193,544,Hubbards,minimart,,,http://www.food.ubc.ca/place/hubbards,,,,SHHS,,AD-19,{D2C2E848-DBD3-4F4D-8628-6682A70EBEF4},49.2648806703784,-123.258818200224
-194,81,Corner Store,minimart,,,http://shop.bookstore.ubc.ca/c-471-corner-store.aspx,,,,SHHS,,AD-116,{9AB5D224-316B-4F19-96D7-86A3A98601B1},49.2652127015035,-123.250784867075
-204,570,Cafe MOA,cafe,,,http://www.food.ubc.ca/place/cafe-MOA/,,,,SHHS,,AD-228,{73978A38-EFF2-41E6-832D-CEB28462A291},49.2690842804424,-123.259237899653
-205,529,Caffe Perugia,cafe,,,http://www.food.ubc.ca/place/caffe-perugia,,,,SHHS,,AD-219,{CBB66FCD-FEA3-4FFC-A207-0D09DA429278},49.2624221697946,-123.245952500438
-195,199,Mahony and Sons,restaurant,,,http://mahonyandsons.com/,,,,Non-UBC,,AD-327,{36D17B2F-BD01-4A46-84F4-22E813017C61},49.2659582218586,-123.246762186652
-207,790,Daily Dose Cafe,cafe,,,http://www.food.ubc.ca/place/daily-dose/,,,,SHHS,,AD-217,{62CD79E9-CD85-4A0E-BDB4-42885E209272},49.2626264907383,-123.242847359629
-209,516,Ike's Cafe,cafe,,,http://www.food.ubc.ca/place/ikes/,,,,SHHS,,AD-210,{1F8F2D1F-DBA4-4729-8D2B-FFD91E8CD938},49.2672017005492,-123.25276539585
-196,540-1,Magda's,minimart,,,http://www.food.ubc.ca/place/magdas/,,,,SHHS,,AD-223,{0CD77121-EAA6-4721-8C20-88E0B82DE56C},49.2578796099234,-123.252812100414
-210,473,IRC Snack Bar,cafe,,,http://www.food.ubc.ca/place/irc-snackbar/,,,,SHHS,,AD-220,{75B7EF44-DD9C-4579-ADB9-4CE02091E640},49.2647956303628,-123.247298500315
-212,482,Law Cafe,cafe,,,http://www.food.ubc.ca/place/law-cafe/,,,,SHHS,,AD-203,{A277DA9A-94F2-4049-8D15-D2C8992539DF},49.2698179702511,-123.253629199752
-214,225,Magma Cafe,cafe,,,http://www.food.ubc.ca/place/magma-cafe/,,,,SHHS,,AD-178,{C7283DDC-DB2C-4FB8-AE32-4949B7AA082E},49.2626468570992,-123.251833852001
-198,790,Starbucks,cafe,,,http://www.food.ubc.ca/place/starbucks/,,,,SHHS,,AD-149,{69155220-BDD3-4C24-9C48-9BF85A825621},49.2673325826831,-123.249632495071
-216,904,Mercante,cafe,,,http://www.food.ubc.ca/place/mercante/,,,,SHHS,,AD-303,{766C53E1-C0B8-41AD-AADC-5AD7BF5AC9A3},49.2637626413802,-123.255015244231
-217,689,Murchie's Tea and Coffee,cafe,,,http://www.murchies.com/store/,,,,Non-UBC,,AD-340,{1D34D75D-B399-4653-9376-50D095D5970C},49.2548355967236,-123.235734179414
-250,795,Pie R Squared,cafe,,,http://www.ams.ubc.ca/foodanddrink/piersquared/#,,,,AMS,,AD-102,{CEC30D2A-F494-4C55-AB2F-C6A094F66D72},49.2666078368357,-123.249763560848
-,,Chapman Learning Commons,libraries,,,http://hours.library.ubc.ca/#view-chapman,,,,,,,{046919A1-9955-4364-A219-9C1158B4157B},49.2676270845059,-123.252929612104
-,,Green College,school/college,,,http://www.greencollege.ubc.ca/,,,,,,,{0B09F5C4-9FE4-40C6-A8C1-9F2ABE9F923C},49.2709809647794,-123.256322863176
-,,St. John's College,school/college,,,http://stjohns.ubc.ca/,,,,,,,{BF33EF60-D283-44B0-AEF4-1CD0ABA335AB},49.262808439527,-123.256264164302
-,,Palate,cafe,,,http://www.ams.ubc.ca/foodanddrink/palate/,,,,,,,{925385DA-D594-4F74-990C-57769D6F1E25},49.2666139668769,-123.249764067383
-182,,A&W,cafe,,,http://www.aw.ca/,,,,UEL,Non-UBC,AD-323,{10606988-338D-4765-9C09-E02065DEFD45},49.2664700695944,-123.243436667678
-,,Admissions (Undergraduate) ,campus_services,,,https://www.grad.ubc.ca,,,,,,,{F90F38F9-CDF0-49A3-A0E0-556FCCDBA712},49.2686318354029,-123.252197351951
-41,852,University Fire Hall #10,campus_services,,,http://www.vanffcpr.org/location/location.php?id=10,,,,Non-UBC,,AD-286,{517CF01B-E1CA-4737-B5B4-CE810B8A4296},49.2590905720413,-123.237775014192
-221,790,Subway,cafe,,,http://www.food.ubc.ca/place/subway/,,,,SHHS,,AD-271,{B39DD64B-9334-4238-B69F-E6882B20742F},49.2673931802782,-123.249748830904
-223,490,Qoola,cafe,,,http://www.food.ubc.ca/place/qoola/,,,,SHHS,,AD-204,{EE2653BD-5B43-4207-9AF1-678D1C716C73},49.265811786582,-123.254211030064
-224,165,Reboot Cafe,cafe,,,http://www.food.ubc.ca/place/reboot-cafe/,,,,SHHS,,AD-130,{EDF26827-8BB8-4507-8EB6-4CFB18E9CACB},49.2609325462409,-123.248604553471
-249,795,Grand Noodle Emporium,cafe,,,http://www.ams.ubc.ca/foodanddrink/grandnoodle/,,,,AMS,,AD-102,{FBA5A766-9645-4366-8655-4AFC20BAAC70},49.2666078368357,-123.249763560848
-225,23,Sauder Exchange Cafe,cafe,,,http://www.food.ubc.ca/place/sauder-exchange-cafe/,,,,SHHS,,AD-98,{FC9DC745-1D37-4095-BB4C-711FEE8C431A},49.2650384195528,-123.253526900493
-226,313,Starbucks,cafe,,,http://www.food.ubc.ca/place/starbucks/,,,,SHHS,,AD-160,{1CDFC81E-DC77-47C0-8D96-91FA0D3C41BC},49.262135309698,-123.250175199884
-227,606,Starbucks,cafe,,,http://www.food.ubc.ca/place/starbucks/,,,,SHHS,,AD-238,{8670F50D-FF34-41D7-A529-B2F639640719},49.261308099127,-123.246595335599
-228,121-1,Stir It Up,cafe,,,http://www.food.ubc.ca/place/stir-it-up-cafe/,,,,SHHS,,AD-123,{BD0F7862-7C28-43D6-B899-30C7D1262414},49.2683574571169,-123.254740910264
-229,633,The Loop Cafe,cafe,,,http://www.food.ubc.ca/place/loop-cafe/,,,,SHHS,,AD-243,{7F3EFA20-E015-46E3-97AB-CA39B63EE1F9},49.2619501904151,-123.253149199594
-231,490,Tim Hortons,cafe,,,http://www.food.ubc.ca/place/tim-hortons/,,,,SHHS,,AD-204,{4C926368-F5E6-45C3-864D-84A6EA517305},49.265811786582,-123.254211030064
-232,353,Tim Hortons,cafe,,,http://www.food.ubc.ca/place/tim-hortons/,,,,SHHS,,AD-167,{A6251A5C-3757-4CF7-BAA6-6612FE473B65},49.2604735997352,-123.248813700112
-233,694,Togo Sushi,cafe,,,http://www.togosushi.ca/ubc.html,,,,Non-UBC,,AD-336,{DE171756-3A00-40F4-8CF8-F66FD37A466B},49.2539738990147,-123.235385063494
-235,490,Triple O's,cafe,,,http://www.food.ubc.ca/place/triple-o/,,,,SHHS,,AD-204,{2199A000-5952-4A9C-8FF9-856840AE3380},49.265811786582,-123.254211030064
-241,795,The Pit,restaurant,,,http://www.the-pit.ca/,,,,AMS,,AD-273,{774ABD4E-B8BD-4443-BD30-822632CA438E},49.2667615412836,-123.250105116844
-242,795,Upper Case Cafe,cafe,,,http://www.ams.ubc.ca/foodanddrink/uppercase/,,,,AMS,,AD-102,{351A850E-AE44-44A9-B9B8-8E22752A92A7},49.2666078368357,-123.249763560848
-243,795,Lower Case Cafe,cafe,,,http://www.ams.ubc.ca/foodanddrink/lowercase/,,,,AMS,,AD-102,{895E20CE-AFD0-4D43-A65E-F25B8DD0C87E},49.2666078368357,-123.249763560848
-245,795,Flipside,cafe,,,http://www.ams.ubc.ca/foodanddrink/flipside/,,,,AMS,,AD-102,{D141C79E-B510-4581-A47A-EEF7475B6983},49.2666078368357,-123.249763560848
-246,795,Liquid Nutrition,cafe,,,http://www.liquidnutrition.com/,,,,Non-UBC,,AD-102,{824E5134-A7B9-4CEE-A2C3-2ED9C4490EBC},49.2666078368357,-123.249763560848
-247,795,Peko Peko,cafe,,,http://www.ams.ubc.ca/foodanddrink/pekopeko/,,,,AMS,,AD-102,{A4AE5A21-42A6-44FF-99E4-4B1A1B8D26D3},49.2666078368357,-123.249763560848
-248,795,Qoola,cafe,,,http://www.food.ubc.ca/place/qoola/,,,,Non-UBC,,AD-102,{B0077BC0-DAF7-4E59-9670-CD7E11A5C301},49.2666078368357,-123.249763560848
-91,199,Scotia Bank,bank,,,"http://www.scotiabank.com/ca/en/0,,2,00.html",,,,Non-UBC,,AD-325,{3DD1447B-6FB4-4B42-A9D6-D21BAA55B84C},49.2660498398454,-123.246144824591
-,,Student Recreaction Centre (SRC),athletics,,,,,,,,,,{5D0243A8-DD1D-4B62-9142-759CDB570948},49.2682555915221,-123.249231011893
-95,434,Gerald McGavin UBC Rugby Centre,athletics,,,http://sportfacilities.ubc.ca/gmrc/,,,,Athletics,,AD-185,{94B23820-95EE-402E-BD0D-3D192D39BCF8},49.2595774817931,-123.24125145744
-,,University Village various venues,retail,,,,,,,,,,{02883A53-BD2C-4462-A972-989656D89591},49.266260700548,-123.242792042141
-,,Wesbrook Village various venues,retail,,,,,,,,,,{D37ABCC4-D78E-439C-94EB-7A6272EBC1D2},49.254417695195,-123.235264333238
-11,593-1,Running Room,retail,,,http://www.runningroom.com/hm/inside.php?id=4442,,,,Non-UBC,,AD-358,{E551A27C-D0DA-4AE8-9848-546D23FBF916},49.2549509085061,-123.235399695678
-12,686,RBC,bank,,,http://www.rbcroyalbank.com/personal.html,,,,Non-UBC,,AD-230,{A74214FB-8608-4B48-901D-52122C031EE9},49.2550085181848,-123.23598451126
-37,463,UBC Hospital,medical,,,http://www.vch.ca/locations-and-services/find-locations/?site_id=164,,,,VCH,,AD-197,{EF2FB1EF-4347-4595-B45F-F217AA8F1EC1},49.2641837250472,-123.246020738895
-38,852,RCMP,campus_services,,,http://university.bc.rcmp-grc.gc.ca/,,,,Non-UBC,,AD-286,{AE781FC9-5619-430F-B137-8C81E389CCA4},49.2589283321803,-123.238062993281
-76,697,Wesbrook Community Centre,community_centre,,,http://planning.ubc.ca/vancouver/projects-consultations/under-construction/neighbourhood-lands/wesbrook-community-centre,,,,UNA,,AD-57,{C47BA330-F7D1-42DD-B4E9-6668856B5F54},49.2540137282375,-123.237573557444
-77,627,Old Barn Community Centre,community_centre,,,http://www.myuna.ca/oldbarn/,,,,UNA,,AD-43,{3B3ECDFD-7E33-4DDD-A853-B56B265B39EF},49.2588985845136,-123.248292878535
-80,817-4,St. Andrew's Hall,worship,,,http://www.standrews.edu/,,,,Non-UBC,,AD-304,{F9ADBCBE-A410-432D-BE83-D4E0A80F06D1},49.2703568847939,-123.25189641842
-83,418,Green College,housing_student,,,http://www.greencollege.ubc.ca/,,,,SHHS,,AD-5,{A79B41E9-F535-42C1-95A1-BA6786FA4CF0},49.2709220594641,-123.256407285595
-85,822-1,St. John's College,housing_student,,,http://stjohns.ubc.ca/,,,,SHHS,,AD-278,{209E58E7-DDA6-4342-B16E-2ED81044D208},49.2627528557408,-123.256231146931
-86,377-1,Marine Drive Residence Front Desk,housing_student,,,http://vancouver.housing.ubc.ca/residences/marine-drive-residence/,,,,SHHS,,AD-172,{EB8C67A2-E23C-43B3-8DC6-43D06AE7DBE0},49.2614406042969,-123.256758737499
-88,783,Thunderbird Residence  Front Desk,housing_student,,,http://vancouver.housing.ubc.ca/residences/thunderbird/,,,,SHHS,,AD-70,{FE1DF49F-B252-405F-869B-3A6E02A6FB54},49.2594401954116,-123.249315660043
-90,011,Acadia Park Residence Front Desk,housing_student,,,http://vancouver.housing.ubc.ca/residences/acadia-park/,,,,SHHS,,AD-91,{C55E547A-CFE1-4D24-BE48-00BA6D72A826},49.2625191105804,-123.237232474332
-98,593-2,Wesbrook Village Welcome Centre,attractions,,,http://www.wesbrookvillage.com/,,,,UBCPT,,AD-236,{E31DECE1-7FFE-446C-A79E-6796FF4723F4},49.2541616981901,-123.2348075579
-121,694,Mozart School of Music,commercial_services,,,http://www.msmvan.com/,,,,Non-UBC,,AD-339,{99736449-01BB-4BB5-B654-76F0D9F54120},49.2537124546766,-123.235244509224
-123,690,Hot Box Yoga,commercial_services,,,http://www.thehotboxyoga.com/,,,,Non-UBC,,AD-277,{F509A66D-7375-43D8-9C35-6E56C1F45092},49.2544332952646,-123.236364521999
-101,199,Nobel Biocare Oral Health Centre,commercial_services,,,http://www.dentistry.ubc.ca/treatment/about/,,,,UBC,,AD-323,{7E82E9EC-982B-4A52-B308-68A24AE0BF66},49.2659071282856,-123.245575747537
-108,,Nobel Park Playground + Baseball Field,park,,,http://wesbrook.app2.thoughtshop.com/posts/nobel-park#.VYm4Wfm4S70,,,,UNA,,AD-310,{12781C23-D56C-4FE9-8B99-3D1D4E02DE14},49.2502835773542,-123.23419505221
-124,593-1,Insure BC,commercial_services,,,http://www.insurebc.ca/,,,,Non-UBC,,AD-359,{FE986EC1-A152-4132-A4F5-204DD0E33304},49.2548419755911,-123.235361625725
-125,593-1,éliane Hair & Spa,commercial_services,,,http://www.elianehairspa.ca/,,,,Non-UBC,,AD-235,{65BFE2A5-8DC8-4C7E-969C-D003818037FF},49.2545729806168,-123.235106194389
-109,,Mundell Park Playground,park,,,http://wesbrook.app2.thoughtshop.com/posts/mundell-park#.VYm4XPm4S70,,,,UNA,,AD-62,{9F951E22-FB3C-4CC4-8AAC-43C6DD9EC002},49.2520744305981,-123.236557574231
-126,689,Kabro Salon,commercial_services,,,http://www.kabrosalon.com/,,,,Non-UBC,,AD-342,{83F1DE48-A5E2-4262-8AD7-6BBD33B4C1D6},49.2546890902822,-123.235616122326
-127,593-1,Wesbrook Village Dental Ctr,commercial_services,,,http://www.wesbrookvillagedental.com/,,,,Non-UBC,,AD-360,{14A428CD-6811-44A2-AF8E-1FA3D84DF3A6},49.2547580817449,-123.235293098624
-112,,Khorana Park Playground,park,,,http://wesbrook.app2.thoughtshop.com/posts/khorana-park#.VYm4W_m4S70,,,,UNA,,AD-33,{5C219840-C9FC-4A90-BEBF-203319E15ABB},49.2553529096715,-123.232272643476
-128,689,Wesbrook Eyecare,retail,,,http://wesbrookeyecare.com/,,,,Non-UBC,,AD-346,{D247F068-3F9F-4358-9660-61F14DF96E47},49.2544848397315,-123.235450846838
-113,795,Merit Travel,commercial_services,,,http://www.merit.ca/,,,,Non-UBC,,AD-273,{DF7FA7DE-619B-4874-ADAA-0B444627EB75},49.2666864353001,-123.249949450261
-130,689,University Barbershop,commercial_services,,,http://www.theuniversitybarbershop.com/,,,,Non-UBC,,AD-343,{949E08A9-20F8-4089-8FA2-AD99511280A5},49.2546408255651,-123.235579910167
-115,795,On the Fringe,commercial_services,,,http://www.onthefringehairdesign.com/,,,,Non-UBC,,AD-273,{4B1CA008-DD96-4651-A81C-C8CD854DFA50},49.2666790383957,-123.249938288671
-131,689,Careville Health Clinic,medical,,,http://www.carevillehealth.com/,,,,Non-UBC,,AD-341,{D0F444FF-3356-4489-B983-BA3B54950B7B},49.2547802887452,-123.235681669621
-117,795,Wireless Wave,retail,,,http://www.wirelesswave.ca/about-wirelesswave/,,,,Non-UBC,,AD-273,{BEED113E-D94B-47D8-9C86-9D5EAF739B68},49.2666769813598,-123.249944032142
-135,687,Save-On-Foods,grocery,,,http://www.saveonfoods.com/store/ubc,,,,Non-UBC,,AD-46,{6BAC274F-E9EB-499D-95EA-A01CFBACAB0F},49.2547584812316,-123.23657531036
-120,689,More Bikes,retail,,,http://www.morebikes.ca/,,,,Non-UBC,,AD-353,{2A59EC0B-1C5D-4A65-BB45-4153D21B1EBF},49.2544723023129,-123.235883389856
-136,795,Grocery Checkout,grocery,,,https://www.grocerycheckout.com/default.aspx,,,,Non-UBC,,AD-273,{B6D4F394-A88B-4804-B3C5-70E716D5E07D},49.2663384807268,-123.249566189154
-141,,Hannah and Samuel Flower Shop,commercial_services,,,http://www.hsflowers.ca/,,,,UEL,Non-UBC,AD-135,{C4C88DB6-B323-47CC-ADEA-A8F6830BF5CE},49.2662262431307,-123.243635760077
-142,,CIBC,bank,,,http://www.cibc.com/,,,,UEL,Non-UBC,AD-323,{493E486C-6B86-45D3-96D9-E62C8E535B3A},49.266410174379,-123.243781248229
-144,,Copiesmart,commercial_services,,,http://www.copiesmart.com/,,,,UEL,Non-UBC,AD-323,{6DF4919C-09C8-4F4E-9D56-0407E3FE6F58},49.2666580282356,-123.242861704716
-146,,Staples,commercial_services,,,http://www.staples.ca/,,,,UEL,Non-UBC,AD-816,{EF1FBA68-6F70-4C72-ADDB-3D6B9D208395},49.2662602365141,-123.242196664512
-138,690,BC Liqour Store,retail,,,http://www.bcliquorstores.com/store/192,,,,Non-UBC,,AD-277,{CB3B5609-3F32-47AD-BC81-FB45EE8AA4AD},49.2545292307136,-123.236227530062
-147,,Gold's Gym,commercial_services,,,http://goldsgymbc.ca/,,,,UEL,Non-UBC,AD-816,{7E84A6D0-91C6-42FF-9691-9DABA87A7288},49.2663197479528,-123.242307772507
-149,,House of Vision,retail,,,http://houseofvisionoptical.com/,,,,UEL,Non-UBC,AD-816,{059C135F-A14C-4A3A-AB1E-7BCBBBB791A5},49.2660002257806,-123.242307612629
-150,,Pacific Spirit Dental,medical,,,http://www.pacificspiritdental.ca/,,,,UEL,Non-UBC,AD-135,{BE35F8B6-3782-4B67-90DF-55FA7EFF0FD2},49.2659548899067,-123.242825205889
-140,,Bank of Montreal,bank,,,https://www.bmo.com/main/personal,,,,UEL,Non-UBC,AD-135,{CF087033-6048-4D14-94FA-726C925F1C66},49.2659649250726,-123.243404847342
-153,,Little Mountain Learning Academy ,commercial_services,,,http://www.lmacademics.com/,,,,UEL,Non-UBC,AD-135,{4EC2FAF0-4E75-4A7F-A4FC-9F304F27357B},49.2657975798515,-123.243049374863
-154,,Cellworks Communication Inc.,commercial_services,,,http://www.cellworks.ca/,,,,UEL,Non-UBC,AD-135,{E6A1289D-9C4B-441E-9978-E98988B92573},49.2661714154199,-123.242926636982
-156,,Discount Textbooks,retail,,,http://www.discounttextbooks.ca/,,,,UEL,Non-UBC,AD-135,{0AD00C10-16C7-4685-9205-894B8B1863C5},49.2659170066124,-123.243061334306
-157,904,Ponderosa Commons Residence Front Desk,housing_student,,,http://vancouver.housing.ubc.ca/residences/ponderosa-commons/,,,,SHHS,,AD-258,{B7A6401F-7E39-4FCA-9730-C33ED6D07442},49.2642301713954,-123.255454179141
 159,,Bubble Waffle Cafe,cafe,,,http://www.bubblewafflecafe.com/,,,,UEL,Non-UBC,AD-323,{53615EDF-2F18-41C2-A7AD-4A90F07DFBF0},49.266681077224,-123.242692767556
-161,,One More Sushi ,restaurant,,,http://onemoresushi.ca/,,,,UEL,Non-UBC,AD-135,{8C049B70-19B8-43B6-A883-E0AAE82DC3A0},49.2660243175676,-123.242526737341
-162,,Subway,cafe,,,http://www.food.ubc.ca/place/subway/,,,,UEL,Non-UBC,AD-135,{7C418D88-1A8C-4092-8E7B-B31B71A4A35B},49.26589569003,-123.243202698689
-163,,5 Tastes,restaurant,,,http://5tastes.ca/,,,,UEL,Non-UBC,AD-135,{D4D09029-EE26-4868-ACEE-F2C2F4538D45},49.2662215015513,-123.242951928299
-164,,Booster Juice,cafe,,,http://boosterjuice.com/,,,,UEL,Non-UBC,AD-135,{93F93928-E967-4765-A341-FE664093F64D},49.2660745841008,-123.242834903663
+90,011,Acadia Park Residence Front Desk,housing_student,,,http://vancouver.housing.ubc.ca/residences/acadia-park/,,,,SHHS,,AD-91,{C55E547A-CFE1-4D24-BE48-00BA6D72A826},49.2625191105804,-123.237232474332
+95,434,Gerald McGavin UBC Rugby Centre,athletics,,,http://sportfacilities.ubc.ca/gmrc/,,,,Athletics,,AD-185,{94B23820-95EE-402E-BD0D-3D192D39BCF8},49.2595774817931,-123.24125145744
+200,490,Bento Sushi,cafe,,,http://www.food.ubc.ca/place/bento-sushi/,,,,SHHS,,AD-204,{879B32CD-2FC6-40EC-AD69-313C4D1B8B7E},49.265811786582,-123.254211030064
+235,490,Triple O's,cafe,,,http://www.food.ubc.ca/place/triple-o/,,,,SHHS,,AD-204,{2199A000-5952-4A9C-8FF9-856840AE3380},49.265811786582,-123.254211030064
+157,904,Ponderosa Commons Residence Front Desk,housing_student,,,http://vancouver.housing.ubc.ca/residences/ponderosa-commons/,,,,SHHS,,AD-258,{B7A6401F-7E39-4FCA-9730-C33ED6D07442},49.2642301713954,-123.255454179141
+37,463,UBC Hospital,hospital,,,http://www.vch.ca/locations-and-services/find-locations/?site_id=164,,,,VCH,,AD-197,{EF2FB1EF-4347-4595-B45F-F217AA8F1EC1},49.2641837250472,-123.246020738895
+,,Student Recreaction Centre (SRC),athletics,,,,,,,,,,{5D0243A8-DD1D-4B62-9142-759CDB570948},49.2682555915221,-123.249231011893
+211,790,Koya Japan,cafe,,,http://koyajapan.com/en/menu.html,,,,SHHS,,AD-271,{5DE14AD2-48D2-4C2C-942B-AADE0F54BB5D},49.2673931802782,-123.249748830904
 165,,Only U Cafe,cafe,,,http://www.facebook.com/pages/Only-U-Cafe/431021496919221,,,,UEL,Non-UBC,AD-816,{E2B7C0C2-030F-4AAB-A892-E692EDF8A2FC},49.2659773725094,-123.242380536344
-166,,Mini Super,minimart,,,http://www.facebook.com/pages/Mini-Super-at-UBC/249485448568472?sk=timeline&amp;ref=page_internal,,,,UEL,Non-UBC,AD-323,{76FA900D-8199-4793-AE6A-B85CC1A8244B},49.2666446610593,-123.242674758308
-172,690,Chef Hung Taiwanese Beef Noodle,restaurant,,,http://www.chefhungnoodle.com/eng/,,,,Non-UBC,,AD-50,{DAFF28AF-A336-408F-9C9A-F4D57C40A329},49.2543222123371,-123.236284896447
-167,689,BierCraft,restaurant,,,http://biercraft.com/wesbrook-at-ubc/,,,,Non-UBC,,AD-354,{1AC5ADE1-A030-437E-9581-BE1E84FA3427},49.2542425787709,-123.235724176614
-174,,McDonald's,cafe,,,http://www.mcdonalds.ca/ca/en.html,,,,UEL,Non-UBC,AD-323,{5FA41F61-ED81-4FBF-83DB-4CEC6FBADFEC},49.2667052752948,-123.242511525403
-168,689,Dough Girls Baking,cafe,,,http://www.doughgirlsbakeshop.com/,,,,Non-UBC,,AD-351,{50A5757E-D753-40F4-8394-2F4C1FD44D6B},49.2545602769005,-123.235900842422
-176,,Red Burrito,cafe,,,http://www.redburrito.ca/,,,,UEL,Non-UBC,AD-135,{49D75F3B-66AC-4E99-B712-90FC04CD4F6F},49.2657125016863,-123.243211220692
-177,,Pearl Fever Tea House ,cafe,,,http://www.pearlfever.ca/,,,,UEL,Non-UBC,AD-135,{FC1391E4-9166-489D-8D82-AF838E2AC102},49.265869917897,-123.243176178364
-169,593-1,Jugo Juice,cafe,,,http://www.jugojuice.com/en/locations/british-columbia,,,,Non-UBC,,AD-361,{C23448B7-5A9E-4CEB-8357-2EBBA2363F3C},49.2544702434261,-123.235057998011
-178,,Starbucks,cafe,,,http://www.food.ubc.ca/place/starbucks/,,,,UEL,Non-UBC,AD-135,{D91A8AEC-BED8-420A-9D4F-635C335F50F0},49.2658502191965,-123.242749304992
-170,593-1,Menchie's Frozen Yogurt,cafe,,,http://www.menchies.ca/,,,,Non-UBC,,AD-362,{680D0FF6-FE7E-4DF2-9679-74DD6C917015},49.2543703459513,-123.234977987306
-179,,Pita Pit,cafe,,,http://pitapit.ca/,,,,UEL,Non-UBC,AD-816,{A7AB12B4-37E7-4917-86AA-57B9F538671C},49.2660902987569,-123.242124237454
-181,,Pizza Garden,cafe,,,http://www.pizzagarden.ca/,,,,UEL,Non-UBC,AD-323,{812B771F-0E33-47C6-9B22-250DDA7BE667},49.2664647766981,-123.243496912602
-171,627,Bean Around The World,cafe,,,http://batw.ca/,,,,Non-UBC,,AD-43,{80129C81-8E09-44AC-A4D5-F53DAF052B08},49.2588539261912,-123.248047770581
-183,,Blenz,cafe,,,http://blenz.com/,,,,UEL,Non-UBC,AD-323,{7778E22F-8FE5-4A36-ACA0-82F831B3F8AD},49.2664558197625,-123.243576482044
+141,,Hannah and Samuel Flower Shop,commercial_services,,,http://www.hsflowers.ca/,,,,UEL,Non-UBC,AD-135,{C4C88DB6-B323-47CC-ADEA-A8F6830BF5CE},49.2662262431307,-123.243635760077
+144,,Copiesmart,commercial_services,,,http://www.copiesmart.com/,,,,UEL,Non-UBC,AD-323,{6DF4919C-09C8-4F4E-9D56-0407E3FE6F58},49.2666580282356,-123.242861704716
+162,,Subway,cafe,,,http://www.food.ubc.ca/place/subway/,,,,UEL,Non-UBC,AD-135,{7C418D88-1A8C-4092-8E7B-B31B71A4A35B},49.26589569003,-123.243202698689
 184,,Vera's Burger Shack,cafe,,,http://www.verasburgershack.com/,,,,UEL,Non-UBC,AD-135,{AE01C99A-5164-4347-9DD0-4E2F3AC64E4D},49.2657986098168,-123.243270773213
-185,344,Sage Bistro,restaurant,,,http://www.food.ubc.ca/place/sage/,,,,SHHS,,AD-166,{FB1FEAA7-6F9B-4677-A076-F04AD7DFD7B4},49.2687061690439,-123.257040585531
-186,344,Ideas Lunch & Wine Bar,restaurant,,,http://www.food.ubc.ca/place/ideas-lunch-wine-bar/,,,,SHHS,,AD-166,{86C2DD07-FE4D-4033-B3D9-4C54F49D2514},49.2689033934431,-123.256783720736
-187,408,Koerner's Pub,restaurant,,,http://koerners.ca/,,,,Non-UBC,,AD-179,{1F611EC5-2D0C-4B48-ACAC-3695B107C180},49.2684631515985,-123.258104319565
+269, ,C2 Lot - TEF3 Parking Lot,parking,,,,,,,Parking,,<Null>,{58CA618F-7940-4052-B195-B6D099BBA8C7},49.2612855469655,-123.245815362995
 188,377-1,The Point Grill,restaurant,,,http://www.food.ubc.ca/place/pointgrill/,,,,SHHS,,AD-248,{6B8043C5-EBF6-4039-8BBD-FCA09764F4AD},49.2617284342738,-123.255456091397
-189,408,Seedlings,restaurant,,,http://www.ubcsprouts.ca/initiatives/seedlings/,,,,Non-UBC,,AD-179,{8D2CC77B-A071-44AB-894F-AC4766F4160F},49.268547689903,-123.257697100604
+248,795,Qoola,cafe,,,http://www.food.ubc.ca/place/qoola/,,,,Non-UBC,,AD-102,{B0077BC0-DAF7-4E59-9670-CD7E11A5C301},49.2666078368357,-123.249763560848
+231,490,Tim Hortons,cafe,,,http://www.food.ubc.ca/place/tim-hortons/,,,,SHHS,,AD-204,{4C926368-F5E6-45C3-864D-84A6EA517305},49.265811786582,-123.254211030064
+229,633,The Loop Cafe,cafe,,,http://www.food.ubc.ca/place/loop-cafe/,,,,SHHS,,AD-243,{7F3EFA20-E015-46E3-97AB-CA39B63EE1F9},49.2619501904151,-123.253149199594
+86,377-1,Marine Drive Residence Front Desk,housing_student,,,http://vancouver.housing.ubc.ca/residences/marine-drive-residence/,,,,SHHS,,AD-172,{EB8C67A2-E23C-43B3-8DC6-43D06AE7DBE0},49.2614406042969,-123.256758737499
+217,689,Murchie's Tea and Coffee,cafe,,,http://www.murchies.com/store/,,,,Non-UBC,,AD-340,{1D34D75D-B399-4653-9376-50D095D5970C},49.2548355967236,-123.235734179414
+207,790,Daily Dose Cafe,cafe,,,http://www.food.ubc.ca/place/daily-dose/,,,,SHHS,,AD-217,{62CD79E9-CD85-4A0E-BDB4-42885E209272},49.2626264907383,-123.242847359629
+177,,Pearl Fever Tea House ,cafe,,,http://www.pearlfever.ca/,,,,UEL,Non-UBC,AD-135,{FC1391E4-9166-489D-8D82-AF838E2AC102},49.265869917897,-123.243176178364
+269,199,David Strangway Parking,parking,,,,,,,Parking,,<Null>,{BE73ACC5-F1F2-49E2-9A2F-5BD0BFC0C8AD},49.2656906952342,-123.246380303879
+243,795,Lower Case Cafe,cafe,,,http://www.ams.ubc.ca/foodanddrink/lowercase/,,,,AMS,,AD-102,{895E20CE-AFD0-4D43-A65E-F25B8DD0C87E},49.2666078368357,-123.249763560848
+233,694,Togo Sushi,cafe,,,http://www.togosushi.ca/ubc.html,,,,Non-UBC,,AD-336,{DE171756-3A00-40F4-8CF8-F66FD37A466B},49.2539738990147,-123.235385063494
+192,869-1,Gage Mini Mart,minimart,,,http://www.food.ubc.ca/place/gage-mini-mart/,,,,SHHS,,AD-297,{277C0C99-EE49-4B34-827C-174CE384BFE2},49.2694359703647,-123.249617400599
+77,627,Old Barn Community Centre,community_centre,,,http://www.myuna.ca/oldbarn/,,,,UNA,,AD-43,{3B3ECDFD-7E33-4DDD-A853-B56B265B39EF},49.2588985845136,-123.248292878535
+164,,Booster Juice,cafe,,,http://boosterjuice.com/,,,,UEL,Non-UBC,AD-135,{93F93928-E967-4765-A341-FE664093F64D},49.2660745841008,-123.242834903663
+154,,Cellworks Communication Inc.,commercial_services,,,http://www.cellworks.ca/,,,,UEL,Non-UBC,AD-135,{E6A1289D-9C4B-441E-9978-E98988B92573},49.2661714154199,-123.242926636982
+135,687,Save-On-Foods,grocery,,,http://www.saveonfoods.com/store/ubc,,,,Non-UBC,,AD-46,{6BAC274F-E9EB-499D-95EA-A01CFBACAB0F},49.2547584812316,-123.23657531036
+109,,Mundell Park Playground,park,,,http://wesbrook.app2.thoughtshop.com/posts/mundell-park#.VYm4XPm4S70,,,,UNA,,AD-62,{9F951E22-FB3C-4CC4-8AAC-43C6DD9EC002},49.2520744305981,-123.236557574231
+128,689,Wesbrook Eyecare,retail,,,http://wesbrookeyecare.com/,,,,Non-UBC,,AD-346,{D247F068-3F9F-4358-9660-61F14DF96E47},49.2544848397315,-123.235450846838
+123,690,Hot Box Yoga,commercial_services,,,http://www.thehotboxyoga.com/,,,,Non-UBC,,AD-277,{F509A66D-7375-43D8-9C35-6E56C1F45092},49.2544332952646,-123.236364521999
+,,Green College,school/college,,,http://www.greencollege.ubc.ca/,,,,,,,{0B09F5C4-9FE4-40C6-A8C1-9F2ABE9F923C},49.2709809647794,-123.256322863176
+198,790,Starbucks,cafe,,,http://www.food.ubc.ca/place/starbucks/,,,,SHHS,,AD-149,{69155220-BDD3-4C24-9C48-9BF85A825621},49.2673325826831,-123.249632495071
+121,694,Mozart School of Music,commercial_services,,,http://www.msmvan.com/,,,,Non-UBC,,AD-339,{99736449-01BB-4BB5-B654-76F0D9F54120},49.2537124546766,-123.235244509224
+263,528,Rose Garden Parkade,parking,,,,,,,Parking,,AD-218,{45C45116-13D7-415B-BABC-F6602DCDACFB},49.269543908438,-123.256696909225
+269, ,Hospital Parking,parking,,,,,,,Parking,,<Null>,{EFF5503D-6B3B-428E-A188-8FD7A1BF8FD7},49.2648170599594,-123.245053185994
+85,822-1,St. John's College,housing_student,,,http://stjohns.ubc.ca/,,,,SHHS,,AD-278,{209E58E7-DDA6-4342-B16E-2ED81044D208},49.2627528557408,-123.256231146931
+199,790,A&W,cafe,,,http://www.aw.ca/,,,,SHHS,,AD-271,{F7C77705-B14C-4813-B25F-935C1DB9AFEE},49.2673931802782,-123.249748830904
+232,353,Tim Hortons,cafe,,,http://www.food.ubc.ca/place/tim-hortons/,,,,SHHS,,AD-167,{A6251A5C-3757-4CF7-BAA6-6612FE473B65},49.2604735997352,-123.248813700112
+201,694,Blenz Coffee,cafe,,,http://blenz.com/,,,,Non-UBC,,AD-53,{B1484B28-183B-48CF-B667-3F37E3EF0594},49.2540197224563,-123.235095722887
+179,,Pita Pit,cafe,,,http://pitapit.ca/,,,,UEL,Non-UBC,AD-816,{A7AB12B4-37E7-4917-86AA-57B9F538671C},49.2660902987569,-123.242124237454
+208,841,Great Dane Coffee,cafe,,,http://www.greatdanecoffee.com/,,,,Non-UBC,,AD-81,{D971EC27-A78C-4803-8582-396348E41487},49.2700876799633,-123.250590799505
+223,490,Qoola,cafe,,,http://www.food.ubc.ca/place/qoola/,,,,SHHS,,AD-204,{EE2653BD-5B43-4207-9AF1-678D1C716C73},49.265811786582,-123.254211030064
+88,783,Thunderbird Residence  Front Desk,housing_student,,,http://vancouver.housing.ubc.ca/residences/thunderbird/,,,,SHHS,,AD-70,{FE1DF49F-B252-405F-869B-3A6E02A6FB54},49.2594401954116,-123.249315660043
+193,544,Hubbards,minimart,,,http://www.food.ubc.ca/place/hubbards,,,,SHHS,,AD-19,{D2C2E848-DBD3-4F4D-8628-6682A70EBEF4},49.2648806703784,-123.258818200224
+269, ,Wesbrook Village Parking,parking,,,,,,,Parking,,<Null>,{C4F7AE82-7DCB-42EB-8B82-74D0B07C49DF},49.2543402584995,-123.23676605646
+187,408,Koerner's Pub,restaurant,,,http://koerners.ca/,,,,Non-UBC,,AD-179,{1F611EC5-2D0C-4B48-ACAC-3695B107C180},49.2684631515985,-123.258104319565
+181,,Pizza Garden,cafe,,,http://www.pizzagarden.ca/,,,,UEL,Non-UBC,AD-323,{812B771F-0E33-47C6-9B22-250DDA7BE667},49.2664647766981,-123.243496912602
 190,540-1,Totem Park Dining Room,restaurant,,,http://www.food.ubc.ca/place/totem-park-dining-room/,,,,SHHS,,AD-223,{AB57A125-F41B-45E6-8A41-B0FAA98C1575},49.2578796099234,-123.252812100414
+76,697,Wesbrook Community Centre,community_centre,,,http://planning.ubc.ca/vancouver/projects-consultations/under-construction/neighbourhood-lands/wesbrook-community-centre,,,,UNA,,AD-57,{C47BA330-F7D1-42DD-B4E9-6668856B5F54},49.2540137282375,-123.237573557444
+247,795,Peko Peko,cafe,,,http://www.ams.ubc.ca/foodanddrink/pekopeko/,,,,AMS,,AD-102,{A4AE5A21-42A6-44FF-99E4-4B1A1B8D26D3},49.2666078368357,-123.249763560848
+,,Palate,cafe,,,http://www.ams.ubc.ca/foodanddrink/palate/,,,,,,,{925385DA-D594-4F74-990C-57769D6F1E25},49.2666139668769,-123.249764067383
+140,,Bank of Montreal,bank,,,https://www.bmo.com/main/personal,,,,UEL,Non-UBC,AD-135,{CF087033-6048-4D14-94FA-726C925F1C66},49.2659649250726,-123.243404847342
+80,817-4,St. Andrew's Hall,worship,,,http://www.standrews.edu/,,,,Non-UBC,,AD-304,{F9ADBCBE-A410-432D-BE83-D4E0A80F06D1},49.2703568847939,-123.25189641842
+176,,Red Burrito,cafe,,,http://www.redburrito.ca/,,,,UEL,Non-UBC,AD-135,{49D75F3B-66AC-4E99-B712-90FC04CD4F6F},49.2657125016863,-123.243211220692
+205,529,Caffe Perugia,cafe,,,http://www.food.ubc.ca/place/caffe-perugia,,,,SHHS,,AD-219,{CBB66FCD-FEA3-4FFC-A207-0D09DA429278},49.2624221697946,-123.245952500438
+130,689,University Barbershop,commercial_services,,,http://www.theuniversitybarbershop.com/,,,,Non-UBC,,AD-343,{949E08A9-20F8-4089-8FA2-AD99511280A5},49.2546408255651,-123.235579910167
+170,593-1,Menchie's Frozen Yogurt,cafe,,,http://www.menchies.ca/,,,,Non-UBC,,AD-362,{680D0FF6-FE7E-4DF2-9679-74DD6C917015},49.2543703459513,-123.234977987306
+269, ,B4 Parking Lot,parking,,,,,,,Parking,,<Null>,{824A9360-4BB4-4C91-9849-23D8B38630C0},49.2599197184334,-123.249762818899
+263, ,MoA Parking Lot,parking,,,,,,,Parking,,AD-218,{91372ECA-044F-4B5E-9144-FF16D7099A71},49.2692193956259,-123.258358009657
+204,570,Cafe MOA,cafe,,,http://www.food.ubc.ca/place/cafe-MOA/,,,,SHHS,,AD-228,{73978A38-EFF2-41E6-832D-CEB28462A291},49.2690842804424,-123.259237899653
+224,165,Reboot Cafe,cafe,,,http://www.food.ubc.ca/place/reboot-cafe/,,,,SHHS,,AD-130,{EDF26827-8BB8-4507-8EB6-4CFB18E9CACB},49.2609325462409,-123.248604553471
+227,606,Starbucks,cafe,,,http://www.food.ubc.ca/place/starbucks/,,,,SHHS,,AD-238,{8670F50D-FF34-41D7-A529-B2F639640719},49.261308099127,-123.246595335599
+117,795,Wireless Wave,retail,,,http://www.wirelesswave.ca/about-wirelesswave/,,,,Non-UBC,,AD-273,{BEED113E-D94B-47D8-9C86-9D5EAF739B68},49.2666769813598,-123.249944032142
+,,Hummingbird Child Centre,child_care,,,,,,,,,,{38BF8D1D-CAAA-4BAA-AA70-2C183B9332E8},49.2603714171927,-123.251276572956
+168,689,Dough Girls Baking,cafe,,,http://www.doughgirlsbakeshop.com/,,,,Non-UBC,,AD-351,{50A5757E-D753-40F4-8394-2F4C1FD44D6B},49.2545602769005,-123.235900842422
+263, ,Music Parking Lot,parking,,,,,,,Parking,,AD-218,{1A3DAEA9-FD8A-4312-A93A-8E87BB979371},49.2674108529015,-123.257374983445
+225,23,Sauder Exchange Cafe,cafe,,,http://www.food.ubc.ca/place/sauder-exchange-cafe/,,,,SHHS,,AD-98,{FC9DC745-1D37-4095-BB4C-711FEE8C431A},49.2650384195528,-123.253526900493
+150,,Pacific Spirit Dental,medical,,,http://www.pacificspiritdental.ca/,,,,UEL,Non-UBC,AD-135,{BE35F8B6-3782-4B67-90DF-55FA7EFF0FD2},49.2659548899067,-123.242825205889
+167,689,BierCraft,restaurant,,,http://biercraft.com/wesbrook-at-ubc/,,,,Non-UBC,,AD-354,{1AC5ADE1-A030-437E-9581-BE1E84FA3427},49.2542425787709,-123.235724176614
+270,099,Botanical Garden Parking,parking,,,,,,,Parking,,AD-120,{8B1213FC-B636-4217-AAEB-BBA9EA865558},49.2548391754145,-123.251485673274
+209,516,Ike's Cafe,cafe,,,http://www.food.ubc.ca/place/ikes/,,,,SHHS,,AD-210,{1F8F2D1F-DBA4-4729-8D2B-FFD91E8CD938},49.2672017005492,-123.25276539585
+216,904,Mercante,cafe,,,http://www.food.ubc.ca/place/mercante/,,,,SHHS,,AD-303,{766C53E1-C0B8-41AD-AADC-5AD7BF5AC9A3},49.2637626413802,-123.255015244231
+138,690,BC Liqour Store,retail,,,http://www.bcliquorstores.com/store/192,,,,Non-UBC,,AD-277,{CB3B5609-3F32-47AD-BC81-FB45EE8AA4AD},49.2545292307136,-123.236227530062
+142,,CIBC,bank,,,http://www.cibc.com/,,,,UEL,Non-UBC,AD-323,{493E486C-6B86-45D3-96D9-E62C8E535B3A},49.266410174379,-123.243781248229
+113,795,Merit Travel,commercial_services,,,http://www.merit.ca/,,,,Non-UBC,,AD-273,{DF7FA7DE-619B-4874-ADAA-0B444627EB75},49.2666864353001,-123.249949450261
+228,121-1,Stir It Up,cafe,,,http://www.food.ubc.ca/place/stir-it-up-cafe/,,,,SHHS,,AD-123,{BD0F7862-7C28-43D6-B899-30C7D1262414},49.2683574571169,-123.254740910264
+149,,House of Vision,retail,,,http://houseofvisionoptical.com/,,,,UEL,Non-UBC,AD-816,{059C135F-A14C-4A3A-AB1E-7BCBBBB791A5},49.2660002257806,-123.242307612629
+265,052,Fraser River Parkade,parking,,,,,,,Parking,,AD-109,{C00156A6-19C8-4FA7-90A0-52DE8CBF1EE9},49.266280269011,-123.258367660774
+266,467,Health Sciences Parkade,parking,,,,,,,Parking,,AD-199,{EFA86C39-4B54-4A61-A6AE-DC19660C7758},49.263026734782,-123.24742409684
+172,690,Chef Hung Taiwanese Beef Noodle,restaurant,,,http://www.chefhungnoodle.com/eng/,,,,Non-UBC,,AD-50,{DAFF28AF-A336-408F-9C9A-F4D57C40A329},49.2543222123371,-123.236284896447
+195,199,Mahony and Sons,restaurant,,,http://mahonyandsons.com/,,,,Non-UBC,,AD-327,{36D17B2F-BD01-4A46-84F4-22E813017C61},49.2659582218586,-123.246762186652
+161,,One More Sushi ,restaurant,,,http://onemoresushi.ca/,,,,UEL,Non-UBC,AD-135,{8C049B70-19B8-43B6-A883-E0AAE82DC3A0},49.2660243175676,-123.242526737341
+182,,A&W,cafe,,,http://www.aw.ca/,,,,UEL,Non-UBC,AD-323,{10606988-338D-4765-9C09-E02065DEFD45},49.2664700695944,-123.243436667678
+126,689,Kabro Salon,commercial_services,,,http://www.kabrosalon.com/,,,,Non-UBC,,AD-342,{83F1DE48-A5E2-4262-8AD7-6BBD33B4C1D6},49.2546890902822,-123.235616122326
+268,785,Thunderbird Stadium Parking,parking,,,,,,,Parking,,,{CB525073-C6B8-49AD-BA81-65F446BBFB58},49.2548976478969,-123.244231055851
+147,,Gold's Gym,commercial_services,,,http://goldsgymbc.ca/,,,,UEL,Non-UBC,AD-816,{7E84A6D0-91C6-42FF-9691-9DABA87A7288},49.2663197479528,-123.242307772507
+127,593-1,Wesbrook Village Dental Ctr,commercial_services,,,http://www.wesbrookvillagedental.com/,,,,Non-UBC,,AD-360,{14A428CD-6811-44A2-AF8E-1FA3D84DF3A6},49.2547580817449,-123.235293098624
+146,,Staples,commercial_services,,,http://www.staples.ca/,,,,UEL,Non-UBC,AD-816,{EF1FBA68-6F70-4C72-ADDB-3D6B9D208395},49.2662602365141,-123.242196664512
+98,593-2,Wesbrook Village Welcome Centre,attractions,,,http://www.wesbrookvillage.com/,,,,UBCPT,,AD-236,{E31DECE1-7FFE-446C-A79E-6796FF4723F4},49.2541616981901,-123.2348075579
+11,593-1,Running Room,retail,,,http://www.runningroom.com/hm/inside.php?id=4442,,,,Non-UBC,,AD-358,{E551A27C-D0DA-4AE8-9848-546D23FBF916},49.2549509085061,-123.235399695678
+185,344,Sage Bistro,restaurant,,,http://www.food.ubc.ca/place/sage/,,,,SHHS,,AD-166,{FB1FEAA7-6F9B-4677-A076-F04AD7DFD7B4},49.2687061690439,-123.257040585531
+178,,Starbucks,cafe,,,http://www.food.ubc.ca/place/starbucks/,,,,UEL,Non-UBC,AD-135,{D91A8AEC-BED8-420A-9D4F-635C335F50F0},49.2658502191965,-123.242749304992
+268,900,West Parkade,parking,,,,,,,Parking,,AD-301,{ECCD4504-E867-4F5E-8F8C-FA31C0069B7C},49.2628943630006,-123.255613518597
+221,790,Subway,cafe,,,http://www.food.ubc.ca/place/subway/,,,,SHHS,,AD-271,{B39DD64B-9334-4238-B69F-E6882B20742F},49.2673931802782,-123.249748830904
+120,689,More Bikes,retail,,,http://www.morebikes.ca/,,,,Non-UBC,,AD-353,{2A59EC0B-1C5D-4A65-BB45-4153D21B1EBF},49.2544723023129,-123.235883389856
+264,792,North Parkade,parking,,,,,,,Parking,,AD-272,{3615A4E3-190B-43E6-AD50-77772F24C756},49.2688059696241,-123.250490570653
+112,,Khorana Park Playground,park,,,http://wesbrook.app2.thoughtshop.com/posts/khorana-park#.VYm4W_m4S70,,,,UNA,,AD-33,{5C219840-C9FC-4A90-BEBF-203319E15ABB},49.2553529096715,-123.232272643476
+,,University Village various venues,retail,,,,,,,,,,{02883A53-BD2C-4462-A972-989656D89591},49.266260700548,-123.242792042141
+131,689,Careville Health Clinic,medical,,,http://www.carevillehealth.com/,,,,Non-UBC,,AD-341,{D0F444FF-3356-4489-B983-BA3B54950B7B},49.2547802887452,-123.235681669621
+169,593-1,Jugo Juice,cafe,,,http://www.jugojuice.com/en/locations/british-columbia,,,,Non-UBC,,AD-361,{C23448B7-5A9E-4CEB-8357-2EBBA2363F3C},49.2544702434261,-123.235057998011
+250,795,Pie R Squared,cafe,,,http://www.ams.ubc.ca/foodanddrink/piersquared/#,,,,AMS,,AD-102,{CEC30D2A-F494-4C55-AB2F-C6A094F66D72},49.2666078368357,-123.249763560848
+156,,Discount Textbooks,retail,,,http://www.discounttextbooks.ca/,,,,UEL,Non-UBC,AD-135,{0AD00C10-16C7-4685-9205-894B8B1863C5},49.2659170066124,-123.243061334306
+101,199,Nobel Biocare Oral Health Centre,commercial_services,,,http://www.dentistry.ubc.ca/treatment/about/,,,,UBC,,AD-323,{7E82E9EC-982B-4A52-B308-68A24AE0BF66},49.2659071282856,-123.245575747537
+186,344,Ideas Lunch & Wine Bar,restaurant,,,http://www.food.ubc.ca/place/ideas-lunch-wine-bar/,,,,SHHS,,AD-166,{86C2DD07-FE4D-4033-B3D9-4C54F49D2514},49.2689033934431,-123.256783720736
+124,593-1,Insure BC,commercial_services,,,http://www.insurebc.ca/,,,,Non-UBC,,AD-359,{FE986EC1-A152-4132-A4F5-204DD0E33304},49.2548419755911,-123.235361625725
+12,686,RBC,bank,,,http://www.rbcroyalbank.com/personal.html,,,,Non-UBC,,AD-230,{A74214FB-8608-4B48-901D-52122C031EE9},49.2550085181848,-123.23598451126
+,,St. John's College,school/college,,,http://stjohns.ubc.ca/,,,,,,,{BF33EF60-D283-44B0-AEF4-1CD0ABA335AB},49.262808439527,-123.256264164302
+171,627,Bean Around The World,cafe,,,http://batw.ca/,,,,Non-UBC,,AD-43,{80129C81-8E09-44AC-A4D5-F53DAF052B08},49.2588539261912,-123.248047770581
+194,81,Corner Store,minimart,,,http://shop.bookstore.ubc.ca/c-471-corner-store.aspx,,,,SHHS,,AD-116,{9AB5D224-316B-4F19-96D7-86A3A98601B1},49.2652127015035,-123.250784867075
+108,,Nobel Park Playground + Baseball Field,park,,,http://wesbrook.app2.thoughtshop.com/posts/nobel-park#.VYm4Wfm4S70,,,,UNA,,AD-310,{12781C23-D56C-4FE9-8B99-3D1D4E02DE14},49.2502835773542,-123.23419505221
+,,Wesbrook Village various venues,retail,,,,,,,,,,{D37ABCC4-D78E-439C-94EB-7A6272EBC1D2},49.254417695195,-123.235264333238
+91,199,Scotia Bank,bank,,,"http://www.scotiabank.com/ca/en/0,,2,00.html",,,,Non-UBC,,AD-325,{3DD1447B-6FB4-4B42-A9D6-D21BAA55B84C},49.2660498398454,-123.246144824591
+249,795,Grand Noodle Emporium,cafe,,,http://www.ams.ubc.ca/foodanddrink/grandnoodle/,,,,AMS,,AD-102,{FBA5A766-9645-4366-8655-4AFC20BAAC70},49.2666078368357,-123.249763560848
+13,790,The Bike Kitchen,commercial_services,,,http://thebikekitchen.com/,,,,AMS,,AD-271,{E4A5DC5E-9D86-41BF-B54A-1A1954F4FCEB},49.2683245222575,-123.252136731571
+166,,Mini Super,minimart,,,http://www.facebook.com/pages/Mini-Super-at-UBC/249485448568472?sk=timeline&amp;ref=page_internal,,,,UEL,Non-UBC,AD-323,{76FA900D-8199-4793-AE6A-B85CC1A8244B},49.2666446610593,-123.242674758308
+226,313,Starbucks,cafe,,,http://www.food.ubc.ca/place/starbucks/,,,,SHHS,,AD-160,{1CDFC81E-DC77-47C0-8D96-91FA0D3C41BC},49.262135309698,-123.250175199884
+202,81,Starbucks,cafe,,,http://www.food.ubc.ca/place/starbucks/,,,,SHHS,,AD-116,{641CB5C9-2DA2-4081-B63D-23D4A2FA4E7C},49.2651914346951,-123.250847586671
+41,852,University Fire Hall #10,campus_services,,,http://www.vanffcpr.org/location/location.php?id=10,,,,Non-UBC,,AD-286,{517CF01B-E1CA-4737-B5B4-CE810B8A4296},49.2590905720413,-123.237775014192
+174,,McDonald's,cafe,,,http://www.mcdonalds.ca/ca/en.html,,,,UEL,Non-UBC,AD-323,{5FA41F61-ED81-4FBF-83DB-4CEC6FBADFEC},49.2667052752948,-123.242511525403
+242,795,Upper Case Cafe,cafe,,,http://www.ams.ubc.ca/foodanddrink/uppercase/,,,,AMS,,AD-102,{351A850E-AE44-44A9-B9B8-8E22752A92A7},49.2666078368357,-123.249763560848
+83,418,Green College,housing_student,,,http://www.greencollege.ubc.ca/,,,,SHHS,,AD-5,{A79B41E9-F535-42C1-95A1-BA6786FA4CF0},49.2709220594641,-123.256407285595
+241,795,The Pit,restaurant,,,http://www.the-pit.ca/,,,,AMS,,AD-273,{774ABD4E-B8BD-4443-BD30-822632CA438E},49.2667615412836,-123.250105116844
+,,Admissions (Undergraduate) ,campus_services,,,https://www.grad.ubc.ca,,,,,,,{F90F38F9-CDF0-49A3-A0E0-556FCCDBA712},49.2686318354029,-123.252197351951
+183,,Blenz,cafe,,,http://blenz.com/,,,,UEL,Non-UBC,AD-323,{7778E22F-8FE5-4A36-ACA0-82F831B3F8AD},49.2664558197625,-123.243576482044
+189,408,Seedlings,restaurant,,,http://www.ubcsprouts.ca/initiatives/seedlings/,,,,Non-UBC,,AD-179,{8D2CC77B-A071-44AB-894F-AC4766F4160F},49.268547689903,-123.257697100604
+245,795,Flipside,cafe,,,http://www.ams.ubc.ca/foodanddrink/flipside/,,,,AMS,,AD-102,{D141C79E-B510-4581-A47A-EEF7475B6983},49.2666078368357,-123.249763560848
+210,473,IRC Snack Bar,cafe,,,http://www.food.ubc.ca/place/irc-snackbar/,,,,SHHS,,AD-220,{75B7EF44-DD9C-4579-ADB9-4CE02091E640},49.2647956303628,-123.247298500315
+115,795,On the Fringe,commercial_services,,,http://www.onthefringehairdesign.com/,,,,Non-UBC,,AD-273,{4B1CA008-DD96-4651-A81C-C8CD854DFA50},49.2666790383957,-123.249938288671
+,,Chapman Learning Commons,libraries,,,http://hours.library.ubc.ca/#view-chapman,,,,,,,{046919A1-9955-4364-A219-9C1158B4157B},49.2676270845059,-123.252929612104
+196,540-1,Magda's,minimart,,,http://www.food.ubc.ca/place/magdas/,,,,SHHS,,AD-223,{0CD77121-EAA6-4721-8C20-88E0B82DE56C},49.2578796099234,-123.252812100414
+263, ,Cecil Green Parking Lot,parking,,,,,,,Parking,,AD-218,{B9148EB7-470F-4DB9-ADBA-40221FE48A00},49.2708355514935,-123.257764937224
+267,551,Thunderbird Parkade,parking,,,,,,,Parking,,AD-224,{30BB6767-60EB-4A7A-80EC-DE615999E7E3},49.2611432050817,-123.243431372175
+246,795,Liquid Nutrition,cafe,,,http://www.liquidnutrition.com/,,,,Non-UBC,,AD-102,{824E5134-A7B9-4CEE-A2C3-2ED9C4490EBC},49.2666078368357,-123.249763560848
+153,,Little Mountain Learning Academy ,commercial_services,,,http://www.lmacademics.com/,,,,UEL,Non-UBC,AD-135,{4EC2FAF0-4E75-4A7F-A4FC-9F304F27357B},49.2657975798515,-123.243049374863
+38,852,RCMP,campus_services,,,http://university.bc.rcmp-grc.gc.ca/,,,,Non-UBC,,AD-286,{AE781FC9-5619-430F-B137-8C81E389CCA4},49.2589283321803,-123.238062993281
+125,593-1,éliane Hair & Spa,commercial_services,,,http://www.elianehairspa.ca/,,,,Non-UBC,,AD-235,{65BFE2A5-8DC8-4C7E-969C-D003818037FF},49.2545729806168,-123.235106194389
+191,544,Vanier's Dining Room,restaurant,,,http://www.food.ubc.ca/place/vaniers-dining-room/,,,,SHHS,,AD-19,{B4E723BD-789B-484E-8031-D0E6BC7AFE41},49.2648806703784,-123.258818200224
+212,482,Law Cafe,cafe,,,http://www.food.ubc.ca/place/law-cafe/,,,,SHHS,,AD-203,{A277DA9A-94F2-4049-8D15-D2C8992539DF},49.2698179702511,-123.253629199752
+163,,5 Tastes,restaurant,,,http://5tastes.ca/,,,,UEL,Non-UBC,AD-135,{D4D09029-EE26-4868-ACEE-F2C2F4538D45},49.2662215015513,-123.242951928299
+136,795,Grocery Checkout,grocery,,,https://www.grocerycheckout.com/default.aspx,,,,Non-UBC,,AD-273,{B6D4F394-A88B-4804-B3C5-70E716D5E07D},49.2663384807268,-123.249566189154
+214,225,Magma Cafe,cafe,,,http://www.food.ubc.ca/place/magma-cafe/,,,,SHHS,,AD-178,{C7283DDC-DB2C-4FB8-AE32-4949B7AA082E},49.2626468570992,-123.251833852001

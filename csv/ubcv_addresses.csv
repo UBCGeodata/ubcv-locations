@@ -243,7 +243,7 @@ AD-302,901,West Mall Swing Space Building,2175,West,Mall,2175 West Mall,Vancouve
 AD-303,903,Ponderosa Commons - Audain Art Centre,6398,University,Boulevard,6398 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{F8ECC8EC-7999-4F10-ACF9-EFABFD0007DF}
 AD-0,114,Brock Commons - Tallwood House,6088,Walter Gage,Road,6088 Walter Gage Road,Vancouver,BC,V6T 1Z1,Academic,Student Housing,306,,Future,{1E2ACA34-70CE-44EA-81BE-E4CCD8A00592}
 AD-4,215,Central (Site B),6015,University,Boulevard,6015 University Boulevard,Vancouver,BC,,University Blvd,Housing,98,,Future,{874E8AAE-7DEA-4F0E-868E-9C0865A6A572}
-AD-5,418,Green College,6201,Cecil Green Park,Road,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,Student Housing,89,,Current,{AF91BDC0-CB0B-4696-AAC4-BD8F43DF0CF0}
+AD-5,418,Green College,6201,Cecil Green Park,Road,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,Student Housing,89,<Null>,Current,{AF91BDC0-CB0B-4696-AAC4-BD8F43DF0CF0}
 AD-275,817-1,St. Andrew's Hall,6040,Iona,Drive,6040 Iona Drive,Vancouver,BC,V6T 2E8,Chancellor Place,Housing,38,,Current,{0E3150A0-6CE1-4B5C-8400-0CBD4166D36D}
 AD-36,806,Carey Hall,1815,Wesbrook,Mall,1815 Wesbrook Mall,Vancouver,BC,V6T 1J6,Chancellor Place,Non-UBC,0,,Current,{6368137D-79A3-4276-B89B-E84256B991FE}
 AD-23,555,Vista Point,5828,Thunderbird,Boulevard,5828 Thunderbird Boulevard,Vancouver,BC,V6T 0B8,East Campus,Housing,106,,Current,{25F761E2-4BD0-4B41-B520-ADA59DE7322E}
@@ -317,17 +317,17 @@ AD-319,353,Forest Sciences Centre - CAWP - secondary address for emergency,6247,
 AD-320,783,Housing Warehouse,2440,West,Mall,2440 West Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{372329AA-69A0-4068-B48C-734234900997}
 AD-321,839,Corus Apartments,5989,Walter Gage,Road,5989  Walter Gage Road,Vancouver,BC,V6T 0A8,Chancellor Place,Housing,51,,Current,{C6D2A5C4-0701-47B7-8F64-4371B04634BA}
 AD-322,824,Chancellor Hall Apartments,5989,Iona,Drive,5989  Iona Drive,Vancouver,BC,V6T 2L7,Chancellor Place,Housing,42,,Current,{AA51B3DF-0679-469B-B2E7-E8AFE6D82EE5}
-AD-324,199,David Strangway - Retail,5940,University,Boulevard,5940 University Boulevard,Vancouver,BC,V6T 1Z3,University Blvd,Commerical,0,,Current,{D780A66D-1484-4D91-8DE9-4C1B39DEFABE}
-AD-327,199,David Strangway - Retail,5990,University,Boulevard,5990 University Boulevard,Vancouver,BC,V6T 1Z3,University Blvd,Commerical,0,,Current,{46BAC208-EBA3-43B0-9743-A86922E42E31}
-AD-326,199,David Strangway - Retail,5970,University,Boulevard,5970 University Boulevard,Vancouver,BC,V6T 1Z3,University Blvd,Commerical,0,,Current,{1C3BDE02-0B77-4B07-A9C1-4041DBCC5563}
-AD-325,199,David Strangway - Retail,5960,University,Boulevard,5960 University Boulevard,Vancouver,BC,V6T 1Z3,University Blvd,Commerical,0,,Current,{4688CBFA-0FF2-4AFF-AC28-1A46D0C6EDAD}
-AD-329,215,Central (Site B) - Retail,6005,University,Boulevard,6005University Boulevard,Vancouver,BC,,University Blvd,Commerical,0,,Future,{DB04044E-E4BA-4A3D-94C8-A2B1A114F0A5}
-AD-328,215,Central (Site B) - Retail,6001,University,Boulevard,6001 University Boulevard,Vancouver,BC,,University Blvd,Commerical,0,,Future,{4C48A3D7-A4FE-4F99-AB95-0F55082998CD}
-AD-330,215,Central (Site B) - Retail,6025,University,Boulevard,6025 University Boulevard,Vancouver,BC,,University Blvd,Commerical,0,,Future,{6E523836-792F-46D4-AD37-741AC9161C53}
-AD-331,215,Central (Site B) - Retail,6035,University,Boulevard,6035 University Boulevard,Vancouver,BC,,University Blvd,Commerical,0,,Future,{59FC7A7A-E6A5-4392-ADE7-15462195A750}
-AD-332,215,Central (Site B) - Retail,6045,University,Boulevard,6045 University Boulevard,Vancouver,BC,,University Blvd,Commerical,0,,Future,{27ECED8C-9D03-4A11-B021-3CAF28E0C4FC}
-AD-333,215,Central (Site B) - Retail,6055,University,Boulevard,6055 University Boulevard,Vancouver,BC,,University Blvd,Commerical,0,,Future,{AFBD4FA9-FF00-4C96-87C0-26013E394C59}
-AD-334,215,Central (Site B) - Retail,6065,University,Boulevard,6065 University Boulevard,Vancouver,BC,,University Blvd,Commerical,0,,Future,{7BFAE22D-EFF1-4DD0-9A9F-5F78BD88820F}
+AD-324,199,David Strangway - Retail,5940,University,Boulevard,5940 University Boulevard,Vancouver,BC,V6T 1Z3,University Blvd,Commercial,0,,Current,{D780A66D-1484-4D91-8DE9-4C1B39DEFABE}
+AD-327,199,David Strangway - Retail,5990,University,Boulevard,5990 University Boulevard,Vancouver,BC,V6T 1Z3,University Blvd,Commercial,0,,Current,{46BAC208-EBA3-43B0-9743-A86922E42E31}
+AD-326,199,David Strangway - Retail,5970,University,Boulevard,5970 University Boulevard,Vancouver,BC,V6T 1Z3,University Blvd,Commercial,0,,Current,{1C3BDE02-0B77-4B07-A9C1-4041DBCC5563}
+AD-325,199,David Strangway - Retail,5960,University,Boulevard,5960 University Boulevard,Vancouver,BC,V6T 1Z3,University Blvd,Commercial,0,,Current,{4688CBFA-0FF2-4AFF-AC28-1A46D0C6EDAD}
+AD-329,215,Central (Site B) - Retail,6005,University,Boulevard,6005University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{DB04044E-E4BA-4A3D-94C8-A2B1A114F0A5}
+AD-328,215,Central (Site B) - Retail,6001,University,Boulevard,6001 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{4C48A3D7-A4FE-4F99-AB95-0F55082998CD}
+AD-330,215,Central (Site B) - Retail,6025,University,Boulevard,6025 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{6E523836-792F-46D4-AD37-741AC9161C53}
+AD-331,215,Central (Site B) - Retail,6035,University,Boulevard,6035 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{59FC7A7A-E6A5-4392-ADE7-15462195A750}
+AD-332,215,Central (Site B) - Retail,6045,University,Boulevard,6045 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{27ECED8C-9D03-4A11-B021-3CAF28E0C4FC}
+AD-333,215,Central (Site B) - Retail,6055,University,Boulevard,6055 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{AFBD4FA9-FF00-4C96-87C0-26013E394C59}
+AD-334,215,Central (Site B) - Retail,6065,University,Boulevard,6065 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{7BFAE22D-EFF1-4DD0-9A9F-5F78BD88820F}
 AD-336,694,MBA House - Retail,3380,Shrum,Lane,3380 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{2E76B1A9-7980-400B-A679-727827718454}
 AD-335,686,Granite Terrace 2 - Offices,5923,Berton,Avenue,5923 Berton Avenue,Vancouver,BC,V6S 0B3,Wesbrook Place,Commercial,0,,Current,{C76F952C-2846-4C0F-8E9F-78BDA4380F0D}
 AD-337,694,MBA House - Retail,3388,Shrum,Lane,3388 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{79099E92-F949-4F21-A010-D1AC95C9C635}
@@ -1018,4 +1018,6 @@ AD-1016,,Focal (Site D) - Retail,6103,University,Boulevard,6103 University Boule
 AD-1018,,Focal (Site D) - Retail,6113,University,Boulevard,6113 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{85E602CB-6CBA-4C92-B1A4-0CF71D952389}
 AD-1019,,Focal (Site D) - Retail,6117,University,Boulevard,6117 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{D5D8EEA3-065D-4171-A0A0-EB519004945E}
 AD-1020,,Focal (Site D) - Retail,6123,University,Boulevard,6123 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{E3EF7081-34BD-4AF2-9981-F815DCA22E48}
-AD-1025,789,Main Substation,2446,Health Sciences,Mall,2446 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,Academic,0,,Current,{AAA9DF6A-5D12-4B33-8945-F71AE870A91D}
+,419,Green College - Principal's Residence,6205,Cecil Green Park,Road,6205 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,Student Housing,,,Current,{DA6B5265-A8ED-4FE7-83B7-ECE27326609C}
+,783,Thunderbird Residence - B2 Store,6315,Thunderbird,Crescent,6315 Thunderbird Crescent,Vancouver,BC,V6T 2G9,Academic,Student Housing,,,Current,{ED91A56B-1144-4395-B078-183C710A72BC}
+,,Polygon Homes Sales Centre,5696,Berton,Avenue,5696 Berton Avenue,Vancouver,BC,V6S 0E5,Wesbrook Place,Housing,,,Current,{EC68E867-BD41-413B-AE36-60383DAEA3DC}
