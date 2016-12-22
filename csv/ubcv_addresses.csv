@@ -11,7 +11,7 @@ AD-11,504,The Chatham,5775,Hampton,Place,5775 Hampton Place,Vancouver,BC,V6T 2G6
 AD-12,505,The Bristol,5735,Hampton,Place,5735 Hampton Place,Vancouver,BC,V6T 2G8,Hampton Place,Housing,133,,Current,{D5C4ED82-9D91-4BA7-B15C-E4514C83990B}
 AD-15,507,The Regency,5639,Hampton,Place,5639 Hampton Place,Vancouver,BC,V6T 2H6,Hampton Place,Housing,120,,Current,{A005D673-F17A-4600-BA81-2DE625F82B0D}
 AD-16,508,The Balmoral,5615,Hampton,Place,5615 Hampton Place,Vancouver,BC,V6T 2H1,Hampton Place,Housing,84,,Current,{4C56F086-A7A2-4564-95B2-ACB0681BA8C7}
-AD-17,509,Pemberley,5605,Hampton,Place,5605 Hampton Place,Vancouver,BC,V6T 2H2,Hampton Place,Housing,72,,Current,{05251C3F-D184-4A64-AA07-6BE98A8D0BB6}
+AD-17,509,The Pemberley,5605,Hampton,Place,5605 Hampton Place,Vancouver,BC,V6T 2H2,Hampton Place,Housing,72,,Current,{05251C3F-D184-4A64-AA07-6BE98A8D0BB6}
 AD-18,534,TRIUMF House,5835,Thunderbird,Boulevard,5835 Thunderbird Boulevard,Vancouver,BC,V6T 2L6,East Campus,Housing,0,,Current,{478F4430-6F28-4F76-AAAD-A1F661EAC2DF}
 AD-19,544,Place Vanier Residence,1935,Lower,Mall,1935 Lower Mall,Vancouver,BC,V6T 1X1,Academic,Student Housing,1276,,Current,{40A2B790-1CF0-4B2C-8A8C-B0D3A844E964}
 AD-20,550,Sitka,5868,Agronomy,Road,5868 Agronomy Road,Vancouver,BC,V6T 0B5,East Campus,Housing,81,,Current,{FE15502D-272A-48D9-84F3-F344F00FB926}
@@ -33,7 +33,7 @@ AD-45,630,Legacy,6333,Larkin,Drive,6333 Larkin Drive,Vancouver,BC,V6T 0A7,Hawtho
 AD-46,687,Save-on-Foods,5945,Berton,Avenue,5945 Berton Avenue,Vancouver,BC,V6S 0B3,Wesbrook Place,Commercial,0,,Current,{57DFB5A4-7184-4DFD-9769-EDBA66AEA464}
 AD-47,690,Save-on-Foods - Moveator and Underground Parking Annunciator,5940,Berton,Avenue,5940 Berton Avenue,Vancouver,BC,V6S 0B3,Wesbrook Place,Annunciator,0,,Current,{C20631BF-2DD2-45F1-BC89-C8BDDC67C127}
 AD-48,687,Granite Terrace,3233,Wesbrook,Mall,3233 Wesbrook Mall,Vancouver,BC,V6S 0B4,Wesbrook Place,Housing,77,,Current,{05AE8983-3D41-42F6-A3F0-AF1ECB48B4CE}
-AD-49,689,Mews,3333,Wesbrook,Mall,3333 Wesbrook Mall,Vancouver,BC,V6S 0E3,Wesbrook Place,Housing,72,,Current,{848D41A1-7214-4AD6-9DD7-00CE2B34C853}
+AD-49,689,The Mews,3333,Wesbrook,Mall,3333 Wesbrook Mall,Vancouver,BC,V6S 0E3,Wesbrook Place,Housing,72,,Current,{848D41A1-7214-4AD6-9DD7-00CE2B34C853}
 AD-53,694,MBA House - Retail,3381,Wesbrook,Mall,3381 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{66446235-CD20-4A13-BFA5-CC0145FE625D}
 AD-54,694,MBA House - student residence,3385,Wesbrook,Mall,3385 Wesbrook Mall,Vancouver,BC,V6T 1Z4,Wesbrook Place,Student Housing,81,,Current,{A2CE2052-23CE-463A-8F8B-0C832F0ABB10}
 AD-58,699,Pacific,5928,Birney,Avenue,5928 Birney Avenue,Vancouver,BC,V6S 0B5,Wesbrook Place,Housing,91,,Current,{265432B6-52B0-4A2E-858F-687BC10B618C}
@@ -62,7 +62,7 @@ AD-91,011,Acadia Community Centre,2707,Tennis,Crescent,2707 Tennis Crescent,Vanc
 AD-92,013,Kids Club,2855,Acadia,Road,2855 Acadia Road,Vancouver,BC,V6T 1S1,Academic,UBC,0,,Current,{85AA8ED0-864A-4A23-A576-8CA9D4C77B2E}
 AD-93,017,Old Administration Building,6328,Memorial,Road,6328 Memorial Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{4BDC45CF-2D36-4DF0-B96A-924C0DC034A0}
 AD-94,019,Bioenergy Research and Demonstration Facility,2337,Lower,Mall,2337 Lower Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{A997F7B9-9536-430F-9124-E53CB2C865F8}
-AD-95,020,Brimacombe Building (The),2355,East,Mall,2355 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{AC1D7A89-2CD0-473A-BA4A-C46DFE6731BC}
+AD-95,020,The Brimacombe Building,2355,East,Mall,2355 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{AC1D7A89-2CD0-473A-BA4A-C46DFE6731BC}
 AD-96,021,Landscape Architecture Annex,2371,Main,Mall,2371 Main Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{B46B6166-7CA6-4C30-859B-5E1A4A600E04}
 AD-97,022,Lower Mall Research Station,2259,Lower,Mall,2259 Lower Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{6566FDCA-0013-41F1-A50A-067C573A8E0C}
 AD-98,023,Henry Angus Building,2053,Main,Mall,2053 Main Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{EE85BB06-C146-4467-ADA2-5CD5062C914B}
@@ -79,7 +79,7 @@ AD-108,051,The Barn,2323,Main,Mall,2323 Main Mall,Vancouver,BC,V6T 1Z4,Academic,
 AD-109,052,Fraser River Parkade,6440,Memorial,Road,6440 Memorial Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{8F18DE16-2EED-4D56-85C2-A99B28BA3F37}
 AD-110,057,Centre for Comparative Medicine,4145,Wesbrook,Mall,4145 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,UBC,0,,Current,{DD3C0238-62A9-4A28-BF40-2363C3D0883A}
 AD-111,066,Biological Sciences Building,6270,University,Boulevard,6270 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{455EF735-83C5-4604-8547-C72A5373F291}
-AD-113,077-1,UBC Botanical Garden Nursery,3929,Wesbrook,Mall,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,UBC,0,,Current,{7CF428E9-499A-4E81-A8D7-C1FC6E2E424B}
+AD-113,077-1,UBC Botanical Garden Greenhouses,3929,Wesbrook,Mall,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,UBC,0,,Current,{7CF428E9-499A-4E81-A8D7-C1FC6E2E424B}
 AD-115,076,Botanical Garden Scholars' Retreat,6380,Stadium,Road,6380 Stadium Road,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{2156D965-8D3D-4C4B-A4F8-8929D73BC226}
 AD-116,081,UBC Bookstore,6200,University,Boulevard,6200 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{34D127B5-73F3-4097-B57D-E8267D8C42B5}
 AD-117,081,Networks of Centres of Excellence,2125,East,Mall,2125 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{2C17A689-2DEC-4D74-B053-1CE3EDD4A014}
@@ -117,7 +117,7 @@ AD-153,301,Wayne and William White Engineering Design Centre,2345,East,Mall,2345
 AD-154,305,Earthquake Engineering Research Facility,2235,East,Mall,2235 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{AD720201-5DC6-446B-B1A2-E9F9F2963CAF}
 AD-155,306,Civil and Mechanical Engineering Building,6250,Applied Science,Lane,6250 Applied Science Lane,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{7717CB28-66ED-4376-9EF7-9C6A0177E9B3}
 AD-156,307,Civil and Mechanical Engineering Labs,2275,East,Mall,2275 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{9F192EE2-0C57-4666-ABDC-C9834635165E}
-AD-157,308-1,Leonard S. Klinck Building (The),6356,Agricultural,Road,6356 Agricultural Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{0E06C4C2-4DFD-432F-B4A1-2AC5BDCD5510}
+AD-157,308-1,The Leonard S. Klinck Building,6356,Agricultural,Road,6356 Agricultural Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{0E06C4C2-4DFD-432F-B4A1-2AC5BDCD5510}
 AD-159,312,MacLeod Building,2356,Main,Mall,2356 Main Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{00D71073-2C75-41B5-85CF-FE5E34274724}
 AD-160,313,Fred Kaiser Building (The),2332,Main,Mall,2332 Main Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{D25BEEB2-266F-4ECE-A9E6-979666DA2095}
 AD-161,314,Beaty Biodiversity Centre,2212,Main,Mall,2212 Main Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{C2A2CFD1-89DD-4FD5-8C87-AC58DF76A466}
@@ -146,8 +146,8 @@ AD-185,434,Gerald McGavin UBC Rugby Centre,2765,Wesbrook,Mall,2765 Wesbrook Mall
 AD-187,445,Hillel House,6145,Student Union,Boulevard,6145 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,Non-UBC,0,,Current,{F3AE7C85-48B1-488C-8E21-236A9A858473}
 AD-188,447,"Chemistry A Block, Chemistry Physics Building",6221,University,Boulevard,6221 University Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{FD63632F-E5B7-4954-99D5-1A2FA3C72141}
 AD-189,449,"Food, Nutrition and Health Building",2205,East,Mall,2205 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{B69EDC47-E2AA-4A37-9CA7-ECE8F7DBA967}
-AD-190,450-1,Acadia House - 2700,2700,Acadia,Road,2700 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Student Housing,12,,Current,{ADCE0424-28B5-403D-BF61-2D4227E57BC6}
-AD-192,450-3,Acadia House - 2720,2720,Acadia,Road,2720 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Student Housing,12,,Current,{19C800C1-523C-428A-9715-B07AAD33C9C2}
+AD-190,450-1,Acadia House,2700,Acadia,Road,2700 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Student Housing,12,,Current,{ADCE0424-28B5-403D-BF61-2D4227E57BC6}
+AD-192,450-3,Acadia House,2720,Acadia,Road,2720 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Student Housing,12,,Current,{19C800C1-523C-428A-9715-B07AAD33C9C2}
 AD-193,456,Horticulture Building,6394,Stores,Road,6394 Stores Road,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{E5F895EF-DB65-4222-92E6-4B6D411ACBAB}
 AD-194,458,Donald Rix Building,2389,Health Sciences,Mall,2389 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,Non-UBC,0,,Current,{2821B5C1-54F0-42FB-BAA1-B23A5D09FC8C}
 AD-195,461,Biomedical Research Centre,2222,Health Sciences,Mall,2222 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{935F9565-D1CA-4A87-B40A-76BAA368612F}
@@ -186,7 +186,7 @@ AD-229,575,Music Building,6361,Memorial,Road,6361 Memorial Road,Vancouver,BC,V6T
 AD-234,591,NRC Institute for Fuel Cell Innovation,4250,Wesbrook,Mall,4250 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,Non-UBC,0,,Current,{639500D7-FF52-4273-B591-0D9E67C8A0D4}
 AD-235,593-1,Tapestry Rental,3338,Wesbrook,Mall,3338 Wesbrook Mall,Vancouver,BC,V6S 0A6,Wesbrook Place,Housing,134,,Current,{6618378E-C1C5-452C-9FE2-731F5B5E1FD8}
 AD-236,593-2,Tapestry - Retail,3378,Wesbrook,Mall,3378 Wesbrook Mall,Vancouver,BC,V6S 0A8,Wesbrook Place,Commercial,0,,Current,{610E6A43-3E2F-43E2-9883-22B1A4CC7947}
-AD-237,593-2,Tapestry,3382,Wesbrook,Mall,3382 Wesbrook Mall,Vancouver,BC,V6S 0A7,Wesbrook Place,Housing,46,,Current,{96D689CF-4CCC-47D7-B4FD-DD0622FE17D2}
+AD-237,593-2,Tapestry at Wesbrook VillageTapestry at Wesbrook VillageTapestry at Wesbrook,3382,Wesbrook,Mall,3382 Wesbrook Mall,Vancouver,BC,V6S 0A7,Wesbrook Place,Housing,46,,Current,{96D689CF-4CCC-47D7-B4FD-DD0622FE17D2}
 AD-238,606,Technology Enterprise Facility 3,6190,Agronomy,Road,6190 Agronomy Road,Vancouver,BC,V6T 1Z3,Academic,Non-UBC,0,,Current,{446AA259-C694-43F6-9B82-9DF5BB6C9C5F}
 AD-239,612,MT Innovations,3800,Wesbrook,Mall,3800 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,Non-UBC,0,,Current,{6D2A09F4-0C07-4AF7-BADA-5E18758C88B5}
 AD-240,614,Mary Bollert Hall,6253,NW Marine,Drive,6253 NW Marine Drive,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{C1DDC25A-8B55-4CCF-BC4E-A5DC9E0D1B78}
@@ -216,7 +216,7 @@ AD-269,785,Thunderbird Stadium,6288,Stadium,Road,6288 Stadium Road,Vancouver,BC,
 AD-270,789,Main Substation,2446,Health Sciences,Mall,2446 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{3788AAE3-4D9D-4B35-8BC7-BBFA6C4A8029}
 AD-271,790,Student Union Building - Old (SUB),6138,Student Union,Boulevard,6138 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{863DB643-DCC8-4DB0-8C27-442F5E3ED77F}
 AD-272,792,North Parkade,6115,Student Union,Boulevard,6115 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{FDD55A0B-F93A-4AC9-B848-497DD93780EE}
-AD-273,795,AMS Student Nest,6133,University,Boulevard,6133 University Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{861EC74E-6842-438F-BD92-5B8B91C73E32}
+AD-273,795,AMS Nest,6133,University,Boulevard,6133 University Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{861EC74E-6842-438F-BD92-5B8B91C73E32}
 AD-274,797,Robert H. Lee Alumni Centre,6163,University,Boulevard,6163 University Boulevard,Vancouver,BC,V6T 1Z1,Academic,Non-UBC,0,,Current,{E2AD1E83-A3D4-40D1-9E31-0AD23FDBB99A}
 AD-278,822-2,St. John's College,2111,Lower,Mall,2111 Lower Mall,Vancouver,BC,V6T 1Z4,Academic,Student Housing,171,,Current,{CBE222F2-CFE5-4CC9-A653-6F38AA14061B}
 AD-279,832-1,Coast Apartments West,6093,Iona,Drive,6093 Iona Drive,Vancouver,BC,V6T 0B2,Chancellor Place,Housing,29,,Current,{422F4462-034E-42F6-82BB-6A0B28B8F1B4}
@@ -298,7 +298,7 @@ AD-146,206,Child Care Services Building 2,5615,Osoyoos,Crescent,5615 Osoyoos Cre
 AD-145,206,Child Care Services Building 2,2805,Revelstoke,Court,2805 Revelstoke Court,Vancouver,BC,V6T 1S1,Academic,UBC,0,,Current,{AA286131-1013-4485-B2E9-288F7CA8D9D5}
 AD-144,205,Child Care Services Building 1,5655,Osoyoos,Crescent,5655 Osoyoos Crescent,Vancouver,BC,V6T 1S1,Academic,UBC,0,,Current,{0847838C-C289-4BA1-B297-F2192C1219E5}
 AD-143,205,Child Care Services Building 1,2815,Revelstoke,Court,2815 Revelstoke Court,Vancouver,BC,V6T 1S1,Academic,UBC,0,,Current,{3431F572-8690-4526-9BAE-F3CEDB4F674D}
-AD-191,450-2,Acadia House - 2710,2710,Acadia,Road,2710 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Student Housing,9,,Current,{FD8F5132-3A5F-49DF-A716-CF454B3554B1}
+AD-191,450-2,Acadia House,2710,Acadia,Road,2710 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Student Housing,9,,Current,{FD8F5132-3A5F-49DF-A716-CF454B3554B1}
 AD-305,,District Energy Centre - Wesbrook,3459,Ross,Drive,3459 Ross Drive,Vancouver,BC,V6T 1W5,Academic,Non-UBC,0,,Current,{9738FA86-BB96-4D1B-9DE0-E45E28AC720C}
 AD-306,,Energy and Water Services Works Yard,6027,Nurseries,Road,6027 Nurseries Road,Vancouver,BC,V6T 1W5,Academic,UBC,0,,Current,{2C2197AA-3607-41CF-B1F0-37B8118D275A}
 AD-308,862,Baseball Indoor Training Centre,3085,Wesbrook,Mall,3085 Wesbrook Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{09849D70-9C48-420D-8D36-5B60E3F010EC}
@@ -338,24 +338,24 @@ AD-361,593-1,Tapestry Rental - Retail,3348,Wesbrook,Mall,3348 Wesbrook Mall,Vanc
 AD-358,593-1,Tapestry Rental - Retail,3308,Wesbrook,Mall,3308 Wesbrook Mall,Vancouver,BC,V6S 0A8,Wesbrook Place,Commercial,0,,Current,{DC6F9187-DCEF-4B01-BAB6-07153BBC32AE}
 AD-359,593-1,Tapestry Rental - Retail,3318,Wesbrook,Mall,3318 Wesbrook Mall,Vancouver,BC,V6S 0A8,Wesbrook Place,Commercial,0,,Current,{FD8F5F14-A6D4-4F46-ADDC-0D0A21D58A0C}
 AD-360,593-1,Tapestry Rental - Retail,3328,Wesbrook,Mall,3328 Wesbrook Mall,Vancouver,BC,V6S 0A8,Wesbrook Place,Commercial,0,,Current,{47D9952D-8C80-462A-A580-09E1170D3EAF}
-AD-340,689,Mews - Retail,3311,Wesbrook,Mall,3311 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{A36A351E-E7D8-41A3-AB2D-953415765C61}
-AD-354,689,Mews - Retail,3340,Shrum,Lane,3340 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{C3A53BC8-04E7-4324-B76B-A912BBF9ACF0}
-AD-355,689,Mews - Retail,5900,Berton,Avenue,5900 Berton Avenue,Vancouver,BC,V6S 0E4,Wesbrook Place,Commercial,0,,Current,{D3486B6B-5036-499A-92E6-09E06725F36C}
-AD-356,689,Mews - Retail,5910,Berton,Avenue,5910 Berton Avenue,Vancouver,BC,V6S 0E4,Wesbrook Place,Commercial,0,,Current,{3D9F4326-FD65-4D1C-947E-5938E5A947E7}
-AD-357,689,Mews - Retail,5920,Berton,Avenue,5920 Berton Avenue,Vancouver,BC,V6S 0E4,Wesbrook Place,Commercial,0,,Current,{C97D3296-93FD-4CE3-9A95-9BBF815FA2CD}
-AD-348,689,Mews - Retail,3308,Shrum,Lane,3308 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{FE6C141D-71BF-42F8-942E-1C6EDB1B6EB5}
-AD-349,689,Mews - Retail,3312,Shrum,Lane,3312 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{928FE228-B448-43B7-84FD-120FB994D3A7}
-AD-350,689,Mews - Retail,3318,Shrum,Lane,3318 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{4B341538-1725-476E-9472-4726A5BE6976}
-AD-351,689,Mews - Retail,3322,Shrum,Lane,3322 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{FD5BD1B3-C32F-4D25-AF8C-E62589D01DD7}
-AD-352,689,Mews - Retail,3328,Shrum,Lane,3328 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{9CDE95E3-8E36-4CB4-9653-59E7A86C2D7E}
-AD-353,689,Mews - Retail,3332,Shrum,Lane,3332 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{38862AA8-2E4B-4257-8421-CD1AFBF6B77F}
-AD-347,689,Mews - Retail,3351,Wesbrook,Mall,3351 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{B3A2DDFF-31FD-4756-B411-760D90ED551F}
-AD-346,689,Mews - Retail,3339,Wesbrook,Mall,3339 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{21D2873F-38DD-496E-83B1-2F3F4A96BD15}
-AD-345,689,Mews - Retail,3337,Wesbrook,Mall,3337 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{68D264A7-CFB4-4426-9868-7922F79CE359}
-AD-344,689,Mews - Retail,3335,Wesbrook,Mall,3335 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{A9D13165-86B1-4346-86EF-28787F10725F}
-AD-343,689,Mews - Retail,3329,Wesbrook,Mall,3329 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{93D0D848-AEBD-4625-B303-D51127728337}
-AD-342,689,Mews - Retail,3323,Wesbrook,Mall,3323 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{2A768D14-5743-45A3-AF3C-485D4FBAFF29}
-AD-341,689,Mews - Retail,3317,Wesbrook,Mall,3317 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{4E443221-F73B-4469-B995-A272E1BAF8A6}
+AD-340,689,The Mews - Retail,3311,Wesbrook,Mall,3311 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{A36A351E-E7D8-41A3-AB2D-953415765C61}
+AD-354,689,The Mews - Retail,3340,Shrum,Lane,3340 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{C3A53BC8-04E7-4324-B76B-A912BBF9ACF0}
+AD-355,689,The Mews - Retail,5900,Berton,Avenue,5900 Berton Avenue,Vancouver,BC,V6S 0E4,Wesbrook Place,Commercial,0,,Current,{D3486B6B-5036-499A-92E6-09E06725F36C}
+AD-356,689,The Mews - Retail,5910,Berton,Avenue,5910 Berton Avenue,Vancouver,BC,V6S 0E4,Wesbrook Place,Commercial,0,,Current,{3D9F4326-FD65-4D1C-947E-5938E5A947E7}
+AD-357,689,The Mews - Retail,5920,Berton,Avenue,5920 Berton Avenue,Vancouver,BC,V6S 0E4,Wesbrook Place,Commercial,0,,Current,{C97D3296-93FD-4CE3-9A95-9BBF815FA2CD}
+AD-348,689,The Mews - Retail,3308,Shrum,Lane,3308 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{FE6C141D-71BF-42F8-942E-1C6EDB1B6EB5}
+AD-349,689,The Mews - Retail,3312,Shrum,Lane,3312 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{928FE228-B448-43B7-84FD-120FB994D3A7}
+AD-350,689,The Mews - Retail,3318,Shrum,Lane,3318 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{4B341538-1725-476E-9472-4726A5BE6976}
+AD-351,689,The Mews - Retail,3322,Shrum,Lane,3322 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{FD5BD1B3-C32F-4D25-AF8C-E62589D01DD7}
+AD-352,689,The Mews - Retail,3328,Shrum,Lane,3328 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{9CDE95E3-8E36-4CB4-9653-59E7A86C2D7E}
+AD-353,689,The Mews - Retail,3332,Shrum,Lane,3332 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{38862AA8-2E4B-4257-8421-CD1AFBF6B77F}
+AD-347,689,The Mews - Retail,3351,Wesbrook,Mall,3351 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{B3A2DDFF-31FD-4756-B411-760D90ED551F}
+AD-346,689,The Mews - Retail,3339,Wesbrook,Mall,3339 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{21D2873F-38DD-496E-83B1-2F3F4A96BD15}
+AD-345,689,The Mews - Retail,3337,Wesbrook,Mall,3337 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{68D264A7-CFB4-4426-9868-7922F79CE359}
+AD-344,689,The Mews - Retail,3335,Wesbrook,Mall,3335 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{A9D13165-86B1-4346-86EF-28787F10725F}
+AD-343,689,The Mews - Retail,3329,Wesbrook,Mall,3329 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{93D0D848-AEBD-4625-B303-D51127728337}
+AD-342,689,The Mews - Retail,3323,Wesbrook,Mall,3323 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{2A768D14-5743-45A3-AF3C-485D4FBAFF29}
+AD-341,689,The Mews - Retail,3317,Wesbrook,Mall,3317 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{4E443221-F73B-4469-B995-A272E1BAF8A6}
 AD-363,839,Corus Townhouses,5977,Walter Gage,Road,5977 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing,1,,Current,{9414E43E-F7F3-4A55-A983-C992DF72D252}
 AD-364,839,Corus Townhouses,5979,Walter Gage,Road,5979 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing,1,,Current,{63A86F5B-27B3-46B3-9FA3-6FDE484A6288}
 AD-365,839,Corus Townhouses,5981,Walter Gage,Road,5981 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing,1,,Current,{603421CD-9173-4757-A125-BB67180C6501}
@@ -482,15 +482,15 @@ AD-485,620,Logan Lane,6282,Logan,Lane,6282 Logan Lane,Vancouver,BC,V6T 2K9,Hawth
 AD-486,620,Logan Lane,6284,Logan,Lane,6284 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing,1,,Current,{2C99DC95-2147-4A16-B5CA-EC7056A33D97}
 AD-487,620,Logan Lane,6286,Logan,Lane,6286 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing,1,,Current,{3B6189C4-6218-4D78-A4E5-B6519A2DD387}
 AD-488,620,Logan Lane,6288,Logan,Lane,6288 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing,1,,Current,{1F7BB2A4-8064-447E-99D0-CD82BE8CD79C}
-AD-489,628,Nine On The Park,6282,Eagles,Drive,6282 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{F2693497-68BD-4D26-A642-9F8032E88338}
-AD-490,628,Nine On The Park,6284,Eagles,Drive,6284 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{CB3DA212-E8A5-4FF5-8D85-FA4809A8304B}
-AD-491,628,Nine On The Park,6286,Eagles,Drive,6286 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{E5BA9AAF-1120-49FE-B60F-FF7B269B4126}
-AD-492,628,Nine On The Park,6288,Eagles,Drive,6288 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{89A144AC-87F4-4C6D-A8FF-320B2EF42BE9}
-AD-493,628,Nine On The Park,6290,Eagles,Drive,6290 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{78C0E7A5-2067-402A-928F-AC423ABA4F66}
-AD-494,628,Nine On The Park,6292,Eagles,Drive,6292 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{C5C78386-C325-48DB-9B14-1E7B7C137A9D}
-AD-495,628,Nine On The Park,6294,Eagles,Drive,6294 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{EAB782FF-81B6-4A1A-A704-93B7C5794314}
-AD-496,628,Nine On The Park,6296,Eagles,Drive,6296 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{070B25FF-71D1-46A5-B551-3BEF98F7B970}
-AD-497,628,Nine On The Park,6298,Eagles,Drive,6298 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{DFDAB863-D99E-4AA4-B228-A8E6691417D3}
+AD-489,628,Nine on the Park,6282,Eagles,Drive,6282 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{F2693497-68BD-4D26-A642-9F8032E88338}
+AD-490,628,Nine on the Park,6284,Eagles,Drive,6284 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{CB3DA212-E8A5-4FF5-8D85-FA4809A8304B}
+AD-491,628,Nine on the Park,6286,Eagles,Drive,6286 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{E5BA9AAF-1120-49FE-B60F-FF7B269B4126}
+AD-492,628,Nine on the Park,6288,Eagles,Drive,6288 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{89A144AC-87F4-4C6D-A8FF-320B2EF42BE9}
+AD-493,628,Nine on the Park,6290,Eagles,Drive,6290 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{78C0E7A5-2067-402A-928F-AC423ABA4F66}
+AD-494,628,Nine on the Park,6292,Eagles,Drive,6292 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{C5C78386-C325-48DB-9B14-1E7B7C137A9D}
+AD-495,628,Nine on the Park,6294,Eagles,Drive,6294 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{EAB782FF-81B6-4A1A-A704-93B7C5794314}
+AD-496,628,Nine on the Park,6296,Eagles,Drive,6296 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{070B25FF-71D1-46A5-B551-3BEF98F7B970}
+AD-497,628,Nine on the Park,6298,Eagles,Drive,6298 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing,1,,Current,{DFDAB863-D99E-4AA4-B228-A8E6691417D3}
 AD-498,622,Somerset,6360,Larkin,Drive,6360 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing,1,,Current,{67A6B85B-FFCB-4221-ABE2-CC2AD1D9A692}
 AD-499,622,Somerset,6362,Larkin,Drive,6362 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing,1,,Current,{7FF542D2-2405-4E04-9D80-B3631009BD1E}
 AD-500,622,Somerset,6366,Larkin,Drive,6366 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing,1,,Current,{21B57E35-C9DC-42D9-9149-609E5674CE88}
@@ -522,34 +522,34 @@ AD-525,818,Stirling House Townhouses,6078,Iona,Drive,6078 Iona Drive,Vancouver,B
 AD-526,818,Stirling House Townhouses,6082,Iona,Drive,6082 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Housing,1,,Current,{98A731D1-7661-484A-AA77-91BF38167649}
 AD-527,818,Stirling House Townhouses,6086,Iona,Drive,6086 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Housing,1,,Current,{D3F07BD3-778A-4249-B7E5-BE2716F32290}
 AD-528,818,Stirling House Townhouses,6088,Iona,Drive,6088 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Housing,1,,Current,{74F54B72-7623-4A29-99C2-70D7DBF37CB8}
-AD-529,616,The Westchester,2560,West,Mall,2560 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{1366B525-621D-4806-B668-047FEADE18CF}
-AD-530,616,The Westchester,2562,West,Mall,2562 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{F39D899E-C9CA-441D-BAA1-CAA8A9CB8F21}
-AD-531,616,The Westchester,2566,West,Mall,2566 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{AEE891BE-E238-4B2E-9CF9-3F3A3EDDEA51}
-AD-532,616,The Westchester,2568,West,Mall,2568 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{97A33310-DB13-4A1A-AD77-DD31F4149B90}
-AD-533,616,The Westchester,2570,West,Mall,2570 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{D773F0B3-28CF-4940-9DE9-2230B35FE208}
-AD-534,616,The Westchester,2572,West,Mall,2572 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{D130D31E-3243-4F93-94D6-04075F37A6BB}
-AD-535,616,The Westchester,2576,West,Mall,2576 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{B489B755-7C9B-420F-82F3-9DF9A0BFBEB3}
-AD-536,616,The Westchester,2578,West,Mall,2578 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{5899788F-790B-450F-BE59-16806F8C18E4}
-AD-537,616,The Westchester,2580,West,Mall,2580 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{EFC2561D-54F1-4667-890A-EAD7000F67A8}
-AD-538,616,The Westchester,2582,West,Mall,2582 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{887D3AC0-A675-4558-A039-3A89DB0D8D8D}
-AD-539,616,The Westchester,2586,West,Mall,2586 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{32D005A8-0756-408F-9010-84EFA5D2D911}
-AD-540,616,The Westchester,2588,West,Mall,2588 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{2B0D0303-232F-44F0-B9A2-5D7F602982D1}
-AD-541,616,The Westchester,2590,West,Mall,2590 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{6F2653A7-EC10-4D1D-AFDC-093D0B11F788}
-AD-542,616,The Westchester,2592,West,Mall,2592 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{CDF68A4B-9B17-4F25-8DE3-360AE25A0BC5}
-AD-543,616,The Westchester,2596,West,Mall,2596 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{C0DC94B6-0E04-4ED1-AC8A-BFBD0DDD7E18}
-AD-544,616,The Westchester,2598,West,Mall,2598 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{379BB53B-3247-4B5B-959F-4FDFBCE874CB}
-AD-545,616,The Westchester,6361,Larkin,Drive,6361 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{F02ACE0F-56E6-4429-ADE8-1B2BC5C6BC90}
-AD-546,616,The Westchester,6363,Larkin,Drive,6363 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{BA9CF304-754D-4DEC-8341-A9E598170506}
-AD-547,616,The Westchester,6365,Larkin,Drive,6365 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{B3957DEF-F1C8-4B6C-9C9C-72AB05B450C8}
-AD-548,616,The Westchester,6367,Larkin,Drive,6367 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{7D4C462A-7206-4F99-93D0-64B063EC329D}
-AD-549,616,The Westchester,6371,Larkin,Drive,6371 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{22146D98-EFAA-44EA-B0C1-1711B385BC6E}
-AD-550,616,The Westchester,6373,Larkin,Drive,6373 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{ECD8AE5B-448F-42B9-957D-5CEAB4686E91}
-AD-551,616,The Westchester,6375,Larkin,Drive,6375 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{6964C9B7-1FAB-41EA-BE0C-79D7ABF06B9E}
-AD-552,616,The Westchester,6377,Larkin,Drive,6377 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{2968EF25-6EE7-4A8D-9F37-DDEA559D0A0C}
-AD-553,616,The Westchester,6381,Larkin,Drive,6381 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{DC784053-9B2E-48B9-9EF5-574C5DDE67CF}
-AD-554,616,The Westchester,6383,Larkin,Drive,6383 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{AAD00616-22F8-4D56-BD2A-C85312AA3388}
-AD-555,616,The Westchester,6385,Larkin,Drive,6385 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{015BC9F5-5D54-40A3-9159-8CE6963664CD}
-AD-556,616,The Westchester,6387,Larkin,Drive,6387 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{0B67A83B-6989-4290-A8B2-6A606D8CC6DE}
+AD-529,616,Westchester,2560,West,Mall,2560 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{1366B525-621D-4806-B668-047FEADE18CF}
+AD-530,616,Westchester,2562,West,Mall,2562 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{F39D899E-C9CA-441D-BAA1-CAA8A9CB8F21}
+AD-531,616,Westchester,2566,West,Mall,2566 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{AEE891BE-E238-4B2E-9CF9-3F3A3EDDEA51}
+AD-532,616,Westchester,2568,West,Mall,2568 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{97A33310-DB13-4A1A-AD77-DD31F4149B90}
+AD-533,616,Westchester,2570,West,Mall,2570 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{D773F0B3-28CF-4940-9DE9-2230B35FE208}
+AD-534,616,Westchester,2572,West,Mall,2572 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{D130D31E-3243-4F93-94D6-04075F37A6BB}
+AD-535,616,Westchester,2576,West,Mall,2576 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{B489B755-7C9B-420F-82F3-9DF9A0BFBEB3}
+AD-536,616,Westchester,2578,West,Mall,2578 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{5899788F-790B-450F-BE59-16806F8C18E4}
+AD-537,616,Westchester,2580,West,Mall,2580 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{EFC2561D-54F1-4667-890A-EAD7000F67A8}
+AD-538,616,Westchester,2582,West,Mall,2582 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{887D3AC0-A675-4558-A039-3A89DB0D8D8D}
+AD-539,616,Westchester,2586,West,Mall,2586 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{32D005A8-0756-408F-9010-84EFA5D2D911}
+AD-540,616,Westchester,2588,West,Mall,2588 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{2B0D0303-232F-44F0-B9A2-5D7F602982D1}
+AD-541,616,Westchester,2590,West,Mall,2590 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{6F2653A7-EC10-4D1D-AFDC-093D0B11F788}
+AD-542,616,Westchester,2592,West,Mall,2592 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{CDF68A4B-9B17-4F25-8DE3-360AE25A0BC5}
+AD-543,616,Westchester,2596,West,Mall,2596 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{C0DC94B6-0E04-4ED1-AC8A-BFBD0DDD7E18}
+AD-544,616,Westchester,2598,West,Mall,2598 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing,1,,Current,{379BB53B-3247-4B5B-959F-4FDFBCE874CB}
+AD-545,616,Westchester,6361,Larkin,Drive,6361 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{F02ACE0F-56E6-4429-ADE8-1B2BC5C6BC90}
+AD-546,616,Westchester,6363,Larkin,Drive,6363 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{BA9CF304-754D-4DEC-8341-A9E598170506}
+AD-547,616,Westchester,6365,Larkin,Drive,6365 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{B3957DEF-F1C8-4B6C-9C9C-72AB05B450C8}
+AD-548,616,Westchester,6367,Larkin,Drive,6367 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{7D4C462A-7206-4F99-93D0-64B063EC329D}
+AD-549,616,Westchester,6371,Larkin,Drive,6371 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{22146D98-EFAA-44EA-B0C1-1711B385BC6E}
+AD-550,616,Westchester,6373,Larkin,Drive,6373 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{ECD8AE5B-448F-42B9-957D-5CEAB4686E91}
+AD-551,616,Westchester,6375,Larkin,Drive,6375 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{6964C9B7-1FAB-41EA-BE0C-79D7ABF06B9E}
+AD-552,616,Westchester,6377,Larkin,Drive,6377 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{2968EF25-6EE7-4A8D-9F37-DDEA559D0A0C}
+AD-553,616,Westchester,6381,Larkin,Drive,6381 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{DC784053-9B2E-48B9-9EF5-574C5DDE67CF}
+AD-554,616,Westchester,6383,Larkin,Drive,6383 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{AAD00616-22F8-4D56-BD2A-C85312AA3388}
+AD-555,616,Westchester,6385,Larkin,Drive,6385 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{015BC9F5-5D54-40A3-9159-8CE6963664CD}
+AD-556,616,Westchester,6387,Larkin,Drive,6387 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing,1,,Current,{0B67A83B-6989-4290-A8B2-6A606D8CC6DE}
 AD-557,009-0,Acadia Park Townhouses,2500,Melfa,Lane,2500 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Student Housing,1,,Current,{C0ABF71F-837F-4F4C-A034-4554A2DEE054}
 AD-559,009-0,Acadia Park Townhouses,2502,Melfa,Lane,2502 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Student Housing,1,,Current,{0C31C0AB-A5C4-428D-9D48-DC13C35F0174}
 AD-561,009-0,Acadia Park Townhouses,2504,Melfa,Lane,2504 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Student Housing,1,,Current,{CC4D1D71-B768-475F-BFD4-E07F6292CD42}
@@ -1018,6 +1018,4 @@ AD-1016,,Focal (Site D) - Retail,6103,University,Boulevard,6103 University Boule
 AD-1018,,Focal (Site D) - Retail,6113,University,Boulevard,6113 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{85E602CB-6CBA-4C92-B1A4-0CF71D952389}
 AD-1019,,Focal (Site D) - Retail,6117,University,Boulevard,6117 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{D5D8EEA3-065D-4171-A0A0-EB519004945E}
 AD-1020,,Focal (Site D) - Retail,6123,University,Boulevard,6123 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Future,{E3EF7081-34BD-4AF2-9981-F815DCA22E48}
-,419,Green College - Principal's Residence,6205,Cecil Green Park,Road,6205 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,Student Housing,,,Current,{DA6B5265-A8ED-4FE7-83B7-ECE27326609C}
-,783,Thunderbird Residence - B2 Store,6315,Thunderbird,Crescent,6315 Thunderbird Crescent,Vancouver,BC,V6T 2G9,Academic,Student Housing,,,Current,{ED91A56B-1144-4395-B078-183C710A72BC}
-,,Polygon Homes Sales Centre,5696,Berton,Avenue,5696 Berton Avenue,Vancouver,BC,V6S 0E5,Wesbrook Place,Housing,,,Current,{EC68E867-BD41-413B-AE36-60383DAEA3DC}
+AD-5,418,Green College - President's House,6205,Cecil Green Park,Road,6205 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,Student Housing,1,<Null>,Current,{F4D23FE8-0D4D-49FA-AA76-FE9B4AB0C768}
