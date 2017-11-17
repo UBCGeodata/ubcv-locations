@@ -386,26 +386,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24248612325215, 49.254236270053653 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "Ropes Course",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "garden",
-				"PL_TYPE" : "sports",
-				"GLOBALID" : "{E24B4518-A239-4377-9750-D568495B5169}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24460945609205, 49.260806537325074 ]
 			},
 			"properties" : {
@@ -580,206 +560,6 @@
 				"PL_CLASS" : "garden",
 				"PL_TYPE" : "plaza",
 				"GLOBALID" : "{9103A578-FFEA-4F6C-8B10-4C71E396B938}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23234799158116, 49.253692882092814 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "Michael Smith Park",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "garden",
-				"PL_TYPE" : "park",
-				"GLOBALID" : "{FE1A6C15-CB6B-4782-AD4E-3595E9626C4A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23618223488329, 49.252321209128553 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "Mundell Park",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "garden",
-				"PL_TYPE" : "park",
-				"GLOBALID" : "{FED19BC5-D460-4223-B30C-B31670EB7940}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23314275428409, 49.250154773725924 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "Nobel Park",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "garden",
-				"PL_TYPE" : "park",
-				"GLOBALID" : "{4BC5BCF6-1D0B-4180-A403-4A118210CE56}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24609334768016, 49.258684861221582 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "Eagles Park",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "garden",
-				"PL_TYPE" : "park",
-				"GLOBALID" : "{89B0577E-BFF5-4A28-8B09-F4CEFC7DA6E2}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24763224551039, 49.259092359797066 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "Jim Taylor Park",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "garden",
-				"PL_TYPE" : "park",
-				"GLOBALID" : "{DD598AC3-F862-4A0C-A5C0-520806DA7A45}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24853067991481, 49.257778979160378 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "Hawthorn Park",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "garden",
-				"PL_TYPE" : "park",
-				"GLOBALID" : "{B3C3EB1D-872A-4DD5-88D1-F4BA9A26EE02}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23751165020417, 49.253632002595069 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "Brockhouse Park",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "garden",
-				"PL_TYPE" : "park",
-				"GLOBALID" : "{323FA399-C82A-47A0-ADE3-4A8CF9DB4CB4}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2410073319615, 49.262542759827902 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "East Campus Park",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "garden",
-				"PL_TYPE" : "park",
-				"GLOBALID" : "{EF1635ED-FC18-42CA-BC06-BBA0CCFF7A01}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24996022661833, 49.270764549784964 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "Iona Green",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "garden",
-				"PL_TYPE" : "park",
-				"GLOBALID" : "{48D3F067-696A-449C-A5EC-94C5D677F0E5}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2323122763969, 49.255569892017519 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "Khorana Park",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "garden",
-				"PL_TYPE" : "park",
-				"GLOBALID" : "{7EBFE042-00BC-4A9A-815A-CBD86778C434}"
 			}
 		},
 		{
@@ -1106,86 +886,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24051941715749, 49.257123449620856 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "Thunderbird Park",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "attraction",
-				"PL_TYPE" : "field",
-				"GLOBALID" : "{C1551D6B-4710-46DC-B21A-5B31E10D7EC7}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23946406841165, 49.250414372180082 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "UBC Farm",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "attraction",
-				"PL_TYPE" : "garden",
-				"GLOBALID" : "{5894C583-369F-4CD2-B24F-D18ABC949F8F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25958029068177, 49.266277644585436 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "Nitobe Garden",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "attraction",
-				"PL_TYPE" : "garden",
-				"GLOBALID" : "{524BD765-F9E7-4478-93CC-0349C4D091A1}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24954471468496, 49.253033106299362 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "UBC Botanical Garden and Centre for Plant Research",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "attraction",
-				"PL_TYPE" : "garden",
-				"GLOBALID" : "{91C013DC-A152-43AC-857D-5A90B1EF7500}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.2536826001751, 49.267190558454423 ]
 			},
 			"properties" : {
@@ -1260,6 +960,366 @@
 				"PL_CLASS" : "field",
 				"PL_TYPE" : "field",
 				"GLOBALID" : "{2AAF9B24-2759-4A4C-BBA6-762C29CB78DE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23799605539089, 49.250767623412806 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "UBC Farm",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "attraction",
+				"PL_TYPE" : "garden",
+				"GLOBALID" : "{5894C583-369F-4CD2-B24F-D18ABC949F8F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2341950522103, 49.250283577354161 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Nobel Park",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "park",
+				"GLOBALID" : "{4BC5BCF6-1D0B-4180-A403-4A118210CE56}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23655757423064, 49.252074430598135 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Mundell Park",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "park",
+				"GLOBALID" : "{FED19BC5-D460-4223-B30C-B31670EB7940}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23265297125165, 49.253640666315363 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Michael Smith Park",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "park",
+				"GLOBALID" : "{FE1A6C15-CB6B-4782-AD4E-3595E9626C4A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23227264347628, 49.255352909671473 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Khorana Park",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "park",
+				"GLOBALID" : "{7EBFE042-00BC-4A9A-815A-CBD86778C434}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24279723306515, 49.254219412662813 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Ropes Course",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "sports",
+				"GLOBALID" : "{E24B4518-A239-4377-9750-D568495B5169}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24639480798292, 49.258629430611265 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Eagles Park",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "park",
+				"GLOBALID" : "{89B0577E-BFF5-4A28-8B09-F4CEFC7DA6E2}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24787316391625, 49.259230049388002 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Jim Taylor Park",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "park",
+				"GLOBALID" : "{DD598AC3-F862-4A0C-A5C0-520806DA7A45}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24841154317242, 49.2578745703685 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Hawthorn Park",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "park",
+				"GLOBALID" : "{B3C3EB1D-872A-4DD5-88D1-F4BA9A26EE02}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23987279691838, 49.262354998808952 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "East Campus Park",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "park",
+				"GLOBALID" : "{EF1635ED-FC18-42CA-BC06-BBA0CCFF7A01}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23743110247848, 49.253714852314317 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Brockhouse Park",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "park",
+				"GLOBALID" : "{323FA399-C82A-47A0-ADE3-4A8CF9DB4CB4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2502011992931, 49.270668017009456 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Iona Green",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "park",
+				"GLOBALID" : "{48D3F067-696A-449C-A5EC-94C5D677F0E5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2413711068849, 49.258144668892612 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Thunderbird Park",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "attraction",
+				"PL_TYPE" : "field",
+				"GLOBALID" : "{C1551D6B-4710-46DC-B21A-5B31E10D7EC7}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25052141377705, 49.254012457844766 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "UBC Botanical Garden and Centre for Plant Research",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "attraction",
+				"PL_TYPE" : "garden",
+				"GLOBALID" : "{91C013DC-A152-43AC-857D-5A90B1EF7500}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2596814474532, 49.266385890552613 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Nitobe Garden",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "attraction",
+				"PL_TYPE" : "garden",
+				"GLOBALID" : "{524BD765-F9E7-4478-93CC-0349C4D091A1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25618702289198, 49.266585485588287 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "First Tree Plaza",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "garden",
+				"GLOBALID" : "{4BF42B4C-6FC9-4564-AE7F-820C0281DDC0}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2559707541094, 49.269556813795894 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Dorothy Somerset Grove",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "garden",
+				"GLOBALID" : "{8989A8C0-074E-4AB4-A341-D18ADBA8D8DF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25759370268381, 49.266867030424073 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "Stone Garden",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "garden",
+				"PL_TYPE" : "garden",
+				"GLOBALID" : "{A330ECE8-D5CC-4471-8BBA-1F567A9B15D2}"
 			}
 		}
 	]
