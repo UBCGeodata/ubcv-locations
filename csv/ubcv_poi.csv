@@ -1,10 +1,8 @@
 ﻿POI_ID,ADD_ID,PLACENAME,PLACENAME2,ABBREVIATEDPLACENAME,BL_CLASS,SERVICE_TYPE,URL,LICENSE,MANAGE,STATUS,LEED
 POI-238,AD-224,Basketball Court,,,,park,,N,UNA,Current,Civic
 POI-483,AD-144,Salal Child Care,Salal,CCS1,l4,child_care,,N,SHHS,Current,Civic
-POI-12,AD-116,Starbucks,Starbucks Bookstore,,,cafe,http://www.food.ubc.ca/place/starbucks/,N,SHHS,Current,Services
 POI-371,AD-128,Pioggia Child Care,Pioggia,CCAB,l4,child_care,,N,SHHS,Current,Civic
 POI-28,AD-274,UBC Welcome Centre,,,,campus_services,http://welcomecentre.ubc.ca/,N,UBC,Current,Civic
-POI-323,AD-274,Loafe Cafe,,,,cafe,http://loafecafe.com/,N,Non-UBC,Current,Services
 POI-32,AD-335,University Neighbourhoods Association,,,,campus_services,http://www.myuna.ca/,N,UNA,Current,Civic
 POI-34,AD-209,Walter C. Koerner Library,,,,libraries,http://www.library.ubc.ca/koerner,N,Library,Current,Civic
 POI-39,AD-151,Education Library,,,,libraries,http://education.library.ubc.ca/,N,Library,Current,Civic
@@ -27,7 +25,6 @@ POI-360,AD-209,Humanities & Social Sciences,,,,libraries,http://www.library.ubc.
 POI-130,AD-273,Sprouts,,,,minimart,,N,Non-UBC,Current,Retail
 POI-171,AD-273,The Pit,,,,restaurant,http://www.the-pit.ca/,N,AMS,Current,Services
 POI-172,AD-273,Safewalk,,,,campus_services,http://www.ams.ubc.ca/services/ams-safewalk,N,AMS,Current,Civic
-POI-37,AD-151,Neville's Cafe,Neville's,,,cafe,http://www.food.ubc.ca/place/nevilles/,N,SHHS,Current,Services
 POI-123,AD-151,"Education, Faculty of",,,,faculty/school,,N,UBC,Current,Civic
 POI-16,AD-117,UBC Carding Office,,,,campus_services,http://ubccard.ubc.ca/,N,UBC,Current,Services
 POI-27,AD-137,Nobel Biocare Oral Health Centre,Nobel Biocare,,l2,commercial_services,http://www.dentistry.ubc.ca/the-nobel-biocare-oral-health-centre/,N,UBC,Current,Services
@@ -37,7 +34,6 @@ POI-132,AD-136,Family Practice Teaching Unit/Clinic,,,,campus_services,http://cl
 POI-112,AD-281,Vancouver School of Economics,,,,faculty/school,http://economics.ubc.ca/,N,UBC,Current,Civic
 POI-319,AD-325,Scotia Bank,,,,bank,"http://www.scotiabank.com/ca/en/0,,2,00.html",Y,Non-UBC,Current,Services
 POI-333,AD-82,Great Dane Coffee,,,,cafe,http://www.greatdanecoffee.com/,Y,Non-UBC,Current,Services
-POI-306,AD-166,Sage Bistro,,,,restaurant,http://www.food.ubc.ca/place/sage/,N,SHHS,Current,Services
 POI-338,AD-326,Boulevard Coffee,,,,cafe,http://www.theboulevard.ca/contact.html,Y,Non-UBC,Current,Services
 POI-356,AD-203,Law Library,,,,libraries,http://www.library.ubc.ca/law,N,Library,Current,Civic
 POI-357,AD-220,Woodward Library,,,,libraries,http://www.library.ubc.ca/bmb/,N,Library,Current,Civic
@@ -53,7 +49,6 @@ POI-13,AD-204,Robert H. Lee Graduate School ,,,,department,http://www.sauder.ubc
 POI-114,AD-204,TBD,,,,cafe,,N,SHHS,Current,Services
 POI-24,AD-116,Farmer's Market,,,,farmers market,http://ubcfarm.ubc.ca/food-production/farm-markets/,N,UBC,Current,Retail
 POI-316,AD-210,The Chung Collection Exhibition,,,,attractions,http://chung.library.ubc.ca/,N,Library,Current,
-POI-115,AD-1014,Triple O's,,,,cafe,http://www.food.ubc.ca/place/triple-o/,N,SHHS,Current,Services
 POI-359,AD-210,Chapman Learning Commons,,,,campus_services,http://learningcommons.ubc.ca/,N,Library,Current,
 POI-363,AD-210,Rare Books and Special Collections,,,,libraries,http://rbsc.library.ubc.ca/,N,Library,Current,Civic
 POI-118,AD-98,"Business, Sauder School of",,,,faculty/school,http://www.sauder.ubc.ca/,N,UBC,Current,Civic
@@ -111,14 +106,11 @@ POI-134,AD-1023,Neptune Chinese Kitchen,,,,restaurant,<Null>,Y,Non-UBC,UC,Servic
 POI-141,AD-23,YMCA Child Care,YMCA,,,child_care,,Y,Non-UBC,Current,Civic
 POI-142,AD-206,Lobby Gallery,,,,attractions,,N,UBC,Current,
 POI-60,AD-220,College of Health Disciplines,,,,department,,N,UBC,Current,Civic
-POI-248,AD-336,Togo Sushi,,,,cafe,http://www.togosushi.ca/ubc.html,Y,Non-UBC,Current,Services
 POI-113,AD-204,Bento Sushi,,,,cafe,http://www.food.ubc.ca/place/bento-sushi/,N,SHHS,Current,Services
 POI-155,AD-324,Lutheran Campus Centre,,,,worship,,N,UEL,UEL,Civic
 POI-284,AD-6,Kids Club Jr. Child Care,Kids Club Jr. ,,,child_care,,N,SHHS,Current,Civic
 POI-381,AD-92,Kids Club Child Care,Kids Club,,,child_care,,N,SHHS,Current,Civic
 POI-165,AD-71,Epiphany Chapel,,,,worship,,N,Non-UBC,Current,Civic
-POI-326,AD-161,Niche Cafe,,,,cafe,,N,SHHS,Current,Services
-POI-328,AD-238,Starbucks,,,,cafe,http://www.food.ubc.ca/place/starbucks/,N,SHHS,Current,Services
 POI-353,AD-106,Asian Library,,,,libraries,http://asian.library.ubc.ca,N,Library,Current,Civic
 POI-354,AD-229,Music Library,,,,libraries,http://music.library.ubc.ca,N,Library,Current,Civic
 POI-220,AD-323,Mini Super,,,,minimart,http://www.facebook.com/pages/Mini-Super-at-UBC/249485448568472?sk=timeline&amp;ref=page_internal,N,UEL,UEL,Retail
@@ -126,7 +118,6 @@ POI-229,AD-323,International Food Court,,,,cafe,,N,UEL,UEL,Services
 POI-230,AD-323,Pizza Garden,,,,cafe,http://www.pizzagarden.ca/,N,UEL,UEL,Services
 POI-305,AD-258,Ponderosa Commons Residence Front Desk,Front Desk,,,housing_student,http://vancouver.housing.ubc.ca/residences/ponderosa-commons/,N,SHHS,Current,Anchor
 POI-58,AD-210,"Centre for Teaching, Learning and Technology (CTLT)",,,,department,http://ctlt.ubc.ca/,N,UBC,Current,Civic
-POI-325,AD-303,Mercante,Mercante Pizza,,,cafe,http://www.food.ubc.ca/place/mercante/,N,SHHS,Current,Services
 POI-242,,University Village various venues,,,,retail,,N,UEL,UEL,
 POI-76,AD-87,Harvest,,,,minimart,http://www.food.ubc.ca/place/harvest/,N,SHHS,Current,Retail
 POI-244,AD-358,Running Room,,,,retail,http://www.runningroom.com/hm/inside.php?id=4442,Y,Non-UBC,Current,Retail
@@ -165,7 +156,6 @@ POI-51,AD-179,Graduate Student Society,,,,campus_services,,N,UBC,Current,Civic
 POI-152,AD-218,Rose Garden,,,,garden,,N,UBC,Current,Civic
 POI-169,AD-273,AMS Confidential Support Services,,,,campus_services,,N,AMS,Current,Civic
 POI-183,AD-178,Pacific Museum of the Earth,Pacific Museum,,attraction,attractions,http://www.eos.ubc.ca/resources/museum/,N,UBC,Current,Civic
-POI-498,AD-24,Hero Coffee + Market,Hero,,,cafe,http://www.food.ubc.ca/place/hero/,,SHHS,Current,Services
 POI-158,AD-304,St. Andrew's Quad,,,,park,,N,UNA,Current,Civic
 POI-190,AD-271,Norm Theatre,,,,attractions,http://www.ams.ubc.ca,N,AMS,Current,Civic
 POI-327,AD-271,Pacific Spirit Place,,,,cafe,,N,SHHS,Current,Services
@@ -193,8 +183,6 @@ POI-174,AD-78,St. Mark's Parish,,,,worship,http://www.stmarksparishvancouver.ca/
 POI-271,AD-180,Cecil Green Park Squash Court,Squash Court,,l4,athletics,http://www.ubcsquash.com,N,Athletics,Current,Services
 POI-19,AD-200,Go Global International Learning Programs,,,,campus_services,https://students.ubc.ca/about-student-services/go-global,N,UBC,Current,
 POI-176,AD-201,Nitobe Memorial Garden,Nitobe Garden,,attraction,garden,http://www.botanicalgarden.ubc.ca/nitobe,N,UBC,Current,Civic
-POI-337,AD-228,Cafe MOA,MOA Cafe,,,cafe,http://www.food.ubc.ca/place/cafe-MOA/,N,SHHS,Current,Services
-POI-307,AD-166,Ideas Lunch & Wine Bar,,,,restaurant,http://www.food.ubc.ca/place/ideas-lunch-wine-bar/,N,SHHS,Current,Services
 POI-443,AD-145,Sandpiper Child Care,Sandpiper,CCS2,l4,child_care,,N,SHHS,Current,Civic
 POI-310,AD-19,Vanier's Dining Room,,,,restaurant,http://www.food.ubc.ca/place/vaniers-dining-room/,N,SHHS,Current,Services
 POI-50,AD-179,Seedlings,,,,restaurant,http://www.ubcsprouts.ca/seedlings/,N,Non-UBC,Current,Services
@@ -244,7 +232,6 @@ POI-258,AD-273,Wireless Wave,,,,retail,http://www.wirelesswave.ca,N,Non-UBC,Curr
 POI-280,AD-273,The Aviary,,,,athletics,http://www.facebook.com/aviaryUBC,N,AMS,Current,Services
 POI-254,AD-273,Merit Travel,,,,commercial_services,http://merittravel.ca,N,Non-UBC,Current,Services
 POI-255,AD-273,i Campus Vision,,,,retail,https://www.campusvision.com/,N,Non-UBC,Current,Retail
-POI-349,AD-273,Honour Roll,,,,cafe,http://www.ams.ubc.ca/foodanddrink/honourroll,N,AMS,Current,Services
 POI-256,AD-273,On the Fringe,,,,commercial_services,http://www.onthefringehairdesign.com/,N,Non-UBC,Current,Services
 POI-93,AD-273,Grocery Checkout,,,,grocery,http://www.facebook.com/GCIVancouver,N,Non-UBC,Current,Food
 POI-478,AD-147,Acadia Child Care,Acadia,CCS3,l4,child_care,,N,SHHS,Current,Civic
@@ -289,12 +276,10 @@ POI-444,AD-78,St. Mark's Chapel,,,l4,worship,http://www.stmarksparishvancouver.c
 POI-231,AD-323,A&W,,,,cafe,http://www.aw.ca/,N,UEL,UEL,Services
 POI-232,AD-323,Blenz,,,,cafe,http://blenz.com/,N,UEL,UEL,Services
 POI-198,AD-323,CIBC,,,,bank,http://www.cibc.com/,N,UEL,UEL,Services
-POI-329,AD-123,Stir It Up,,,,cafe,http://www.food.ubc.ca/place/stir-it-up-cafe/,N,SHHS,Current,Services
 POI-221,AD-323,Suga Sushi,,,,cafe,,N,UEL,UEL,Services
 POI-175,AD-304,St. Andrew's Hall,,,,worship,http://www.standrews.edu/,N,Non-UBC,Current,Civic
 POI-81,AD-1013,West Coast Suites,,,attraction,campus_services,http://suitesatubc.com/accommodations/west-coast-suites/,N,SHHS,Current,
 POI-74,AD-172,UBC Food Services Administration,,,,campus_services,www.food.ubc.ca,N,SHHS,Current,
-POI-308,AD-248,The Point Grill,,,,restaurant,http://www.food.ubc.ca/place/pointgrill/,N,SHHS,Current,Services
 POI-73,AD-172,Student Housing and Hopitality Services,SHHS Office,,l2,campus_services,http://vancouver.housing.ubc.ca/,N,SHHS,Current,
 POI-368,AD-68,Caribou Child Care,Caribou,,,child_care,http://www.childcare.ubc.ca/,N,SHHS,Current,Civic
 POI-56,AD-68,Campus Mail,,,,campus_services,,N,UBC,Current,Civic
@@ -307,12 +292,10 @@ POI-340,AD-43,Bean Around The World,,,,cafe,http://batw.ca/,Y,Non-UBC,Current,Se
 POI-144,AD-175,"Land and Food Systems, Faculty of",,,,faculty/school,http://www.landfood.ubc.ca/,N,UBC,Current,Services
 POI-147,AD-24,UBC Vantage College,Vantage College,,l1,faculty/school,https://vantagecollege.ubc.ca/,N,UBC,Current,Civic
 POI-122,AD-167,"Forestry, Faculty of",,,,faculty/school,http://www.forestry.ubc.ca/,N,UBC,Current,Services
-POI-75,AD-167,Tim Hortons,,,,cafe,http://www.food.ubc.ca/place/tim-hortons/,N,SHHS,Current,Services
 POI-302,AD-70,Thunderbird Residence Front Desk,Front Desk,,,housing_student,http://vancouver.housing.ubc.ca/residences/thunderbird/,N,SHHS,Current,Anchor
 POI-250,AD-175,Agora Cafe,,,,cafe,http://blogs.ubc.ca/agora/,N,UBC,Current,Services
 POI-84,AD-243,Campus Sustainability Office,,,,campus_services,https://sustain.ubc.ca/,N,UBC,Current,Civic
 POI-26,AD-247,Campus and Community Planning,,,,campus_services,https://planning.ubc.ca/vancouver,N,UBC,Current,Civic
-POI-324,AD-178,Magma Cafe,,,,cafe,http://www.food.ubc.ca/place/magma-cafe/,N,SHHS,Current,Services
 POI-126,AD-178,"Science, Faculty of",,,,faculty/school,https://science.ubc.ca/,N,UBC,Current,Civic
 POI-314,AD-243,The Loop Cafe,,,,cafe,http://www.food.ubc.ca/place/loop-cafe/,N,SHHS,Current,Services
 POI-178,AD-161,Beaty Biodiversity Museum,,,attraction,museum,http://biodiversity.ubc.ca/,N,UBC,Current,Civic
@@ -391,11 +374,28 @@ POI-233,AD-135,Vera's Burger Shack,,,,cafe,http://www.verasburgershack.com/,N,UE
 POI-458,AD-120,Reception Centre,,,l4,garden,http://botanicalgarden.ubc.ca/rentals/facilities/reception-centre/,N,UBC,Current,
 POI-89,AD-235,éliane Hair & Spa,,,,commercial_services,http://www.elianehairspa.ca/,Y,Non-UBC,Current,Services
 POI-315,AD-130,Pacific Poké,,,,restaurant,http://www.food.ubc.ca/place/pacific-poke/,N,SHHS,Current,Services
-POI-1,AD-1025,Rain or Shine,Rain or Shine Ice Cream,,,cafe,http://rainorshineicecream.com/,UC,Non-UBC,UC,Services
+,,,,,,,,,,,
 POI-2,AD-1030,Nori,,,,cafe,https://www.facebook.com/pg/noriubc/about/?ref=page_internal,UC,Non-UBC,UC,Services
 POI-3,AD-1031,Bao Down ,,,,cafe,https://baodown.net/,UC,Non-UBC,UC,Services
+POI-7,AD-1028,Tacomio,,,,cafe,http://www.tacomio.ca/,UC,Non-UBC,UC,Services
 POI-4,AD-1026,JJ Bean,JJ Bean Coffee,,,cafe,https://jjbeancoffee.com/our-locations/ubc/,UC,Non-UBC,UC,Services
+POI-1,AD-1025,Rain or Shine,Rain or Shine Ice Cream,,,cafe,http://rainorshineicecream.com/,UC,Non-UBC,UC,Services
 POI-5,AD-1027,Jamjar,Jamjar Canteen,,,cafe,http://www.jam-jar.ca/,UC,Non-UBC,UC,Services
 POI-6,AD-1029,Joe's Pizza,,,,cafe,http://eatjoepizza.com/ubc/,UC,Non-UBC,UC,Services
-POI-7,AD-1028,Tacomio,,,,cafe,http://www.tacomio.ca/,UC,Non-UBC,UC,Services
-,,,,,,,,,,,
+POI-349,AD-273,Honour Roll,,,,cafe,http://www.ams.ubc.ca/foodanddrink/honourroll,N,AMS,Current,Services
+POI-12,AD-116,Starbucks,Starbucks Bookstore,,,cafe,http://www.food.ubc.ca/place/starbucks/,N,SHHS,Current,Services
+POI-37,AD-151,Neville's Cafe,Neville's,,,cafe,http://www.food.ubc.ca/place/nevilles/,N,SHHS,Current,Services
+POI-75,AD-167,Tim Hortons,,,,cafe,http://www.food.ubc.ca/place/tim-hortons/,N,SHHS,Current,Services
+POI-115,AD-1014,Triple O's,,,,cafe,http://www.food.ubc.ca/place/triple-o/,N,SHHS,Current,Services
+POI-248,AD-336,Togo Sushi,,,,cafe,http://www.togosushi.ca/ubc.html,Y,Non-UBC,Current,Services
+POI-308,AD-248,The Point Grill,,,,restaurant,http://www.food.ubc.ca/place/pointgrill/,N,SHHS,Current,Services
+POI-324,AD-178,Magma Cafe,,,,cafe,http://www.food.ubc.ca/place/magma-cafe/,N,SHHS,Current,Services
+POI-325,AD-303,Mercante,Mercante Pizza,,,cafe,http://www.food.ubc.ca/place/mercante/,N,SHHS,Current,Services
+POI-323,AD-274,Loafe Cafe,,,,cafe,http://loafecafe.com/,N,Non-UBC,Current,Services
+POI-328,AD-238,Starbucks,,,,cafe,http://www.food.ubc.ca/place/starbucks/,N,SHHS,Current,Services
+POI-329,AD-123,Stir It Up,,,,cafe,http://www.food.ubc.ca/place/stir-it-up-cafe/,N,SHHS,Current,Services
+POI-326,AD-161,Niche Cafe,,,,cafe,,N,SHHS,Current,Services
+POI-306,AD-166,Sage Bistro,,,,restaurant,http://www.food.ubc.ca/place/sage/,N,SHHS,Current,Services
+POI-307,AD-166,Ideas Lunch & Wine Bar,,,,restaurant,http://www.food.ubc.ca/place/ideas-lunch-wine-bar/,N,SHHS,Current,Services
+POI-337,AD-228,Cafe MOA,MOA Cafe,,,cafe,http://www.food.ubc.ca/place/cafe-MOA/,N,SHHS,Current,Services
+POI-498,AD-24,Hero Coffee + Market,Hero,,,cafe,http://www.food.ubc.ca/place/hero/,,SHHS,Current,Services

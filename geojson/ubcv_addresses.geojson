@@ -25526,6 +25526,56 @@
 				"STATUS" : "Current",
 				"GLOBALID" : "{2EE880F2-9135-45DC-9B45-38E9B10DC84F}"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24115398659811, 49.262908256908069 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"BL_ID" : null,
+				"BUILDINGNAME" : null,
+				"STREETNUM" : null,
+				"STREETNAME" : null,
+				"STREETTYPE" : null,
+				"FULLADDRESS" : null,
+				"MUNINAME" : null,
+				"PROVINCE" : null,
+				"POSTALCODE" : null,
+				"NEIGHBOURHOOD" : null,
+				"ADDRESSTYPE" : null,
+				"NUM_UNITS" : null,
+				"ADDRESSNOTES" : null,
+				"STATUS" : null,
+				"GLOBALID" : "{A7C9EA50-3777-493D-83F0-6FB93BB3849C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24881772651604, 49.26604632571901 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"BL_ID" : null,
+				"BUILDINGNAME" : "MacInnes Field Parkade/MacInnes Field",
+				"STREETNUM" : "6131",
+				"STREETNAME" : "University",
+				"STREETTYPE" : "Boulevard",
+				"FULLADDRESS" : "6131 University Boulevard",
+				"MUNINAME" : null,
+				"PROVINCE" : null,
+				"POSTALCODE" : null,
+				"NEIGHBOURHOOD" : "University Boulevard",
+				"ADDRESSTYPE" : null,
+				"NUM_UNITS" : null,
+				"ADDRESSNOTES" : "Field on top of underground parkade",
+				"STATUS" : "Future",
+				"GLOBALID" : "{12DBA0B9-D51B-4745-B840-8C925F4CF379}"
+			}
 		}
 	]
 }

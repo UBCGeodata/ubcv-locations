@@ -48,27 +48,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25064030588662, 49.265264800632707 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-12",
-				"ADD_ID" : "AD-116",
-				"PLACENAME" : "Starbucks",
-				"PLACENAME2" : "Starbucks Bookstore",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.food.ubc.ca/place/starbucks/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23443007912508, 49.260939564738919 ]
 			},
 			"properties" : {
@@ -105,27 +84,6 @@
 				"MANAGE" : "UBC",
 				"STATUS" : "Current",
 				"LEED" : "Civic"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2501393390575, 49.265855271543472 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-323",
-				"ADD_ID" : "AD-274",
-				"PLACENAME" : "Loafe Cafe",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://loafecafe.com/",
-				"LICENSE" : "N",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services"
 			}
 		},
 		{
@@ -594,27 +552,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25309104517963, 49.264172211192673 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-37",
-				"ADD_ID" : "AD-151",
-				"PLACENAME" : "Neville's Cafe",
-				"PLACENAME2" : "Neville's",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.food.ubc.ca/place/nevilles/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25255383522787, 49.263919833153821 ]
 			},
 			"properties" : {
@@ -796,27 +733,6 @@
 				"URL" : "http://www.greatdanecoffee.com/",
 				"LICENSE" : "Y",
 				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25692568779756, 49.268817093546687 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-306",
-				"ADD_ID" : "AD-166",
-				"PLACENAME" : "Sage Bistro",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "restaurant",
-				"URL" : "http://www.food.ubc.ca/place/sage/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
 				"STATUS" : "Current",
 				"LEED" : "Services"
 			}
@@ -1134,27 +1050,6 @@
 				"MANAGE" : "Library",
 				"STATUS" : "Current",
 				"LEED" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25428098414173, 49.265862413327199 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-115",
-				"ADD_ID" : "AD-1014",
-				"PLACENAME" : "Triple O's",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.food.ubc.ca/place/triple-o/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
 			}
 		},
 		{
@@ -2358,27 +2253,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23539249695295, 49.253981214982211 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-248",
-				"ADD_ID" : "AD-336",
-				"PLACENAME" : "Togo Sushi",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.togosushi.ca/ubc.html",
-				"LICENSE" : "Y",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.2542827800202, 49.265779639919892 ]
 			},
 			"properties" : {
@@ -2478,48 +2352,6 @@
 				"MANAGE" : "Non-UBC",
 				"STATUS" : "Current",
 				"LEED" : "Civic"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25083349460979, 49.263054533991181 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-326",
-				"ADD_ID" : "AD-161",
-				"PLACENAME" : "Niche Cafe",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24659533559939, 49.261308099126957 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-328",
-				"ADD_ID" : "AD-238",
-				"PLACENAME" : "Starbucks",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.food.ubc.ca/place/starbucks/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
 			}
 		},
 		{
@@ -2667,27 +2499,6 @@
 				"MANAGE" : "UBC",
 				"STATUS" : "Current",
 				"LEED" : "Civic"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25501524423059, 49.263762641380218 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-325",
-				"ADD_ID" : "AD-303",
-				"PLACENAME" : "Mercante",
-				"PLACENAME2" : "Mercante Pizza",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.food.ubc.ca/place/mercante/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
 			}
 		},
 		{
@@ -3492,27 +3303,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25129501997114, 49.2606126280076 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-498",
-				"ADD_ID" : "AD-24",
-				"PLACENAME" : "Hero Coffee + Market",
-				"PLACENAME2" : "Hero",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.food.ubc.ca/place/hero/",
-				"LICENSE" : null,
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25174648083556, 49.269955653872749 ]
 			},
 			"properties" : {
@@ -4074,48 +3864,6 @@
 				"MANAGE" : "UBC",
 				"STATUS" : "Current",
 				"LEED" : "Civic"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25926089174963, 49.269334332530725 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-337",
-				"ADD_ID" : "AD-228",
-				"PLACENAME" : "Cafe MOA",
-				"PLACENAME2" : "MOA Cafe",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.food.ubc.ca/place/cafe-MOA/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25681255291259, 49.268852754701122 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-307",
-				"ADD_ID" : "AD-166",
-				"PLACENAME" : "Ideas Lunch & Wine Bar",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "restaurant",
-				"URL" : "http://www.food.ubc.ca/place/ideas-lunch-wine-bar/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
 			}
 		},
 		{
@@ -5151,27 +4899,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25009214522321, 49.266929615199508 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-349",
-				"ADD_ID" : "AD-273",
-				"PLACENAME" : "Honour Roll",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.ams.ubc.ca/foodanddrink/honourroll",
-				"LICENSE" : "N",
-				"MANAGE" : "AMS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24965057630962, 49.266568429223362 ]
 			},
 			"properties" : {
@@ -6096,27 +5823,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25474091026412, 49.268357457116892 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-329",
-				"ADD_ID" : "AD-123",
-				"PLACENAME" : "Stir It Up",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.food.ubc.ca/place/stir-it-up-cafe/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24257942725954, 49.266697241257106 ]
 			},
 			"properties" : {
@@ -6195,27 +5901,6 @@
 				"MANAGE" : "SHHS",
 				"STATUS" : "Current",
 				"LEED" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25545609139705, 49.261728434273834 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-308",
-				"ADD_ID" : "AD-248",
-				"PLACENAME" : "The Point Grill",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "restaurant",
-				"URL" : "http://www.food.ubc.ca/place/pointgrill/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
 			}
 		},
 		{
@@ -6474,27 +6159,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24848707373744, 49.260179003947677 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-75",
-				"ADD_ID" : "AD-167",
-				"PLACENAME" : "Tim Hortons",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.food.ubc.ca/place/tim-hortons/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24931566004287, 49.259440195411642 ]
 			},
 			"properties" : {
@@ -6573,27 +6237,6 @@
 				"MANAGE" : "UBC",
 				"STATUS" : "Current",
 				"LEED" : "Civic"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25183385200059, 49.262646857099206 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-324",
-				"ADD_ID" : "AD-178",
-				"PLACENAME" : "Magma Cafe",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.food.ubc.ca/place/magma-cafe/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services"
 			}
 		},
 		{
@@ -8236,23 +7879,20 @@
 		},
 		{
 			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24737686651316, 49.266225490094342 ]
-			},
+			"geometry" : null,
 			"properties" : {
-				"POI_ID" : "POI-1",
-				"ADD_ID" : "AD-1025",
-				"PLACENAME" : "Rain or Shine",
-				"PLACENAME2" : "Rain or Shine Ice Cream",
+				"POI_ID" : null,
+				"ADD_ID" : null,
+				"PLACENAME" : null,
+				"PLACENAME2" : null,
 				"ABBREVIATEDPLACENAME" : null,
 				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://rainorshineicecream.com/",
-				"LICENSE" : "UC",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "UC",
-				"LEED" : "Services"
+				"SERVICE_TYPE" : null,
+				"URL" : null,
+				"LICENSE" : null,
+				"MANAGE" : null,
+				"STATUS" : null,
+				"LEED" : null
 			}
 		},
 		{
@@ -8301,6 +7941,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.24713724812527, 49.266256124239497 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-7",
+				"ADD_ID" : "AD-1028",
+				"PLACENAME" : "Tacomio",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://www.tacomio.ca/",
+				"LICENSE" : "UC",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "UC",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.24723974787463, 49.266243020211412 ]
 			},
 			"properties" : {
@@ -8312,6 +7973,27 @@
 				"BL_CLASS" : null,
 				"SERVICE_TYPE" : "cafe",
 				"URL" : "https://jjbeancoffee.com/our-locations/ubc/",
+				"LICENSE" : "UC",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "UC",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24737686651316, 49.266225490094342 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-1",
+				"ADD_ID" : "AD-1025",
+				"PLACENAME" : "Rain or Shine",
+				"PLACENAME2" : "Rain or Shine Ice Cream",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://rainorshineicecream.com/",
 				"LICENSE" : "UC",
 				"MANAGE" : "Non-UBC",
 				"STATUS" : "UC",
@@ -8364,39 +8046,357 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24713724812527, 49.266256124239497 ]
+				"coordinates" : [ -123.25000109550048, 49.266961890063897 ]
 			},
 			"properties" : {
-				"POI_ID" : "POI-7",
-				"ADD_ID" : "AD-1028",
-				"PLACENAME" : "Tacomio",
+				"POI_ID" : "POI-349",
+				"ADD_ID" : "AD-273",
+				"PLACENAME" : "Honour Roll",
 				"PLACENAME2" : null,
 				"ABBREVIATEDPLACENAME" : null,
 				"BL_CLASS" : null,
 				"SERVICE_TYPE" : "cafe",
-				"URL" : "http://www.tacomio.ca/",
-				"LICENSE" : "UC",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "UC",
+				"URL" : "http://www.ams.ubc.ca/foodanddrink/honourroll",
+				"LICENSE" : "N",
+				"MANAGE" : "AMS",
+				"STATUS" : "Current",
 				"LEED" : "Services"
 			}
 		},
 		{
 			"type" : "Feature",
-			"geometry" : null,
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25054925958224, 49.265297075932864 ]
+			},
 			"properties" : {
-				"POI_ID" : null,
-				"ADD_ID" : null,
-				"PLACENAME" : null,
+				"POI_ID" : "POI-12",
+				"ADD_ID" : "AD-116",
+				"PLACENAME" : "Starbucks",
+				"PLACENAME2" : "Starbucks Bookstore",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://www.food.ubc.ca/place/starbucks/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25313207369412, 49.264216337295309 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-37",
+				"ADD_ID" : "AD-151",
+				"PLACENAME" : "Neville's Cafe",
+				"PLACENAME2" : "Neville's",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://www.food.ubc.ca/place/nevilles/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24845777869287, 49.260271464064147 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-75",
+				"ADD_ID" : "AD-167",
+				"PLACENAME" : "Tim Hortons",
 				"PLACENAME2" : null,
 				"ABBREVIATEDPLACENAME" : null,
 				"BL_CLASS" : null,
-				"SERVICE_TYPE" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://www.food.ubc.ca/place/tim-hortons/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25439793112646, 49.265888521763259 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-115",
+				"ADD_ID" : "AD-1014",
+				"PLACENAME" : "Triple O's",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://www.food.ubc.ca/place/triple-o/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23537440982155, 49.253987581775277 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-248",
+				"ADD_ID" : "AD-336",
+				"PLACENAME" : "Togo Sushi",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://www.togosushi.ca/ubc.html",
+				"LICENSE" : "Y",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2553789761059, 49.261639778752716 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-308",
+				"ADD_ID" : "AD-248",
+				"PLACENAME" : "The Point Grill",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "restaurant",
+				"URL" : "http://www.food.ubc.ca/place/pointgrill/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25183643933153, 49.262783648934196 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-324",
+				"ADD_ID" : "AD-178",
+				"PLACENAME" : "Magma Cafe",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://www.food.ubc.ca/place/magma-cafe/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25501090492627, 49.263682869682818 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-325",
+				"ADD_ID" : "AD-303",
+				"PLACENAME" : "Mercante",
+				"PLACENAME2" : "Mercante Pizza",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://www.food.ubc.ca/place/mercante/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25017256698165, 49.265866443618542 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-323",
+				"ADD_ID" : "AD-274",
+				"PLACENAME" : "Loafe Cafe",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://loafecafe.com/",
+				"LICENSE" : "N",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24660386259663, 49.261227601597028 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-328",
+				"ADD_ID" : "AD-238",
+				"PLACENAME" : "Starbucks",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://www.food.ubc.ca/place/starbucks/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25485847543206, 49.268511460299486 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-329",
+				"ADD_ID" : "AD-123",
+				"PLACENAME" : "Stir It Up",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://www.food.ubc.ca/place/stir-it-up-cafe/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25081834533796, 49.263136140905367 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-326",
+				"ADD_ID" : "AD-161",
+				"PLACENAME" : "Niche Cafe",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
 				"URL" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25692485600219, 49.268814945541372 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-306",
+				"ADD_ID" : "AD-166",
+				"PLACENAME" : "Sage Bistro",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "restaurant",
+				"URL" : "http://www.food.ubc.ca/place/sage/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25681172112152, 49.268850606694997 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-307",
+				"ADD_ID" : "AD-166",
+				"PLACENAME" : "Ideas Lunch & Wine Bar",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "restaurant",
+				"URL" : "http://www.food.ubc.ca/place/ideas-lunch-wine-bar/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25917038775826, 49.269414860082342 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-337",
+				"ADD_ID" : "AD-228",
+				"PLACENAME" : "Cafe MOA",
+				"PLACENAME2" : "MOA Cafe",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://www.food.ubc.ca/place/cafe-MOA/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25126961972107, 49.26062339296044 ]
+			},
+			"properties" : {
+				"POI_ID" : "POI-498",
+				"ADD_ID" : "AD-24",
+				"PLACENAME" : "Hero Coffee + Market",
+				"PLACENAME2" : "Hero",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"URL" : "http://www.food.ubc.ca/place/hero/",
 				"LICENSE" : null,
-				"MANAGE" : null,
-				"STATUS" : null,
-				"LEED" : null
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services"
 			}
 		}
 	]

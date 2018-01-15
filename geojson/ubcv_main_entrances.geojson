@@ -6054,30 +6054,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24439512306267, 49.263803388789064 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-221",
-				"BL_ID" : "HSCC",
-				"PLACENAME" : "Detwiller Pavilion",
-				"PLACENAME2" : "Detwiller",
-				"PLACENAME3" : null,
-				"PLACENAME4" : "Detwiller Pavilion",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "HSCC",
-				"STATUS" : "Current",
-				"ROT" : 208.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{8AB768CC-3A84-4968-B603-C243F8C67D98}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24961921324231, 49.271824233931788 ]
 			},
 			"properties" : {
@@ -6198,6 +6174,30 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.255528734938, 49.267251765015224 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-93",
+				"BL_ID" : "OADM",
+				"PLACENAME" : "Old Administration Building",
+				"PLACENAME2" : "Old Admin",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{3E30C891-C43B-4B8C-9BA3-A970CD040A2F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.25663857585978, 49.266801606326432 ]
 			},
 			"properties" : {
@@ -6216,30 +6216,6 @@
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{29258936-7325-4B07-A4BB-16868D82D205}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.255612909645, 49.265094691394943 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-173",
-				"BL_ID" : "OFRH",
-				"PLACENAME" : "Old Fire Hall",
-				"PLACENAME2" : "Old Fire Hall",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{84B7406F-6155-4ACD-8FBB-6B22AF046B4C}"
 			}
 		},
 		{
@@ -6270,24 +6246,72 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.255528734938, 49.267251765015224 ]
+				"coordinates" : [ -123.25637576296465, 49.271052017479995 ]
 			},
 			"properties" : {
-				"ADD_ID" : "AD-93",
-				"BL_ID" : "OADM",
-				"PLACENAME" : "Old Administration Building",
-				"PLACENAME2" : "Old Admin",
+				"ADD_ID" : "AD-5",
+				"BL_ID" : "GRNC",
+				"PLACENAME" : "Green College",
+				"PLACENAME2" : "Green College",
+				"PLACENAME3" : "Adminstration Building F",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 289.8,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Residence",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{694C5C69-F1EC-41D5-A120-F196691CA8BE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.255612909645, 49.265094691394943 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-173",
+				"BL_ID" : "OFRH",
+				"PLACENAME" : "Old Fire Hall",
+				"PLACENAME2" : "Old Fire Hall",
 				"PLACENAME3" : null,
 				"PLACENAME4" : null,
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
 				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
+				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
-				"GLOBALID" : "{3E30C891-C43B-4B8C-9BA3-A970CD040A2F}"
+				"GLOBALID" : "{84B7406F-6155-4ACD-8FBB-6B22AF046B4C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24448081609165, 49.263832955573093 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-221",
+				"BL_ID" : "HSCC",
+				"PLACENAME" : "Detwiller Pavilion",
+				"PLACENAME2" : "Detwiller",
+				"PLACENAME3" : null,
+				"PLACENAME4" : "Detwiller Pavilion",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "HSCC",
+				"STATUS" : "Current",
+				"ROT" : 208.2,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{8AB768CC-3A84-4968-B603-C243F8C67D98}"
 			}
 		},
 		{
@@ -6312,30 +6336,6 @@
 				"BL_CLASS" : "Attraction",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{B0504E93-8116-4D45-B1D7-321239AE16B2}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25637576296465, 49.271052017479995 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-5",
-				"BL_ID" : "GRNC",
-				"PLACENAME" : "Green College",
-				"PLACENAME2" : "Green College",
-				"PLACENAME3" : "Adminstration Building F",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 289.8,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Residence",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{694C5C69-F1EC-41D5-A120-F196691CA8BE}"
 			}
 		}
 	]
