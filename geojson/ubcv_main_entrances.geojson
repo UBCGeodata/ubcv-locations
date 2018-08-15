@@ -1,6 +1,6 @@
 {
-	"name" : "ubcv_main_entrances",
 	"type" : "FeatureCollection",
+	"name" : "ubcv_main_entrances",
 	"features" : [
 		{
 			"type" : "Feature",
@@ -30,7 +30,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25910311458875, 49.267626947701487 ]
+				"coordinates" : [ -123.25910311458875, 49.26762694770149 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-206",
@@ -42,7 +42,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -54,7 +54,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25521403914412, 49.265643674014768 ]
+				"coordinates" : [ -123.25521403914412, 49.26564367401477 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-157",
@@ -78,7 +78,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23644469361479, 49.255117809353422 ]
+				"coordinates" : [ -123.23644469361479, 49.25511780935342 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-48",
@@ -90,7 +90,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -102,7 +102,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25720436620577, 49.265529337215028 ]
+				"coordinates" : [ -123.25720436620577, 49.26552933721503 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-165",
@@ -126,7 +126,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25235860128817, 49.266650406112262 ]
+				"coordinates" : [ -123.25235860128817, 49.26665040611226 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-249",
@@ -162,7 +162,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "MATH",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -258,7 +258,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -270,7 +270,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24410642453824, 49.258580740498147 ]
+				"coordinates" : [ -123.24410642453824, 49.25858074049815 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-259",
@@ -294,7 +294,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23121767269059, 49.255500900476669 ]
+				"coordinates" : [ -123.23121767269059, 49.25550090047667 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-35",
@@ -306,7 +306,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -318,7 +318,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25017772001898, 49.262139821639963 ]
+				"coordinates" : [ -123.25017772001898, 49.26213982163996 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-160",
@@ -354,7 +354,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -390,31 +390,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25075049086502, 49.26319787124163 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-161",
-				"BL_ID" : "BEBC",
-				"PLACENAME" : "Beaty Biodiversity Centre",
-				"PLACENAME2" : "Beaty",
-				"PLACENAME3" : "Beaty Biodiversity Museum",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 28.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{34F6A841-F6D1-4F60-BBFC-0DD3D3477341}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24885790249161, 49.267331101692903 ]
+				"coordinates" : [ -123.24885790249161, 49.2673311016929 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-149",
@@ -450,7 +426,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "Attraction",
@@ -462,7 +438,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25472673495356, 49.264690237493099 ]
+				"coordinates" : [ -123.25472673495356, 49.2646902374931 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-163",
@@ -498,7 +474,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "AUDI",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "Attraction",
@@ -510,7 +486,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24435563460281, 49.254838359584213 ]
+				"coordinates" : [ -123.24435563460281, 49.25483835958421 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-269",
@@ -522,7 +498,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "STAD",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "Attraction",
@@ -546,7 +522,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -558,31 +534,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25228204117957, 49.262548516899777 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-178",
-				"BL_ID" : "EOSM",
-				"PLACENAME" : "Earth and Ocean Sciences ",
-				"PLACENAME2" : "EOS",
-				"PLACENAME3" : "EOS Main",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : "EOS",
-				"BUILDING_SHORTCODE" : "EOSM",
-				"STATUS" : "Current",
-				"ROT" : 208.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l1",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{F353B4ED-CE04-4266-B14B-52A16FBA897E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25883626357967, 49.267884094611318 ]
+				"coordinates" : [ -123.25883626357967, 49.26788409461132 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-200",
@@ -594,7 +546,7 @@
 				"ABBREVIATEDPLACENAME" : "I House",
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -606,7 +558,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25034671319131, 49.265160714863107 ]
+				"coordinates" : [ -123.2503467131913, 49.26516071486311 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-116",
@@ -618,7 +570,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "Attraction",
@@ -654,7 +606,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2379293223955, 49.259982323979578 ]
+				"coordinates" : [ -123.2379293223955, 49.25998232397958 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-69",
@@ -666,7 +618,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l3",
@@ -702,7 +654,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25652127145966, 49.261500397675945 ]
+				"coordinates" : [ -123.25652127145966, 49.26150039767594 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-172",
@@ -714,7 +666,7 @@
 				"ABBREVIATEDPLACENAME" : "MDR3",
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "Residence",
@@ -738,7 +690,7 @@
 				"ABBREVIATEDPLACENAME" : "ESB",
 				"BUILDING_SHORTCODE" : "ESB",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l1",
@@ -750,7 +702,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25238318145344, 49.267623083749641 ]
+				"coordinates" : [ -123.25238318145344, 49.26762308374964 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-210",
@@ -762,7 +714,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "IBLC",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l1",
@@ -774,7 +726,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25622421192158, 49.265791383987683 ]
+				"coordinates" : [ -123.25622421192158, 49.26579138398768 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-177",
@@ -798,7 +750,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25361001133689, 49.269852858901942 ]
+				"coordinates" : [ -123.25361001133689, 49.26985285890194 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-203",
@@ -822,7 +774,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25324553160645, 49.268640275859049 ]
+				"coordinates" : [ -123.25324553160645, 49.26864027585905 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-122",
@@ -834,7 +786,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "BUTO",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -846,7 +798,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25709269062925, 49.266272177510061 ]
+				"coordinates" : [ -123.25709269062925, 49.26627217751006 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-290",
@@ -858,7 +810,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "WMAX",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -882,7 +834,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 238.2,
+				"ROT" : 238.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -894,7 +846,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25626707331068, 49.264947564825462 ]
+				"coordinates" : [ -123.25626707331068, 49.26494756482546 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-294",
@@ -906,7 +858,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "PONC",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -918,7 +870,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25312024251072, 49.265886447095902 ]
+				"coordinates" : [ -123.25312024251072, 49.2658864470959 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-125",
@@ -954,7 +906,7 @@
 				"ABBREVIATEDPLACENAME" : "Sauder",
 				"BUILDING_SHORTCODE" : "ANGU",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l1",
@@ -966,7 +918,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2565497028413, 49.262984417967928 ]
+				"coordinates" : [ -123.2565497028413, 49.26298441796793 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-278",
@@ -978,7 +930,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "Residence",
@@ -990,7 +942,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25477436548121, 49.263493978331567 ]
+				"coordinates" : [ -123.25477436548121, 49.26349397833157 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-129",
@@ -1002,7 +954,7 @@
 				"ABBREVIATEDPLACENAME" : "ELI",
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l1",
@@ -1026,7 +978,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "SCRF",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l1",
@@ -1038,7 +990,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25422747194935, 49.263415903633543 ]
+				"coordinates" : [ -123.25422747194935, 49.26341590363354 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-256",
@@ -1074,7 +1026,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "MCDN",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -1086,7 +1038,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2495719994463, 49.264113286175927 ]
+				"coordinates" : [ -123.2495719994463, 49.26411328617593 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-189",
@@ -1098,7 +1050,7 @@
 				"ABBREVIATEDPLACENAME" : "FNH",
 				"BUILDING_SHORTCODE" : "FNH",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -1158,7 +1110,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24884294680677, 49.263509886315568 ]
+				"coordinates" : [ -123.24884294680677, 49.26350988631557 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-154",
@@ -1170,7 +1122,7 @@
 				"ABBREVIATEDPLACENAME" : "EERF",
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -1218,7 +1170,7 @@
 				"ABBREVIATEDPLACENAME" : "USB",
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -1230,7 +1182,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24355330559668, 49.263264013285877 ]
+				"coordinates" : [ -123.24355330559668, 49.26326401328588 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-222",
@@ -1242,7 +1194,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -1254,7 +1206,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24948489970352, 49.261486071094588 ]
+				"coordinates" : [ -123.24948489970352, 49.26148607109459 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-159",
@@ -1290,7 +1242,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "MCML",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l1",
@@ -1314,7 +1266,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "TT21",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -1326,7 +1278,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24682597313908, 49.261635110886552 ]
+				"coordinates" : [ -123.24682597313908, 49.26163511088655 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-227",
@@ -1350,7 +1302,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24637875648307, 49.262200144773317 ]
+				"coordinates" : [ -123.24637875648307, 49.26220014477332 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-194",
@@ -1362,7 +1314,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -1392,30 +1344,6 @@
 				"BL_CLASS" : "l3",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{A71798A9-A7C1-4305-82EF-2B08DD75F063}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2441042975118, 49.256948394133644 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-169",
-				"BL_ID" : "FPIN",
-				"PLACENAME" : "FP Innovations",
-				"PLACENAME2" : "FP Innovations",
-				"PLACENAME3" : "Forintek",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 208.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{A1DB08DC-9D5C-48E1-84B3-8CE5B7E87F2E}"
 			}
 		},
 		{
@@ -1458,7 +1386,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -1470,7 +1398,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23966684175878, 49.260082000644573 ]
+				"coordinates" : [ -123.23966684175878, 49.26008200064457 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-88",
@@ -1494,7 +1422,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23491437358656, 49.261709087201112 ]
+				"coordinates" : [ -123.23491437358656, 49.26170908720111 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-92",
@@ -1518,7 +1446,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23975968801287, 49.253871563592021 ]
+				"coordinates" : [ -123.23975968801287, 49.25387156359202 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-31",
@@ -1542,7 +1470,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23942403024232, 49.259724398919879 ]
+				"coordinates" : [ -123.23942403024232, 49.25972439891988 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-89",
@@ -1566,7 +1494,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23501848626617, 49.253948255977591 ]
+				"coordinates" : [ -123.23501848626617, 49.25394825597759 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-54",
@@ -1578,7 +1506,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -1590,7 +1518,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23423473439668, 49.253492829656032 ]
+				"coordinates" : [ -123.23423473439668, 49.25349282965603 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-27",
@@ -1614,7 +1542,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23251432557082, 49.257892570879633 ]
+				"coordinates" : [ -123.23251432557082, 49.25789257087963 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-17",
@@ -1638,7 +1566,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23307660196572, 49.259050669383427 ]
+				"coordinates" : [ -123.23307660196572, 49.25905066938343 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-15",
@@ -1674,7 +1602,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -1686,7 +1614,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24109242989645, 49.262078344513071 ]
+				"coordinates" : [ -123.24109242989645, 49.26207834451307 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-18",
@@ -1698,7 +1626,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -1710,7 +1638,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24901187772356, 49.271434082130412 ]
+				"coordinates" : [ -123.24901187772356, 49.27143408213041 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-72",
@@ -1734,7 +1662,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25122239703252, 49.270917347600523 ]
+				"coordinates" : [ -123.25122239703252, 49.27091734760052 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-80",
@@ -1746,7 +1674,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -1758,7 +1686,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2481203600816, 49.261177882852408 ]
+				"coordinates" : [ -123.2481203600816, 49.26117788285241 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-130",
@@ -1806,7 +1734,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24685923289071, 49.258272682630199 ]
+				"coordinates" : [ -123.24685923289071, 49.2582726826302 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-41",
@@ -1818,7 +1746,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -1830,7 +1758,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24827430376074, 49.259013798370667 ]
+				"coordinates" : [ -123.24827430376074, 49.25901379837067 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-43",
@@ -1842,7 +1770,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l1",
@@ -1878,7 +1806,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25567878186021, 49.267671150518296 ]
+				"coordinates" : [ -123.25567878186021, 49.2676711505183 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-101",
@@ -1890,7 +1818,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "LASR",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -1914,7 +1842,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "TFPB",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -1926,7 +1854,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25479948149847, 49.264663024879731 ]
+				"coordinates" : [ -123.25479948149847, 49.26466302487973 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-164",
@@ -1938,7 +1866,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "BINN",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -1950,7 +1878,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25165894545948, 49.270374608291071 ]
+				"coordinates" : [ -123.25165894545948, 49.27037460829107 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-275",
@@ -1962,7 +1890,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -2022,7 +1950,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23423117779555, 49.252781511080599 ]
+				"coordinates" : [ -123.23423117779555, 49.2527815110806 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-60",
@@ -2034,7 +1962,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 210.2,
+				"ROT" : 210.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -2058,7 +1986,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -2070,7 +1998,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2510488548094, 49.270196165385229 ]
+				"coordinates" : [ -123.2510488548094, 49.27019616538523 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-282",
@@ -2082,7 +2010,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -2094,7 +2022,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25245905538786, 49.270844301583431 ]
+				"coordinates" : [ -123.25245905538786, 49.27084430158343 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-280",
@@ -2106,7 +2034,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -2166,7 +2094,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2562733424123, 49.270542346057198 ]
+				"coordinates" : [ -123.2562733424123, 49.2705423460572 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-240",
@@ -2190,7 +2118,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25679966812982, 49.269476090107517 ]
+				"coordinates" : [ -123.25679966812982, 49.26947609010752 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-218",
@@ -2214,7 +2142,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25857586099639, 49.271000883997552 ]
+				"coordinates" : [ -123.25857586099639, 49.27100088399755 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-181",
@@ -2238,7 +2166,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24824273962554, 49.270984807557227 ]
+				"coordinates" : [ -123.24824273962554, 49.27098480755723 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-73",
@@ -2286,7 +2214,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25654335502551, 49.267282250241529 ]
+				"coordinates" : [ -123.25654335502551, 49.26728225024153 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-229",
@@ -2298,7 +2226,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "MUSC",
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "Attraction",
@@ -2310,7 +2238,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25786678343083, 49.267844921264548 ]
+				"coordinates" : [ -123.25786678343083, 49.26784492126455 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-148",
@@ -2358,7 +2286,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25250080519579, 49.270550954962324 ]
+				"coordinates" : [ -123.2525008051958, 49.270550954962324 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-75",
@@ -2382,7 +2310,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2577652224163, 49.268523550425243 ]
+				"coordinates" : [ -123.2577652224163, 49.26852355042524 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-179",
@@ -2394,7 +2322,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l1",
@@ -2406,7 +2334,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24798315968775, 49.266526693994336 ]
+				"coordinates" : [ -123.24798315968775, 49.26652669399434 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-182",
@@ -2418,7 +2346,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "MGYM",
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "Attraction",
@@ -2442,7 +2370,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "Parkade",
@@ -2466,7 +2394,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "BRCK",
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l1",
@@ -2478,7 +2406,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24987573058382, 49.265863345743298 ]
+				"coordinates" : [ -123.24987573058382, 49.2658633457433 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-274",
@@ -2490,7 +2418,7 @@
 				"ABBREVIATEDPLACENAME" : "ALUMNI",
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l1",
@@ -2502,7 +2430,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24733988940615, 49.264799529346519 ]
+				"coordinates" : [ -123.24733988940615, 49.26479952934652 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-1012",
@@ -2526,7 +2454,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24602672336816, 49.266025492176098 ]
+				"coordinates" : [ -123.24602672336816, 49.2660254921761 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-136",
@@ -2550,7 +2478,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24955850657309, 49.265372259452953 ]
+				"coordinates" : [ -123.2495585065731, 49.26537225945295 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-291",
@@ -2586,7 +2514,7 @@
 				"ABBREVIATEDPLACENAME" : "Gage",
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "Residence",
@@ -2598,7 +2526,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24757786778099, 49.264999953849589 ]
+				"coordinates" : [ -123.24757786778099, 49.26499995384959 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-216",
@@ -2610,7 +2538,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "MEDC",
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -2646,7 +2574,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23306376931544, 49.246303114317648 ]
+				"coordinates" : [ -123.23306376931544, 49.24630311431765 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-110",
@@ -2694,7 +2622,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.22854252904861, 49.245795436712513 ]
+				"coordinates" : [ -123.22854252904861, 49.24579543671251 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-260",
@@ -2718,7 +2646,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.22886774123272, 49.244229213090847 ]
+				"coordinates" : [ -123.22886774123272, 49.24422921309085 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-262",
@@ -2742,7 +2670,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2281025149089, 49.244921670986713 ]
+				"coordinates" : [ -123.2281025149089, 49.24492167098671 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-126",
@@ -2802,7 +2730,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -2814,7 +2742,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24610216908343, 49.256087387375842 ]
+				"coordinates" : [ -123.24610216908343, 49.25608738737584 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-176",
@@ -2838,7 +2766,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24277495847262, 49.262584190864551 ]
+				"coordinates" : [ -123.24277495847262, 49.26258419086455 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-217",
@@ -2850,7 +2778,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "PHRM",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l1",
@@ -2862,7 +2790,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25460034819183, 49.265148001888633 ]
+				"coordinates" : [ -123.25460034819183, 49.26514800188863 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-255",
@@ -2874,7 +2802,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -2898,7 +2826,7 @@
 				"ABBREVIATEDPLACENAME" : "COPP",
 				"BUILDING_SHORTCODE" : "COPP",
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -2958,7 +2886,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25106421090543, 49.261957028251828 ]
+				"coordinates" : [ -123.25106421090543, 49.26195702825183 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-108",
@@ -2970,7 +2898,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -2982,7 +2910,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25504037509933, 49.268241893483491 ]
+				"coordinates" : [ -123.25504037509933, 49.26824189348349 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-123",
@@ -3042,7 +2970,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -3054,7 +2982,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24128279698171, 49.260800190681039 ]
+				"coordinates" : [ -123.24128279698171, 49.26080019068104 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-317",
@@ -3066,7 +2994,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Future",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -3078,7 +3006,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24849385780243, 49.268850655208837 ]
+				"coordinates" : [ -123.24849385780243, 49.26885065520884 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-315",
@@ -3102,7 +3030,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24989956835692, 49.272689465664783 ]
+				"coordinates" : [ -123.24989956835692, 49.27268946566478 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-523",
@@ -3126,7 +3054,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24698529402154, 49.259107040441968 ]
+				"coordinates" : [ -123.24698529402154, 49.25910704044197 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-489",
@@ -3150,7 +3078,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24558899950766, 49.259324598813969 ]
+				"coordinates" : [ -123.24558899950766, 49.25932459881397 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-450",
@@ -3198,7 +3126,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25496689444491, 49.260585838212528 ]
+				"coordinates" : [ -123.2549668944449, 49.26058583821253 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-100",
@@ -3222,7 +3150,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25580854920702, 49.260745305302279 ]
+				"coordinates" : [ -123.25580854920702, 49.26074530530228 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-97",
@@ -3246,7 +3174,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2528299730274, 49.257799121114267 ]
+				"coordinates" : [ -123.2528299730274, 49.25779912111427 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-223",
@@ -3258,7 +3186,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "Residence",
@@ -3270,7 +3198,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25289896371555, 49.261542494878242 ]
+				"coordinates" : [ -123.25289896371555, 49.26154249487824 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-193",
@@ -3294,7 +3222,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25229512132209, 49.261208250146453 ]
+				"coordinates" : [ -123.25229512132209, 49.26120825014645 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-134",
@@ -3318,7 +3246,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25240070934073, 49.261734290267817 ]
+				"coordinates" : [ -123.25240070934073, 49.26173429026782 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-253",
@@ -3366,7 +3294,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24886795693361, 49.258921769253902 ]
+				"coordinates" : [ -123.24886795693361, 49.2589217692539 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-38",
@@ -3390,7 +3318,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24909086629052, 49.259190346814357 ]
+				"coordinates" : [ -123.24909086629052, 49.25919034681436 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-70",
@@ -3414,7 +3342,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24955380143197, 49.258272445770551 ]
+				"coordinates" : [ -123.24955380143197, 49.25827244577055 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-3",
@@ -3426,7 +3354,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -3450,7 +3378,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -3462,31 +3390,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25498879263364, 49.266704543207936 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-209",
-				"BL_ID" : "KOER",
-				"PLACENAME" : "Walter C. Koerner Library",
-				"PLACENAME2" : "Koerner Library",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 208.20000001,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "l1",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{56AE3480-940B-428D-95D2-7CF6BD8A3211}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25628889749085, 49.268248104469471 ]
+				"coordinates" : [ -123.25628889749085, 49.26824810446947 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-226",
@@ -3498,7 +3402,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "Attraction",
@@ -3510,7 +3414,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25782825541458, 49.267238746217508 ]
+				"coordinates" : [ -123.25782825541458, 49.26723874621751 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-202",
@@ -3546,7 +3450,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "ACEN",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l1",
@@ -3558,7 +3462,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24978298398962, 49.264526808040458 ]
+				"coordinates" : [ -123.24978298398962, 49.26452680804046 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-118",
@@ -3582,7 +3486,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25126790451185, 49.263557564200873 ]
+				"coordinates" : [ -123.25126790451185, 49.26355756420087 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-162",
@@ -3594,7 +3498,7 @@
 				"ABBREVIATEDPLACENAME" : "AERL",
 				"BUILDING_SHORTCODE" : "AERL",
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -3606,7 +3510,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25125359259491, 49.266061962901418 ]
+				"coordinates" : [ -123.2512535925949, 49.26606196290142 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-250",
@@ -3618,7 +3522,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -3654,7 +3558,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24555198339723, 49.264158480478187 ]
+				"coordinates" : [ -123.24555198339723, 49.26415848047819 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-197",
@@ -3666,7 +3570,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "ACU",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l1",
@@ -3678,7 +3582,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25431911728084, 49.262899294608538 ]
+				"coordinates" : [ -123.25431911728084, 49.26289929460854 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-302",
@@ -3690,7 +3594,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "SWNG",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -3702,7 +3606,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24473249039065, 49.264416442490287 ]
+				"coordinates" : [ -123.24473249039065, 49.26441644249029 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-198",
@@ -3726,7 +3630,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24890307133644, 49.263567840718139 ]
+				"coordinates" : [ -123.24890307133644, 49.26356784071814 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-207",
@@ -3738,7 +3642,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -3786,7 +3690,7 @@
 				"ABBREVIATEDPLACENAME" : "EDC",
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -3822,7 +3726,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24766784635375, 49.262131037266329 ]
+				"coordinates" : [ -123.24766784635375, 49.26213103726633 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-95",
@@ -3834,7 +3738,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "BRIM",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -3870,7 +3774,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24931164733302, 49.261093933256191 ]
+				"coordinates" : [ -123.24931164733302, 49.26109393325619 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-131",
@@ -3894,7 +3798,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24132161963648, 49.259615287007641 ]
+				"coordinates" : [ -123.24132161963648, 49.25961528700764 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-185",
@@ -3918,7 +3822,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24935152667408, 49.272369515537463 ]
+				"coordinates" : [ -123.24935152667408, 49.27236951553746 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-78",
@@ -3966,7 +3870,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25229536333853, 49.271428506384751 ]
+				"coordinates" : [ -123.25229536333853, 49.27142850638475 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-71",
@@ -3978,7 +3882,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -4014,7 +3918,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24881367952399, 49.260473605176728 ]
+				"coordinates" : [ -123.24881367952399, 49.26047360517673 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-167",
@@ -4038,7 +3942,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24967779220397, 49.266225985664093 ]
+				"coordinates" : [ -123.24967779220397, 49.26622598566409 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-273",
@@ -4050,7 +3954,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "Attraction",
@@ -4062,7 +3966,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23088144411265, 49.247584584697222 ]
+				"coordinates" : [ -123.23088144411265, 49.24758458469722 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-283",
@@ -4110,7 +4014,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2540711060124, 49.265681653865563 ]
+				"coordinates" : [ -123.2540711060124, 49.26568165386556 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-204",
@@ -4122,7 +4026,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : "DLAM",
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -4134,7 +4038,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.22983005248733, 49.244946223287918 ]
+				"coordinates" : [ -123.22983005248733, 49.24494622328792 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-263",
@@ -4158,7 +4062,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23726719727551, 49.254052847490577 ]
+				"coordinates" : [ -123.23726719727551, 49.25405284749058 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-57",
@@ -4182,7 +4086,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2375422337328, 49.262950757265557 ]
+				"coordinates" : [ -123.2375422337328, 49.26295075726556 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-712",
@@ -4194,7 +4098,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.2,
+				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "Residence",
@@ -4206,7 +4110,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24978017855149, 49.271408712446849 ]
+				"coordinates" : [ -123.24978017855149, 49.27140871244685 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-74",
@@ -4242,7 +4146,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -4314,7 +4218,7 @@
 				"ABBREVIATEDPLACENAME" : "ANSOC",
 				"BUILDING_SHORTCODE" : "ANSO",
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -4326,7 +4230,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24594245834309, 49.265574280118287 ]
+				"coordinates" : [ -123.2459424583431, 49.26557428011829 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-215",
@@ -4362,7 +4266,7 @@
 				"ABBREVIATEDPLACENAME" : "EUS",
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -4374,7 +4278,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24645870936526, 49.259721709263779 ]
+				"coordinates" : [ -123.24645870936526, 49.25972170926378 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-44",
@@ -4398,7 +4302,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24923482320487, 49.262686731295148 ]
+				"coordinates" : [ -123.24923482320487, 49.26268673129515 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-155",
@@ -4446,7 +4350,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24528267068561, 49.261803861889398 ]
+				"coordinates" : [ -123.24528267068561, 49.2618038618894 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-213",
@@ -4470,7 +4374,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24425529184302, 49.261223399163008 ]
+				"coordinates" : [ -123.24425529184302, 49.26122339916301 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-270",
@@ -4482,7 +4386,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -4530,7 +4434,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "Parkade",
@@ -4542,7 +4446,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24729356994131, 49.263072721622343 ]
+				"coordinates" : [ -123.2472935699413, 49.26307272162234 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-199",
@@ -4554,7 +4458,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "Parkade",
@@ -4566,7 +4470,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24039913071196, 49.261797397745781 ]
+				"coordinates" : [ -123.24039913071196, 49.26179739774578 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-23",
@@ -4602,7 +4506,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -4614,7 +4518,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23475254259175, 49.260125948141372 ]
+				"coordinates" : [ -123.23475254259175, 49.26012594814137 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-146",
@@ -4638,7 +4542,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23353126920938, 49.259510191476451 ]
+				"coordinates" : [ -123.23353126920938, 49.25951019147645 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-14",
@@ -4698,7 +4602,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 180.2,
+				"ROT" : 180.20000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -4710,7 +4614,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23350266361821, 49.258282035376311 ]
+				"coordinates" : [ -123.23350266361821, 49.25828203537631 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-7",
@@ -4734,7 +4638,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23470403480994, 49.258527397036438 ]
+				"coordinates" : [ -123.23470403480994, 49.25852739703644 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-12",
@@ -4746,7 +4650,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -4758,7 +4662,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23613515946488, 49.258557944089539 ]
+				"coordinates" : [ -123.23613515946488, 49.25855794408954 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-11",
@@ -4770,7 +4674,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 71.1,
+				"ROT" : 71.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -4794,7 +4698,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -4818,7 +4722,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -4830,7 +4734,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23824239915558, 49.258699705904888 ]
+				"coordinates" : [ -123.23824239915558, 49.25869970590489 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-286",
@@ -4842,7 +4746,7 @@
 				"ABBREVIATEDPLACENAME" : "RCMP",
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -4854,7 +4758,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23978720767171, 49.256402994063968 ]
+				"coordinates" : [ -123.23978720767171, 49.25640299406397 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-308",
@@ -4878,7 +4782,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23091435477532, 49.254206111494348 ]
+				"coordinates" : [ -123.23091435477532, 49.25420611149435 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-233",
@@ -4902,7 +4806,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24776546560307, 49.257336349390037 ]
+				"coordinates" : [ -123.24776546560307, 49.25733634939004 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-45",
@@ -4914,7 +4818,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -4974,7 +4878,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23583301288453, 49.253505432328751 ]
+				"coordinates" : [ -123.23583301288453, 49.25350543232875 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-56",
@@ -4986,7 +4890,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -4998,7 +4902,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23516587208591, 49.253427398494601 ]
+				"coordinates" : [ -123.23516587208591, 49.2534273984946 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-58",
@@ -5082,7 +4986,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 201.7,
+				"ROT" : 201.70000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -5094,7 +4998,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23314437224251, 49.255705610784013 ]
+				"coordinates" : [ -123.2331443722425, 49.25570561078401 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-33",
@@ -5118,7 +5022,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2337826688694, 49.255394863562998 ]
+				"coordinates" : [ -123.2337826688694, 49.255394863563 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-276",
@@ -5202,7 +5106,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 2.8,
+				"ROT" : 2.8000000000000003,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -5226,7 +5130,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 106.6,
+				"ROT" : 106.60000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -5250,7 +5154,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 61.3,
+				"ROT" : 61.300000000000004,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -5262,7 +5166,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23106658455393, 49.250108670398369 ]
+				"coordinates" : [ -123.23106658455393, 49.25010867039837 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-239",
@@ -5286,7 +5190,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24190046355837, 49.263016192525441 ]
+				"coordinates" : [ -123.24190046355837, 49.26301619252544 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-20",
@@ -5310,7 +5214,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23377787258423, 49.252923711021282 ]
+				"coordinates" : [ -123.23377787258423, 49.25292371102128 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-26",
@@ -5334,7 +5238,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23347677615875, 49.251703142435979 ]
+				"coordinates" : [ -123.23347677615875, 49.25170314243598 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-34",
@@ -5358,7 +5262,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24075573561544, 49.263264458757028 ]
+				"coordinates" : [ -123.24075573561544, 49.26326445875703 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-817",
@@ -5418,7 +5322,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 196.7,
+				"ROT" : 196.70000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -5430,7 +5334,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23268299184167, 49.247207776734662 ]
+				"coordinates" : [ -123.23268299184167, 49.24720777673466 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-231",
@@ -5478,7 +5382,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23974992854151, 49.260810483379117 ]
+				"coordinates" : [ -123.23974992854151, 49.26081048337912 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-22",
@@ -5502,7 +5406,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23934695804874, 49.261500389528678 ]
+				"coordinates" : [ -123.23934695804874, 49.26150038952868 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-266",
@@ -5526,7 +5430,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24722943145623, 49.255319071180871 ]
+				"coordinates" : [ -123.24722943145623, 49.25531907118087 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-244",
@@ -5538,7 +5442,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
@@ -5574,7 +5478,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23882389606761, 49.260906446266482 ]
+				"coordinates" : [ -123.23882389606761, 49.26090644626648 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-288",
@@ -5598,7 +5502,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25057772575813, 49.253982075767233 ]
+				"coordinates" : [ -123.25057772575813, 49.25398207576723 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-120",
@@ -5622,7 +5526,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23216814704767, 49.246346860643953 ]
+				"coordinates" : [ -123.23216814704767, 49.24634686064395 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-245",
@@ -5646,7 +5550,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25490703763597, 49.266163787511658 ]
+				"coordinates" : [ -123.25490703763597, 49.26616378751166 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-212",
@@ -5742,7 +5646,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25606795396639, 49.264253597258225 ]
+				"coordinates" : [ -123.2560679539664, 49.264253597258225 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-85",
@@ -5754,7 +5658,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -5766,7 +5670,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25561351859653, 49.262894363000648 ]
+				"coordinates" : [ -123.25561351859653, 49.26289436300065 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-301",
@@ -5790,7 +5694,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25470029183261, 49.26389324951343 ]
+				"coordinates" : [ -123.2547002918326, 49.26389324951343 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-303",
@@ -5814,7 +5718,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23427636717285, 49.251230291390129 ]
+				"coordinates" : [ -123.23427636717285, 49.25123029139013 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-311",
@@ -5838,7 +5742,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23529881131054, 49.250845176684031 ]
+				"coordinates" : [ -123.23529881131054, 49.25084517668403 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-1034",
@@ -5862,7 +5766,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2342559832254, 49.250948247571593 ]
+				"coordinates" : [ -123.2342559832254, 49.25094824757159 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-310",
@@ -5886,7 +5790,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23484738149247, 49.251995948754399 ]
+				"coordinates" : [ -123.23484738149247, 49.2519959487544 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-312",
@@ -5898,7 +5802,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Future",
-				"ROT" : 308.4,
+				"ROT" : 308.40000000000003,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -5910,7 +5814,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23036085876645, 49.253454787946161 ]
+				"coordinates" : [ -123.23036085876645, 49.25345478794616 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-313",
@@ -5922,7 +5826,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Future",
-				"ROT" : 189.7,
+				"ROT" : 189.70000000000002,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -5934,7 +5838,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23688725603422, 49.253203063313492 ]
+				"coordinates" : [ -123.23688725603422, 49.25320306331349 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-52",
@@ -5970,7 +5874,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "l2",
@@ -5982,7 +5886,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25146645821889, 49.269540735461099 ]
+				"coordinates" : [ -123.25146645821889, 49.2695407354611 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-0",
@@ -6042,7 +5946,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 1,
 				"BL_CLASS" : "Residence",
@@ -6054,7 +5958,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24961921324231, 49.271824233931788 ]
+				"coordinates" : [ -123.24961921324231, 49.27182423393179 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-77",
@@ -6066,7 +5970,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -6090,7 +5994,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -6114,7 +6018,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -6126,7 +6030,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25038881855356, 49.271067874718838 ]
+				"coordinates" : [ -123.25038881855356, 49.27106787471884 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-281",
@@ -6162,7 +6066,7 @@
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.1,
+				"ROT" : 118.10000000000001,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
@@ -6174,31 +6078,31 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.255528734938, 49.267251765015224 ]
+				"coordinates" : [ -123.25498879263364, 49.266704543207936 ]
 			},
 			"properties" : {
-				"ADD_ID" : "AD-93",
-				"BL_ID" : "OADM",
-				"PLACENAME" : "Old Administration Building",
-				"PLACENAME2" : "Old Admin",
+				"ADD_ID" : "AD-209",
+				"BL_ID" : null,
+				"PLACENAME" : "Walter C. Koerner Library",
+				"PLACENAME2" : "Koerner Library",
 				"PLACENAME3" : null,
 				"PLACENAME4" : null,
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 298.1,
+				"ROT" : 208.20000001,
 				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l1",
 				"ENT_TYPE" : null,
-				"GLOBALID" : "{3E30C891-C43B-4B8C-9BA3-A970CD040A2F}"
+				"GLOBALID" : "{56AE3480-940B-428D-95D2-7CF6BD8A3211}"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25663857585978, 49.266801606326432 ]
+				"coordinates" : [ -123.25663857585978, 49.26680160632643 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-105",
@@ -6216,6 +6120,30 @@
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{29258936-7325-4B07-A4BB-16868D82D205}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.255612909645, 49.26509469139494 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-173",
+				"BL_ID" : "OFRH",
+				"PLACENAME" : "Old Fire Hall",
+				"PLACENAME2" : "Old Fire Hall",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{84B7406F-6155-4ACD-8FBB-6B22AF046B4C}"
 			}
 		},
 		{
@@ -6246,72 +6174,72 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25637576296465, 49.271052017479995 ]
+				"coordinates" : [ -123.25075049086502, 49.26319787124163 ]
 			},
 			"properties" : {
-				"ADD_ID" : "AD-5",
-				"BL_ID" : "GRNC",
-				"PLACENAME" : "Green College",
-				"PLACENAME2" : "Green College",
-				"PLACENAME3" : "Adminstration Building F",
-				"PLACENAME4" : null,
+				"ADD_ID" : "AD-161",
+				"BL_ID" : "BEBC",
+				"PLACENAME" : "Beaty Biodiversity Centre",
+				"PLACENAME2" : "Beaty",
+				"PLACENAME3" : "Beaty Biodiversity Museum",
+				"PLACENAME4" : "<Null>",
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 289.8,
+				"ROT" : 28.2,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Residence",
+				"BL_CLASS" : "Attraction",
 				"ENT_TYPE" : null,
-				"GLOBALID" : "{694C5C69-F1EC-41D5-A120-F196691CA8BE}"
+				"GLOBALID" : "{34F6A841-F6D1-4F60-BBFC-0DD3D3477341}"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.255612909645, 49.265094691394943 ]
+				"coordinates" : [ -123.2441042975118, 49.256948394133644 ]
 			},
 			"properties" : {
-				"ADD_ID" : "AD-173",
-				"BL_ID" : "OFRH",
-				"PLACENAME" : "Old Fire Hall",
-				"PLACENAME2" : "Old Fire Hall",
+				"ADD_ID" : "AD-169",
+				"BL_ID" : "FPIN",
+				"PLACENAME" : "FPInnovations",
+				"PLACENAME2" : "FP Innovations",
+				"PLACENAME3" : "Forintek",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{A1DB08DC-9D5C-48E1-84B3-8CE5B7E87F2E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.255528734938, 49.267251765015224 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-93",
+				"BL_ID" : "OADM",
+				"PLACENAME" : "Old Administration Building",
+				"PLACENAME2" : "Old Admin",
 				"PLACENAME3" : null,
 				"PLACENAME4" : null,
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
 				"ROT" : 298.1,
-				"ACCESSIBLE" : 0,
+				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
-				"GLOBALID" : "{84B7406F-6155-4ACD-8FBB-6B22AF046B4C}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24448081609165, 49.263832955573093 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-221",
-				"BL_ID" : "HSCC",
-				"PLACENAME" : "Detwiller Pavilion",
-				"PLACENAME2" : "Detwiller",
-				"PLACENAME3" : null,
-				"PLACENAME4" : "Detwiller Pavilion",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "HSCC",
-				"STATUS" : "Current",
-				"ROT" : 208.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{8AB768CC-3A84-4968-B603-C243F8C67D98}"
+				"GLOBALID" : "{3E30C891-C43B-4B8C-9BA3-A970CD040A2F}"
 			}
 		},
 		{
@@ -6336,6 +6264,78 @@
 				"BL_CLASS" : "Attraction",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{B0504E93-8116-4D45-B1D7-321239AE16B2}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25228204117957, 49.26254851689978 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-178",
+				"BL_ID" : null,
+				"PLACENAME" : "Earth and Ocean Sciences ",
+				"PLACENAME2" : "EOS",
+				"PLACENAME3" : "EOS Main",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : "EOS",
+				"BUILDING_SHORTCODE" : "EOSM",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l1",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{F353B4ED-CE04-4266-B14B-52A16FBA897E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25637576296465, 49.271052017479995 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-5",
+				"BL_ID" : "GRNC",
+				"PLACENAME" : "Green College",
+				"PLACENAME2" : "Green College",
+				"PLACENAME3" : "Adminstration Building F",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 289.8,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Residence",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{694C5C69-F1EC-41D5-A120-F196691CA8BE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24448081609165, 49.26383295557309 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-221",
+				"BL_ID" : "HSCC",
+				"PLACENAME" : "Detwiller Pavilion",
+				"PLACENAME2" : "Detwiller",
+				"PLACENAME3" : null,
+				"PLACENAME4" : "Detwiller Pavilion",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "HSCC",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{8AB768CC-3A84-4968-B603-C243F8C67D98}"
 			}
 		}
 	]

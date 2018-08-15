@@ -1,6 +1,4 @@
 ﻿ADD_ID,BL_ID,BUILDINGNAME,STREETNUM,STREETNAME,STREETTYPE,FULLADDRESS,MUNINAME,PROVINCE,POSTALCODE,NEIGHBOURHOOD,ADDRESSTYPE,NUM_UNITS,ADDRESSNOTES,STATUS,GLOBALID
-AD-980,007-0,Fairview Crescent Residence,2760,Fairview,Crescent,2760 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{6FC039AC-CB0E-4C05-8A76-F986B6BBA894}
-AD-981,007-1,Fairview Crescent Residence,2761,Fairview,Crescent,2761 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{71B040E9-8CED-43DF-8EC1-4BA58D7CD71C}
 AD-417,827-1,Folio Duplexes,5968,Chancellor,Boulevard,5968 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{936F9399-5746-4565-B702-8E570A4DDC39}
 AD-414,827-2,Folio Duplexes,5972,Chancellor,Boulevard,5972 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{DC0A544F-5372-485F-AB9F-2F43FDB95F72}
 AD-415,827-2,Folio Duplexes,5978,Chancellor,Boulevard,5978 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{F846A16E-0ADC-48F7-9C37-85AFAA6B4E89}
@@ -11,46 +9,8 @@ AD-411,827-4,Folio Duplexes,5998,Chancellor,Boulevard,5998 Chancellor Boulevard,
 AD-409,826,Folio Townhouses,5968,Chancellor,Mews,5968 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{947E3BAE-9B5C-49C4-9BFA-928158302E24}
 AD-408,826,Folio Townhouses,5966,Chancellor,Mews,5966 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{E78D7A02-28C1-405A-BC1D-11A6A90E9196}
 AD-407,826,Folio Townhouses,5962,Chancellor,Mews,5962 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{033054D5-F143-4EA6-BC64-29B2EED7D5E1}
-AD-5,418,Green College,6201,Cecil Green Park,Road,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,Housing - Stud,89,<Null>,Current,{AF91BDC0-CB0B-4696-AAC4-BD8F43DF0CF0}
-AD-89,921,Fraternity Village,2880,Wesbrook,Mall,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3,Academic,Housing - Stud,250,,Current,{370867AF-748D-4F6A-A398-32B6DC69A0BA}
-AD-21,553,Fraser Hall,2550,Wesbrook,Mall,2550 Wesbrook Mall,Vancouver,BC,V6T 1Z3,East Campus,Housing - Stud,24,,Current,{02AE6A76-41D1-4E81-8EA8-F8B87552FA3B}
 AD-418,618,Hawthorn Green,6318,Hawthorn,Lane,6318 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Housing - unit,1,,Current,{F5BE3EBC-0496-4B54-849F-E1820488C405}
 AD-419,618,Hawthorn Green,6326,Hawthorn,Lane,6326 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Housing - unit,1,,Current,{D8A12951-9E5C-4733-88BA-E92EAB5FB810}
-AD-895,007-3,Fairview Crescent Residence,2676,Fairview,Crescent,2676 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{AEADCD8D-D329-43FA-B8FC-7A1997C613A6}
-AD-896,007-1,Fairview Crescent Residence,2677,Fairview,Crescent,2677 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{1F6F9BD7-F78A-48E9-9C10-CFEA82A3B577}
-AD-897,007-3,Fairview Crescent Residence,2678,Fairview,Crescent,2678 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{426B51C9-8F29-4610-A31E-0A437F86A6A3}
-AD-898,007-1,Fairview Crescent Residence,2679,Fairview,Crescent,2679 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{3DA4319C-4E39-475B-8517-B15510EBD440}
-AD-899,007-3,Fairview Crescent Residence,2680,Fairview,Crescent,2680 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{5C2A0F56-3FC5-447C-812F-DE042B31315D}
-AD-900,007-1,Fairview Crescent Residence,2681,Fairview,Crescent,2681 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{5BBB86D2-EF44-40F5-90C7-3DA4548CE6A0}
-AD-901,007-3,Fairview Crescent Residence,2682,Fairview,Crescent,2682 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{A9E5AF87-5E12-4AD4-B8B2-28074A12875F}
-AD-902,007-1,Fairview Crescent Residence,2683,Fairview,Crescent,2683 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{552632BA-E375-441B-989B-FA4098372572}
-AD-903,007-3,Fairview Crescent Residence,2684,Fairview,Crescent,2684 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{66B3B13B-6A93-486F-B890-3D65034AF722}
-AD-904,007-1,Fairview Crescent Residence,2685,Fairview,Crescent,2685 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{9EA72471-B5EB-4F75-91A9-46AC3CCB0E06}
-AD-905,007-3,Fairview Crescent Residence,2686,Fairview,Crescent,2686 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{03DC0341-2CF8-445B-BD8A-1197681C203F}
-AD-906,007-1,Fairview Crescent Residence,2687,Fairview,Crescent,2687 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{0A7F668C-7ACC-46E7-AB5E-E64870CC5273}
-AD-907,007-3,Fairview Crescent Residence,2688,Fairview,Crescent,2688 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{E7D0F505-AC6D-4D9D-8987-134E4D247150}
-AD-908,007-1,Fairview Crescent Residence,2689,Fairview,Crescent,2689 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{B15371C8-9B55-4227-BFBB-48D3485515DA}
-AD-910,007-3,Fairview Crescent Residence,2690,Fairview,Crescent,2690 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{3F545FFF-F012-490C-84CE-58E3C6C0F31D}
-AD-909,007-1,Fairview Crescent Residence,2689-A,Fairview,Crescent,2689-A Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{0F1137BC-E8E7-4282-A770-D0E14AAAE0B1}
-AD-911,007-1,Fairview Crescent Residence,2691,Fairview,Crescent,2691 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{6096BAEB-830A-4585-9477-0287F1AB5D47}
-AD-912,007-3,Fairview Crescent Residence,2692,Fairview,Crescent,2692 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{36B3F152-07B8-420B-8FE9-33628CDB2FFF}
-AD-913,007-1,Fairview Crescent Residence,2693,Fairview,Crescent,2693 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{6AB53D68-5DB9-4945-89B2-60FE07F8836D}
-AD-914,007-3,Fairview Crescent Residence,2694,Fairview,Crescent,2694 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{9B607610-F639-448E-A4D3-21DA0DF2DE87}
-AD-915,007-1,Fairview Crescent Residence,2695,Fairview,Crescent,2695 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{110F152F-9480-4A8F-A487-49CA36B3BCE5}
-AD-916,007-3,Fairview Crescent Residence,2696,Fairview,Crescent,2696 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{D76C01FA-7C01-4E94-84EE-45AD2CC4BBD3}
-AD-917,007-1,Fairview Crescent Residence,2697,Fairview,Crescent,2697 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{09ED273A-6B83-46EC-8518-7319FA3A494E}
-AD-918,007-3,Fairview Crescent Residence,2698,Fairview,Crescent,2698 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{D7187E57-985E-4A0B-909C-B2F95EB189EC}
-AD-919,007-1,Fairview Crescent Residence,2699,Fairview,Crescent,2699 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{7809AB7C-C9BC-4DF2-A56B-96FCE3265921}
-AD-920,007-3,Fairview Crescent Residence,2700,Fairview,Crescent,2700 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{08082B6C-A871-45B5-AD85-993D2C81DC56}
-AD-921,007-1,Fairview Crescent Residence,2701,Fairview,Crescent,2701 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{9E73DD95-5B2E-4392-A6EF-49B3CCAEDD49}
-AD-809,014-2,Presidents Row,5529,Presidents,Row,5529 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{ED1B2ED1-1E89-4A56-A49D-FAC4EAD86C09}
-AD-810,014-3,Presidents Row,5603,Presidents,Row,5603 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{226D8A04-FD51-431D-8FAE-54AF340BE8C3}
-AD-811,014-3,Presidents Row,5605,Presidents,Row,5605 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{C07A01D2-FE21-49F5-8E5F-65700F897FA1}
-AD-812,014-3,Presidents Row,5607,Presidents,Row,5607 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{9F7C2C8A-DB93-407F-BA5A-6633268D2E9A}
-AD-813,014-3,Presidents Row,5609,Presidents,Row,5609 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{E55C2A4B-2921-4906-A3D7-3B538B547065}
-AD-814,014-3,Presidents Row,5611,Presidents,Row,5611 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{E3B8115A-B92F-4FC8-9BE3-7FBE2165825A}
-AD-815,014-3,Presidents Row,5615,Presidents,Row,5615 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{2F1C2A1D-5C4E-4F3F-BB41-CE0C68255754}
-AD-816,014-3,Presidents Row,5617,Presidents,Row,5617 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{CAF6D2D6-140E-4EF7-AB2E-096031E379FC}
 AD-498,622,Somerset,6360,Larkin,Drive,6360 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{67A6B85B-FFCB-4221-ABE2-CC2AD1D9A692}
 AD-499,622,Somerset,6362,Larkin,Drive,6362 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{7FF542D2-2405-4E04-9D80-B3631009BD1E}
 AD-500,622,Somerset,6366,Larkin,Drive,6366 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{21B57E35-C9DC-42D9-9149-609E5674CE88}
@@ -123,152 +83,19 @@ AD-437,620,Logan Lane,2555,East,Mall,2555 East Mall,Vancouver,BC,V6T 2K8,Hawthor
 AD-438,620,Logan Lane,2557,East,Mall,2557 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{B56FDE56-C37F-4BDB-AEC6-9AA550026551}
 AD-439,620,Logan Lane,2559,East,Mall,2559 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{CEABF7A2-E226-4444-BBA0-FF1139C6ACC3}
 AD-440,620,Logan Lane,2561,East,Mall,2561 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{82CB02BF-2CBE-4B12-A63F-9489911FF8C1}
-AD-982,007-0,Fairview Crescent Residence,2762,Fairview,Crescent,2762 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{44ADB73A-3C2D-4D79-B207-D8B91AB067E9}
-AD-983,007-1,Fairview Crescent Residence,2763,Fairview,Crescent,2763 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{21AC3203-122A-44E6-83E2-9F1F60F2778A}
-AD-984,007-0,Fairview Crescent Residence,2764,Fairview,Crescent,2764 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{DD0E530D-2DAB-44D9-9AFC-A1F0752D7600}
-AD-985,007-1,Fairview Crescent Residence,2765,Fairview,Crescent,2765 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{CC0D156A-FE4E-4BF1-825F-D162D2675ADD}
-AD-986,007-0,Fairview Crescent Residence,2766,Fairview,Crescent,2766 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{8AC6C348-FF20-4DBE-9DF4-68A8CB83ED73}
-AD-987,007-1,Fairview Crescent Residence,2767,Fairview,Crescent,2767 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{377D4DC9-8F20-48CF-A672-046086A60AE2}
-AD-988,007-0,Fairview Crescent Residence,2768,Fairview,Crescent,2768 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{9158DD19-67E6-416D-B8C6-76BFC1185CB9}
-AD-989,007-1,Fairview Crescent Residence,2769,Fairview,Crescent,2769 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{7EDA48DC-4440-4D85-82B8-999B5BDE269E}
-AD-990,007-0,Fairview Crescent Residence,2770,Fairview,Crescent,2770 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{F196913C-FB73-407D-B13F-26364B07A2C6}
-AD-991,007-0,Fairview Crescent Residence,2772,Fairview,Crescent,2772 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{52A01740-CC84-4A4B-A66F-0E88E4E59730}
-AD-992,007-0,Fairview Crescent Residence,2774,Fairview,Crescent,2774 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{36A58FB5-C4C3-4EDA-89F1-797B6AAB69B5}
-AD-993,007-0,Fairview Crescent Residence,2776,Fairview,Crescent,2776 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{C9DBD33F-675A-47A4-8372-CC4C3ABF2AB3}
-AD-994,007-0,Fairview Crescent Residence,2778,Fairview,Crescent,2778 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{159317DB-25CD-4D76-931E-8312F04DA952}
-AD-995,007-0,Fairview Crescent Residence,2780,Fairview,Crescent,2780 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{857FB18E-DD8F-44FE-A7BF-93CD106C2C83}
 AD-305,,District Energy Centre - Wesbrook,3459,Ross,Drive,3459 Ross Drive,Vancouver,BC,V6T 1W5,Academic,Non-UBC,0,,Current,{9738FA86-BB96-4D1B-9DE0-E45E28AC720C}
-AD-996,007-0,Fairview Crescent Residence,2782,Fairview,Crescent,2782 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{4E9B4529-9932-4CDA-8E61-67C65C68734C}
-AD-997,007-0,Fairview Crescent Residence,2784,Fairview,Crescent,2784 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{68F6A581-247C-4631-9561-FE2FD72CCBC2}
-AD-998,007-0,Fairview Crescent Residence,2786,Fairview,Crescent,2786 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{006E307E-C0B0-433B-A742-DAE98357501B}
-AD-999,007-0,Fairview Crescent Residence,2788,Fairview,Crescent,2788 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{2B3F367A-9228-42B9-9ACA-D671D0D2FB5A}
-AD-1000,007-0,Fairview Crescent Residence,2790,Fairview,Crescent,2790 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{2B24D6F2-A7F1-4F15-9E0F-2BFE61A189F5}
-AD-1001,007-0,Fairview Crescent Residence,2792,Fairview,Crescent,2792 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{00E98B9E-A4A1-48C3-B75A-A19D272C846A}
-AD-1002,007-0,Fairview Crescent Residence,2794,Fairview,Crescent,2794 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{8363F376-E39F-43C8-AE94-D7787BB03F1B}
-AD-1003,007-0,Fairview Crescent Residence,2796,Fairview,Crescent,2796 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{A9CBC70A-A80F-49A3-8065-6D3DA39D41B0}
-AD-1004,007-1,Fairview Crescent Residence,2798,Fairview,Crescent,2798 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{F7DE81BA-8F36-4852-B32A-E711608E0767}
-AD-1005,007-1,Fairview Crescent Residence,2800,Fairview,Crescent,2800 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{4444450B-48D4-4187-9588-DA2253E9F3F2}
-AD-1006,007-1,Fairview Crescent Residence,2802,Fairview,Crescent,2802 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{AD32F4CA-886C-442F-AA04-24E7C0E4DC55}
-AD-1007,007-1,Fairview Crescent Residence,2804,Fairview,Crescent,2804 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{DCC29841-51A4-4B35-95CD-059861EC0CCF}
 AD-406,825,Folio Cityhomes,5958,Chancellor,Mews,5958 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{31A140F0-0F7B-420B-B97C-3CF4B3C9D61D}
 AD-405,825,Folio Cityhomes,5952,Chancellor,Mews,5952 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{AB4C2E80-41EC-47C0-88E1-5E0FA07B92DC}
 AD-416,827-1,Folio Duplexes,5962,Chancellor,Boulevard,5962 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{6C365F79-66D4-479F-A4A8-6F1C34CD699A}
-AD-952,007-0,Fairview Crescent Residence,2732,Fairview,Crescent,2732 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{04B694DF-34D2-4F95-BDD3-5CC578052006}
-AD-953,007-1,Fairview Crescent Residence,2733,Fairview,Crescent,2733 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{33C1B010-0DD4-4576-9080-382DAAFFB4EE}
-AD-954,007-0,Fairview Crescent Residence,2734,Fairview,Crescent,2734 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{0882A3B9-757C-4592-92F1-537FC45A2455}
-AD-939,007-0,Fairview Crescent Residence,2720,Fairview,Crescent,2720 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{72F83F99-F362-47CD-815E-C6B5E4884E84}
-AD-940,007-1,Fairview Crescent Residence,2721,Fairview,Crescent,2721 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{BB8FD417-BAF2-4F86-B188-5D8C205B1091}
-AD-941,007-1,Fairview Crescent Residence,2721-A,Fairview,Crescent,2721-A Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{D667AFC7-2AF1-47E6-9A3B-E8A827EFBD69}
-AD-942,007-0,Fairview Crescent Residence,2722,Fairview,Crescent,2722 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{C03C1C6D-6174-4AC5-8A5D-DDA75AC1E6C3}
-AD-943,007-1,Fairview Crescent Residence,2723,Fairview,Crescent,2723 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{B9C70D1D-BFCE-4778-B394-CBCC35F6CAA7}
-AD-944,007-0,Fairview Crescent Residence,2724,Fairview,Crescent,2724 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{9001E077-1217-4C85-BA3E-B480E4E8AFE2}
-AD-945,007-1,Fairview Crescent Residence,2725,Fairview,Crescent,2725 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{F218D468-A2A2-4759-BA36-FA1D148AEFF0}
-AD-946,007-0,Fairview Crescent Residence,2726,Fairview,Crescent,2726 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{0C6C723D-7B17-4ADC-80E4-58D3DD3EC932}
-AD-947,007-1,Fairview Crescent Residence,2727,Fairview,Crescent,2727 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{81D4C49B-615D-4322-BD06-6410B8BED9C6}
-AD-948,007-0,Fairview Crescent Residence,2728,Fairview,Crescent,2728 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{29BAE919-CF23-4355-BD19-C5263E7C2DB9}
-AD-949,007-1,Fairview Crescent Residence,2729,Fairview,Crescent,2729 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{23A3E11A-43A9-4C3D-B45F-DFA3DAF20E9F}
-AD-950,007-0,Fairview Crescent Residence,2730,Fairview,Crescent,2730 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{08CC8985-3667-4CD5-BED1-8A4DF2174E1C}
-AD-951,007-1,Fairview Crescent Residence,2731,Fairview,Crescent,2731 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{A5C8BAB4-F7CF-4DC5-B9D5-4D3A2965BA55}
-AD-955,007-1,Fairview Crescent Residence,2735,Fairview,Crescent,2735 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{2AFAB171-8C4E-415C-9FEA-15577B22C5B4}
-AD-956,007-0,Fairview Crescent Residence,2736,Fairview,Crescent,2736 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{2498164A-7532-4EC0-B705-112B6385677C}
-AD-957,007-1,Fairview Crescent Residence,2737,Fairview,Crescent,2737 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{D50E3F81-AE04-42A9-9E75-9EDC8C61767C}
-AD-958,007-0,Fairview Crescent Residence,2738,Fairview,Crescent,2738 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{BADCDE94-1C49-4201-BD9E-CFEFB5AAFF53}
-AD-959,007-1,Fairview Crescent Residence,2739,Fairview,Crescent,2739 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{0D2DDEA3-7ADC-44A8-9F1A-EC851F739A85}
-AD-960,007-0,Fairview Crescent Residence,2740,Fairview,Crescent,2740 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{F3C42024-AFB2-4A28-9A85-52B23540C6C4}
-AD-961,007-1,Fairview Crescent Residence,2741,Fairview,Crescent,2741 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{2715CA2F-B252-4959-869F-6729F634AE6D}
-AD-962,007-0,Fairview Crescent Residence,2742,Fairview,Crescent,2742 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{34FA6009-8CE0-478A-88F4-51C1E7E27408}
-AD-963,007-1,Fairview Crescent Residence,2743,Fairview,Crescent,2743 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{382A8886-2A7A-4A5B-A69F-04F55005FF40}
-AD-964,007-0,Fairview Crescent Residence,2744,Fairview,Crescent,2744 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{D0D6FB70-782C-4F3D-8EB5-728D297CC7F1}
-AD-965,007-1,Fairview Crescent Residence,2745,Fairview,Crescent,2745 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{C9C1414E-7A78-45C6-AD96-2A655A6A5541}
-AD-890,007-3,Fairview Crescent Residence,2672,Fairview,Crescent,2672 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{AEF9DEE3-51DC-4248-983B-2D0342B0507B}
-AD-891,007-1,Fairview Crescent Residence,2673,Fairview,Crescent,2673 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{A31C5323-9F79-4F86-806B-0E908C1715E6}
-AD-892,007-1,Fairview Crescent Residence,2673-A,Fairview,Crescent,2673-A Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{E8E669FC-5139-4B9B-A92B-9AFC51EE14DA}
-AD-893,007-3,Fairview Crescent Residence,2674,Fairview,Crescent,2674 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{81B01F9E-C660-4E5B-BFC0-3D3D810633D1}
-AD-894,007-1,Fairview Crescent Residence,2675,Fairview,Crescent,2675 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{68B643A9-9778-45C1-AD15-E2C0D4ACCE3F}
 AD-49,689,The Mews,3333,Wesbrook,Mall,3333 Wesbrook Mall,Vancouver,BC,V6S 0E3,Wesbrook Place,Housing,72,,Current,{848D41A1-7214-4AD6-9DD7-00CE2B34C853}
 AD-347,689,The Mews - Retail,3351,Wesbrook,Mall,3351 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{B3A2DDFF-31FD-4756-B411-760D90ED551F}
-AD-936,007-1,Fairview Crescent Residence,2717,Fairview,Crescent,2717 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{F1145042-9081-4705-AEFE-C454995DF21B}
-AD-922,007-3,Fairview Crescent Residence,2702,Fairview,Crescent,2702 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{833BE052-15C4-4268-B79D-76B909CA616F}
-AD-923,007-1,Fairview Crescent Residence,2703,Fairview,Crescent,2703 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{7ADE05BC-DC37-4200-9188-00C44E580768}
-AD-924,007-3,Fairview Crescent Residence,2704,Fairview,Crescent,2704 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{A6537052-67FD-4A5D-9358-EA343B102ACB}
-AD-925,007-1,Fairview Crescent Residence,2705,Fairview,Crescent,2705 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{48746782-49F9-4C7E-89F2-F38351796105}
-AD-927,007-1,Fairview Crescent Residence,2707,Fairview,Crescent,2707 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{89EBC54A-5642-4B4C-8EC4-075BCFDC93C4}
-AD-928,007-1,Fairview Crescent Residence,2709,Fairview,Crescent,2709 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{E823A842-BC01-402E-86BB-853A8570BB49}
-AD-929,007-0,Fairview Crescent Residence,2710,Fairview,Crescent,2710 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{65222800-C775-4AAC-ADC4-2F84FE3AE911}
-AD-930,007-1,Fairview Crescent Residence,2711,Fairview,Crescent,2711 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{8021B778-0983-4BF2-AE63-CF09B3FF7D5E}
-AD-931,007-0,Fairview Crescent Residence,2712,Fairview,Crescent,2712 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{0D58585B-8609-4179-A8FC-112E000E1250}
-AD-932,007-1,Fairview Crescent Residence,2713,Fairview,Crescent,2713 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{3EB8B482-F427-46EC-AC2E-D08A27BDF024}
-AD-933,007-0,Fairview Crescent Residence,2714,Fairview,Crescent,2714 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{31E997D9-9F87-4E34-B9CC-585ECC5397EC}
-AD-934,007-1,Fairview Crescent Residence,2715,Fairview,Crescent,2715 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{AA8196F7-8632-4809-986B-370F5FEC5751}
-AD-935,007-0,Fairview Crescent Residence,2716,Fairview,Crescent,2716 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{BEBC0E64-51B5-49C1-A5A0-1B7165EC7EB7}
-AD-937,007-0,Fairview Crescent Residence,2718,Fairview,Crescent,2718 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{3F4B0C75-8543-4C1F-9152-3CE9563BC5FE}
-AD-938,007-1,Fairview Crescent Residence,2719,Fairview,Crescent,2719 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{A3D0B2A8-1008-4084-9BDA-7706881C0716}
-AD-966,007-0,Fairview Crescent Residence,2746,Fairview,Crescent,2746 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{1D5DF821-67B4-4FB9-9B7C-BCC7A70D8EBB}
-AD-967,007-1,Fairview Crescent Residence,2747,Fairview,Crescent,2747 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{E12FB2F4-4518-42F5-BB7F-17DA190C398C}
-AD-968,007-0,Fairview Crescent Residence,2748,Fairview,Crescent,2748 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{F7C69587-CD2D-4023-A244-B11BAC60A3B2}
-AD-969,007-1,Fairview Crescent Residence,2749,Fairview,Crescent,2749 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{9983A468-E460-4892-BD39-81842553F3C0}
-AD-970,007-0,Fairview Crescent Residence,2750,Fairview,Crescent,2750 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{AEDF6DA1-BE2A-43AE-8F89-B7F96A0F5CB0}
-AD-971,007-1,Fairview Crescent Residence,2751,Fairview,Crescent,2751 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{0A88727A-7A1E-48A4-BBCC-7017FC2F55D9}
-AD-972,007-0,Fairview Crescent Residence,2752,Fairview,Crescent,2752 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{B5655271-A426-471B-8A14-64DD38334AC7}
-AD-973,007-1,Fairview Crescent Residence,2753,Fairview,Crescent,2753 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{17DB8992-AC0F-424E-B021-B4451ED570C9}
-AD-974,007-0,Fairview Crescent Residence,2754,Fairview,Crescent,2754 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{60DC35A8-E687-4FF1-BF7A-07B935A851F5}
-AD-975,007-1,Fairview Crescent Residence,2755,Fairview,Crescent,2755 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{7D5C55EF-C6B7-4ED4-8DC9-6820554053B4}
-AD-976,007-0,Fairview Crescent Residence,2756,Fairview,Crescent,2756 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{A0381ACB-782A-49C8-8FC5-EB6569D19CC0}
-AD-977,007-1,Fairview Crescent Residence,2757,Fairview,Crescent,2757 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{218F93B0-9475-4AFB-BA98-9129340A99B7}
-AD-978,007-0,Fairview Crescent Residence,2758,Fairview,Crescent,2758 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{89C792BF-E9BE-47A9-9234-40BEF7CE008D}
-AD-979,007-1,Fairview Crescent Residence,2759,Fairview,Crescent,2759 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{07321627-2A71-4478-85F8-2B6A9D657837}
-AD-613,010-0,Acadia Park Townhouses,2636,Melfa,Lane,2636 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{AD70A1C1-A3A3-4550-B0D7-CEF6BEBCD956}
-AD-615,010-0,Acadia Park Townhouses,2638,Melfa,Lane,2638 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{F3B67899-E109-4D4A-AE72-6A8D56E1B0B5}
 AD-237,593-2,Tapestry at Wesbrook Village,3382,Wesbrook,Mall,3382 Wesbrook Mall,Vancouver,BC,V6S 0A7,Wesbrook Place,Housing,46,,Current,{96D689CF-4CCC-47D7-B4FD-DD0622FE17D2}
-AD-617,010-0,Acadia Park Townhouses,2640,Melfa,Lane,2640 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{80569B21-5459-487A-9657-66C3ED90A888}
-AD-618,010-0,Acadia Park Townhouses,2642,Melfa,Lane,2642 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{79C23A42-77BD-43D7-9BF3-3985B1E0282E}
-AD-1008,009-1,Acadia Park Townhouses,2603,Melfa,Lane,2603 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{6CA39A0D-8B7D-48DD-8A50-081D6E0D1587}
-AD-619,009-1,Acadia Park Townhouses,5501,Yalta,Place,5501 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{D32D6E8F-71DD-48B6-8283-A06232CBEC33}
-AD-621,009-1,Acadia Park Townhouses,5503,Yalta,Place,5503 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{46C28855-D5C4-4DF8-A7F2-2A02120A358E}
 AD-20,550,Sitka,5868,Agronomy,Road,5868 Agronomy Road,Vancouver,BC,V6T 0B5,East Campus,Housing,81,,Current,{FE15502D-272A-48D9-84F3-F344F00FB926}
 AD-117,081-2,Networks of Centres of Excellence,2125,East,Mall,2125 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{2C17A689-2DEC-4D74-B053-1CE3EDD4A014}
 AD-166,344,Leon and Thea Koerner University Centre,6331,Crescent,Road,6331 Crescent Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{E2E0061C-2D12-4041-82C7-9132752C7032}
 AD-56,695,Yu,5955,Birney,Avenue,5955 Birney Avenue,Vancouver,BC,V6S 0C5,Wesbrook Place,Housing,106,,Current,{FE1F2EE7-6BFC-42D5-803C-1C85F72E75C2}
 AD-111,066,Biological Sciences Building,6270,University,Boulevard,6270 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{455EF735-83C5-4604-8547-C72A5373F291}
 AD-149,213,UBC Aquatic Centre,6080,Student Union,Boulevard,6080 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{D8ECE767-BD9E-4738-A1AF-F652DD4F7328}
-AD-623,009-1,Acadia Park Townhouses,5505,Yalta,Place,5505 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{DD67118F-B156-4F12-8E22-3A1F67333EEF}
-AD-627,009-1,Acadia Park Townhouses,5601,Yalta,Place,5601 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{D7959425-345C-4728-BB30-7E5546C7326F}
-AD-629,009-1,Acadia Park Townhouses,5603,Yalta,Place,5603 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{06C10A62-D241-4D17-AB04-BE194B4E8F1C}
-AD-631,009-1,Acadia Park Townhouses,5605,Yalta,Place,5605 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{E9157ADD-ABE4-49F1-BC2E-6BBC6DEC7165}
-AD-776,009-2,Acadia Park Townhouses,5633,Montgomery,Place,5633 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{49558E41-AAA6-49C1-8F9A-62D81E176E79}
-AD-778,009-2,Acadia Park Townhouses,5635,Montgomery,Place,5635 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{6F3D17EA-7708-43FA-8343-E6AF4335971B}
-AD-780,009-2,Acadia Park Townhouses,5637,Montgomery,Place,5637 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{23D446BD-95D1-4E43-A899-994F90F2A41C}
-AD-782,009-2,Acadia Park Townhouses,5639,Montgomery,Place,5639 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{A08E845C-F908-4E7E-B6FC-01299BED277C}
-AD-784,009-2,Acadia Park Townhouses,5641,Montgomery,Place,5641 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{67495017-47C8-471C-8472-0E56E5F7C386}
-AD-786,009-2,Acadia Park Townhouses,5643,Montgomery,Place,5643 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{7A29B0A0-E590-4DFF-BF02-BC2BEAB2D9A7}
-AD-743,009-1,Acadia Park Townhouses,5600,Montgomery,Place,5600 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{D9855441-A3A9-4D3F-BE2C-D76453405A6E}
-AD-745,009-1,Acadia Park Townhouses,5602,Montgomery,Place,5602 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{16948EB0-5F56-404D-890A-4E77E8751B4F}
-AD-747,009-1,Acadia Park Townhouses,5604,Montgomery,Place,5604 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{796862D4-7433-4685-A7A9-06FABF3AE545}
-AD-749,009-1,Acadia Park Townhouses,5606,Montgomery,Place,5606 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{E41E0BB6-9E2A-4DFC-A975-85414E38EC2B}
-AD-751,009-1,Acadia Park Townhouses,5608,Montgomery,Place,5608 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{7F15E0A3-0F06-45FB-B1D7-8668A51B637A}
-AD-753,009-1,Acadia Park Townhouses,5610,Montgomery,Place,5610 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{26B29DC3-F6F3-47AD-A7CE-186D91EBAF88}
-AD-755,009-1,Acadia Park Townhouses,5612,Montgomery,Place,5612 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{2E4134CE-C82F-4E93-AE8A-B1686F6970CE}
-AD-757,009-1,Acadia Park Townhouses,5614,Montgomery,Place,5614 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{F838944C-490A-4D1B-917F-F94A577BCBCF}
-AD-759,009-1,Acadia Park Townhouses,5616,Montgomery,Place,5616 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{0366853F-6AE6-4236-8ED7-7EB666DD6472}
-AD-761,009-1,Acadia Park Townhouses,5618,Montgomery,Place,5618 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{0574BD3E-0BFA-4291-BDB1-A5426935C1D1}
-AD-763,009-1,Acadia Park Townhouses,5620,Montgomery,Place,5620 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{3B10A8A1-E761-4B45-93AA-193826F3C9CD}
-AD-765,009-1,Acadia Park Townhouses,5622,Montgomery,Place,5622 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{E9FEE0C1-1179-4FEC-B208-D533AEEA2E70}
-AD-767,009-1,Acadia Park Townhouses,5624,Montgomery,Place,5624 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{48D36BDA-9778-462B-9FE8-5A1193365EDD}
-AD-769,009-1,Acadia Park Townhouses,5626,Montgomery,Place,5626 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{99F61CEA-218E-49F1-B7F1-21EE1454593C}
-AD-771,009-1,Acadia Park Townhouses,5628,Montgomery,Place,5628 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{8314E8D5-5677-418D-9F6E-9F6ADB93B3A6}
-AD-773,009-1,Acadia Park Townhouses,5630,Montgomery,Place,5630 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{96002AAA-5B75-4448-9759-CE6AFB8850D6}
-AD-775,009-1,Acadia Park Townhouses,5632,Montgomery,Place,5632 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{B18EF683-C78E-4DCB-968C-22552E1F28DC}
-AD-777,009-1,Acadia Park Townhouses,5634,Montgomery,Place,5634 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{743D69BA-743F-40A4-A40A-2C353FB570A6}
-AD-779,009-1,Acadia Park Townhouses,5636,Montgomery,Place,5636 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{9ECD33D9-6223-4C7B-8003-B3CFDE691523}
-AD-781,009-1,Acadia Park Townhouses,5638,Montgomery,Place,5638 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{14DE56B5-EEE2-488A-B3A6-890745EB7B79}
-AD-783,009-1,Acadia Park Townhouses,5640,Montgomery,Place,5640 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{0B0332F6-5A74-49D3-A118-CFECF3F64E5D}
-AD-785,009-1,Acadia Park Townhouses,5642,Montgomery,Place,5642 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{11BB1148-612E-49EA-9D3E-5BAEF150FFA0}
-AD-1010,009-1,Acadia Park Townhouses,5644,Montgomery,Place,5644 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stud1,1,,Current,{4D732CB2-D170-4476-A1C2-1AE74CC13830}
-AD-733,009-1,Acadia Park Townhouses,2601,Pearkes,Lane,2601 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{9DDA770F-0880-4585-A09D-636B2FDE77A1}
-AD-734,009-1,Acadia Park Townhouses,2603,Pearkes,Lane,2603 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{E9AA0A08-9837-49A1-BE1E-D588865B0343}
-AD-735,009-1,Acadia Park Townhouses,2605,Pearkes,Lane,2605 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{7A54B3D0-99F9-47F7-99FF-2ACBF654112A}
-AD-736,009-1,Acadia Park Townhouses,2607,Pearkes,Lane,2607 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{27506617-9901-42FA-B438-4204B9A65F59}
-AD-737,009-1,Acadia Park Townhouses,2609,Pearkes,Lane,2609 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{744522CC-E4F4-4775-9F3C-80806D11EDA1}
 AD-220,536,Woodward Library,2198,Health Sciences,Mall,2198 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{DBB1160D-902D-4D66-BB6E-BC1320090B5B}
 AD-1012,473,IRC,2194,Health Sciences,Mall,2194 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{52A108E0-DB49-45AF-876D-E0D5F984DAF7}
 AD-118,083,Michael Smith Laboratories,2185,East,Mall,2185 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{19A2DA21-A1DE-4EC4-909D-6DF38576138C}
@@ -315,47 +142,6 @@ AD-370,839,Corus Townhouses,5993,Walter Gage,Road,5993 Walter Gage Road,Vancouve
 AD-371,839,Corus Townhouses,5995,Walter Gage,Road,5995 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing - unit,1,,Current,{33F057F3-5444-4480-B039-E9BD8B13ECD8}
 AD-372,839,Corus Townhouses,5997,Walter Gage,Road,5997 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing - unit,1,,Current,{F38A4352-1DD9-4833-AC50-92D7079ADEF9}
 AD-313,592,Eton - high rise,3487,Binning,Road,3487 Binning Road,Vancouver,BC,,Wesbrook Place,Housing - unit,192,,UC,{8A0F03E0-91AA-4326-B2A8-1CBA8917F781}
-AD-817,007-2,Fairview Crescent Residence,2600,Fairview,Crescent,2600 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{FB65F8E4-6937-463D-8993-3D0408755FD1}
-AD-818,007-2,Fairview Crescent Residence,2601,Fairview,Crescent,2601 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{69835C07-64C2-432D-AAC7-461958A5FA65}
-AD-819,007-2,Fairview Crescent Residence,2602,Fairview,Crescent,2602 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{622F974E-CF54-488C-8EE5-5AD808C76B34}
-AD-820,007-2,Fairview Crescent Residence,2603,Fairview,Crescent,2603 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{B8EB8DC2-77EC-43F6-BD03-16BA2FA4DCF1}
-AD-821,007-2,Fairview Crescent Residence,2604,Fairview,Crescent,2604 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{2F017E12-C65D-4C60-ADC6-B857201EFCA0}
-AD-822,007-2,Fairview Crescent Residence,2605,Fairview,Crescent,2605 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{0F8B1142-3114-4B1C-9104-A95A720DD57A}
-AD-823,007-2,Fairview Crescent Residence,2606,Fairview,Crescent,2606 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{0D5B927F-8701-4EFF-B816-738034C49358}
-AD-824,007-2,Fairview Crescent Residence,2607,Fairview,Crescent,2607 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{B3C7DB88-D479-4B6D-A5F3-ED586EFE0ACE}
-AD-825,007-2,Fairview Crescent Residence,2608,Fairview,Crescent,2608 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{865A6293-715D-42E5-A2CA-36B102BD2CAA}
-AD-826,007-2,Fairview Crescent Residence,2609,Fairview,Crescent,2609 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{84FE85F3-E74F-4B2E-8C46-AEB9D31BCF41}
-AD-827,007-2,Fairview Crescent Residence,2610,Fairview,Crescent,2610 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{3640BD8F-AEF4-4028-BA37-5D31D00020C8}
-AD-828,007-2,Fairview Crescent Residence,2611,Fairview,Crescent,2611 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{238F863A-0A4A-495A-88F2-7D6DD2783BFF}
-AD-829,007-2,Fairview Crescent Residence,2612,Fairview,Crescent,2612 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{FDF30F16-B289-42F0-8B03-62464D6AE587}
-AD-830,007-2,Fairview Crescent Residence,2613,Fairview,Crescent,2613 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{EFD0D305-A991-474C-9C69-C76A32528FF7}
-AD-831,007-2,Fairview Crescent Residence,2614,Fairview,Crescent,2614 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{062DC793-CBF6-48FB-AA70-C4310A581095}
-AD-832,007-2,Fairview Crescent Residence,2615,Fairview,Crescent,2615 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{9CCD78BF-F728-456B-A7E1-6628EB38B400}
-AD-833,007-2,Fairview Crescent Residence,2616,Fairview,Crescent,2616 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{409FE15A-6AF7-48D4-B6C7-2A315FAB65DE}
-AD-834,007-2,Fairview Crescent Residence,2617,Fairview,Crescent,2617 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{354A674F-8DA8-412F-ACDB-8FD6577FCB62}
-AD-835,007-2,Fairview Crescent Residence,2618,Fairview,Crescent,2618 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{E16DB72C-4540-45A1-9596-66A776C95DCA}
-AD-836,007-2,Fairview Crescent Residence,2619,Fairview,Crescent,2619 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{C73918C7-E172-48F5-A986-27E4C58DF619}
-AD-838,007-2,Fairview Crescent Residence,2621,Fairview,Crescent,2621 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{F092048E-10C4-4D03-99B1-44A199AC6831}
-AD-839,007-2,Fairview Crescent Residence,2622,Fairview,Crescent,2622 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{2A1A4DD3-3D7E-4068-967B-B262A3276471}
-AD-840,007-2,Fairview Crescent Residence,2623,Fairview,Crescent,2623 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{EBD694DF-6CEE-4DF0-840C-F702BB1A1D46}
-AD-841,007-2,Fairview Crescent Residence,2624,Fairview,Crescent,2624 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{6D113F30-E2DB-43EA-B985-61117C1A9BA9}
-AD-677,010-0,Acadia Park Townhouses,2628,Tennis,Cres,2628 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{DB7EEF98-A900-4B39-A942-159F6332DAC3}
-AD-679,010-0,Acadia Park Townhouses,2630,Tennis,Cres,2630 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{B5F0E302-48E2-4AEA-BB8D-45FDE28373FE}
-AD-681,010-0,Acadia Park Townhouses,2632,Tennis,Cres,2632 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{05C3920F-A886-4F26-908B-D9BE8A884CE8}
-AD-683,010-0,Acadia Park Townhouses,2634,Tennis,Cres,2634 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{66FC79B9-ECCA-4F88-B604-101EDE4F27A7}
-AD-685,010-0,Acadia Park Townhouses,2636,Tennis,Cres,2636 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{961BD1C4-7EC9-4623-9690-8A3DE64D8DB5}
-AD-687,010-0,Acadia Park Townhouses,2638,Tennis,Cres,2638 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{C059C9B9-973A-411E-8EF2-39A19153EE26}
-AD-689,010-0,Acadia Park Townhouses,2640,Tennis,Cres,2640 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{4A1D297B-6696-4E8B-A898-292FE0E71B0B}
-AD-691,010-0,Acadia Park Townhouses,2642,Tennis,Cres,2642 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{F001894B-B39A-4002-941A-465A61749360}
-AD-693,010-0,Acadia Park Townhouses,2644,Tennis,Cres,2644 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{29B39AEE-26EB-4B44-9E68-A8646D76CE69}
-AD-695,010-0,Acadia Park Townhouses,2646,Tennis,Cres,2646 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{D01C75DE-9D42-4B62-ACC7-D549484FC621}
-AD-697,010-0,Acadia Park Townhouses,2648,Tennis,Cres,2648 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{98AC53FA-1172-4DBD-9E84-0A44FC19E8AC}
-AD-699,010-0,Acadia Park Townhouses,2650,Tennis,Cres,2650 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{329133AB-9B14-403D-8A6A-E42697AF4042}
-AD-701,010-0,Acadia Park Townhouses,2652,Tennis,Cres,2652 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{373C9B12-DEEA-4354-8D8A-4FBF39B0441C}
-AD-703,010-0,Acadia Park Townhouses,2654,Tennis,Cres,2654 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{63041324-6B93-443C-A22A-04488FEB4D89}
-AD-705,010-0,Acadia Park Townhouses,2656,Tennis,Cres,2656 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{619516CB-C3F4-4076-A27A-1F8A5DA7D745}
-AD-707,010-0,Acadia Park Townhouses,2658,Tennis,Cres,2658 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{695CED61-B050-413B-8307-4EC9CE4865FC}
-AD-709,010-0,Acadia Park Townhouses,2660,Tennis,Cres,2660 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{EB96C1AB-0A22-4575-9713-C669F74C7ADD}
 AD-346,689,The Mews - Retail,3339,Wesbrook,Mall,3339 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{21D2873F-38DD-496E-83B1-2F3F4A96BD15}
 AD-342,689,The Mews - Retail,3323,Wesbrook,Mall,3323 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{2A768D14-5743-45A3-AF3C-485D4FBAFF29}
 AD-343,689,The Mews - Retail,3329,Wesbrook,Mall,3329 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{93D0D848-AEBD-4625-B303-D51127728337}
@@ -363,134 +149,6 @@ AD-340,689,The Mews - Retail,3311,Wesbrook,Mall,3311 Wesbrook Mall,Vancouver,BC,
 AD-341,689,The Mews - Retail,3317,Wesbrook,Mall,3317 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{4E443221-F73B-4469-B995-A272E1BAF8A6}
 AD-353,689,The Mews - Retail,3332,Shrum,Lane,3332 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{38862AA8-2E4B-4257-8421-CD1AFBF6B77F}
 AD-351,689,The Mews - Retail,3322,Shrum,Lane,3322 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{FD5BD1B3-C32F-4D25-AF8C-E62589D01DD7}
-AD-1032,418,Green College - President's House,6205,Cecil Green Park,Road,6205 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,Housing - Stud,1,<Null>,Current,{F4D23FE8-0D4D-49FA-AA76-FE9B4AB0C768}
-AD-638,009-0,Acadia Park Townhouses,5612,Yalta,Place,5612 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{6E10305A-253D-403B-927B-ED238E42E0FE}
-AD-640,009-0,Acadia Park Townhouses,5614,Yalta,Place,5614 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{29433F8F-5ABF-4960-BF7C-81C0536E0112}
-AD-642,009-0,Acadia Park Townhouses,5616,Yalta,Place,5616 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{A5AC5855-B6F4-45CF-BE07-15F17B0AB564}
-AD-644,009-0,Acadia Park Townhouses,5618,Yalta,Place,5618 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{F76F55EA-6591-44D5-9B5B-2E4CF7F2ABF5}
-AD-654,009-0,Acadia Park Townhouses,5636,Yalta,Place,5636 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{71AEB1B4-6023-46A6-8FB5-86D749B3B93E}
-AD-656,009-0,Acadia Park Townhouses,5638,Yalta,Place,5638 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{2599F470-B2EF-4990-B40F-FA2622E0800D}
-AD-658,009-0,Acadia Park Townhouses,5640,Yalta,Place,5640 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{B4229321-75F2-423E-9E76-5E3633856E16}
-AD-660,009-0,Acadia Park Townhouses,5642,Yalta,Place,5642 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{8DF1601E-2A12-4B1C-9D9A-13E76E623F27}
-AD-662,009-1,Acadia Park Townhouses,5644,Yalta,Place,5644 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{2288731B-8245-4CDF-8361-9581323CD33E}
-AD-664,009-1,Acadia Park Townhouses,5646,Yalta,Place,5646 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{9732FF99-C07F-48A8-AAD5-AD99485C2FCC}
-AD-666,009-1,Acadia Park Townhouses,5648,Yalta,Place,5648 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{2EBDAE11-1981-41BB-8C51-607A286FF9CF}
-AD-668,009-1,Acadia Park Townhouses,5650,Yalta,Place,5650 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{ECF54272-BC32-400F-BBC1-2F10AF5C4E0D}
-AD-669,009-1,Acadia Park Townhouses,5652,Yalta,Place,5652 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{FD31273F-AB71-4F94-A0E4-A34BD55557D2}
-AD-1009,009-1,Acadia Park Townhouses,5654,Yalta,Place,5654 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{B15AA128-C5B3-4E2A-A1E3-0BE0BC0A7FC4}
-AD-646,009-1,Acadia Park Townhouses,5621,Yalta,Place,5621 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{40751567-B66E-426A-B157-8F5001653D07}
-AD-647,009-1,Acadia Park Townhouses,5623,Yalta,Place,5623 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{D723F88C-05DC-486F-BB7C-0A13E76B1A23}
-AD-648,009-1,Acadia Park Townhouses,5625,Yalta,Place,5625 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{2BA93A64-0334-4D7D-9AE1-EC7EB0900CD3}
-AD-649,009-1,Acadia Park Townhouses,5627,Yalta,Place,5627 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{5A72D654-93C1-4874-ACBF-47D2A7BEBB09}
-AD-650,009-1,Acadia Park Townhouses,5629,Yalta,Place,5629 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{AF9187A2-F34A-48AA-8598-61220214F5F1}
-AD-651,009-1,Acadia Park Townhouses,5631,Yalta,Place,5631 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{E9C89CBF-E2EA-420F-AD79-6FECD7A05B60}
-AD-652,009-1,Acadia Park Townhouses,5633,Yalta,Place,5633 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{3AB25A44-3F1B-4E67-90F2-1D208B775522}
-AD-653,009-1,Acadia Park Townhouses,5635,Yalta,Place,5635 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{20155EDC-612B-48F9-84DD-E8B7F4A1AAFD}
-AD-655,009-1,Acadia Park Townhouses,5637,Yalta,Place,5637 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{5921A901-6E07-4EFD-9CD7-6B1C2A5006C7}
-AD-657,009-1,Acadia Park Townhouses,5639,Yalta,Place,5639 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{73679859-EB11-4735-877D-6E219764362F}
-AD-659,009-1,Acadia Park Townhouses,5641,Yalta,Place,5641 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{521F33F3-1EC6-416E-91EA-92C65E1025FE}
-AD-661,009-1,Acadia Park Townhouses,5643,Yalta,Place,5643 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{F700AA40-A88B-4E52-AEC3-0BB94F54D566}
-AD-663,009-1,Acadia Park Townhouses,5645,Yalta,Place,5645 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{8046DD1E-8C25-4E4F-A535-900CBA43026E}
-AD-665,009-1,Acadia Park Townhouses,5647,Yalta,Place,5647 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{66B71C46-5EFF-4FE4-BDE5-0950EA890B68}
-AD-667,009-1,Acadia Park Townhouses,5649,Yalta,Place,5649 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{9CD507A2-ED4E-4375-8971-1CD4125D6CD2}
-AD-670,009-0,Acadia Park Townhouses,2621,Tennis,Cres,2621 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{DB1E78F1-748F-42DB-A430-B605D149B465}
-AD-672,009-0,Acadia Park Townhouses,2623,Tennis,Cres,2623 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{C3701ACF-5440-49CF-92ED-D49FD6283C49}
-AD-674,009-0,Acadia Park Townhouses,2625,Tennis,Cres,2625 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{A2FE3B9A-A38A-4310-9305-14D898B3ED58}
-AD-676,009-0,Acadia Park Townhouses,2627,Tennis,Cres,2627 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{F42624C7-648C-4A1C-AA2C-9C5F227D7B2D}
-AD-678,009-0,Acadia Park Townhouses,2629,Tennis,Cres,2629 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{709C098A-198B-4F9F-86D1-E3F7B3CDC5BB}
-AD-680,009-0,Acadia Park Townhouses,2631,Tennis,Cres,2631 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{86139037-5C88-4508-8802-5932A693C8D2}
-AD-682,009-0,Acadia Park Townhouses,2633,Tennis,Cres,2633 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{2380EC5C-6998-41D5-B36C-F5F439E8F580}
-AD-684,009-0,Acadia Park Townhouses,2635,Tennis,Cres,2635 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{C51888B1-E905-4733-AA1E-148A66AD5116}
-AD-686,010-0,Acadia Park Townhouses,2637,Tennis,Cres,2637 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{523E34C1-4FDE-439E-AC33-90D5FFCDD2EF}
-AD-688,010-0,Acadia Park Townhouses,2639,Tennis,Cres,2639 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{F7C6382D-6EA0-4463-9F81-F8055F47CD98}
-AD-690,010-0,Acadia Park Townhouses,2641,Tennis,Cres,2641 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{ABE105ED-D0A1-4696-8558-94DB1E081F12}
-AD-692,010-0,Acadia Park Townhouses,2643,Tennis,Cres,2643 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{6FFC7D45-C0BB-4210-B508-5DC46F8C3A7D}
-AD-694,010-0,Acadia Park Townhouses,2645,Tennis,Cres,2645 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{71C2AFAA-D72A-4BE1-BF2C-402D0AF3BD08}
-AD-696,010-0,Acadia Park Townhouses,2647,Tennis,Cres,2647 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{EA0A050C-E23B-4528-9F72-4881CC2AE9E6}
-AD-698,010-0,Acadia Park Townhouses,2649,Tennis,Cres,2649 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{28821F65-1E7E-48AB-910F-69C7F65DA700}
-AD-700,010-0,Acadia Park Townhouses,2651,Tennis,Cres,2651 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{C2282505-0953-4E6B-AF08-F9F264029E66}
-AD-702,010-0,Acadia Park Townhouses,2653,Tennis,Cres,2653 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{85948E82-97BD-4B26-AF77-CBC94C76D238}
-AD-704,010-0,Acadia Park Townhouses,2655,Tennis,Cres,2655 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{85203914-82FC-4AD9-B5B2-6E736F5AD597}
-AD-706,010-1,Acadia Park Townhouses,2657,Tennis,Cres,2657 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{46E515BF-327D-443F-AF0C-E53F15434208}
-AD-708,010-1,Acadia Park Townhouses,2659,Tennis,Cres,2659 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{FCB590D2-FF87-4DCF-BB09-6F9A5BE807C8}
-AD-710,010-1,Acadia Park Townhouses,2661,Tennis,Cres,2661 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{EF8CAC1B-061A-414D-9837-AD22AA5C1F7B}
-AD-712,010-1,Acadia Park Townhouses,2663,Tennis,Cres,2663 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stud1,1,,Current,{6BD20074-E8E6-44D1-AD03-59453C7952A4}
-AD-671,010-0,Acadia Park Townhouses,2622,Tennis,Cres,2622 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{670D8524-FE5D-4DCA-9050-B73D6626557C}
-AD-673,010-0,Acadia Park Townhouses,2624,Tennis,Cres,2624 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{402DDE9F-841B-4312-8060-6564556AF952}
-AD-675,010-0,Acadia Park Townhouses,2626,Tennis,Cres,2626 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{E7DB3671-B2EF-4946-B316-F31A505418D0}
-AD-557,009-0,Acadia Park Townhouses,2500,Melfa,Lane,2500 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{C0ABF71F-837F-4F4C-A034-4554A2DEE054}
-AD-559,009-0,Acadia Park Townhouses,2502,Melfa,Lane,2502 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{0C31C0AB-A5C4-428D-9D48-DC13C35F0174}
-AD-561,009-0,Acadia Park Townhouses,2504,Melfa,Lane,2504 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{CC4D1D71-B768-475F-BFD4-E07F6292CD42}
-AD-563,009-0,Acadia Park Townhouses,2506,Melfa,Lane,2506 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{984DE236-B47B-4091-B3B7-CCA7ADCE0FB5}
-AD-565,009-0,Acadia Park Townhouses,2508,Melfa,Lane,2508 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{58A5A9AF-9BCA-4046-8BC2-A0170ABF0AF8}
-AD-567,009-0,Acadia Park Townhouses,2510,Melfa,Lane,2510 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{714B9BF4-F71A-48BF-ACD2-A3CA2084A322}
-AD-558,009-1,Acadia Park Townhouses,2501,Melfa,Lane,2501 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{B28BF208-6C23-4ECB-8A5C-E0B14B180464}
-AD-560,009-1,Acadia Park Townhouses,2503,Melfa,Lane,2503 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{D0C4960A-E4F2-4E9D-A356-73C5D20EDC37}
-AD-562,009-1,Acadia Park Townhouses,2505,Melfa,Lane,2505 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{C462CA5F-96CF-42E7-82D0-4F088E530441}
-AD-564,009-1,Acadia Park Townhouses,2507,Melfa,Lane,2507 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{808FA123-7C14-4196-9E02-7F0BC6FC8449}
-AD-566,009-1,Acadia Park Townhouses,2509,Melfa,Lane,2509 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{649E5410-991E-4840-AB56-79CFF16A0794}
-AD-568,009-1,Acadia Park Townhouses,2511,Melfa,Lane,2511 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{185E2254-ED4D-481D-A63A-C21D8F0144E5}
-AD-570,009-1,Acadia Park Townhouses,2513,Melfa,Lane,2513 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{3A01BC08-754E-45F9-9737-C55494B4A1D4}
-AD-572,009-1,Acadia Park Townhouses,2515,Melfa,Lane,2515 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{F15FDC74-0484-4978-B8D7-C61D277A8D24}
-AD-574,009-1,Acadia Park Townhouses,2517,Melfa,Lane,2517 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{B0FA914D-45B9-4116-844B-52EFEB1A4AAD}
-AD-569,009-0,Acadia Park Townhouses,2512,Melfa,Lane,2512 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{3D7C0BEA-B54B-4FB5-8E31-0659EA8E5A50}
-AD-571,009-0,Acadia Park Townhouses,2514,Melfa,Lane,2514 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{A7322DC1-779A-4386-863C-37F49C04CF2B}
-AD-573,009-0,Acadia Park Townhouses,2516,Melfa,Lane,2516 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{6EAB8F03-0C89-45D5-B38B-9F13C5590EF4}
-AD-575,009-0,Acadia Park Townhouses,2518,Melfa,Lane,2518 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{E16717E5-3C73-4570-8E04-6F72AB884B4A}
-AD-576,009-0,Acadia Park Townhouses,2520,Melfa,Lane,2520 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{DB23B141-5CFE-40E0-A475-E2CC9047394D}
-AD-577,009-0,Acadia Park Townhouses,2522,Melfa,Lane,2522 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{F97A37E5-CD00-4B0E-9987-522C9F0766F0}
-AD-579,009-1,Acadia Park Townhouses,2601,Melfa,Lane,2601 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{7FE97101-4D50-446C-9391-718FE6C75119}
-AD-578,009-0,Acadia Park Townhouses,2600,Melfa,Lane,2600 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{7D54F85C-B0E2-4F17-B2A1-169631DF274D}
-AD-580,009-0,Acadia Park Townhouses,2602,Melfa,Lane,2602 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{1CEEF275-4A59-4F7F-9CF1-AFFFE5492B39}
-AD-581,009-0,Acadia Park Townhouses,2604,Melfa,Lane,2604 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{0393DC84-6B3A-423C-BD14-70D6F1DD4B97}
-AD-583,009-0,Acadia Park Townhouses,2606,Melfa,Lane,2606 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{41D6FBAE-D291-4F47-8B40-BEC8A338FF7A}
-AD-585,009-0,Acadia Park Townhouses,2608,Melfa,Lane,2608 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{1A59AF26-DDA9-4A23-896B-932FDCEAA999}
-AD-587,009-0,Acadia Park Townhouses,2610,Melfa,Lane,2610 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{69EAA5A8-C845-460C-BE4E-48149D6C9EEB}
-AD-589,010-0,Acadia Park Townhouses,2612,Melfa,Lane,2612 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{82A991D1-94D0-4B98-A546-EF1499026D1F}
-AD-591,010-0,Acadia Park Townhouses,2614,Melfa,Lane,2614 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{B19D9D43-0879-4CEC-9E7E-918BF876F120}
-AD-593,010-0,Acadia Park Townhouses,2616,Melfa,Lane,2616 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{69050B3B-AD29-40C8-AD4B-87CBEF06967B}
-AD-595,010-0,Acadia Park Townhouses,2618,Melfa,Lane,2618 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{2E4F2650-750C-4A1C-B0CC-ABE472D8672E}
-AD-582,010-0,Acadia Park Townhouses,2605,Melfa,Lane,2605 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{33B8CBD2-601A-4731-9F1B-BF20EC26F822}
-AD-584,010-0,Acadia Park Townhouses,2607,Melfa,Lane,2607 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{06DA846A-305D-40F7-99BA-F13355D432C2}
-AD-586,010-0,Acadia Park Townhouses,2609,Melfa,Lane,2609 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{B41A782C-C72F-4F76-BEAF-460EF677B0BD}
-AD-588,010-0,Acadia Park Townhouses,2611,Melfa,Lane,2611 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{1511C05A-1817-4B83-BBA9-E0C0B123FC35}
-AD-590,010-0,Acadia Park Townhouses,2613,Melfa,Lane,2613 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{2EBD92D1-8CB2-44FE-8403-0BB37AA76EE9}
-AD-592,010-0,Acadia Park Townhouses,2615,Melfa,Lane,2615 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{0A6542FA-3E4A-42AF-8E56-FEE79DDD163C}
-AD-594,010-0,Acadia Park Townhouses,2617,Melfa,Lane,2617 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{A2D88D83-64A9-4DBF-9221-FF6FBD0F6F19}
-AD-596,010-0,Acadia Park Townhouses,2619,Melfa,Lane,2619 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{20782514-AC03-45BE-A914-710EDAC7E4A8}
-AD-598,010-0,Acadia Park Townhouses,2621,Melfa,Lane,2621 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{D38CEB25-3549-4A79-BF59-D54AAA2F80C4}
-AD-600,010-0,Acadia Park Townhouses,2623,Melfa,Lane,2623 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{38403E3F-EC5C-4555-92CA-0A549F9E59A4}
-AD-602,010-0,Acadia Park Townhouses,2625,Melfa,Lane,2625 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{431E7ACD-9618-4A59-8692-C632411BF367}
-AD-604,010-0,Acadia Park Townhouses,2627,Melfa,Lane,2627 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{A1A837CE-0F19-4D2A-B2BF-8E94E519BFB3}
-AD-606,010-0,Acadia Park Townhouses,2629,Melfa,Lane,2629 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{6B3101AA-D6E3-42A2-8864-65A83CCB5EE8}
-AD-608,010-0,Acadia Park Townhouses,2631,Melfa,Lane,2631 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{5EF8B61A-D996-4162-A986-9AB26F5F605D}
-AD-610,010-0,Acadia Park Townhouses,2633,Melfa,Lane,2633 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{8E0DD240-D4A0-4F13-A6CD-CFDF444A1EFB}
-AD-612,010-0,Acadia Park Townhouses,2635,Melfa,Lane,2635 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{CF227F9F-A52F-4D86-BE28-6B3839225648}
-AD-614,010-0,Acadia Park Townhouses,2637,Melfa,Lane,2637 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{FA736B2B-8F62-43E5-84FD-25C1F503A051}
-AD-616,010-0,Acadia Park Townhouses,2639,Melfa,Lane,2639 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{013531D4-77A3-46F0-9A38-BB6D65D8DDD0}
-AD-597,010-0,Acadia Park Townhouses,2620,Melfa,Lane,2620 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{C3A50401-7831-48C1-B66E-CC3241217F71}
-AD-599,010-0,Acadia Park Townhouses,2622,Melfa,Lane,2622 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{8E730003-7721-498C-A926-F6C74E59575F}
-AD-601,010-0,Acadia Park Townhouses,2624,Melfa,Lane,2624 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{6EC0312F-3207-470C-8318-45DD91E4D870}
-AD-603,010-0,Acadia Park Townhouses,2626,Melfa,Lane,2626 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{A4990327-EC2D-4452-B86B-3AA86ACD25DD}
-AD-605,010-0,Acadia Park Townhouses,2628,Melfa,Lane,2628 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{725AA70A-0E8D-492A-8F16-DF9A0887DCB2}
-AD-607,010-0,Acadia Park Townhouses,2630,Melfa,Lane,2630 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{E9E7AE7E-22CE-4604-BD55-3688170894E2}
-AD-609,010-0,Acadia Park Townhouses,2632,Melfa,Lane,2632 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{96B589F7-12D8-4DE5-879B-D6AFC1F843C0}
-AD-611,010-0,Acadia Park Townhouses,2634,Melfa,Lane,2634 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stud1,1,,Current,{B38A00C8-0D5C-40EB-85CB-1F40DCA6357A}
-AD-746,009-2,Acadia Park Townhouses,5603,Montgomery,Place,5603 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{DFB791B7-3C81-49DD-8397-76521594FDF4}
-AD-748,009-2,Acadia Park Townhouses,5605,Montgomery,Place,5605 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{CD341928-545E-4BED-B3AF-19F77214F3E9}
-AD-750,009-2,Acadia Park Townhouses,5607,Montgomery,Place,5607 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{1AA04483-CFC0-4BC3-BE49-BD9BBA9D982C}
-AD-752,009-2,Acadia Park Townhouses,5609,Montgomery,Place,5609 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{A208D9E9-2024-4029-9FE6-F35E4086A79E}
-AD-754,009-2,Acadia Park Townhouses,5611,Montgomery,Place,5611 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{D8603551-5BE8-4D92-994F-526623CF0CD4}
-AD-756,009-2,Acadia Park Townhouses,5613,Montgomery,Place,5613 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{2588FC6A-E812-4D4F-8DAD-38A3C265DD27}
-AD-758,009-2,Acadia Park Townhouses,5615,Montgomery,Place,5615 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{3FE0F132-B5BF-4D56-8A23-0E6783B1900B}
-AD-760,009-2,Acadia Park Townhouses,5617,Montgomery,Place,5617 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{B4B1F3BE-2ECF-4936-9787-43CB7098DAFF}
-AD-762,009-2,Acadia Park Townhouses,5619,Montgomery,Place,5619 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{8F563974-3334-4758-A2A9-08DD013CE0A5}
-AD-764,009-2,Acadia Park Townhouses,5621,Montgomery,Place,5621 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{40407001-FA6B-4265-AEBB-E066AA3E2FA4}
-AD-766,009-2,Acadia Park Townhouses,5623,Montgomery,Place,5623 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{A2F2ACE7-581B-4293-9914-A0D5D3C17A60}
-AD-768,009-2,Acadia Park Townhouses,5625,Montgomery,Place,5625 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{ECA5F856-F2F1-4812-913C-46D1F75C0FA8}
-AD-770,009-2,Acadia Park Townhouses,5627,Montgomery,Place,5627 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{1B8D21D8-2D99-4EEF-BDA9-FF27290882AD}
-AD-772,009-2,Acadia Park Townhouses,5629,Montgomery,Place,5629 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{931D1475-1DA8-4A04-8194-8AFD05B61219}
-AD-774,009-2,Acadia Park Townhouses,5631,Montgomery,Place,5631 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{9F9A136A-F517-4FD2-9F6C-8A9304673044}
 AD-520,827-6,St Mark's Duplexes,5922,Chancellor,Boulevard,5922 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{7ED8B953-185B-4839-91B1-CEDD64CF8CA1}
 AD-521,827-6,St Mark's Duplexes,5928,Chancellor,Boulevard,5928 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{76E6E95E-0035-4469-A3C4-9B5BA1FCCC10}
 AD-522,827-5,St Mark's Duplexes,5932,Chancellor,Boulevard,5932 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{9157C7C4-6403-4B71-9664-63D7ECBEFB6F}
@@ -533,7 +191,6 @@ AD-355,689,The Mews - Retail,5900,Berton,Avenue,5900 Berton Avenue,Vancouver,BC,
 AD-356,689,The Mews - Retail,5910,Berton,Avenue,5910 Berton Avenue,Vancouver,BC,V6S 0E4,Wesbrook Place,Commercial,0,,Current,{3D9F4326-FD65-4D1C-947E-5938E5A947E7}
 AD-357,689,The Mews - Retail,5920,Berton,Avenue,5920 Berton Avenue,Vancouver,BC,V6S 0E4,Wesbrook Place,Commercial,0,,N/A,{C97D3296-93FD-4CE3-9A95-9BBF815FA2CD}
 AD-352,689,The Mews - Retail,3337,Wesbrook,Mall,3337 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{68D264A7-CFB4-4426-9868-7922F79CE359}
-AD-1013,872-2,West Coast Suites - Gage,5961,Student Union,Boulevard,5961 Student Union Boulevard,Vancouver,BC,V6T 1K2,Academic,Housing - Stud,0,,Current,{1C4E4128-E282-47A9-BAA7-BD61D1822A02}
 AD-460,620,Logan Lane,6222,Logan,Lane,6222 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{DED13987-4EA5-4793-A424-95036FF7AE86}
 AD-461,620,Logan Lane,6224,Logan,Lane,6224 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{70AD2FAD-A872-48A6-98CC-228FD6504CA8}
 AD-462,620,Logan Lane,6226,Logan,Lane,6226 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{EAD4CE8B-F057-4A3A-8965-D7A958528006}
@@ -563,25 +220,6 @@ AD-485,620,Logan Lane,6282,Logan,Lane,6282 Logan Lane,Vancouver,BC,V6T 2K9,Hawth
 AD-486,620,Logan Lane,6284,Logan,Lane,6284 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{2C99DC95-2147-4A16-B5CA-EC7056A33D97}
 AD-487,620,Logan Lane,6286,Logan,Lane,6286 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{3B6189C4-6218-4D78-A4E5-B6519A2DD387}
 AD-488,620,Logan Lane,6288,Logan,Lane,6288 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{1F7BB2A4-8064-447E-99D0-CD82BE8CD79C}
-AD-6,451,Sopron House,2730,Acadia,Road,2730 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Housing - Stud,81,,Current,{1D5D182E-8205-4FE1-90EE-4A7AA13C11FA}
-AD-19,544,Place Vanier Residence,1935,Lower,Mall,1935 Lower Mall,Vancouver,BC,V6T 1X1,Academic,Housing - Stud,1276,,Current,{40A2B790-1CF0-4B2C-8A8C-B0D3A844E964}
-AD-54,694,MBA House - student residence,3385,Wesbrook,Mall,3385 Wesbrook Mall,Vancouver,BC,V6T 1Z4,Wesbrook Place,Housing - Stud,81,,Current,{A2CE2052-23CE-463A-8F8B-0C832F0ABB10}
-AD-68,745,Ritsumeikan-UBC House,6460,Agronomy,Road,6460 Agronomy Road,Vancouver,BC,V6T 1Z4,Academic,Housing - Stud,56,,Current,{5AA80912-1B73-41D7-906A-1533E46B8A9A}
-AD-69,771,Point Grey Apartments,2875,Osoyoos,Crescent,2875 Osoyoos Crescent,Vancouver,BC,V6T 2G3,Academic,Housing - Stud,91,,Current,{E332AE54-163B-483F-A47D-88C8E8D87A84}
-AD-83,903,Ponderosa Commons - Spruce House,2118,West,Mall,2118 West Mall,Vancouver,BC,V6T 1Z4,Academic,Housing - Stud,104,,Current,{8C343670-A56E-40B7-8AE6-C62540EBA9E0}
-AD-88,918,Panhellenic House,2770,Wesbrook,Mall,2770 Wesbrook Mall,Vancouver,BC,V6T 2B7,Academic,Housing - Stud,72,,Current,{612F67A5-B66B-48CB-A0CD-C3DCBC8645CA}
-AD-90,002-1,Acadia Park Highrise,2725,Melfa,Road,2725 Melfa Road,Vancouver,BC,V6T 1N4,Academic,Housing - Stud,101,,Current,{023D56DD-36C5-490D-9602-27C4AAB0315A}
-AD-190,450-1,Acadia House,2700,Acadia,Road,2700 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Housing - Stud,12,,Current,{ADCE0424-28B5-403D-BF61-2D4227E57BC6}
-AD-192,450-3,Acadia House,2720,Acadia,Road,2720 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Housing - Stud,12,,Current,{19C800C1-523C-428A-9715-B07AAD33C9C2}
-AD-266,770-2,Spirit Park Apartments,2715,Osoyoos,Crescent,2715 Osoyoos Crescent,Vancouver,BC,V6T 1X7,Academic,Housing - Stud,44,,Current,{FF9E1864-6BFC-40A6-9607-B3823921ADBE}
-AD-278,822-2,St. John's College,2111,Lower,Mall,2111 Lower Mall,Vancouver,BC,V6T 1Z4,Academic,Housing - Stud,171,,Current,{CBE222F2-CFE5-4CC9-A653-6F38AA14061B}
-AD-297,869-1,Walter H. Gage Residence,5959,Student Union,Boulevard,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2,Academic,Housing - Stud,366,,Current,{912F05DF-03B7-4CA6-B801-98C434A39762}
-AD-172,377-3,Marine Drive Residence,2205,Lower,Mall,2205 Lower Mall,Vancouver,BC,V6T 1Z4,Academic,Housing - Stud,624,,Current,{C061ABC3-336F-4E37-98FF-B0CD21836E52}
-AD-84,904,Ponderosa Commons - Arbutus/Maple Houses,6488,University,Boulevard,6488 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,Housing - Stud,336,,Current,{371ABDF8-B70A-4C1D-AD90-3061AB8D3051}
-AD-85,905,Ponderosa Commons - Cedar House,2075,West,Mall,2075 West Mall,Vancouver,BC,V6T 1Z2,Academic,Housing - Stud,175,,Current,{CA50748B-4BBA-404A-82FF-B6040B92A41E}
-AD-265,770-1,Spirit Park Apartments,2705,Osoyoos,Crescent,2705 Osoyoos Crescent,Vancouver,BC,V6T 1X7,Academic,Housing - Stud,13,,Current,{3362DBB1-D17D-403E-AA06-BA47A07DEF23}
-AD-267,770-3,Spirit Park Apartments,2725,Osoyoos,Crescent,2725 Osoyoos Crescent,Vancouver,BC,V6T 1X7,Academic,Housing - Stud,11,,Current,{7133A950-DFC8-4C20-BD47-748296749316}
-AD-191,450-2,Acadia House,2710,Acadia,Road,2710 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Housing - Stud,9,,Current,{FD8F5132-3A5F-49DF-A716-CF454B3554B1}
 AD-489,628,Nine on the Park,6282,Eagles,Drive,6282 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{F2693497-68BD-4D26-A642-9F8032E88338}
 AD-490,628,Nine on the Park,6284,Eagles,Drive,6284 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{CB3DA212-E8A5-4FF5-8D85-FA4809A8304B}
 AD-491,628,Nine on the Park,6286,Eagles,Drive,6286 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{E5BA9AAF-1120-49FE-B60F-FF7B269B4126}
@@ -591,19 +229,6 @@ AD-494,628,Nine on the Park,6292,Eagles,Drive,6292 Eagles Drive,Vancouver,BC,V6T
 AD-495,628,Nine on the Park,6294,Eagles,Drive,6294 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{EAB782FF-81B6-4A1A-A704-93B7C5794314}
 AD-496,628,Nine on the Park,6296,Eagles,Drive,6296 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{070B25FF-71D1-46A5-B551-3BEF98F7B970}
 AD-497,628,Nine on the Park,6298,Eagles,Drive,6298 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{DFDAB863-D99E-4AA4-B228-A8E6691417D3}
-AD-796,014-1,Presidents Row,5501,Presidents,Row,5501 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{88CA66B0-F469-4E4E-B051-7EE786CF7286}
-AD-797,014-1,Presidents Row,5503,Presidents,Row,5503 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{763164CF-1BE4-4BF4-809F-57FB37EA62E5}
-AD-798,014-1,Presidents Row,5505,Presidents,Row,5505 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{E21A68C7-98CA-4C45-906F-3B4C6BC382CD}
-AD-799,014-1,Presidents Row,5507,Presidents,Row,5507 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{740296FA-4E78-4CD8-916F-00FCA89D9484}
-AD-800,014-1,Presidents Row,5509,Presidents,Row,5509 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{3CD65792-7F43-412C-86F0-C7707B580B57}
-AD-801,014-1,Presidents Row,5511,Presidents,Row,5511 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{0F0F5A2D-D0DF-4D6E-B262-343D90ED4928}
-AD-802,014-1,Presidents Row,5515,Presidents,Row,5515 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{5E8989CD-38E9-43C7-BB2C-0B76AE3AF6E5}
-AD-803,014-2,Presidents Row,5517,Presidents,Row,5517 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{5AD60838-62B4-42F0-BC64-36B8844C716F}
-AD-804,014-2,Presidents Row,5519,Presidents,Row,5519 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{CEA851FD-43B2-47A9-95D0-C6BF9F578538}
-AD-805,014-2,Presidents Row,5521,Presidents,Row,5521 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{8922DAB0-940E-4F2E-825C-2E0EC8F4E718}
-AD-806,014-2,Presidents Row,5523,Presidents,Row,5523 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{D7382B6E-7665-432D-92B2-ECA2E4DAC0AE}
-AD-807,014-2,Presidents Row,5525,Presidents,Row,5525 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{DF3917A6-2B3C-466B-8F41-3737B826F9C4}
-AD-808,014-2,Presidents Row,5527,Presidents,Row,5527 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stud1,1,,Current,{F011D22A-DED1-4853-B52D-1B519B67FEBB}
 AD-150,225,Earth Sciences Building,2207,Main,Mall,2207 Main Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{9D600DB4-C616-45C1-BCC7-F3AF84F2389B}
 AD-243,633,Centre for Interactive Research on Sustainability,2260,West,Mall,2260 West Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{2D3B1C8C-AABC-47C9-A289-316A0CFB69B2}
 AD-179,409,Thea Koerner House,6371,Crescent,Road,6371 Crescent Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{1BB86FDF-B07A-4537-B1D3-E10A938EA77A}
@@ -624,95 +249,10 @@ AD-137,199,Nobel Biocare Oral Health Centre,2151,Wesbrook,Mall,2151 Wesbrook Mal
 AD-1011,081-2,UBC Security,2133,East,Mall,2133 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{B22B2344-2E88-49AA-8F74-FFF25B782421}
 AD-242,034,UBC Aquatic Centre (Old),6121,University,Boulevard,6121 University Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Demo,{03871541-375B-4F2A-93D3-6685746E9604}
 AD-1014,490,David Lam Management Research Centre,2015,Main,Mall,2015 Main Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{1C0A7C55-112D-41D7-BCBF-EF7F88E812D7}
-AD-315,,Exchange Residence,5960,Student Union,Boulevard,5960 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,Housing - Stud,353,,UC,{6F20E671-860B-4E58-9A05-067552C4B49E}
 AD-349,689,The Mews - Retail,3312,Shrum,Lane,3312 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{928FE228-B448-43B7-84FD-120FB994D3A7}
 AD-344,689,The Mews - Retail,3351,Wesbrook,Mall,3351 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{A9D13165-86B1-4346-86EF-28787F10725F}
-AD-711,010-0,Acadia Park Townhouses,2662,Tennis,Cres,2662 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{AF0B3D4B-EE3F-43D9-A3BF-2BD358EAAD4B}
-AD-713,010-0,Acadia Park Townhouses,2664,Tennis,Cres,2664 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stud1,1,,Current,{D78D00EA-0D9B-4B38-B859-FD96284A5B87}
-AD-714,009-1,Acadia Park Townhouses,2500,Pearkes,Lane,2500 Pearkes Lane,Vancouver,BC,V6T 2C4,Academic,Housing - Stud1,1,,Current,{0A60F093-B52D-4E42-A442-C6A48A591B7C}
-AD-716,009-1,Acadia Park Townhouses,2502,Pearkes,Lane,2502 Pearkes Lane,Vancouver,BC,V6T 2C4,Academic,Housing - Stud1,1,,Current,{F1D459BB-90CF-4959-911C-D68C983ECDD1}
-AD-718,009-1,Acadia Park Townhouses,2504,Pearkes,Lane,2504 Pearkes Lane,Vancouver,BC,V6T 2C4,Academic,Housing - Stud1,1,,Current,{4BD406E6-16CF-4D90-8B4B-B527889B7755}
-AD-720,009-1,Acadia Park Townhouses,2506,Pearkes,Lane,2506 Pearkes Lane,Vancouver,BC,V6T 2C4,Academic,Housing - Stud1,1,,Current,{E21666B0-1B67-4F21-BAEA-8E0594D6E0AF}
-AD-722,009-1,Acadia Park Townhouses,2508,Pearkes,Lane,2508 Pearkes Lane,Vancouver,BC,V6T 2C4,Academic,Housing - Stud1,1,,Current,{E5AC4A8E-DA95-45D6-8103-FE5D4C93D2DA}
-AD-715,009-1,Acadia Park Townhouses,2501,Pearkes,Lane,2501 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{5460DF60-1243-47DB-ACDF-B26BFFAAE966}
-AD-717,009-1,Acadia Park Townhouses,2503,Pearkes,Lane,2503 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{6A03BD8A-0E58-4BBD-B294-B5F00CEC127B}
-AD-719,009-1,Acadia Park Townhouses,2505,Pearkes,Lane,2505 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{F1C71DB6-7E0A-46D1-A9FD-A0DFE83BB76E}
-AD-721,009-1,Acadia Park Townhouses,2507,Pearkes,Lane,2507 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{A55E5FAF-E38C-4025-818D-C0C12273776B}
-AD-723,009-1,Acadia Park Townhouses,2509,Pearkes,Lane,2509 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{3D492F3C-CA27-424A-816C-A12CF84B6DFE}
-AD-724,009-1,Acadia Park Townhouses,2511,Pearkes,Lane,2511 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{2D35FBC1-A0D3-47CC-B836-5C84F7661F4B}
-AD-842,007-2,Fairview Crescent Residence,2625,Fairview,Crescent,2625 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{87D3296B-02BE-441C-8B79-BFB2BDEDDC46}
-AD-843,007-2,Fairview Crescent Residence,2626,Fairview,Crescent,2626 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{0E67FFAB-CB16-45E9-9A5F-34AAF2081B5B}
-AD-844,007-2,Fairview Crescent Residence,2627,Fairview,Crescent,2627 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{7CCE5D32-9C85-47FC-8D52-ACE808706AFE}
-AD-845,007-2,Fairview Crescent Residence,2628,Fairview,Crescent,2628 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{A0096D04-C6E2-44EF-944C-920C23F4FAA4}
-AD-846,007-2,Fairview Crescent Residence,2629,Fairview,Crescent,2629 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{A45A7BEF-F313-41EF-9F13-158B96CBD636}
-AD-847,007-2,Fairview Crescent Residence,2630,Fairview,Crescent,2630 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{BF87D447-770C-4CA6-81A1-A6989AF182B2}
-AD-848,007-2,Fairview Crescent Residence,2631,Fairview,Crescent,2631 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{97AAAA3A-5A58-4FCE-83B4-DA25843EE8B2}
-AD-849,007-2,Fairview Crescent Residence,2632,Fairview,Crescent,2632 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{D4A823DF-140C-49C5-A59C-8FDEE9A4A7B5}
-AD-850,007-2,Fairview Crescent Residence,2633,Fairview,Crescent,2633 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{34FD9C75-DA53-4DF8-827C-78E352C7C00A}
-AD-851,007-2,Fairview Crescent Residence,2634,Fairview,Crescent,2634 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{776C6E68-9E5F-4547-9619-61CF67DA8ECA}
-AD-852,007-2,Fairview Crescent Residence,2635,Fairview,Crescent,2635 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{9EA5A858-A607-4766-9668-174D81B22E75}
-AD-853,007-2,Fairview Crescent Residence,2636,Fairview,Crescent,2636 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{948195D0-5EA5-4BB3-A2BB-841444536931}
-AD-854,007-2,Fairview Crescent Residence,2637,Fairview,Crescent,2637 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{BAD11C1E-87FD-4799-8082-1A03C204C780}
-AD-855,007-2,Fairview Crescent Residence,2638,Fairview,Crescent,2638 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{42AC120B-0C60-4931-85AB-205A4A9672CE}
-AD-856,007-2,Fairview Crescent Residence,2639,Fairview,Crescent,2639 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{F200B3CF-69E0-4F8A-8A74-2B89A895DA6D}
-AD-857,007-2,Fairview Crescent Residence,2640,Fairview,Crescent,2640 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{443E18BD-45FD-4538-B152-3D8793EBB31E}
-AD-858,007-2,Fairview Crescent Residence,2641,Fairview,Crescent,2641 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{F6349C0F-3ED3-4BCE-8DAC-4120B924E042}
-AD-859,007-2,Fairview Crescent Residence,2642,Fairview,Crescent,2642 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{25B90B1C-76E2-47B8-A6F5-7A06C3C425CA}
-AD-860,007-2,Fairview Crescent Residence,2643,Fairview,Crescent,2643 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{BF345C71-D179-411A-9534-E02966D261A8}
-AD-861,007-3,Fairview Crescent Residence,2644,Fairview,Crescent,2644 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{2510E991-A2C9-4F2B-A5FD-40FEB87F77AB}
-AD-862,007-2,Fairview Crescent Residence,2645,Fairview,Crescent,2645 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{85CEFB01-1105-4E25-8662-FFFF6B6B47E2}
-AD-863,007-3,Fairview Crescent Residence,2646,Fairview,Crescent,2646 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{D4D61E66-E422-478A-A04A-37D2ECDD36E6}
-AD-864,007-2,Fairview Crescent Residence,2647,Fairview,Crescent,2647 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{6931C546-60C3-489A-81CB-F3E5CD9448B6}
-AD-865,007-3,Fairview Crescent Residence,2648,Fairview,Crescent,2648 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{B818F5C6-0A95-4339-8051-9966EE70BAEA}
-AD-866,007-2,Fairview Crescent Residence,2649,Fairview,Crescent,2649 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{27E3F637-9C17-4705-A009-1956D0DB0117}
-AD-867,007-2,Fairview Crescent Residence,2649-A,Fairview,Crescent,2649-A Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{30038AC8-7387-4AA3-A4A8-32EBEFDCA789}
-AD-868,007-3,Fairview Crescent Residence,2650,Fairview,Crescent,2650 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{91589083-30EA-4298-A730-815EF36A6C1F}
-AD-869,007-2,Fairview Crescent Residence,2651,Fairview,Crescent,2651 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{D0767624-DF50-4E6D-A1D1-243C4B541662}
-AD-870,007-3,Fairview Crescent Residence,2652,Fairview,Crescent,2652 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{4007B0BF-F575-4C4E-9F76-FF73284D7936}
-AD-871,007-2,Fairview Crescent Residence,2653,Fairview,Crescent,2653 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{BE2F600B-4540-4D76-92BD-010E8ECE2B21}
-AD-872,007-3,Fairview Crescent Residence,2654,Fairview,Crescent,2654 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{47D4C7DC-991A-4B6A-A2F0-764947C0C69D}
-AD-873,007-2,Fairview Crescent Residence,2655,Fairview,Crescent,2655 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{51C3D0FC-3EA9-4911-886E-34E9DBE5BAD5}
-AD-874,007-3,Fairview Crescent Residence,2656,Fairview,Crescent,2656 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{CA2D44C9-3704-4139-8BC4-1D5AC15F9F23}
-AD-875,007-2,Fairview Crescent Residence,2657,Fairview,Crescent,2657 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{A7E9FA47-E94D-4C9B-A083-45725A413C87}
-AD-876,007-3,Fairview Crescent Residence,2658,Fairview,Crescent,2658 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{4B811F01-8E67-4B49-8CB3-E990B9B5C152}
-AD-877,007-2,Fairview Crescent Residence,2659,Fairview,Crescent,2659 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{D7949790-03A7-4AF5-897E-4C36B1E40429}
-AD-878,007-3,Fairview Crescent Residence,2660,Fairview,Crescent,2660 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{652666C7-31EE-4488-8E8F-A922CBC92F71}
-AD-879,007-2,Fairview Crescent Residence,2661,Fairview,Crescent,2661 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{B59C617F-37FF-43EF-8A92-4FE81A7E25E8}
-AD-880,007-3,Fairview Crescent Residence,2662,Fairview,Crescent,2662 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{A86D6A90-EA92-46E4-ADD8-3530FE1E27CB}
-AD-881,007-2,Fairview Crescent Residence,2663,Fairview,Crescent,2663 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{0165BADE-AF95-47E5-911A-4F3F852B1712}
-AD-882,007-3,Fairview Crescent Residence,2664,Fairview,Crescent,2664 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{1C3373BA-BDCC-4E46-A2BF-DF616140EE39}
-AD-883,007-2,Fairview Crescent Residence,2665,Fairview,Crescent,2665 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{FB638C9C-F080-49F3-923E-4F7498C361DE}
-AD-884,007-3,Fairview Crescent Residence,2666,Fairview,Crescent,2666 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{D2F06111-6184-4925-9FB9-ED7287FBF5AC}
-AD-885,007-2,Fairview Crescent Residence,2667,Fairview,Crescent,2667 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{45F1D585-E21D-4A98-BFA5-6F810D7F61ED}
-AD-886,007-3,Fairview Crescent Residence,2668,Fairview,Crescent,2668 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{622E868B-F0C5-4030-AAAC-194DF357D183}
-AD-887,007-2,Fairview Crescent Residence,2669,Fairview,Crescent,2669 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{1324C009-6ECD-4739-8C27-53CA7CCA8B05}
-AD-888,007-3,Fairview Crescent Residence,2670,Fairview,Crescent,2670 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{6ED2859C-CD73-4349-99ED-9F074C41C8A4}
-AD-889,007-2,Fairview Crescent Residence,2671,Fairview,Crescent,2671 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stud1,1,,Current,{A21C068A-A8B1-4211-80E9-689AEADC5CEF}
 AD-65,713-1,Dahlia House,3515,Wesbrook,Mall,3515 Wesbrook Mall,Vancouver,BC,V6S 0H2,Wesbrook Place,Housing,47,,Current,{A2A50170-F397-42D6-95A9-B0EA2A6A113E}
 AD-34,713,Magnolia House,3565,Wesbrook,Mall,3565 Wesbrook Mall,Vancouver,BC,V6S 0H1,Wesbrook Place,Housing,60,,Current,{EA09573D-E3A2-4DDC-91D4-CA7517BF2910}
-AD-725,009-1,Acadia Park Townhouses,2513,Pearkes,Lane,2513 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{2D34B24E-87CD-43ED-80F6-397D778EB99D}
-AD-726,009-1,Acadia Park Townhouses,2515,Pearkes,Lane,2515 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{9AD0196E-E835-4686-BD3A-1D0C5AF623C1}
-AD-727,009-1,Acadia Park Townhouses,2517,Pearkes,Lane,2517 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{826C498A-0BF9-41CF-AAA9-A3D547A39467}
-AD-728,009-1,Acadia Park Townhouses,2519,Pearkes,Lane,2519 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{0C9A05ED-5022-44EC-8A12-20B37BACB653}
-AD-729,009-1,Acadia Park Townhouses,2521,Pearkes,Lane,2521 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{3243AB21-0A66-4240-A890-9809996FC92A}
-AD-732,009-1,Acadia Park Townhouses,2527,Pearkes,Lane,2527 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{C1B603A7-947B-4A0A-B38D-29B51F9B9621}
-AD-730,009-1,Acadia Park Townhouses,2523,Pearkes,Lane,2523 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{F4B62431-3764-4892-A052-C91E918C5032}
-AD-731,009-1,Acadia Park Townhouses,2525,Pearkes,Lane,2525 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stud1,1,,Current,{8A1D8F0A-657E-4C96-B264-C9B3D90A47BE}
-AD-787,010-0,Acadia Park Townhouses,5501,Fairview,Place,5501 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stud1,1,,Current,{9AEB901D-8BA4-4595-8D15-E1AC6DF81912}
-AD-788,010-0,Acadia Park Townhouses,5503,Fairview,Place,5503 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stud1,1,,Current,{5B5AE794-535C-46C6-B322-E10400ECA2BE}
-AD-789,010-0,Acadia Park Townhouses,5505,Fairview,Place,5505 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stud1,1,,Current,{7FD3A8C1-CDE1-42F2-941B-886BA78F1D10}
-AD-790,010-0,Acadia Park Townhouses,5601,Fairview,Place,5601 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stud1,1,,Current,{DBAE1BAA-AFAC-4671-B2D7-8E6D05A2252A}
-AD-791,010-0,Acadia Park Townhouses,5603,Fairview,Place,5603 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stud1,1,,Current,{DF350DD8-265A-4050-A441-FDEBF0185C3C}
-AD-792,010-0,Acadia Park Townhouses,5605,Fairview,Place,5605 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stud1,1,,Current,{1086D9B4-1840-433F-BBBF-858B26B77700}
-AD-793,010-0,Acadia Park Townhouses,5607,Fairview,Place,5607 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stud1,1,,Current,{D7CF5A09-4FE2-4F60-8162-FBF754062EAF}
-AD-794,010-0,Acadia Park Townhouses,5609,Fairview,Place,5609 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stud1,1,,Current,{5A4F840F-6154-43A8-8FE0-540095850522}
-AD-795,010-0,Acadia Park Townhouses,5611,Fairview,Place,5611 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stud1,1,,Current,{5B984DB2-1705-4BD3-B7A0-F7E2FDD496F3}
-AD-738,009-2,Acadia Park Townhouses,5501,Montgomery,Place,5501 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{F7989C22-C99E-49BE-B4B1-6D358B6B5F67}
-AD-739,009-2,Acadia Park Townhouses,5503,Montgomery,Place,5503 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{72A06226-5A2D-4753-8CE2-FCCB912C70D0}
-AD-740,009-2,Acadia Park Townhouses,5505,Montgomery,Place,5505 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{EDC415B2-E858-46F0-9D77-6A2A3F0AB53B}
-AD-741,009-2,Acadia Park Townhouses,5507,Montgomery,Place,5507 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{3FDF936A-8AA6-4454-9526-CCF0F73001BD}
-AD-742,009-2,Acadia Park Townhouses,5509,Montgomery,Place,5509 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{C8BB53BA-FAB5-4041-A4BA-9B768F2D26A1}
-AD-744,009-2,Acadia Park Townhouses,5601,Montgomery,Place,5601 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stud1,1,,Current,{CCBA58DD-3B05-4CE7-B48E-9403AD21CB6D}
 AD-249,652,Hennings Building,6224,Agricultural,Road,6224 Agricultural Road,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{A04C4253-5CFC-4A01-8F25-6BA7FB536B70}
 AD-250,654,Abdul Ladha Science Student Centre,2055,East,Mall,2055 East Mall,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{C3DEE4E1-7DF7-4E8F-B193-D99EF83C2A9E}
 AD-251,656,Hebb Building,2045,East,Mall,2045 East Mall,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{232E77B6-D881-48C3-9645-E6156F1395C6}
@@ -728,23 +268,6 @@ AD-260,766,Material Recovery Facility,6055,Nurseries,Road,6055 Nurseries Road,Va
 AD-263,769,Library Preservation Archives,6049,Nurseries,Road,6049 Nurseries Road,Vancouver,BC,V6T 1W5,Academic,UBC,0,,Current,{EF16C625-D11E-4D2F-B66A-199ECC7F9465}
 AD-24,557,Orchard Commons,6363,Agronomy,Road,6363 Agronomy Road,Vancouver,BC,V6T 1Z4,Academic,Mixed,1057,,Current,{28EBFA02-B572-4E61-A850-D528B3546456}
 AD-268,774,Student Recreation Centre,6000,Student Union,Boulevard,6000 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{7DFBD651-E02B-4620-811A-E676E8423B32}
-AD-633,009-1,Acadia Park Townhouses,5607,Yalta,Place,5607 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{EE3A0C70-36A9-4B64-BE75-3F63D30C05A6}
-AD-635,009-1,Acadia Park Townhouses,5609,Yalta,Place,5609 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{3E2DE955-462F-4D57-9638-D25AE50018A3}
-AD-637,009-1,Acadia Park Townhouses,5611,Yalta,Place,5611 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{B17758BE-4A46-4A41-9633-83F77F4DE817}
-AD-639,009-1,Acadia Park Townhouses,5613,Yalta,Place,5613 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{0A541E10-6771-4C80-B425-1CC333A1908B}
-AD-641,009-1,Acadia Park Townhouses,5615,Yalta,Place,5615 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{E526BEB3-6135-40A8-8BCF-95233A24E64E}
-AD-643,009-1,Acadia Park Townhouses,5617,Yalta,Place,5617 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{EFEBFB85-EE41-44A7-BC13-C9EF8A731AED}
-AD-645,009-1,Acadia Park Townhouses,5619,Yalta,Place,5619 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stud1,1,,Current,{49E50211-4209-4A4C-A68A-B74F92251A1F}
-AD-620,009-0,Acadia Park Townhouses,5502,Yalta,Place,5502 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{309A6829-A2B5-4622-9BCE-76ECD814512B}
-AD-622,009-0,Acadia Park Townhouses,5504,Yalta,Place,5504 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{4CDAE283-1BC6-4F52-91F6-71805D1FE02A}
-AD-624,009-0,Acadia Park Townhouses,5506,Yalta,Place,5506 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{076CCADD-104D-4D06-956F-CB52159403E6}
-AD-625,009-0,Acadia Park Townhouses,5508,Yalta,Place,5508 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{C1C8B6F2-CECA-4EC1-879B-FE4D1D180309}
-AD-626,009-0,Acadia Park Townhouses,5510,Yalta,Place,5510 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{2146B620-B8C8-4DF1-BCB9-8F5999BAD2F2}
-AD-628,009-0,Acadia Park Townhouses,5602,Yalta,Place,5602 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{4646583F-734D-4B67-A49D-0BAE2E7AF6B5}
-AD-630,009-0,Acadia Park Townhouses,5604,Yalta,Place,5604 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{0AAEBA6E-D94E-421A-9C80-868380F1EC51}
-AD-632,009-0,Acadia Park Townhouses,5606,Yalta,Place,5606 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{EFA5436F-BA0C-4EFF-8F1C-8DC37EA3504A}
-AD-634,009-0,Acadia Park Townhouses,5608,Yalta,Place,5608 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{F8979436-E477-495D-8E60-0450D3FB056B}
-AD-636,009-0,Acadia Park Townhouses,5610,Yalta,Place,5610 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stud1,1,,Current,{3E87A123-8DE4-40C5-ADD2-1B4D0D5AA479}
 AD-157,308-1,The Leonard S. Klinck Building,6356,Agricultural,Road,6356 Agricultural Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{0E06C4C2-4DFD-432F-B4A1-2AC5BDCD5510}
 AD-17,509,The Pemberley,5605,Hampton,Place,5605 Hampton Place,Vancouver,BC,V6T 2H2,Hampton Place,Housing,72,,Current,{05251C3F-D184-4A64-AA07-6BE98A8D0BB6}
 AD-3,154,Sumac House,6395,Hawthorn,Lane,6395 Hawthorn Lane,Vancouver,BC,V6T 0C1,Hawthorn,Housing,42,,Current,{EF38BD63-D0BC-4AC5-BC5C-A9A0A7562758}
@@ -767,7 +290,6 @@ AD-78,828,St. Mark's College,5935,Iona,Drive,5935 Iona Drive,Vancouver,BC,V6T 1J
 AD-183,430,Robert F. Osborne Centre,6108,Thunderbird,Boulevard,6108 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{BE7B2A2C-D28D-4117-914C-C45627A71C6F}
 AD-184,433,UBC Tennis Centre,6160,Thunderbird,Boulevard,6160 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{C7E6EF90-B7A3-4D72-B2D1-78119CEFDA18}
 AD-156,307,Civil and Mechanical Engineering Labs,2275,East,Mall,2275 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{9F192EE2-0C57-4666-ABDC-C9834635165E}
-AD-837,007-2,Fairview Crescent Residence,2620,Fairview,Crescent,2620 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stud1,1,,Current,{1130D54E-9394-4471-AC9C-7B8DF994F731}
 AD-1,152,Azalea House,6388,Hawthorn,Lane,6388 Hawthorn Lane,Vancouver,BC,V6T 0B9,Hawthorn,Housing,11,,Current,{75C173E7-43F7-4780-B4ED-6721ABD92604}
 AD-7,500,Sandringham,5650,Hampton,Place,5650 Hampton Place,Vancouver,BC,V6T 2G5,Hampton Place,Housing,32,,Current,{FA381894-4CE6-481D-8DAF-BF90A522D7C5}
 AD-289,858,Berwick Memorial Centre - Daycare,2767,Osoyoos,Crescent,2767 Osoyoos Crescent,Vancouver,BC,V6T 1X7,Academic,UBC,0,,Current,{8F268B54-B878-48C1-AEE6-E838F919478D}
@@ -922,15 +444,12 @@ AD-163,320,Dorothy Somerset Studios,6361,University,Boulevard,6361 University Bo
 AD-164,324,B.C. Binning Studios,6373,University,Boulevard,6373 University Boulevard,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{6C43CAE9-B23A-482A-A8E0-276E1007A64A}
 AD-165,337,First Nations Longhouse,1985,West,Mall,1985 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{FE77E296-7A54-4CAD-8506-D05770253E54}
 AD-167,353,Forest Sciences Centre,2424,Main,Mall,2424 Main Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{D4A94FEC-3DC8-4240-8008-710C17FFB472}
-AD-169,372,FP Innovations Wood Products,2665,East,Mall,2665 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{6D006771-1D20-444E-9A8B-851181F0E2B8}
 AD-170,373,FP Innovations Forest Operations,2601,East,Mall,2601 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{A460B2D4-A04D-4168-AAFE-137BAB08103F}
 AD-173,380,Old Fire Hall,2038,West,Mall,2038 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{69B08147-6F6D-4964-A4F5-D0F8CBF27983}
 AD-174,385,Wood Drying Laboratory,2324,West,Mall,2324 West Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{8FC9652A-3C86-47DF-9763-FB7B44F87793}
 AD-175,386,HR MacMillan Building,2357,Main,Mall,2357 Main Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{0F4485A9-7010-474C-A249-D8E90A8BE848}
 AD-176,394,Gas Gun Facility,6301,Stadium,Road,6301 Stadium Road,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{A8CDFC5E-9FAB-4E6F-B427-C1CD600F43CE}
 AD-177,401,Geography Building,1984,West,Mall,1984 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{D5190594-5B7A-4744-A249-D9E49DF863B3}
-AD-178,402,Earth and Ocean Sciences,6339,Stores,Road,6339 Stores Road,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{1387E524-5F2A-4734-B4D4-5DB167B320C1}
-AD-180,420,Cecil Green Park House,6251,Cecil Green Park,Road,6251 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{08FBC139-A7AE-4D63-A926-4362EAD9EA0F}
 AD-181,421,Cecil Green Park Coach House,6323,Cecil Green Park,Road,6323 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{B2D68838-8185-4F7D-97B7-DF40112E2AE0}
 AD-182,428,War Memorial Gymnasium,6081,University,Boulevard,6081 University Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{19A26BC8-9D2C-4CDB-A6B4-FF6AAD749977}
 AD-185,434,Gerald McGavin UBC Rugby Centre,2765,Wesbrook,Mall,2765 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{A3E45713-693C-4C10-A617-C5BC305FCBD4}
@@ -949,7 +468,6 @@ AD-205,490,David Lam Learning Centre,6326,Agricultural,Road,6326 Agricultural Ro
 AD-206,496,Liu Institute for Global Issues,6476,NW Marine,Drive,6476 NW Marine Drive,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{E9862E92-1BE5-4681-96FA-A0408788C37C}
 AD-207,511,Engineering High Head Room Laboratory,2225,East,Mall,2225 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{E87100E1-D91E-46B3-B9BC-0ABBB524DB4F}
 AD-208,513,School of Population & Public Health,2206,East,Mall,2206 East Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{ECDC75C3-3AFC-4E69-AC6F-2C3F88A47E29}
-AD-209,515,Koerner Library,1958,Main,Mall,1958 Main Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{96C657B2-7CEF-4725-B20A-C466265A624C}
 AD-210,516,Irving K. Barber Learning Centre,1961,East,Mall,1961 East Mall,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{E8E4A638-1EB3-40B9-8F53-F5A6A5DDC79F}
 AD-211,518,Mathematics Building,1984,Mathematics,Road,1984 Mathematics Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{E562D82C-F408-44E0-8F50-63AD7272DC7A}
 AD-212,519,Mathematics Annex,1986,Mathematics,Road,1986 Mathematics Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{282FBF14-9212-4621-8225-E4F46409A005}
@@ -972,7 +490,6 @@ AD-240,614,Mary Bollert Hall,6253,NW Marine,Drive,6253 NW Marine Drive,Vancouver
 AD-241,625,George Cunningham Building,2146,East,Mall,2146 East Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{DCBF5D12-2624-4B30-859B-5EF0CD272889}
 AD-244,635,St. John Hospice,6389,Stadium,Road,6389 Stadium Road,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{97B2AAC8-B693-4C7B-9E08-AE34A7210AEE}
 AD-245,638,South Campus Warehouse,6116,Nurseries,Road,6116 Nurseries Road,Vancouver,BC,V6T 1W5,Academic,UBC,0,,Current,{0DE17E5F-12ED-4E36-8298-3071C28EDEF5}
-AD-246,641,University Services Building,2329,West,Mall,2329 West Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{011270AD-5BA0-4161-BC17-5120F004EAA6}
 AD-247,643,Campus & Community Planning,2210,West,Mall,2210 West Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{5363F16A-B31D-4D5B-9597-B435DD274FA2}
 AD-248,646,Building Operations Exterior Storage Shed,2214,Lower,Mall,2214 Lower Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{2A4B1F14-D88E-4914-8DC7-A0A886DCD735}
 AD-269,785,Thunderbird Stadium,6288,Stadium,Road,6288 Stadium Road,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{CBEF48B4-AC7C-4416-AA87-38C7E5E2811D}
@@ -989,10 +506,384 @@ AD-286,852,Public Safety Building - Fire Hall,2992,Wesbrook,Mall,2992 Wesbrook M
 AD-287,850,TRIUMF - Shipping,6095,Nurseries,Road,6095 Nurseries Road,Vancouver,BC,V6T 2A3,Academic,UBC,0,,Current,{BC1360E1-119D-40FB-8C52-652AB32B4E4F}
 AD-57,697,Wesbrook Community Centre,3335,Webber,Lane,3335 Webber Lane,Vancouver,BC,V6S 0H3,Wesbrook Place,Non-UBC,0,,Current,{902819BB-01CA-416C-9C0F-811AA904B77B}
 AD-1035,,The Residences at Nobel Park - Townhouses,3483,Ross,Drive,3483 Ross Drive,Vancouver,BC,,Wesbrook Place,Housing,26,,Future,{DD6C284D-EFFB-49F3-89A6-FDBC91A3DAC8}
-,540-1,Totem Park Residence,2525,West,Mall,2525 West Mall,Vancouver,BC,V6T 1W9,Academic,Housing - Stud,1485,,Current,{447F0CA8-48EF-4243-B519-3B73C07C95E1}
-,570,Museum of Anthropology,6393,NW Marine,Drive,6393 NW Marine Drive,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{72D39266-98FC-4063-A96F-C131EFB54BD0}
 AD-95,020,The Brimacombe Building,2355,East,Mall,2355 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{AC1D7A89-2CD0-473A-BA4A-C46DFE6731BC}
-AD-70,783,Thunderbird Residence,6335,Thunderbird,Crescent,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9,Academic,Housing - Stud,403,,Current,{3D0C15FF-9B74-4609-B3CC-F343A7A100E0}
+ADD-1036,570,Museum of Anthropology,6393,NW Marine,Drive,6393 NW Marine Drive,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{72D39266-98FC-4063-A96F-C131EFB54BD0}
+ADD-1037,,MacInnes Field Parkade/MacInnes Field,6131,University,Boulevard,6131 University Boulevard,,,,University Boulevard,,,Field on top of underground parkade,Future,{12DBA0B9-D51B-4745-B840-8C925F4CF379}
+ADD-1038,540-1,Totem Park Residence,2525,West,Mall,2525 West Mall,Vancouver,BC,V6T 1W9,Academic,Housing - Stude,1485,,Current,{447F0CA8-48EF-4243-B519-3B73C07C95E1}
+AD-903,007-3,Fairview Crescent Residence,2684,Fairview,Crescent,2684 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{66B3B13B-6A93-486F-B890-3D65034AF722}
+AD-904,007-1,Fairview Crescent Residence,2685,Fairview,Crescent,2685 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{9EA72471-B5EB-4F75-91A9-46AC3CCB0E06}
+AD-905,007-3,Fairview Crescent Residence,2686,Fairview,Crescent,2686 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{03DC0341-2CF8-445B-BD8A-1197681C203F}
+AD-906,007-1,Fairview Crescent Residence,2687,Fairview,Crescent,2687 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{0A7F668C-7ACC-46E7-AB5E-E64870CC5273}
+AD-907,007-3,Fairview Crescent Residence,2688,Fairview,Crescent,2688 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{E7D0F505-AC6D-4D9D-8987-134E4D247150}
+AD-908,007-1,Fairview Crescent Residence,2689,Fairview,Crescent,2689 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{B15371C8-9B55-4227-BFBB-48D3485515DA}
+AD-910,007-3,Fairview Crescent Residence,2690,Fairview,Crescent,2690 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{3F545FFF-F012-490C-84CE-58E3C6C0F31D}
+AD-909,007-1,Fairview Crescent Residence,2689-A,Fairview,Crescent,2689-A Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{0F1137BC-E8E7-4282-A770-D0E14AAAE0B1}
+AD-911,007-1,Fairview Crescent Residence,2691,Fairview,Crescent,2691 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{6096BAEB-830A-4585-9477-0287F1AB5D47}
+AD-912,007-3,Fairview Crescent Residence,2692,Fairview,Crescent,2692 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{36B3F152-07B8-420B-8FE9-33628CDB2FFF}
+AD-913,007-1,Fairview Crescent Residence,2693,Fairview,Crescent,2693 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{6AB53D68-5DB9-4945-89B2-60FE07F8836D}
+AD-914,007-3,Fairview Crescent Residence,2694,Fairview,Crescent,2694 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{9B607610-F639-448E-A4D3-21DA0DF2DE87}
+AD-915,007-1,Fairview Crescent Residence,2695,Fairview,Crescent,2695 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{110F152F-9480-4A8F-A487-49CA36B3BCE5}
+AD-916,007-3,Fairview Crescent Residence,2696,Fairview,Crescent,2696 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{D76C01FA-7C01-4E94-84EE-45AD2CC4BBD3}
+AD-917,007-1,Fairview Crescent Residence,2697,Fairview,Crescent,2697 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{09ED273A-6B83-46EC-8518-7319FA3A494E}
+AD-918,007-3,Fairview Crescent Residence,2698,Fairview,Crescent,2698 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{D7187E57-985E-4A0B-909C-B2F95EB189EC}
+AD-919,007-1,Fairview Crescent Residence,2699,Fairview,Crescent,2699 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{7809AB7C-C9BC-4DF2-A56B-96FCE3265921}
+AD-920,007-3,Fairview Crescent Residence,2700,Fairview,Crescent,2700 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{08082B6C-A871-45B5-AD85-993D2C81DC56}
+AD-921,007-1,Fairview Crescent Residence,2701,Fairview,Crescent,2701 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{9E73DD95-5B2E-4392-A6EF-49B3CCAEDD49}
+AD-922,007-3,Fairview Crescent Residence,2702,Fairview,Crescent,2702 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{833BE052-15C4-4268-B79D-76B909CA616F}
+AD-923,007-1,Fairview Crescent Residence,2703,Fairview,Crescent,2703 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{7ADE05BC-DC37-4200-9188-00C44E580768}
+AD-924,007-3,Fairview Crescent Residence,2704,Fairview,Crescent,2704 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{A6537052-67FD-4A5D-9358-EA343B102ACB}
+AD-925,007-1,Fairview Crescent Residence,2705,Fairview,Crescent,2705 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{48746782-49F9-4C7E-89F2-F38351796105}
+AD-927,007-1,Fairview Crescent Residence,2707,Fairview,Crescent,2707 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{89EBC54A-5642-4B4C-8EC4-075BCFDC93C4}
+AD-928,007-1,Fairview Crescent Residence,2709,Fairview,Crescent,2709 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{E823A842-BC01-402E-86BB-853A8570BB49}
+AD-929,007-0,Fairview Crescent Residence,2710,Fairview,Crescent,2710 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{65222800-C775-4AAC-ADC4-2F84FE3AE911}
+AD-930,007-1,Fairview Crescent Residence,2711,Fairview,Crescent,2711 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{8021B778-0983-4BF2-AE63-CF09B3FF7D5E}
+AD-931,007-0,Fairview Crescent Residence,2712,Fairview,Crescent,2712 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{0D58585B-8609-4179-A8FC-112E000E1250}
+AD-932,007-1,Fairview Crescent Residence,2713,Fairview,Crescent,2713 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{3EB8B482-F427-46EC-AC2E-D08A27BDF024}
+AD-933,007-0,Fairview Crescent Residence,2714,Fairview,Crescent,2714 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{31E997D9-9F87-4E34-B9CC-585ECC5397EC}
+AD-979,007-1,Fairview Crescent Residence,2759,Fairview,Crescent,2759 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{07321627-2A71-4478-85F8-2B6A9D657837}
+AD-980,007-0,Fairview Crescent Residence,2760,Fairview,Crescent,2760 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{6FC039AC-CB0E-4C05-8A76-F986B6BBA894}
+AD-981,007-1,Fairview Crescent Residence,2761,Fairview,Crescent,2761 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{71B040E9-8CED-43DF-8EC1-4BA58D7CD71C}
+AD-982,007-0,Fairview Crescent Residence,2762,Fairview,Crescent,2762 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{44ADB73A-3C2D-4D79-B207-D8B91AB067E9}
+AD-983,007-1,Fairview Crescent Residence,2763,Fairview,Crescent,2763 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{21AC3203-122A-44E6-83E2-9F1F60F2778A}
+AD-984,007-0,Fairview Crescent Residence,2764,Fairview,Crescent,2764 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{DD0E530D-2DAB-44D9-9AFC-A1F0752D7600}
+AD-985,007-1,Fairview Crescent Residence,2765,Fairview,Crescent,2765 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{CC0D156A-FE4E-4BF1-825F-D162D2675ADD}
+AD-986,007-0,Fairview Crescent Residence,2766,Fairview,Crescent,2766 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{8AC6C348-FF20-4DBE-9DF4-68A8CB83ED73}
+AD-987,007-1,Fairview Crescent Residence,2767,Fairview,Crescent,2767 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{377D4DC9-8F20-48CF-A672-046086A60AE2}
+AD-988,007-0,Fairview Crescent Residence,2768,Fairview,Crescent,2768 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{9158DD19-67E6-416D-B8C6-76BFC1185CB9}
+AD-989,007-1,Fairview Crescent Residence,2769,Fairview,Crescent,2769 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{7EDA48DC-4440-4D85-82B8-999B5BDE269E}
+AD-990,007-0,Fairview Crescent Residence,2770,Fairview,Crescent,2770 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{F196913C-FB73-407D-B13F-26364B07A2C6}
+AD-991,007-0,Fairview Crescent Residence,2772,Fairview,Crescent,2772 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{52A01740-CC84-4A4B-A66F-0E88E4E59730}
+AD-992,007-0,Fairview Crescent Residence,2774,Fairview,Crescent,2774 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{36A58FB5-C4C3-4EDA-89F1-797B6AAB69B5}
+AD-993,007-0,Fairview Crescent Residence,2776,Fairview,Crescent,2776 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{C9DBD33F-675A-47A4-8372-CC4C3ABF2AB3}
+AD-994,007-0,Fairview Crescent Residence,2778,Fairview,Crescent,2778 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{159317DB-25CD-4D76-931E-8312F04DA952}
+AD-995,007-0,Fairview Crescent Residence,2780,Fairview,Crescent,2780 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{857FB18E-DD8F-44FE-A7BF-93CD106C2C83}
+AD-996,007-0,Fairview Crescent Residence,2782,Fairview,Crescent,2782 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{4E9B4529-9932-4CDA-8E61-67C65C68734C}
+AD-997,007-0,Fairview Crescent Residence,2784,Fairview,Crescent,2784 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{68F6A581-247C-4631-9561-FE2FD72CCBC2}
+AD-998,007-0,Fairview Crescent Residence,2786,Fairview,Crescent,2786 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{006E307E-C0B0-433B-A742-DAE98357501B}
+AD-999,007-0,Fairview Crescent Residence,2788,Fairview,Crescent,2788 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{2B3F367A-9228-42B9-9ACA-D671D0D2FB5A}
+AD-1000,007-0,Fairview Crescent Residence,2790,Fairview,Crescent,2790 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{2B24D6F2-A7F1-4F15-9E0F-2BFE61A189F5}
+AD-1001,007-0,Fairview Crescent Residence,2792,Fairview,Crescent,2792 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{00E98B9E-A4A1-48C3-B75A-A19D272C846A}
+AD-1002,007-0,Fairview Crescent Residence,2794,Fairview,Crescent,2794 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{8363F376-E39F-43C8-AE94-D7787BB03F1B}
+AD-1003,007-0,Fairview Crescent Residence,2796,Fairview,Crescent,2796 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{A9CBC70A-A80F-49A3-8065-6D3DA39D41B0}
+AD-1004,007-1,Fairview Crescent Residence,2798,Fairview,Crescent,2798 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{F7DE81BA-8F36-4852-B32A-E711608E0767}
+AD-1005,007-1,Fairview Crescent Residence,2800,Fairview,Crescent,2800 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{4444450B-48D4-4187-9588-DA2253E9F3F2}
+AD-1006,007-1,Fairview Crescent Residence,2802,Fairview,Crescent,2802 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{AD32F4CA-886C-442F-AA04-24E7C0E4DC55}
+AD-1007,007-1,Fairview Crescent Residence,2804,Fairview,Crescent,2804 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{DCC29841-51A4-4B35-95CD-059861EC0CCF}
+AD-1013,872-2,West Coast Suites - Gage,5961,Student Union,Boulevard,5961 Student Union Boulevard,Vancouver,BC,V6T 1K2,Academic,Housing - Stude,0,,Current,{1C4E4128-E282-47A9-BAA7-BD61D1822A02}
+AD-1032,418,Green College - President's House,6205,Cecil Green Park,Road,6205 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,Housing - Stude,1,<Null>,Current,{F4D23FE8-0D4D-49FA-AA76-FE9B4AB0C768}
+AD-934,007-1,Fairview Crescent Residence,2715,Fairview,Crescent,2715 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{AA8196F7-8632-4809-986B-370F5FEC5751}
+AD-935,007-0,Fairview Crescent Residence,2716,Fairview,Crescent,2716 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{BEBC0E64-51B5-49C1-A5A0-1B7165EC7EB7}
+AD-936,007-1,Fairview Crescent Residence,2717,Fairview,Crescent,2717 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{F1145042-9081-4705-AEFE-C454995DF21B}
+AD-937,007-0,Fairview Crescent Residence,2718,Fairview,Crescent,2718 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{3F4B0C75-8543-4C1F-9152-3CE9563BC5FE}
+AD-938,007-1,Fairview Crescent Residence,2719,Fairview,Crescent,2719 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{A3D0B2A8-1008-4084-9BDA-7706881C0716}
+AD-939,007-0,Fairview Crescent Residence,2720,Fairview,Crescent,2720 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{72F83F99-F362-47CD-815E-C6B5E4884E84}
+AD-940,007-1,Fairview Crescent Residence,2721,Fairview,Crescent,2721 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{BB8FD417-BAF2-4F86-B188-5D8C205B1091}
+AD-941,007-1,Fairview Crescent Residence,2721-A,Fairview,Crescent,2721-A Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{D667AFC7-2AF1-47E6-9A3B-E8A827EFBD69}
+AD-942,007-0,Fairview Crescent Residence,2722,Fairview,Crescent,2722 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{C03C1C6D-6174-4AC5-8A5D-DDA75AC1E6C3}
+AD-943,007-1,Fairview Crescent Residence,2723,Fairview,Crescent,2723 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{B9C70D1D-BFCE-4778-B394-CBCC35F6CAA7}
+AD-944,007-0,Fairview Crescent Residence,2724,Fairview,Crescent,2724 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{9001E077-1217-4C85-BA3E-B480E4E8AFE2}
+AD-945,007-1,Fairview Crescent Residence,2725,Fairview,Crescent,2725 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{F218D468-A2A2-4759-BA36-FA1D148AEFF0}
+AD-946,007-0,Fairview Crescent Residence,2726,Fairview,Crescent,2726 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{0C6C723D-7B17-4ADC-80E4-58D3DD3EC932}
+AD-947,007-1,Fairview Crescent Residence,2727,Fairview,Crescent,2727 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{81D4C49B-615D-4322-BD06-6410B8BED9C6}
+AD-948,007-0,Fairview Crescent Residence,2728,Fairview,Crescent,2728 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{29BAE919-CF23-4355-BD19-C5263E7C2DB9}
+AD-949,007-1,Fairview Crescent Residence,2729,Fairview,Crescent,2729 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{23A3E11A-43A9-4C3D-B45F-DFA3DAF20E9F}
+AD-950,007-0,Fairview Crescent Residence,2730,Fairview,Crescent,2730 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{08CC8985-3667-4CD5-BED1-8A4DF2174E1C}
+AD-951,007-1,Fairview Crescent Residence,2731,Fairview,Crescent,2731 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{A5C8BAB4-F7CF-4DC5-B9D5-4D3A2965BA55}
+AD-952,007-0,Fairview Crescent Residence,2732,Fairview,Crescent,2732 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{04B694DF-34D2-4F95-BDD3-5CC578052006}
+AD-953,007-1,Fairview Crescent Residence,2733,Fairview,Crescent,2733 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{33C1B010-0DD4-4576-9080-382DAAFFB4EE}
+AD-954,007-0,Fairview Crescent Residence,2734,Fairview,Crescent,2734 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{0882A3B9-757C-4592-92F1-537FC45A2455}
+AD-955,007-1,Fairview Crescent Residence,2735,Fairview,Crescent,2735 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{2AFAB171-8C4E-415C-9FEA-15577B22C5B4}
+AD-956,007-0,Fairview Crescent Residence,2736,Fairview,Crescent,2736 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{2498164A-7532-4EC0-B705-112B6385677C}
+AD-957,007-1,Fairview Crescent Residence,2737,Fairview,Crescent,2737 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{D50E3F81-AE04-42A9-9E75-9EDC8C61767C}
+AD-958,007-0,Fairview Crescent Residence,2738,Fairview,Crescent,2738 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{BADCDE94-1C49-4201-BD9E-CFEFB5AAFF53}
+AD-959,007-1,Fairview Crescent Residence,2739,Fairview,Crescent,2739 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{0D2DDEA3-7ADC-44A8-9F1A-EC851F739A85}
+AD-960,007-0,Fairview Crescent Residence,2740,Fairview,Crescent,2740 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{F3C42024-AFB2-4A28-9A85-52B23540C6C4}
+AD-961,007-1,Fairview Crescent Residence,2741,Fairview,Crescent,2741 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{2715CA2F-B252-4959-869F-6729F634AE6D}
+AD-962,007-0,Fairview Crescent Residence,2742,Fairview,Crescent,2742 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{34FA6009-8CE0-478A-88F4-51C1E7E27408}
+AD-963,007-1,Fairview Crescent Residence,2743,Fairview,Crescent,2743 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{382A8886-2A7A-4A5B-A69F-04F55005FF40}
+AD-964,007-0,Fairview Crescent Residence,2744,Fairview,Crescent,2744 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{D0D6FB70-782C-4F3D-8EB5-728D297CC7F1}
+AD-965,007-1,Fairview Crescent Residence,2745,Fairview,Crescent,2745 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{C9C1414E-7A78-45C6-AD96-2A655A6A5541}
+AD-966,007-0,Fairview Crescent Residence,2746,Fairview,Crescent,2746 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{1D5DF821-67B4-4FB9-9B7C-BCC7A70D8EBB}
+AD-967,007-1,Fairview Crescent Residence,2747,Fairview,Crescent,2747 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{E12FB2F4-4518-42F5-BB7F-17DA190C398C}
+AD-968,007-0,Fairview Crescent Residence,2748,Fairview,Crescent,2748 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{F7C69587-CD2D-4023-A244-B11BAC60A3B2}
+AD-969,007-1,Fairview Crescent Residence,2749,Fairview,Crescent,2749 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{9983A468-E460-4892-BD39-81842553F3C0}
+AD-970,007-0,Fairview Crescent Residence,2750,Fairview,Crescent,2750 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{AEDF6DA1-BE2A-43AE-8F89-B7F96A0F5CB0}
+AD-971,007-1,Fairview Crescent Residence,2751,Fairview,Crescent,2751 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{0A88727A-7A1E-48A4-BBCC-7017FC2F55D9}
+AD-972,007-0,Fairview Crescent Residence,2752,Fairview,Crescent,2752 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{B5655271-A426-471B-8A14-64DD38334AC7}
+AD-973,007-1,Fairview Crescent Residence,2753,Fairview,Crescent,2753 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{17DB8992-AC0F-424E-B021-B4451ED570C9}
+AD-974,007-0,Fairview Crescent Residence,2754,Fairview,Crescent,2754 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{60DC35A8-E687-4FF1-BF7A-07B935A851F5}
+AD-975,007-1,Fairview Crescent Residence,2755,Fairview,Crescent,2755 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{7D5C55EF-C6B7-4ED4-8DC9-6820554053B4}
+AD-976,007-0,Fairview Crescent Residence,2756,Fairview,Crescent,2756 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{A0381ACB-782A-49C8-8FC5-EB6569D19CC0}
+AD-977,007-1,Fairview Crescent Residence,2757,Fairview,Crescent,2757 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{218F93B0-9475-4AFB-BA98-9129340A99B7}
+AD-978,007-0,Fairview Crescent Residence,2758,Fairview,Crescent,2758 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{89C792BF-E9BE-47A9-9234-40BEF7CE008D}
+AD-765,009-1,Acadia Park Townhouses,5622,Montgomery,Place,5622 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{E9FEE0C1-1179-4FEC-B208-D533AEEA2E70}
+AD-767,009-1,Acadia Park Townhouses,5624,Montgomery,Place,5624 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{48D36BDA-9778-462B-9FE8-5A1193365EDD}
+AD-769,009-1,Acadia Park Townhouses,5626,Montgomery,Place,5626 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{99F61CEA-218E-49F1-B7F1-21EE1454593C}
+AD-771,009-1,Acadia Park Townhouses,5628,Montgomery,Place,5628 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{8314E8D5-5677-418D-9F6E-9F6ADB93B3A6}
+AD-773,009-1,Acadia Park Townhouses,5630,Montgomery,Place,5630 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{96002AAA-5B75-4448-9759-CE6AFB8850D6}
+AD-775,009-1,Acadia Park Townhouses,5632,Montgomery,Place,5632 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{B18EF683-C78E-4DCB-968C-22552E1F28DC}
+AD-777,009-1,Acadia Park Townhouses,5634,Montgomery,Place,5634 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{743D69BA-743F-40A4-A40A-2C353FB570A6}
+AD-779,009-1,Acadia Park Townhouses,5636,Montgomery,Place,5636 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{9ECD33D9-6223-4C7B-8003-B3CFDE691523}
+AD-781,009-1,Acadia Park Townhouses,5638,Montgomery,Place,5638 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{14DE56B5-EEE2-488A-B3A6-890745EB7B79}
+AD-757,009-1,Acadia Park Townhouses,5614,Montgomery,Place,5614 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{F838944C-490A-4D1B-917F-F94A577BCBCF}
+AD-759,009-1,Acadia Park Townhouses,5616,Montgomery,Place,5616 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{0366853F-6AE6-4236-8ED7-7EB666DD6472}
+AD-761,009-1,Acadia Park Townhouses,5618,Montgomery,Place,5618 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{0574BD3E-0BFA-4291-BDB1-A5426935C1D1}
+AD-763,009-1,Acadia Park Townhouses,5620,Montgomery,Place,5620 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{3B10A8A1-E761-4B45-93AA-193826F3C9CD}
+AD-783,009-1,Acadia Park Townhouses,5640,Montgomery,Place,5640 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{0B0332F6-5A74-49D3-A118-CFECF3F64E5D}
+AD-785,009-1,Acadia Park Townhouses,5642,Montgomery,Place,5642 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{11BB1148-612E-49EA-9D3E-5BAEF150FFA0}
+AD-1010,009-1,Acadia Park Townhouses,5644,Montgomery,Place,5644 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{4D732CB2-D170-4476-A1C2-1AE74CC13830}
+AD-733,009-1,Acadia Park Townhouses,2601,Pearkes,Lane,2601 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{9DDA770F-0880-4585-A09D-636B2FDE77A1}
+AD-734,009-1,Acadia Park Townhouses,2603,Pearkes,Lane,2603 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{E9AA0A08-9837-49A1-BE1E-D588865B0343}
+AD-735,009-1,Acadia Park Townhouses,2605,Pearkes,Lane,2605 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{7A54B3D0-99F9-47F7-99FF-2ACBF654112A}
+AD-824,007-2,Fairview Crescent Residence,2607,Fairview,Crescent,2607 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{B3C7DB88-D479-4B6D-A5F3-ED586EFE0ACE}
+AD-825,007-2,Fairview Crescent Residence,2608,Fairview,Crescent,2608 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{865A6293-715D-42E5-A2CA-36B102BD2CAA}
+AD-826,007-2,Fairview Crescent Residence,2609,Fairview,Crescent,2609 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{84FE85F3-E74F-4B2E-8C46-AEB9D31BCF41}
+AD-827,007-2,Fairview Crescent Residence,2610,Fairview,Crescent,2610 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{3640BD8F-AEF4-4028-BA37-5D31D00020C8}
+AD-736,009-1,Acadia Park Townhouses,2607,Pearkes,Lane,2607 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{27506617-9901-42FA-B438-4204B9A65F59}
+AD-737,009-1,Acadia Park Townhouses,2609,Pearkes,Lane,2609 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{744522CC-E4F4-4775-9F3C-80806D11EDA1}
+AD-817,007-2,Fairview Crescent Residence,2600,Fairview,Crescent,2600 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{FB65F8E4-6937-463D-8993-3D0408755FD1}
+AD-818,007-2,Fairview Crescent Residence,2601,Fairview,Crescent,2601 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{69835C07-64C2-432D-AAC7-461958A5FA65}
+AD-819,007-2,Fairview Crescent Residence,2602,Fairview,Crescent,2602 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{622F974E-CF54-488C-8EE5-5AD808C76B34}
+AD-820,007-2,Fairview Crescent Residence,2603,Fairview,Crescent,2603 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{B8EB8DC2-77EC-43F6-BD03-16BA2FA4DCF1}
+AD-821,007-2,Fairview Crescent Residence,2604,Fairview,Crescent,2604 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{2F017E12-C65D-4C60-ADC6-B857201EFCA0}
+AD-822,007-2,Fairview Crescent Residence,2605,Fairview,Crescent,2605 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{0F8B1142-3114-4B1C-9104-A95A720DD57A}
+AD-823,007-2,Fairview Crescent Residence,2606,Fairview,Crescent,2606 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{0D5B927F-8701-4EFF-B816-738034C49358}
+AD-828,007-2,Fairview Crescent Residence,2611,Fairview,Crescent,2611 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{238F863A-0A4A-495A-88F2-7D6DD2783BFF}
+AD-829,007-2,Fairview Crescent Residence,2612,Fairview,Crescent,2612 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{FDF30F16-B289-42F0-8B03-62464D6AE587}
+AD-830,007-2,Fairview Crescent Residence,2613,Fairview,Crescent,2613 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{EFD0D305-A991-474C-9C69-C76A32528FF7}
+AD-831,007-2,Fairview Crescent Residence,2614,Fairview,Crescent,2614 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{062DC793-CBF6-48FB-AA70-C4310A581095}
+AD-832,007-2,Fairview Crescent Residence,2615,Fairview,Crescent,2615 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{9CCD78BF-F728-456B-A7E1-6628EB38B400}
+AD-833,007-2,Fairview Crescent Residence,2616,Fairview,Crescent,2616 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{409FE15A-6AF7-48D4-B6C7-2A315FAB65DE}
+AD-834,007-2,Fairview Crescent Residence,2617,Fairview,Crescent,2617 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{354A674F-8DA8-412F-ACDB-8FD6577FCB62}
+AD-835,007-2,Fairview Crescent Residence,2618,Fairview,Crescent,2618 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{E16DB72C-4540-45A1-9596-66A776C95DCA}
+AD-836,007-2,Fairview Crescent Residence,2619,Fairview,Crescent,2619 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{C73918C7-E172-48F5-A986-27E4C58DF619}
+AD-837,007-2,Fairview Crescent Residence,2620,Fairview,Crescent,2620 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{1130D54E-9394-4471-AC9C-7B8DF994F731}
+AD-838,007-2,Fairview Crescent Residence,2621,Fairview,Crescent,2621 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{F092048E-10C4-4D03-99B1-44A199AC6831}
+AD-839,007-2,Fairview Crescent Residence,2622,Fairview,Crescent,2622 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{2A1A4DD3-3D7E-4068-967B-B262A3276471}
+AD-840,007-2,Fairview Crescent Residence,2623,Fairview,Crescent,2623 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{EBD694DF-6CEE-4DF0-840C-F702BB1A1D46}
+AD-841,007-2,Fairview Crescent Residence,2624,Fairview,Crescent,2624 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{6D113F30-E2DB-43EA-B985-61117C1A9BA9}
+AD-842,007-2,Fairview Crescent Residence,2625,Fairview,Crescent,2625 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{87D3296B-02BE-441C-8B79-BFB2BDEDDC46}
+AD-843,007-2,Fairview Crescent Residence,2626,Fairview,Crescent,2626 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{0E67FFAB-CB16-45E9-9A5F-34AAF2081B5B}
+AD-844,007-2,Fairview Crescent Residence,2627,Fairview,Crescent,2627 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{7CCE5D32-9C85-47FC-8D52-ACE808706AFE}
+AD-845,007-2,Fairview Crescent Residence,2628,Fairview,Crescent,2628 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{A0096D04-C6E2-44EF-944C-920C23F4FAA4}
+AD-846,007-2,Fairview Crescent Residence,2629,Fairview,Crescent,2629 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{A45A7BEF-F313-41EF-9F13-158B96CBD636}
+AD-847,007-2,Fairview Crescent Residence,2630,Fairview,Crescent,2630 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{BF87D447-770C-4CA6-81A1-A6989AF182B2}
+AD-848,007-2,Fairview Crescent Residence,2631,Fairview,Crescent,2631 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{97AAAA3A-5A58-4FCE-83B4-DA25843EE8B2}
+AD-849,007-2,Fairview Crescent Residence,2632,Fairview,Crescent,2632 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{D4A823DF-140C-49C5-A59C-8FDEE9A4A7B5}
+AD-850,007-2,Fairview Crescent Residence,2633,Fairview,Crescent,2633 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{34FD9C75-DA53-4DF8-827C-78E352C7C00A}
+AD-851,007-2,Fairview Crescent Residence,2634,Fairview,Crescent,2634 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{776C6E68-9E5F-4547-9619-61CF67DA8ECA}
+AD-852,007-2,Fairview Crescent Residence,2635,Fairview,Crescent,2635 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{9EA5A858-A607-4766-9668-174D81B22E75}
+AD-853,007-2,Fairview Crescent Residence,2636,Fairview,Crescent,2636 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{948195D0-5EA5-4BB3-A2BB-841444536931}
+AD-854,007-2,Fairview Crescent Residence,2637,Fairview,Crescent,2637 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{BAD11C1E-87FD-4799-8082-1A03C204C780}
+AD-855,007-2,Fairview Crescent Residence,2638,Fairview,Crescent,2638 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{42AC120B-0C60-4931-85AB-205A4A9672CE}
+AD-856,007-2,Fairview Crescent Residence,2639,Fairview,Crescent,2639 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{F200B3CF-69E0-4F8A-8A74-2B89A895DA6D}
+AD-857,007-2,Fairview Crescent Residence,2640,Fairview,Crescent,2640 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{443E18BD-45FD-4538-B152-3D8793EBB31E}
+AD-859,007-2,Fairview Crescent Residence,2642,Fairview,Crescent,2642 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{25B90B1C-76E2-47B8-A6F5-7A06C3C425CA}
+AD-860,007-2,Fairview Crescent Residence,2643,Fairview,Crescent,2643 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{BF345C71-D179-411A-9534-E02966D261A8}
+AD-861,007-3,Fairview Crescent Residence,2644,Fairview,Crescent,2644 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{2510E991-A2C9-4F2B-A5FD-40FEB87F77AB}
+AD-862,007-2,Fairview Crescent Residence,2645,Fairview,Crescent,2645 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{85CEFB01-1105-4E25-8662-FFFF6B6B47E2}
+AD-863,007-3,Fairview Crescent Residence,2646,Fairview,Crescent,2646 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{D4D61E66-E422-478A-A04A-37D2ECDD36E6}
+AD-864,007-2,Fairview Crescent Residence,2647,Fairview,Crescent,2647 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{6931C546-60C3-489A-81CB-F3E5CD9448B6}
+AD-865,007-3,Fairview Crescent Residence,2648,Fairview,Crescent,2648 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{B818F5C6-0A95-4339-8051-9966EE70BAEA}
+AD-866,007-2,Fairview Crescent Residence,2649,Fairview,Crescent,2649 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{27E3F637-9C17-4705-A009-1956D0DB0117}
+AD-867,007-2,Fairview Crescent Residence,2649-A,Fairview,Crescent,2649-A Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{30038AC8-7387-4AA3-A4A8-32EBEFDCA789}
+AD-868,007-3,Fairview Crescent Residence,2650,Fairview,Crescent,2650 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{91589083-30EA-4298-A730-815EF36A6C1F}
+AD-869,007-2,Fairview Crescent Residence,2651,Fairview,Crescent,2651 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{D0767624-DF50-4E6D-A1D1-243C4B541662}
+AD-858,007-2,Fairview Crescent Residence,2641,Fairview,Crescent,2641 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{F6349C0F-3ED3-4BCE-8DAC-4120B924E042}
+AD-870,007-3,Fairview Crescent Residence,2652,Fairview,Crescent,2652 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{4007B0BF-F575-4C4E-9F76-FF73284D7936}
+AD-871,007-2,Fairview Crescent Residence,2653,Fairview,Crescent,2653 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{BE2F600B-4540-4D76-92BD-010E8ECE2B21}
+AD-872,007-3,Fairview Crescent Residence,2654,Fairview,Crescent,2654 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{47D4C7DC-991A-4B6A-A2F0-764947C0C69D}
+AD-873,007-2,Fairview Crescent Residence,2655,Fairview,Crescent,2655 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{51C3D0FC-3EA9-4911-886E-34E9DBE5BAD5}
+AD-874,007-3,Fairview Crescent Residence,2656,Fairview,Crescent,2656 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{CA2D44C9-3704-4139-8BC4-1D5AC15F9F23}
+AD-875,007-2,Fairview Crescent Residence,2657,Fairview,Crescent,2657 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{A7E9FA47-E94D-4C9B-A083-45725A413C87}
+AD-876,007-3,Fairview Crescent Residence,2658,Fairview,Crescent,2658 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{4B811F01-8E67-4B49-8CB3-E990B9B5C152}
+AD-877,007-2,Fairview Crescent Residence,2659,Fairview,Crescent,2659 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{D7949790-03A7-4AF5-897E-4C36B1E40429}
+AD-878,007-3,Fairview Crescent Residence,2660,Fairview,Crescent,2660 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{652666C7-31EE-4488-8E8F-A922CBC92F71}
+AD-879,007-2,Fairview Crescent Residence,2661,Fairview,Crescent,2661 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{B59C617F-37FF-43EF-8A92-4FE81A7E25E8}
+AD-880,007-3,Fairview Crescent Residence,2662,Fairview,Crescent,2662 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{A86D6A90-EA92-46E4-ADD8-3530FE1E27CB}
+AD-881,007-2,Fairview Crescent Residence,2663,Fairview,Crescent,2663 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{0165BADE-AF95-47E5-911A-4F3F852B1712}
+AD-882,007-3,Fairview Crescent Residence,2664,Fairview,Crescent,2664 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{1C3373BA-BDCC-4E46-A2BF-DF616140EE39}
+AD-883,007-2,Fairview Crescent Residence,2665,Fairview,Crescent,2665 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{FB638C9C-F080-49F3-923E-4F7498C361DE}
+AD-884,007-3,Fairview Crescent Residence,2666,Fairview,Crescent,2666 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{D2F06111-6184-4925-9FB9-ED7287FBF5AC}
+AD-885,007-2,Fairview Crescent Residence,2667,Fairview,Crescent,2667 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{45F1D585-E21D-4A98-BFA5-6F810D7F61ED}
+AD-886,007-3,Fairview Crescent Residence,2668,Fairview,Crescent,2668 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{622E868B-F0C5-4030-AAAC-194DF357D183}
+AD-887,007-2,Fairview Crescent Residence,2669,Fairview,Crescent,2669 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{1324C009-6ECD-4739-8C27-53CA7CCA8B05}
+AD-888,007-3,Fairview Crescent Residence,2670,Fairview,Crescent,2670 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{6ED2859C-CD73-4349-99ED-9F074C41C8A4}
+AD-897,007-3,Fairview Crescent Residence,2678,Fairview,Crescent,2678 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{426B51C9-8F29-4610-A31E-0A437F86A6A3}
+AD-889,007-2,Fairview Crescent Residence,2671,Fairview,Crescent,2671 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{A21C068A-A8B1-4211-80E9-689AEADC5CEF}
+AD-890,007-3,Fairview Crescent Residence,2672,Fairview,Crescent,2672 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{AEF9DEE3-51DC-4248-983B-2D0342B0507B}
+AD-898,007-1,Fairview Crescent Residence,2679,Fairview,Crescent,2679 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{3DA4319C-4E39-475B-8517-B15510EBD440}
+AD-899,007-3,Fairview Crescent Residence,2680,Fairview,Crescent,2680 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{5C2A0F56-3FC5-447C-812F-DE042B31315D}
+AD-900,007-1,Fairview Crescent Residence,2681,Fairview,Crescent,2681 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{5BBB86D2-EF44-40F5-90C7-3DA4548CE6A0}
+AD-901,007-3,Fairview Crescent Residence,2682,Fairview,Crescent,2682 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{A9E5AF87-5E12-4AD4-B8B2-28074A12875F}
+AD-891,007-1,Fairview Crescent Residence,2673,Fairview,Crescent,2673 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{A31C5323-9F79-4F86-806B-0E908C1715E6}
+AD-892,007-1,Fairview Crescent Residence,2673-A,Fairview,Crescent,2673-A Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{E8E669FC-5139-4B9B-A92B-9AFC51EE14DA}
+AD-893,007-3,Fairview Crescent Residence,2674,Fairview,Crescent,2674 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{81B01F9E-C660-4E5B-BFC0-3D3D810633D1}
+AD-894,007-1,Fairview Crescent Residence,2675,Fairview,Crescent,2675 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{68B643A9-9778-45C1-AD15-E2C0D4ACCE3F}
+AD-895,007-3,Fairview Crescent Residence,2676,Fairview,Crescent,2676 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{AEADCD8D-D329-43FA-B8FC-7A1997C613A6}
+AD-896,007-1,Fairview Crescent Residence,2677,Fairview,Crescent,2677 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{1F6F9BD7-F78A-48E9-9C10-CFEA82A3B577}
+AD-902,007-1,Fairview Crescent Residence,2683,Fairview,Crescent,2683 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{552632BA-E375-441B-989B-FA4098372572}
+AD-670,009-0,Acadia Park Townhouses,2621,Tennis,Cres,2621 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{DB1E78F1-748F-42DB-A430-B605D149B465}
+AD-672,009-0,Acadia Park Townhouses,2623,Tennis,Cres,2623 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{C3701ACF-5440-49CF-92ED-D49FD6283C49}
+AD-674,009-0,Acadia Park Townhouses,2625,Tennis,Cres,2625 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{A2FE3B9A-A38A-4310-9305-14D898B3ED58}
+AD-676,009-0,Acadia Park Townhouses,2627,Tennis,Cres,2627 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{F42624C7-648C-4A1C-AA2C-9C5F227D7B2D}
+AD-678,009-0,Acadia Park Townhouses,2629,Tennis,Cres,2629 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{709C098A-198B-4F9F-86D1-E3F7B3CDC5BB}
+AD-680,009-0,Acadia Park Townhouses,2631,Tennis,Cres,2631 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{86139037-5C88-4508-8802-5932A693C8D2}
+AD-682,009-0,Acadia Park Townhouses,2633,Tennis,Cres,2633 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{2380EC5C-6998-41D5-B36C-F5F439E8F580}
+AD-684,009-0,Acadia Park Townhouses,2635,Tennis,Cres,2635 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{C51888B1-E905-4733-AA1E-148A66AD5116}
+AD-686,010-0,Acadia Park Townhouses,2637,Tennis,Cres,2637 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{523E34C1-4FDE-439E-AC33-90D5FFCDD2EF}
+AD-688,010-0,Acadia Park Townhouses,2639,Tennis,Cres,2639 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{F7C6382D-6EA0-4463-9F81-F8055F47CD98}
+AD-690,010-0,Acadia Park Townhouses,2641,Tennis,Cres,2641 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{ABE105ED-D0A1-4696-8558-94DB1E081F12}
+AD-692,010-0,Acadia Park Townhouses,2643,Tennis,Cres,2643 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{6FFC7D45-C0BB-4210-B508-5DC46F8C3A7D}
+AD-694,010-0,Acadia Park Townhouses,2645,Tennis,Cres,2645 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{71C2AFAA-D72A-4BE1-BF2C-402D0AF3BD08}
+AD-696,010-0,Acadia Park Townhouses,2647,Tennis,Cres,2647 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{EA0A050C-E23B-4528-9F72-4881CC2AE9E6}
+AD-698,010-0,Acadia Park Townhouses,2649,Tennis,Cres,2649 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{28821F65-1E7E-48AB-910F-69C7F65DA700}
+AD-700,010-0,Acadia Park Townhouses,2651,Tennis,Cres,2651 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{C2282505-0953-4E6B-AF08-F9F264029E66}
+AD-702,010-0,Acadia Park Townhouses,2653,Tennis,Cres,2653 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{85948E82-97BD-4B26-AF77-CBC94C76D238}
+AD-706,010-1,Acadia Park Townhouses,2657,Tennis,Cres,2657 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{46E515BF-327D-443F-AF0C-E53F15434208}
+AD-708,010-1,Acadia Park Townhouses,2659,Tennis,Cres,2659 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{FCB590D2-FF87-4DCF-BB09-6F9A5BE807C8}
+AD-710,010-1,Acadia Park Townhouses,2661,Tennis,Cres,2661 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{EF8CAC1B-061A-414D-9837-AD22AA5C1F7B}
+AD-712,010-1,Acadia Park Townhouses,2663,Tennis,Cres,2663 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{6BD20074-E8E6-44D1-AD03-59453C7952A4}
+AD-671,010-0,Acadia Park Townhouses,2622,Tennis,Cres,2622 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{670D8524-FE5D-4DCA-9050-B73D6626557C}
+AD-673,010-0,Acadia Park Townhouses,2624,Tennis,Cres,2624 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{402DDE9F-841B-4312-8060-6564556AF952}
+AD-675,010-0,Acadia Park Townhouses,2626,Tennis,Cres,2626 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{E7DB3671-B2EF-4946-B316-F31A505418D0}
+AD-677,010-0,Acadia Park Townhouses,2628,Tennis,Cres,2628 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{DB7EEF98-A900-4B39-A942-159F6332DAC3}
+AD-679,010-0,Acadia Park Townhouses,2630,Tennis,Cres,2630 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{B5F0E302-48E2-4AEA-BB8D-45FDE28373FE}
+AD-681,010-0,Acadia Park Townhouses,2632,Tennis,Cres,2632 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{05C3920F-A886-4F26-908B-D9BE8A884CE8}
+AD-683,010-0,Acadia Park Townhouses,2634,Tennis,Cres,2634 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{66FC79B9-ECCA-4F88-B604-101EDE4F27A7}
+AD-685,010-0,Acadia Park Townhouses,2636,Tennis,Cres,2636 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{961BD1C4-7EC9-4623-9690-8A3DE64D8DB5}
+AD-687,010-0,Acadia Park Townhouses,2638,Tennis,Cres,2638 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{C059C9B9-973A-411E-8EF2-39A19153EE26}
+AD-689,010-0,Acadia Park Townhouses,2640,Tennis,Cres,2640 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{4A1D297B-6696-4E8B-A898-292FE0E71B0B}
+AD-691,010-0,Acadia Park Townhouses,2642,Tennis,Cres,2642 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{F001894B-B39A-4002-941A-465A61749360}
+AD-704,010-0,Acadia Park Townhouses,2655,Tennis,Cres,2655 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{85203914-82FC-4AD9-B5B2-6E736F5AD597}
+AD-693,010-0,Acadia Park Townhouses,2644,Tennis,Cres,2644 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{29B39AEE-26EB-4B44-9E68-A8646D76CE69}
+AD-802,014-1,Presidents Row,5515,Presidents,Row,5515 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{5E8989CD-38E9-43C7-BB2C-0B76AE3AF6E5}
+AD-803,014-2,Presidents Row,5517,Presidents,Row,5517 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{5AD60838-62B4-42F0-BC64-36B8844C716F}
+AD-804,014-2,Presidents Row,5519,Presidents,Row,5519 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{CEA851FD-43B2-47A9-95D0-C6BF9F578538}
+AD-805,014-2,Presidents Row,5521,Presidents,Row,5521 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{8922DAB0-940E-4F2E-825C-2E0EC8F4E718}
+AD-806,014-2,Presidents Row,5523,Presidents,Row,5523 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{D7382B6E-7665-432D-92B2-ECA2E4DAC0AE}
+AD-807,014-2,Presidents Row,5525,Presidents,Row,5525 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{DF3917A6-2B3C-466B-8F41-3737B826F9C4}
+AD-808,014-2,Presidents Row,5527,Presidents,Row,5527 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{F011D22A-DED1-4853-B52D-1B519B67FEBB}
+AD-809,014-2,Presidents Row,5529,Presidents,Row,5529 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{ED1B2ED1-1E89-4A56-A49D-FAC4EAD86C09}
+AD-810,014-3,Presidents Row,5603,Presidents,Row,5603 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{226D8A04-FD51-431D-8FAE-54AF340BE8C3}
+AD-811,014-3,Presidents Row,5605,Presidents,Row,5605 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{C07A01D2-FE21-49F5-8E5F-65700F897FA1}
+AD-812,014-3,Presidents Row,5607,Presidents,Row,5607 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{9F7C2C8A-DB93-407F-BA5A-6633268D2E9A}
+AD-813,014-3,Presidents Row,5609,Presidents,Row,5609 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{E55C2A4B-2921-4906-A3D7-3B538B547065}
+AD-814,014-3,Presidents Row,5611,Presidents,Row,5611 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{E3B8115A-B92F-4FC8-9BE3-7FBE2165825A}
+AD-815,014-3,Presidents Row,5615,Presidents,Row,5615 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{2F1C2A1D-5C4E-4F3F-BB41-CE0C68255754}
+AD-816,014-3,Presidents Row,5617,Presidents,Row,5617 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{CAF6D2D6-140E-4EF7-AB2E-096031E379FC}
+AD-738,009-2,Acadia Park Townhouses,5501,Montgomery,Place,5501 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{F7989C22-C99E-49BE-B4B1-6D358B6B5F67}
+AD-739,009-2,Acadia Park Townhouses,5503,Montgomery,Place,5503 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{72A06226-5A2D-4753-8CE2-FCCB912C70D0}
+AD-742,009-2,Acadia Park Townhouses,5509,Montgomery,Place,5509 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{C8BB53BA-FAB5-4041-A4BA-9B768F2D26A1}
+AD-744,009-2,Acadia Park Townhouses,5601,Montgomery,Place,5601 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{CCBA58DD-3B05-4CE7-B48E-9403AD21CB6D}
+AD-746,009-2,Acadia Park Townhouses,5603,Montgomery,Place,5603 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{DFB791B7-3C81-49DD-8397-76521594FDF4}
+AD-748,009-2,Acadia Park Townhouses,5605,Montgomery,Place,5605 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{CD341928-545E-4BED-B3AF-19F77214F3E9}
+AD-750,009-2,Acadia Park Townhouses,5607,Montgomery,Place,5607 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{1AA04483-CFC0-4BC3-BE49-BD9BBA9D982C}
+AD-740,009-2,Acadia Park Townhouses,5505,Montgomery,Place,5505 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{EDC415B2-E858-46F0-9D77-6A2A3F0AB53B}
+AD-752,009-2,Acadia Park Townhouses,5609,Montgomery,Place,5609 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{A208D9E9-2024-4029-9FE6-F35E4086A79E}
+AD-754,009-2,Acadia Park Townhouses,5611,Montgomery,Place,5611 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{D8603551-5BE8-4D92-994F-526623CF0CD4}
+AD-756,009-2,Acadia Park Townhouses,5613,Montgomery,Place,5613 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{2588FC6A-E812-4D4F-8DAD-38A3C265DD27}
+AD-758,009-2,Acadia Park Townhouses,5615,Montgomery,Place,5615 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{3FE0F132-B5BF-4D56-8A23-0E6783B1900B}
+AD-760,009-2,Acadia Park Townhouses,5617,Montgomery,Place,5617 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{B4B1F3BE-2ECF-4936-9787-43CB7098DAFF}
+AD-762,009-2,Acadia Park Townhouses,5619,Montgomery,Place,5619 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{8F563974-3334-4758-A2A9-08DD013CE0A5}
+AD-764,009-2,Acadia Park Townhouses,5621,Montgomery,Place,5621 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{40407001-FA6B-4265-AEBB-E066AA3E2FA4}
+AD-766,009-2,Acadia Park Townhouses,5623,Montgomery,Place,5623 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{A2F2ACE7-581B-4293-9914-A0D5D3C17A60}
+AD-768,009-2,Acadia Park Townhouses,5625,Montgomery,Place,5625 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{ECA5F856-F2F1-4812-913C-46D1F75C0FA8}
+AD-741,009-2,Acadia Park Townhouses,5507,Montgomery,Place,5507 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{3FDF936A-8AA6-4454-9526-CCF0F73001BD}
+AD-770,009-2,Acadia Park Townhouses,5627,Montgomery,Place,5627 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{1B8D21D8-2D99-4EEF-BDA9-FF27290882AD}
+AD-772,009-2,Acadia Park Townhouses,5629,Montgomery,Place,5629 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{931D1475-1DA8-4A04-8194-8AFD05B61219}
+AD-774,009-2,Acadia Park Townhouses,5631,Montgomery,Place,5631 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{9F9A136A-F517-4FD2-9F6C-8A9304673044}
+AD-776,009-2,Acadia Park Townhouses,5633,Montgomery,Place,5633 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{49558E41-AAA6-49C1-8F9A-62D81E176E79}
+AD-778,009-2,Acadia Park Townhouses,5635,Montgomery,Place,5635 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{6F3D17EA-7708-43FA-8343-E6AF4335971B}
+AD-780,009-2,Acadia Park Townhouses,5637,Montgomery,Place,5637 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{23D446BD-95D1-4E43-A899-994F90F2A41C}
+AD-782,009-2,Acadia Park Townhouses,5639,Montgomery,Place,5639 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{A08E845C-F908-4E7E-B6FC-01299BED277C}
+AD-784,009-2,Acadia Park Townhouses,5641,Montgomery,Place,5641 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{67495017-47C8-471C-8472-0E56E5F7C386}
+AD-786,009-2,Acadia Park Townhouses,5643,Montgomery,Place,5643 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{7A29B0A0-E590-4DFF-BF02-BC2BEAB2D9A7}
+AD-743,009-1,Acadia Park Townhouses,5600,Montgomery,Place,5600 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{D9855441-A3A9-4D3F-BE2C-D76453405A6E}
+AD-745,009-1,Acadia Park Townhouses,5602,Montgomery,Place,5602 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{16948EB0-5F56-404D-890A-4E77E8751B4F}
+AD-747,009-1,Acadia Park Townhouses,5604,Montgomery,Place,5604 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{796862D4-7433-4685-A7A9-06FABF3AE545}
+AD-749,009-1,Acadia Park Townhouses,5606,Montgomery,Place,5606 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{E41E0BB6-9E2A-4DFC-A975-85414E38EC2B}
+AD-751,009-1,Acadia Park Townhouses,5608,Montgomery,Place,5608 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{7F15E0A3-0F06-45FB-B1D7-8668A51B637A}
+AD-753,009-1,Acadia Park Townhouses,5610,Montgomery,Place,5610 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{26B29DC3-F6F3-47AD-A7CE-186D91EBAF88}
+AD-755,009-1,Acadia Park Townhouses,5612,Montgomery,Place,5612 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{2E4134CE-C82F-4E93-AE8A-B1686F6970CE}
+AD-695,010-0,Acadia Park Townhouses,2646,Tennis,Cres,2646 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{D01C75DE-9D42-4B62-ACC7-D549484FC621}
+AD-697,010-0,Acadia Park Townhouses,2648,Tennis,Cres,2648 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{98AC53FA-1172-4DBD-9E84-0A44FC19E8AC}
+AD-699,010-0,Acadia Park Townhouses,2650,Tennis,Cres,2650 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{329133AB-9B14-403D-8A6A-E42697AF4042}
+AD-701,010-0,Acadia Park Townhouses,2652,Tennis,Cres,2652 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{373C9B12-DEEA-4354-8D8A-4FBF39B0441C}
+AD-703,010-0,Acadia Park Townhouses,2654,Tennis,Cres,2654 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{63041324-6B93-443C-A22A-04488FEB4D89}
+AD-705,010-0,Acadia Park Townhouses,2656,Tennis,Cres,2656 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{619516CB-C3F4-4076-A27A-1F8A5DA7D745}
+AD-707,010-0,Acadia Park Townhouses,2658,Tennis,Cres,2658 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{695CED61-B050-413B-8307-4EC9CE4865FC}
+AD-709,010-0,Acadia Park Townhouses,2660,Tennis,Cres,2660 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{EB96C1AB-0A22-4575-9713-C669F74C7ADD}
+AD-711,010-0,Acadia Park Townhouses,2662,Tennis,Cres,2662 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{AF0B3D4B-EE3F-43D9-A3BF-2BD358EAAD4B}
+AD-713,010-0,Acadia Park Townhouses,2664,Tennis,Cres,2664 Tennis Cres,Vancouver,BC,V6T 2E1,Academic,Housing - Stude,1,,Current,{D78D00EA-0D9B-4B38-B859-FD96284A5B87}
+AD-714,009-1,Acadia Park Townhouses,2500,Pearkes,Lane,2500 Pearkes Lane,Vancouver,BC,V6T 2C4,Academic,Housing - Stude,1,,Current,{0A60F093-B52D-4E42-A442-C6A48A591B7C}
+AD-716,009-1,Acadia Park Townhouses,2502,Pearkes,Lane,2502 Pearkes Lane,Vancouver,BC,V6T 2C4,Academic,Housing - Stude,1,,Current,{F1D459BB-90CF-4959-911C-D68C983ECDD1}
+AD-718,009-1,Acadia Park Townhouses,2504,Pearkes,Lane,2504 Pearkes Lane,Vancouver,BC,V6T 2C4,Academic,Housing - Stude,1,,Current,{4BD406E6-16CF-4D90-8B4B-B527889B7755}
+AD-720,009-1,Acadia Park Townhouses,2506,Pearkes,Lane,2506 Pearkes Lane,Vancouver,BC,V6T 2C4,Academic,Housing - Stude,1,,Current,{E21666B0-1B67-4F21-BAEA-8E0594D6E0AF}
+AD-722,009-1,Acadia Park Townhouses,2508,Pearkes,Lane,2508 Pearkes Lane,Vancouver,BC,V6T 2C4,Academic,Housing - Stude,1,,Current,{E5AC4A8E-DA95-45D6-8103-FE5D4C93D2DA}
+AD-715,009-1,Acadia Park Townhouses,2501,Pearkes,Lane,2501 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{5460DF60-1243-47DB-ACDF-B26BFFAAE966}
+AD-717,009-1,Acadia Park Townhouses,2503,Pearkes,Lane,2503 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{6A03BD8A-0E58-4BBD-B294-B5F00CEC127B}
+AD-719,009-1,Acadia Park Townhouses,2505,Pearkes,Lane,2505 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{F1C71DB6-7E0A-46D1-A9FD-A0DFE83BB76E}
+AD-721,009-1,Acadia Park Townhouses,2507,Pearkes,Lane,2507 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{A55E5FAF-E38C-4025-818D-C0C12273776B}
+AD-723,009-1,Acadia Park Townhouses,2509,Pearkes,Lane,2509 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{3D492F3C-CA27-424A-816C-A12CF84B6DFE}
+AD-724,009-1,Acadia Park Townhouses,2511,Pearkes,Lane,2511 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{2D35FBC1-A0D3-47CC-B836-5C84F7661F4B}
+AD-725,009-1,Acadia Park Townhouses,2513,Pearkes,Lane,2513 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{2D34B24E-87CD-43ED-80F6-397D778EB99D}
+AD-726,009-1,Acadia Park Townhouses,2515,Pearkes,Lane,2515 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{9AD0196E-E835-4686-BD3A-1D0C5AF623C1}
+AD-727,009-1,Acadia Park Townhouses,2517,Pearkes,Lane,2517 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{826C498A-0BF9-41CF-AAA9-A3D547A39467}
+AD-728,009-1,Acadia Park Townhouses,2519,Pearkes,Lane,2519 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{0C9A05ED-5022-44EC-8A12-20B37BACB653}
+AD-729,009-1,Acadia Park Townhouses,2521,Pearkes,Lane,2521 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{3243AB21-0A66-4240-A890-9809996FC92A}
+AD-732,009-1,Acadia Park Townhouses,2527,Pearkes,Lane,2527 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{C1B603A7-947B-4A0A-B38D-29B51F9B9621}
+AD-730,009-1,Acadia Park Townhouses,2523,Pearkes,Lane,2523 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{F4B62431-3764-4892-A052-C91E918C5032}
+AD-731,009-1,Acadia Park Townhouses,2525,Pearkes,Lane,2525 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{8A1D8F0A-657E-4C96-B264-C9B3D90A47BE}
+AD-787,010-0,Acadia Park Townhouses,5501,Fairview,Place,5501 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stude,1,,Current,{9AEB901D-8BA4-4595-8D15-E1AC6DF81912}
+AD-788,010-0,Acadia Park Townhouses,5503,Fairview,Place,5503 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stude,1,,Current,{5B5AE794-535C-46C6-B322-E10400ECA2BE}
+AD-789,010-0,Acadia Park Townhouses,5505,Fairview,Place,5505 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stude,1,,Current,{7FD3A8C1-CDE1-42F2-941B-886BA78F1D10}
+AD-790,010-0,Acadia Park Townhouses,5601,Fairview,Place,5601 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stude,1,,Current,{DBAE1BAA-AFAC-4671-B2D7-8E6D05A2252A}
+AD-791,010-0,Acadia Park Townhouses,5603,Fairview,Place,5603 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stude,1,,Current,{DF350DD8-265A-4050-A441-FDEBF0185C3C}
+AD-792,010-0,Acadia Park Townhouses,5605,Fairview,Place,5605 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stude,1,,Current,{1086D9B4-1840-433F-BBBF-858B26B77700}
+AD-793,010-0,Acadia Park Townhouses,5607,Fairview,Place,5607 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stude,1,,Current,{D7CF5A09-4FE2-4F60-8162-FBF754062EAF}
+AD-794,010-0,Acadia Park Townhouses,5609,Fairview,Place,5609 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stude,1,,Current,{5A4F840F-6154-43A8-8FE0-540095850522}
+AD-795,010-0,Acadia Park Townhouses,5611,Fairview,Place,5611 Fairview Place,Vancouver,BC,V6T 2E2,Academic,Housing - Stude,1,,Current,{5B984DB2-1705-4BD3-B7A0-F7E2FDD496F3}
+AD-796,014-1,Presidents Row,5501,Presidents,Row,5501 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{88CA66B0-F469-4E4E-B051-7EE786CF7286}
+AD-797,014-1,Presidents Row,5503,Presidents,Row,5503 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{763164CF-1BE4-4BF4-809F-57FB37EA62E5}
+AD-798,014-1,Presidents Row,5505,Presidents,Row,5505 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{E21A68C7-98CA-4C45-906F-3B4C6BC382CD}
+AD-799,014-1,Presidents Row,5507,Presidents,Row,5507 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{740296FA-4E78-4CD8-916F-00FCA89D9484}
+AD-800,014-1,Presidents Row,5509,Presidents,Row,5509 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{3CD65792-7F43-412C-86F0-C7707B580B57}
+AD-801,014-1,Presidents Row,5511,Presidents,Row,5511 Presidents Row,Vancouver,BC,V6T 1L5,Academic,Housing - Stude,1,,Current,{0F0F5A2D-D0DF-4D6E-B262-343D90ED4928}
+AD-583,009-0,Acadia Park Townhouses,2606,Melfa,Lane,2606 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{41D6FBAE-D291-4F47-8B40-BEC8A338FF7A}
+AD-585,009-0,Acadia Park Townhouses,2608,Melfa,Lane,2608 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{1A59AF26-DDA9-4A23-896B-932FDCEAA999}
+AD-587,009-0,Acadia Park Townhouses,2610,Melfa,Lane,2610 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{69EAA5A8-C845-460C-BE4E-48149D6C9EEB}
+AD-589,010-0,Acadia Park Townhouses,2612,Melfa,Lane,2612 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{82A991D1-94D0-4B98-A546-EF1499026D1F}
+AD-591,010-0,Acadia Park Townhouses,2614,Melfa,Lane,2614 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{B19D9D43-0879-4CEC-9E7E-918BF876F120}
+AD-593,010-0,Acadia Park Townhouses,2616,Melfa,Lane,2616 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{69050B3B-AD29-40C8-AD4B-87CBEF06967B}
+AD-595,010-0,Acadia Park Townhouses,2618,Melfa,Lane,2618 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{2E4F2650-750C-4A1C-B0CC-ABE472D8672E}
+AD-582,010-0,Acadia Park Townhouses,2605,Melfa,Lane,2605 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{33B8CBD2-601A-4731-9F1B-BF20EC26F822}
+AD-584,010-0,Acadia Park Townhouses,2607,Melfa,Lane,2607 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{06DA846A-305D-40F7-99BA-F13355D432C2}
+AD-586,010-0,Acadia Park Townhouses,2609,Melfa,Lane,2609 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{B41A782C-C72F-4F76-BEAF-460EF677B0BD}
+AD-588,010-0,Acadia Park Townhouses,2611,Melfa,Lane,2611 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{1511C05A-1817-4B83-BBA9-E0C0B123FC35}
+AD-590,010-0,Acadia Park Townhouses,2613,Melfa,Lane,2613 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{2EBD92D1-8CB2-44FE-8403-0BB37AA76EE9}
+AD-592,010-0,Acadia Park Townhouses,2615,Melfa,Lane,2615 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{0A6542FA-3E4A-42AF-8E56-FEE79DDD163C}
+AD-594,010-0,Acadia Park Townhouses,2617,Melfa,Lane,2617 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{A2D88D83-64A9-4DBF-9221-FF6FBD0F6F19}
+AD-596,010-0,Acadia Park Townhouses,2619,Melfa,Lane,2619 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{20782514-AC03-45BE-A914-710EDAC7E4A8}
+AD-598,010-0,Acadia Park Townhouses,2621,Melfa,Lane,2621 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{D38CEB25-3549-4A79-BF59-D54AAA2F80C4}
+AD-600,010-0,Acadia Park Townhouses,2623,Melfa,Lane,2623 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{38403E3F-EC5C-4555-92CA-0A549F9E59A4}
+AD-602,010-0,Acadia Park Townhouses,2625,Melfa,Lane,2625 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{431E7ACD-9618-4A59-8692-C632411BF367}
+AD-604,010-0,Acadia Park Townhouses,2627,Melfa,Lane,2627 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{A1A837CE-0F19-4D2A-B2BF-8E94E519BFB3}
+AD-606,010-0,Acadia Park Townhouses,2629,Melfa,Lane,2629 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{6B3101AA-D6E3-42A2-8864-65A83CCB5EE8}
+AD-608,010-0,Acadia Park Townhouses,2631,Melfa,Lane,2631 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{5EF8B61A-D996-4162-A986-9AB26F5F605D}
+AD-610,010-0,Acadia Park Townhouses,2633,Melfa,Lane,2633 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{8E0DD240-D4A0-4F13-A6CD-CFDF444A1EFB}
+AD-612,010-0,Acadia Park Townhouses,2635,Melfa,Lane,2635 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{CF227F9F-A52F-4D86-BE28-6B3839225648}
+AD-614,010-0,Acadia Park Townhouses,2637,Melfa,Lane,2637 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{FA736B2B-8F62-43E5-84FD-25C1F503A051}
+AD-616,010-0,Acadia Park Townhouses,2639,Melfa,Lane,2639 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{013531D4-77A3-46F0-9A38-BB6D65D8DDD0}
+AD-597,010-0,Acadia Park Townhouses,2620,Melfa,Lane,2620 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{C3A50401-7831-48C1-B66E-CC3241217F71}
+AD-599,010-0,Acadia Park Townhouses,2622,Melfa,Lane,2622 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{8E730003-7721-498C-A926-F6C74E59575F}
+AD-601,010-0,Acadia Park Townhouses,2624,Melfa,Lane,2624 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{6EC0312F-3207-470C-8318-45DD91E4D870}
+AD-603,010-0,Acadia Park Townhouses,2626,Melfa,Lane,2626 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{A4990327-EC2D-4452-B86B-3AA86ACD25DD}
+AD-605,010-0,Acadia Park Townhouses,2628,Melfa,Lane,2628 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{725AA70A-0E8D-492A-8F16-DF9A0887DCB2}
+AD-607,010-0,Acadia Park Townhouses,2630,Melfa,Lane,2630 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{E9E7AE7E-22CE-4604-BD55-3688170894E2}
+AD-609,010-0,Acadia Park Townhouses,2632,Melfa,Lane,2632 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{96B589F7-12D8-4DE5-879B-D6AFC1F843C0}
+AD-611,010-0,Acadia Park Townhouses,2634,Melfa,Lane,2634 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{B38A00C8-0D5C-40EB-85CB-1F40DCA6357A}
+AD-613,010-0,Acadia Park Townhouses,2636,Melfa,Lane,2636 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{AD70A1C1-A3A3-4550-B0D7-CEF6BEBCD956}
 AD-1020,,Focal (Site D) - Retail,6123,University,Boulevard,6123 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,UC,{E3EF7081-34BD-4AF2-9981-F815DCA22E48}
 AD-1019,,Focal (Site D) - Retail,6117,University,Boulevard,6117 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,UC,{D5D8EEA3-065D-4171-A0A0-EB519004945E}
 AD-1018,,Focal (Site D) - Retail,6113,University,Boulevard,6113 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,UC,{85E602CB-6CBA-4C92-B1A4-0CF71D952389}
@@ -1005,7 +896,6 @@ AD-1029,215,Central Retail,6045,University,Boulevard,6045 University Boulevard,V
 AD-1030,215,Central Retail,6055,University,Boulevard,6055 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Current,{831BFF57-9FBD-4B83-BBE0-DB95B38167BB}
 AD-1031,215,Central Retail,6065,University,Boulevard,6065 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Current,{7C89FF4E-DDEB-46AE-959C-3D2A8D90635E}
 AD-1025,215,Central Retail,6001,University,Boulevard,6001 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Current,{D81FF12F-7DAB-4018-9EFC-7D6B96154E22}
-AD-0,114,Brock Commons - Tallwood House,6088,Walter Gage,Road,6088 Walter Gage Road,Vancouver,BC,V6T 1Z1,Academic,Housing - Stud,306,,Current,{1E2ACA34-70CE-44EA-81BE-E4CCD8A00592}
 AD-4,215,Central (Site B),6015,University,Boulevard,6015 University Boulevard,Vancouver,BC,,University Blvd,Housing,98,,Current,{874E8AAE-7DEA-4F0E-868E-9C0865A6A572}
 AD-50,691,Village Square - Retail,5958,Webber,Lane,5958 Webber Lane,Vancouver,BC,,Wesbrook Place,Commercial,0,,Current,{27509994-9369-413A-8C24-E3E17B788CE6}
 AD-307,435,National Soccer Development Centre,3065,Wesbrook,Mall,3065 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{44926F0E-252E-45D1-9955-6889060E7A2E}
@@ -1019,6 +909,115 @@ AD-1015,514,Indian Residential School History and Dialogue Centre,1985,Learners'
 AD-35,598,Binning Tower,3355,Binning,Road,3355 Binning Road,Vancouver,BC,V6S 0J1,Wesbrook Place,Housing,217,,Current,{9B11FD1A-6F2D-42E9-B4E1-B157BF39B339}
 AD-232,589-1,The Laureates - High Rise,5628,Birney,Avenue,5628 Birney Avenue,Vancouver,BC,V6S 0H7,Wesbrook Place,Housing,161,,Current,{9F8999EC-7985-42DE-A6D5-4290E039236E}
 AD-233,589-2,The Laureates - Low Rise,5638,Birney,Avenue,5638 Birney Avenue,Vancouver,BC,V6S 0H8,Wesbrook Place,Housing - unit,53,,Current,{F0151C57-0DBD-4604-AFC3-37379867859A}
+AD-615,010-0,Acadia Park Townhouses,2638,Melfa,Lane,2638 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{F3B67899-E109-4D4A-AE72-6A8D56E1B0B5}
+AD-617,010-0,Acadia Park Townhouses,2640,Melfa,Lane,2640 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{80569B21-5459-487A-9657-66C3ED90A888}
+AD-618,010-0,Acadia Park Townhouses,2642,Melfa,Lane,2642 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{79C23A42-77BD-43D7-9BF3-3985B1E0282E}
+AD-1008,009-1,Acadia Park Townhouses,2603,Melfa,Lane,2603 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{6CA39A0D-8B7D-48DD-8A50-081D6E0D1587}
+AD-619,009-1,Acadia Park Townhouses,5501,Yalta,Place,5501 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{D32D6E8F-71DD-48B6-8283-A06232CBEC33}
 AD-52,693,Webber House,3388,Webber,Lane,3388 Webber Lane,Vancouver,BC,,Wesbrook Place,Housing,36,,Current,{2EE880F2-9135-45DC-9B45-38E9B10DC84F}
-,,,,,,,,,,,,,,,{A7C9EA50-3777-493D-83F0-6FB93BB3849C}
-,,MacInnes Field Parkade/MacInnes Field,6131,University,Boulevard,6131 University Boulevard,,,,University Boulevard,,,Field on top of underground parkade,Future,{12DBA0B9-D51B-4745-B840-8C925F4CF379}
+AD-623,009-1,Acadia Park Townhouses,5505,Yalta,Place,5505 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{DD67118F-B156-4F12-8E22-3A1F67333EEF}
+AD-627,009-1,Acadia Park Townhouses,5601,Yalta,Place,5601 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{D7959425-345C-4728-BB30-7E5546C7326F}
+AD-629,009-1,Acadia Park Townhouses,5603,Yalta,Place,5603 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{06C10A62-D241-4D17-AB04-BE194B4E8F1C}
+AD-631,009-1,Acadia Park Townhouses,5605,Yalta,Place,5605 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{E9157ADD-ABE4-49F1-BC2E-6BBC6DEC7165}
+AD-633,009-1,Acadia Park Townhouses,5607,Yalta,Place,5607 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{EE3A0C70-36A9-4B64-BE75-3F63D30C05A6}
+AD-635,009-1,Acadia Park Townhouses,5609,Yalta,Place,5609 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{3E2DE955-462F-4D57-9638-D25AE50018A3}
+AD-637,009-1,Acadia Park Townhouses,5611,Yalta,Place,5611 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{B17758BE-4A46-4A41-9633-83F77F4DE817}
+AD-639,009-1,Acadia Park Townhouses,5613,Yalta,Place,5613 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{0A541E10-6771-4C80-B425-1CC333A1908B}
+AD-641,009-1,Acadia Park Townhouses,5615,Yalta,Place,5615 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{E526BEB3-6135-40A8-8BCF-95233A24E64E}
+AD-643,009-1,Acadia Park Townhouses,5617,Yalta,Place,5617 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{EFEBFB85-EE41-44A7-BC13-C9EF8A731AED}
+AD-645,009-1,Acadia Park Townhouses,5619,Yalta,Place,5619 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{49E50211-4209-4A4C-A68A-B74F92251A1F}
+AD-620,009-0,Acadia Park Townhouses,5502,Yalta,Place,5502 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{309A6829-A2B5-4622-9BCE-76ECD814512B}
+AD-622,009-0,Acadia Park Townhouses,5504,Yalta,Place,5504 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{4CDAE283-1BC6-4F52-91F6-71805D1FE02A}
+AD-624,009-0,Acadia Park Townhouses,5506,Yalta,Place,5506 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{076CCADD-104D-4D06-956F-CB52159403E6}
+AD-625,009-0,Acadia Park Townhouses,5508,Yalta,Place,5508 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{C1C8B6F2-CECA-4EC1-879B-FE4D1D180309}
+AD-626,009-0,Acadia Park Townhouses,5510,Yalta,Place,5510 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{2146B620-B8C8-4DF1-BCB9-8F5999BAD2F2}
+AD-621,009-1,Acadia Park Townhouses,5503,Yalta,Place,5503 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{46C28855-D5C4-4DF8-A7F2-2A02120A358E}
+AD-632,009-0,Acadia Park Townhouses,5606,Yalta,Place,5606 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{EFA5436F-BA0C-4EFF-8F1C-8DC37EA3504A}
+AD-634,009-0,Acadia Park Townhouses,5608,Yalta,Place,5608 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{F8979436-E477-495D-8E60-0450D3FB056B}
+AD-636,009-0,Acadia Park Townhouses,5610,Yalta,Place,5610 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{3E87A123-8DE4-40C5-ADD2-1B4D0D5AA479}
+AD-638,009-0,Acadia Park Townhouses,5612,Yalta,Place,5612 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{6E10305A-253D-403B-927B-ED238E42E0FE}
+AD-640,009-0,Acadia Park Townhouses,5614,Yalta,Place,5614 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{29433F8F-5ABF-4960-BF7C-81C0536E0112}
+AD-642,009-0,Acadia Park Townhouses,5616,Yalta,Place,5616 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{A5AC5855-B6F4-45CF-BE07-15F17B0AB564}
+AD-644,009-0,Acadia Park Townhouses,5618,Yalta,Place,5618 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{F76F55EA-6591-44D5-9B5B-2E4CF7F2ABF5}
+AD-628,009-0,Acadia Park Townhouses,5602,Yalta,Place,5602 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{4646583F-734D-4B67-A49D-0BAE2E7AF6B5}
+AD-654,009-0,Acadia Park Townhouses,5636,Yalta,Place,5636 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{71AEB1B4-6023-46A6-8FB5-86D749B3B93E}
+AD-656,009-0,Acadia Park Townhouses,5638,Yalta,Place,5638 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{2599F470-B2EF-4990-B40F-FA2622E0800D}
+AD-658,009-0,Acadia Park Townhouses,5640,Yalta,Place,5640 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{B4229321-75F2-423E-9E76-5E3633856E16}
+AD-660,009-0,Acadia Park Townhouses,5642,Yalta,Place,5642 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{8DF1601E-2A12-4B1C-9D9A-13E76E623F27}
+AD-662,009-1,Acadia Park Townhouses,5644,Yalta,Place,5644 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{2288731B-8245-4CDF-8361-9581323CD33E}
+AD-664,009-1,Acadia Park Townhouses,5646,Yalta,Place,5646 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{9732FF99-C07F-48A8-AAD5-AD99485C2FCC}
+AD-666,009-1,Acadia Park Townhouses,5648,Yalta,Place,5648 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{2EBDAE11-1981-41BB-8C51-607A286FF9CF}
+AD-630,009-0,Acadia Park Townhouses,5604,Yalta,Place,5604 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{0AAEBA6E-D94E-421A-9C80-868380F1EC51}
+AD-668,009-1,Acadia Park Townhouses,5650,Yalta,Place,5650 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{ECF54272-BC32-400F-BBC1-2F10AF5C4E0D}
+AD-646,009-1,Acadia Park Townhouses,5621,Yalta,Place,5621 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{40751567-B66E-426A-B157-8F5001653D07}
+AD-647,009-1,Acadia Park Townhouses,5623,Yalta,Place,5623 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{D723F88C-05DC-486F-BB7C-0A13E76B1A23}
+AD-669,009-1,Acadia Park Townhouses,5652,Yalta,Place,5652 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{FD31273F-AB71-4F94-A0E4-A34BD55557D2}
+AD-648,009-1,Acadia Park Townhouses,5625,Yalta,Place,5625 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{2BA93A64-0334-4D7D-9AE1-EC7EB0900CD3}
+AD-649,009-1,Acadia Park Townhouses,5627,Yalta,Place,5627 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{5A72D654-93C1-4874-ACBF-47D2A7BEBB09}
+AD-650,009-1,Acadia Park Townhouses,5629,Yalta,Place,5629 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{AF9187A2-F34A-48AA-8598-61220214F5F1}
+AD-651,009-1,Acadia Park Townhouses,5631,Yalta,Place,5631 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{E9C89CBF-E2EA-420F-AD79-6FECD7A05B60}
+AD-652,009-1,Acadia Park Townhouses,5633,Yalta,Place,5633 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{3AB25A44-3F1B-4E67-90F2-1D208B775522}
+AD-653,009-1,Acadia Park Townhouses,5635,Yalta,Place,5635 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{20155EDC-612B-48F9-84DD-E8B7F4A1AAFD}
+AD-655,009-1,Acadia Park Townhouses,5637,Yalta,Place,5637 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{5921A901-6E07-4EFD-9CD7-6B1C2A5006C7}
+AD-657,009-1,Acadia Park Townhouses,5639,Yalta,Place,5639 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{73679859-EB11-4735-877D-6E219764362F}
+AD-659,009-1,Acadia Park Townhouses,5641,Yalta,Place,5641 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{521F33F3-1EC6-416E-91EA-92C65E1025FE}
+AD-661,009-1,Acadia Park Townhouses,5643,Yalta,Place,5643 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{F700AA40-A88B-4E52-AEC3-0BB94F54D566}
+AD-1009,009-1,Acadia Park Townhouses,5654,Yalta,Place,5654 Yalta Place,Vancouver,BC,V6T 2C2,Academic,Housing - Stude,1,,Current,{B15AA128-C5B3-4E2A-A1E3-0BE0BC0A7FC4}
+AD-663,009-1,Acadia Park Townhouses,5645,Yalta,Place,5645 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{8046DD1E-8C25-4E4F-A535-900CBA43026E}
+AD-665,009-1,Acadia Park Townhouses,5647,Yalta,Place,5647 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{66B71C46-5EFF-4FE4-BDE5-0950EA890B68}
+AD-667,009-1,Acadia Park Townhouses,5649,Yalta,Place,5649 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{9CD507A2-ED4E-4375-8971-1CD4125D6CD2}
+AD-568,009-1,Acadia Park Townhouses,2511,Melfa,Lane,2511 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{185E2254-ED4D-481D-A63A-C21D8F0144E5}
+AD-570,009-1,Acadia Park Townhouses,2513,Melfa,Lane,2513 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{3A01BC08-754E-45F9-9737-C55494B4A1D4}
+AD-572,009-1,Acadia Park Townhouses,2515,Melfa,Lane,2515 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{F15FDC74-0484-4978-B8D7-C61D277A8D24}
+AD-574,009-1,Acadia Park Townhouses,2517,Melfa,Lane,2517 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{B0FA914D-45B9-4116-844B-52EFEB1A4AAD}
+AD-569,009-0,Acadia Park Townhouses,2512,Melfa,Lane,2512 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{3D7C0BEA-B54B-4FB5-8E31-0659EA8E5A50}
+AD-571,009-0,Acadia Park Townhouses,2514,Melfa,Lane,2514 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{A7322DC1-779A-4386-863C-37F49C04CF2B}
+AD-573,009-0,Acadia Park Townhouses,2516,Melfa,Lane,2516 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{6EAB8F03-0C89-45D5-B38B-9F13C5590EF4}
+AD-575,009-0,Acadia Park Townhouses,2518,Melfa,Lane,2518 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{E16717E5-3C73-4570-8E04-6F72AB884B4A}
+AD-576,009-0,Acadia Park Townhouses,2520,Melfa,Lane,2520 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{DB23B141-5CFE-40E0-A475-E2CC9047394D}
+AD-577,009-0,Acadia Park Townhouses,2522,Melfa,Lane,2522 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{F97A37E5-CD00-4B0E-9987-522C9F0766F0}
+AD-579,009-1,Acadia Park Townhouses,2601,Melfa,Lane,2601 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{7FE97101-4D50-446C-9391-718FE6C75119}
+AD-578,009-0,Acadia Park Townhouses,2600,Melfa,Lane,2600 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{7D54F85C-B0E2-4F17-B2A1-169631DF274D}
+AD-580,009-0,Acadia Park Townhouses,2602,Melfa,Lane,2602 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{1CEEF275-4A59-4F7F-9CF1-AFFFE5492B39}
+AD-581,009-0,Acadia Park Townhouses,2604,Melfa,Lane,2604 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{0393DC84-6B3A-423C-BD14-70D6F1DD4B97}
+AD-564,009-1,Acadia Park Townhouses,2507,Melfa,Lane,2507 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{808FA123-7C14-4196-9E02-7F0BC6FC8449}
+AD-566,009-1,Acadia Park Townhouses,2509,Melfa,Lane,2509 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{649E5410-991E-4840-AB56-79CFF16A0794}
+AD-6,451,Sopron House,2730,Acadia,Road,2730 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Housing - Stude,81,,Current,{1D5D182E-8205-4FE1-90EE-4A7AA13C11FA}
+AD-19,544,Place Vanier Residence,1935,Lower,Mall,1935 Lower Mall,Vancouver,BC,V6T 1X1,Academic,Housing - Stude,1276,,Current,{40A2B790-1CF0-4B2C-8A8C-B0D3A844E964}
+AD-21,553,Fraser Hall,2550,Wesbrook,Mall,2550 Wesbrook Mall,Vancouver,BC,V6T 1Z3,East Campus,Housing - Stude,24,,Current,{02AE6A76-41D1-4E81-8EA8-F8B87552FA3B}
+AD-54,694,MBA House - student residence,3385,Wesbrook,Mall,3385 Wesbrook Mall,Vancouver,BC,V6T 1Z4,Wesbrook Place,Housing - Stude,81,,Current,{A2CE2052-23CE-463A-8F8B-0C832F0ABB10}
+AD-68,745,Ritsumeikan-UBC House,6460,Agronomy,Road,6460 Agronomy Road,Vancouver,BC,V6T 1Z4,Academic,Housing - Stude,56,,Current,{5AA80912-1B73-41D7-906A-1533E46B8A9A}
+AD-69,771,Point Grey Apartments,2875,Osoyoos,Crescent,2875 Osoyoos Crescent,Vancouver,BC,V6T 2G3,Academic,Housing - Stude,91,,Current,{E332AE54-163B-483F-A47D-88C8E8D87A84}
+AD-83,903,Ponderosa Commons - Spruce House,2118,West,Mall,2118 West Mall,Vancouver,BC,V6T 1Z4,Academic,Housing - Stude,104,,Current,{8C343670-A56E-40B7-8AE6-C62540EBA9E0}
+AD-88,918,Panhellenic House,2770,Wesbrook,Mall,2770 Wesbrook Mall,Vancouver,BC,V6T 2B7,Academic,Housing - Stude,72,,Current,{612F67A5-B66B-48CB-A0CD-C3DCBC8645CA}
+AD-89,921,Fraternity Village,2880,Wesbrook,Mall,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3,Academic,Housing - Stude,250,,Current,{370867AF-748D-4F6A-A398-32B6DC69A0BA}
+AD-90,002-1,Acadia Park Highrise,2725,Melfa,Road,2725 Melfa Road,Vancouver,BC,V6T 1N4,Academic,Housing - Stude,101,,Current,{023D56DD-36C5-490D-9602-27C4AAB0315A}
+AD-190,450-1,Acadia House,2700,Acadia,Road,2700 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Housing - Stude,12,,Current,{ADCE0424-28B5-403D-BF61-2D4227E57BC6}
+AD-192,450-3,Acadia House,2720,Acadia,Road,2720 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Housing - Stude,12,,Current,{19C800C1-523C-428A-9715-B07AAD33C9C2}
+AD-266,770-2,Spirit Park Apartments,2715,Osoyoos,Crescent,2715 Osoyoos Crescent,Vancouver,BC,V6T 1X7,Academic,Housing - Stude,44,,Current,{FF9E1864-6BFC-40A6-9607-B3823921ADBE}
+AD-278,822-2,St. John's College,2111,Lower,Mall,2111 Lower Mall,Vancouver,BC,V6T 1Z4,Academic,Housing - Stude,171,,Current,{CBE222F2-CFE5-4CC9-A653-6F38AA14061B}
+AD-297,869-1,Walter H. Gage Residence,5959,Student Union,Boulevard,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2,Academic,Housing - Stude,366,,Current,{912F05DF-03B7-4CA6-B801-98C434A39762}
+AD-0,114,Brock Commons - Tallwood House,6088,Walter Gage,Road,6088 Walter Gage Road,Vancouver,BC,V6T 1Z1,Academic,Housing - Stude,306,,Current,{1E2ACA34-70CE-44EA-81BE-E4CCD8A00592}
+AD-5,418,Green College,6201,Cecil Green Park,Road,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,Housing - Stude,89,<Null>,Current,{AF91BDC0-CB0B-4696-AAC4-BD8F43DF0CF0}
+AD-70,783,Thunderbird Residence,6335,Thunderbird,Crescent,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9,Academic,Housing - Stude,403,,Current,{3D0C15FF-9B74-4609-B3CC-F343A7A100E0}
+AD-84,904,Ponderosa Commons - Arbutus/Maple Houses,6488,University,Boulevard,6488 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,Housing - Stude,336,,Current,{371ABDF8-B70A-4C1D-AD90-3061AB8D3051}
+AD-85,905,Ponderosa Commons - Cedar House,2075,West,Mall,2075 West Mall,Vancouver,BC,V6T 1Z2,Academic,Housing - Stude,175,,Current,{CA50748B-4BBA-404A-82FF-B6040B92A41E}
+AD-265,770-1,Spirit Park Apartments,2705,Osoyoos,Crescent,2705 Osoyoos Crescent,Vancouver,BC,V6T 1X7,Academic,Housing - Stude,13,,Current,{3362DBB1-D17D-403E-AA06-BA47A07DEF23}
+AD-267,770-3,Spirit Park Apartments,2725,Osoyoos,Crescent,2725 Osoyoos Crescent,Vancouver,BC,V6T 1X7,Academic,Housing - Stude,11,,Current,{7133A950-DFC8-4C20-BD47-748296749316}
+AD-191,450-2,Acadia House,2710,Acadia,Road,2710 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Housing - Stude,9,,Current,{FD8F5132-3A5F-49DF-A716-CF454B3554B1}
+AD-315,,Exchange Residence,5960,Student Union,Boulevard,5960 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,Housing - Stude,353,,UC,{6F20E671-860B-4E58-9A05-067552C4B49E}
+AD-172,377-3,Marine Drive Residence,2205,Lower,Mall,2205 Lower Mall,Vancouver,BC,V6T 1Z4,Academic,Housing - Stude,624,,Current,{C061ABC3-336F-4E37-98FF-B0CD21836E52}
+AD-557,009-0,Acadia Park Townhouses,2500,Melfa,Lane,2500 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{C0ABF71F-837F-4F4C-A034-4554A2DEE054}
+AD-559,009-0,Acadia Park Townhouses,2502,Melfa,Lane,2502 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{0C31C0AB-A5C4-428D-9D48-DC13C35F0174}
+AD-561,009-0,Acadia Park Townhouses,2504,Melfa,Lane,2504 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{CC4D1D71-B768-475F-BFD4-E07F6292CD42}
+AD-563,009-0,Acadia Park Townhouses,2506,Melfa,Lane,2506 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{984DE236-B47B-4091-B3B7-CCA7ADCE0FB5}
+AD-565,009-0,Acadia Park Townhouses,2508,Melfa,Lane,2508 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{58A5A9AF-9BCA-4046-8BC2-A0170ABF0AF8}
+AD-567,009-0,Acadia Park Townhouses,2510,Melfa,Lane,2510 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{714B9BF4-F71A-48BF-ACD2-A3CA2084A322}
+AD-558,009-1,Acadia Park Townhouses,2501,Melfa,Lane,2501 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{B28BF208-6C23-4ECB-8A5C-E0B14B180464}
+AD-560,009-1,Acadia Park Townhouses,2503,Melfa,Lane,2503 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{D0C4960A-E4F2-4E9D-A356-73C5D20EDC37}
+AD-562,009-1,Acadia Park Townhouses,2505,Melfa,Lane,2505 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{C462CA5F-96CF-42E7-82D0-4F088E530441}
+AD-209,515,Koerner Library,1958,Main,Mall,1958 Main Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{96C657B2-7CEF-4725-B20A-C466265A624C}
+AD-178,402,Earth and Ocean Sciences,6339,Stores,Road,6339 Stores Road,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{1387E524-5F2A-4734-B4D4-5DB167B320C1}
+AD-180,420,Cecil Green Park House,6251,Cecil Green Park,Road,6251 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{08FBC139-A7AE-4D63-A926-4362EAD9EA0F}
+AD-246,641,University Services Building,2329,West,Mall,2329 West Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{011270AD-5BA0-4161-BC17-5120F004EAA6}
+AD-169,372,FPInnovations Wood Products,2665,East,Mall,2665 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{6D006771-1D20-444E-9A8B-851181F0E2B8}

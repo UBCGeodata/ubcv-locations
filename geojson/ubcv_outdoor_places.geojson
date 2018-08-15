@@ -1,12 +1,12 @@
 {
-	"name" : "ubcv_outdoor_places",
 	"type" : "FeatureCollection",
+	"name" : "ubcv_outdoor_places",
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.26189256489089, 49.262279108192381 ]
+				"coordinates" : [ -123.26189256489089, 49.26227910819238 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -86,7 +86,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24107371874865, 49.256638274750003 ]
+				"coordinates" : [ -123.24107371874865, 49.25663827475 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -106,7 +106,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24544959607451, 49.254495192531927 ]
+				"coordinates" : [ -123.24544959607451, 49.25449519253193 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -146,7 +146,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24118773957449, 49.258899726778587 ]
+				"coordinates" : [ -123.24118773957449, 49.25889972677859 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -186,7 +186,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24025431472317, 49.259125391741421 ]
+				"coordinates" : [ -123.24025431472317, 49.25912539174142 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -206,7 +206,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24321332696705, 49.258198142930141 ]
+				"coordinates" : [ -123.24321332696705, 49.25819814293014 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -226,7 +226,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23954849978153, 49.258146062249608 ]
+				"coordinates" : [ -123.23954849978153, 49.25814606224961 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -246,7 +246,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24043450633306, 49.257893132761581 ]
+				"coordinates" : [ -123.24043450633306, 49.25789313276158 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -266,7 +266,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24149351082883, 49.257475853842557 ]
+				"coordinates" : [ -123.24149351082883, 49.25747585384256 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -346,7 +346,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24877451276569, 49.269052061155953 ]
+				"coordinates" : [ -123.24877451276569, 49.26905206115595 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -366,7 +366,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2476180730531, 49.268075993444853 ]
+				"coordinates" : [ -123.2476180730531, 49.26807599344485 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -426,7 +426,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25616637809694, 49.268883607046291 ]
+				"coordinates" : [ -123.25616637809694, 49.26888360704629 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -546,7 +546,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24726020152514, 49.254510957560967 ]
+				"coordinates" : [ -123.24726020152514, 49.25451095756097 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -586,7 +586,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.26029313742116, 49.269865011985601 ]
+				"coordinates" : [ -123.26029313742116, 49.2698650119856 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -606,7 +606,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23295464934972, 49.247599038549502 ]
+				"coordinates" : [ -123.23295464934972, 49.2475990385495 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -626,7 +626,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24687580760721, 49.263740851377662 ]
+				"coordinates" : [ -123.24687580760721, 49.26374085137766 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -666,7 +666,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24538144929912, 49.250130117789389 ]
+				"coordinates" : [ -123.24538144929912, 49.25013011778939 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -686,7 +686,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24686185448044, 49.256677645430692 ]
+				"coordinates" : [ -123.24686185448044, 49.25667764543069 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -706,7 +706,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25405946968748, 49.259502561764982 ]
+				"coordinates" : [ -123.25405946968748, 49.25950256176498 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -746,7 +746,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24800700382411, 49.253610911412082 ]
+				"coordinates" : [ -123.24800700382411, 49.25361091141208 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -826,7 +826,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.26249928128945, 49.265350977919262 ]
+				"coordinates" : [ -123.26249928128945, 49.26535097791926 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -846,7 +846,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25643811631728, 49.274029935361177 ]
+				"coordinates" : [ -123.25643811631728, 49.27402993536118 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -866,7 +866,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24522933812918, 49.270269297177101 ]
+				"coordinates" : [ -123.24522933812918, 49.2702692971771 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -886,7 +886,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2536826001751, 49.267190558454423 ]
+				"coordinates" : [ -123.2536826001751, 49.26719055845442 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -906,7 +906,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25639133509556, 49.269351658592413 ]
+				"coordinates" : [ -123.25639133509556, 49.26935165859241 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -966,7 +966,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23799605539089, 49.250767623412806 ]
+				"coordinates" : [ -123.2379960553909, 49.250767623412806 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -986,7 +986,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2341950522103, 49.250283577354161 ]
+				"coordinates" : [ -123.2341950522103, 49.25028357735416 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -1026,7 +1026,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23265297125165, 49.253640666315363 ]
+				"coordinates" : [ -123.23265297125165, 49.25364066631536 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -1046,7 +1046,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23227264347628, 49.255352909671473 ]
+				"coordinates" : [ -123.23227264347628, 49.25535290967147 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -1066,7 +1066,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24279723306515, 49.254219412662813 ]
+				"coordinates" : [ -123.24279723306515, 49.25421941266281 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -1106,7 +1106,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24787316391625, 49.259230049388002 ]
+				"coordinates" : [ -123.24787316391625, 49.259230049388 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -1146,7 +1146,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23987279691838, 49.262354998808952 ]
+				"coordinates" : [ -123.23987279691838, 49.26235499880895 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -1166,7 +1166,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23743110247848, 49.253714852314317 ]
+				"coordinates" : [ -123.23743110247848, 49.25371485231432 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -1206,7 +1206,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2413711068849, 49.258144668892612 ]
+				"coordinates" : [ -123.2413711068849, 49.25814466889261 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -1246,7 +1246,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2596814474532, 49.266385890552613 ]
+				"coordinates" : [ -123.2596814474532, 49.26638589055261 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -1266,7 +1266,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25618702289198, 49.266585485588287 ]
+				"coordinates" : [ -123.25618702289198, 49.26658548558829 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -1306,7 +1306,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25759370268381, 49.266867030424073 ]
+				"coordinates" : [ -123.2575937026838, 49.26686703042407 ]
 			},
 			"properties" : {
 				"ADD_ID" : null,
@@ -1320,6 +1320,26 @@
 				"PL_CLASS" : "garden",
 				"PL_TYPE" : "garden",
 				"GLOBALID" : "{A330ECE8-D5CC-4471-8BBA-1F567A9B15D2}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24895260816912, 49.26673403125357 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "MacInnes Field",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Future",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "field",
+				"PL_TYPE" : "field",
+				"GLOBALID" : "{347E428D-CFAC-40F3-BAF7-1E63FEBEAFFB}"
 			}
 		}
 	]
