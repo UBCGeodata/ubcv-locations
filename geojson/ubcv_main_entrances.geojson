@@ -438,6 +438,30 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.25929777005611, 49.269132614082515 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-1036",
+				"BL_ID" : "MUSM",
+				"PLACENAME" : "Museum of Anthropology",
+				"PLACENAME2" : "MOA",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : "MOA",
+				"BUILDING_SHORTCODE" : "MUSM",
+				"STATUS" : "Current",
+				"ROT" : 158.98,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "Attraction",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{79BF361B-920D-4F7B-9C56-87DBA9D4BC9F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.25472673495356, 49.2646902374931 ]
 			},
 			"properties" : {
@@ -534,6 +558,318 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.24448081609165, 49.26383295557309 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-221",
+				"BL_ID" : "HSCC",
+				"PLACENAME" : "Detwiller Pavilion",
+				"PLACENAME2" : "Detwiller",
+				"PLACENAME3" : null,
+				"PLACENAME4" : "Detwiller Pavilion",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "HSCC",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{8AB768CC-3A84-4968-B603-C243F8C67D98}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2441042975118, 49.256948394133644 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-169",
+				"BL_ID" : "FPIN",
+				"PLACENAME" : "FPInnovations",
+				"PLACENAME2" : "FP Innovations",
+				"PLACENAME3" : "Forintek",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{A1DB08DC-9D5C-48E1-84B3-8CE5B7E87F2E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25663857585978, 49.26680160632643 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-105",
+				"BL_ID" : "AUDX",
+				"PLACENAME" : "Auditorium Annexes",
+				"PLACENAME2" : "Auditorium Annexes",
+				"PLACENAME3" : "Auditorium Annex Offices A",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "AUDX",
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{29258936-7325-4B07-A4BB-16868D82D205}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.255528734938, 49.267251765015224 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-93",
+				"BL_ID" : "OADM",
+				"PLACENAME" : "Old Administration Building",
+				"PLACENAME2" : "Old Admin",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{3E30C891-C43B-4B8C-9BA3-A970CD040A2F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23302497038702, 49.252869349161976 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-37",
+				"BL_ID" : null,
+				"PLACENAME" : "Crescent West",
+				"PLACENAME2" : "Crescent West",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 106.60000000000001,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l3",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{5653C9F3-1F57-45EA-B20D-83907B049FEC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25637576296465, 49.271052017479995 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-5",
+				"BL_ID" : "GRNC",
+				"PLACENAME" : "Green College",
+				"PLACENAME2" : "Green College",
+				"PLACENAME3" : "Adminstration Building F",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 289.8,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Residence",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{694C5C69-F1EC-41D5-A120-F196691CA8BE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25704143490314, 49.268707201603405 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-166",
+				"BL_ID" : "UCLL",
+				"PLACENAME" : "Leon and Thea Koerner University Centre",
+				"PLACENAME2" : "University Centre",
+				"PLACENAME3" : null,
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : "<Null>",
+				"BUILDING_SHORTCODE" : "UCLL",
+				"STATUS" : "Current",
+				"ROT" : 28.2,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Attraction",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{B0504E93-8116-4D45-B1D7-321239AE16B2}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25075049086502, 49.26319787124163 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-161",
+				"BL_ID" : "BEBC",
+				"PLACENAME" : "Beaty Biodiversity Centre",
+				"PLACENAME2" : "Beaty",
+				"PLACENAME3" : "Beaty Biodiversity Museum",
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 28.2,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Attraction",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{34F6A841-F6D1-4F60-BBFC-0DD3D3477341}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24911353260609, 49.264769908902544 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-241",
+				"BL_ID" : "CUNN",
+				"PLACENAME" : "George Cunningham Building ",
+				"PLACENAME2" : "Cunningham",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "CUNN",
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{0CB99217-0D6E-4713-94FE-85B991EEC67E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25498879263364, 49.266704543207936 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-209",
+				"BL_ID" : "KOER",
+				"PLACENAME" : "Walter C. Koerner Library",
+				"PLACENAME2" : "Koerner Library",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 208.20000001,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l1",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{56AE3480-940B-428D-95D2-7CF6BD8A3211}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.255612909645, 49.26509469139494 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-173",
+				"BL_ID" : "OFRH",
+				"PLACENAME" : "Old Fire Hall",
+				"PLACENAME2" : "Old Fire Hall",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{84B7406F-6155-4ACD-8FBB-6B22AF046B4C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25046590078415, 49.26763755083428 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-271",
+				"BL_ID" : "SUB",
+				"PLACENAME" : "UBC Life Building (Old SUB)",
+				"PLACENAME2" : "Old SUB",
+				"PLACENAME3" : null,
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : "SUB",
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l1",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{8528597F-89C8-49AE-A3CC-EBB4873003A4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2528299730274, 49.25779912111427 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-1038",
+				"BL_ID" : "TOTM",
+				"PLACENAME" : "Totem Park Residence ",
+				"PLACENAME2" : "Totem Park Residence ",
+				"PLACENAME3" : "Totem Park Commonsblock",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 118.10000000000001,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Residence",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{CF4DB0CF-1A25-4618-A467-4D3DF75C9486}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.25883626357967, 49.26788409461132 ]
 			},
 			"properties" : {
@@ -552,6 +888,30 @@
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{F6316F47-898A-4F9E-98A9-F80E02028FA3}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25228204117957, 49.26254851689978 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-178",
+				"BL_ID" : "EOSM",
+				"PLACENAME" : "Earth and Ocean Sciences ",
+				"PLACENAME2" : "EOS",
+				"PLACENAME3" : "EOS Main",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : "EOS",
+				"BUILDING_SHORTCODE" : "EOSM",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l1",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{F353B4ED-CE04-4266-B14B-52A16FBA897E}"
 			}
 		},
 		{
@@ -2862,30 +3222,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25046590078415, 49.26763755083428 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-271",
-				"BL_ID" : "SUB",
-				"PLACENAME" : "Student Union Building (SUB)",
-				"PLACENAME2" : "Old SUB",
-				"PLACENAME3" : null,
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : "SUB",
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "l1",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{8528597F-89C8-49AE-A3CC-EBB4873003A4}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25106421090543, 49.26195702825183 ]
 			},
 			"properties" : {
@@ -3168,30 +3504,6 @@
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{54EBA6FE-9FBA-4D10-99A5-3131232B8C8D}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2528299730274, 49.25779912111427 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-223",
-				"BL_ID" : "TOTM",
-				"PLACENAME" : "Totem Park Residence ",
-				"PLACENAME2" : "Totem Park Residence ",
-				"PLACENAME3" : "Totem Park Commonsblock",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 118.10000000000001,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Residence",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{CF4DB0CF-1A25-4618-A467-4D3DF75C9486}"
 			}
 		},
 		{
@@ -3888,30 +4200,6 @@
 				"BL_CLASS" : "l3",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{BF08B56B-651D-440D-A75A-E469382B3EAF}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25929777005611, 49.269132614082515 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-228",
-				"BL_ID" : "MUSM",
-				"PLACENAME" : "Museum of Anthropology",
-				"PLACENAME2" : "MOA",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : "MOA",
-				"BUILDING_SHORTCODE" : "MUSM",
-				"STATUS" : "Current",
-				"ROT" : 158.98,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "Attraction",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{79BF361B-920D-4F7B-9C56-87DBA9D4BC9F}"
 			}
 		},
 		{
@@ -5118,30 +5406,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23302497038702, 49.252869349161976 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-37",
-				"BL_ID" : "CRSW",
-				"PLACENAME" : "Crescent West",
-				"PLACENAME2" : "Crescent West",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 106.60000000000001,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l3",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{5653C9F3-1F57-45EA-B20D-83907B049FEC}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23492940825979, 49.249491683091144 ]
 			},
 			"properties" : {
@@ -6072,270 +6336,6 @@
 				"BL_CLASS" : "l3",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{2A2CB383-3BEC-478F-8821-48D281DCBE37}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25498879263364, 49.266704543207936 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-209",
-				"BL_ID" : null,
-				"PLACENAME" : "Walter C. Koerner Library",
-				"PLACENAME2" : "Koerner Library",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 208.20000001,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "l1",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{56AE3480-940B-428D-95D2-7CF6BD8A3211}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25663857585978, 49.26680160632643 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-105",
-				"BL_ID" : "AUDX",
-				"PLACENAME" : "Auditorium Annexes",
-				"PLACENAME2" : "Auditorium Annexes",
-				"PLACENAME3" : "Auditorium Annex Offices A",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "AUDX",
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{29258936-7325-4B07-A4BB-16868D82D205}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.255612909645, 49.26509469139494 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-173",
-				"BL_ID" : "OFRH",
-				"PLACENAME" : "Old Fire Hall",
-				"PLACENAME2" : "Old Fire Hall",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{84B7406F-6155-4ACD-8FBB-6B22AF046B4C}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24911353260609, 49.264769908902544 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-241",
-				"BL_ID" : "CUNN",
-				"PLACENAME" : "George Cunningham Building ",
-				"PLACENAME2" : "Cunningham",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "CUNN",
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{0CB99217-0D6E-4713-94FE-85B991EEC67E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25075049086502, 49.26319787124163 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-161",
-				"BL_ID" : "BEBC",
-				"PLACENAME" : "Beaty Biodiversity Centre",
-				"PLACENAME2" : "Beaty",
-				"PLACENAME3" : "Beaty Biodiversity Museum",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 28.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Attraction",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{34F6A841-F6D1-4F60-BBFC-0DD3D3477341}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2441042975118, 49.256948394133644 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-169",
-				"BL_ID" : "FPIN",
-				"PLACENAME" : "FPInnovations",
-				"PLACENAME2" : "FP Innovations",
-				"PLACENAME3" : "Forintek",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{A1DB08DC-9D5C-48E1-84B3-8CE5B7E87F2E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.255528734938, 49.267251765015224 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-93",
-				"BL_ID" : "OADM",
-				"PLACENAME" : "Old Administration Building",
-				"PLACENAME2" : "Old Admin",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{3E30C891-C43B-4B8C-9BA3-A970CD040A2F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25704143490314, 49.268707201603405 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-166",
-				"BL_ID" : "UCLL",
-				"PLACENAME" : "Leon and Thea Koerner University Centre",
-				"PLACENAME2" : "University Centre",
-				"PLACENAME3" : null,
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : "<Null>",
-				"BUILDING_SHORTCODE" : "UCLL",
-				"STATUS" : "Current",
-				"ROT" : 28.2,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Attraction",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{B0504E93-8116-4D45-B1D7-321239AE16B2}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25228204117957, 49.26254851689978 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-178",
-				"BL_ID" : null,
-				"PLACENAME" : "Earth and Ocean Sciences ",
-				"PLACENAME2" : "EOS",
-				"PLACENAME3" : "EOS Main",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : "EOS",
-				"BUILDING_SHORTCODE" : "EOSM",
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l1",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{F353B4ED-CE04-4266-B14B-52A16FBA897E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25637576296465, 49.271052017479995 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-5",
-				"BL_ID" : "GRNC",
-				"PLACENAME" : "Green College",
-				"PLACENAME2" : "Green College",
-				"PLACENAME3" : "Adminstration Building F",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 289.8,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Residence",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{694C5C69-F1EC-41D5-A120-F196691CA8BE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24448081609165, 49.26383295557309 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-221",
-				"BL_ID" : "HSCC",
-				"PLACENAME" : "Detwiller Pavilion",
-				"PLACENAME2" : "Detwiller",
-				"PLACENAME3" : null,
-				"PLACENAME4" : "Detwiller Pavilion",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "HSCC",
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{8AB768CC-3A84-4968-B603-C243F8C67D98}"
 			}
 		}
 	]
