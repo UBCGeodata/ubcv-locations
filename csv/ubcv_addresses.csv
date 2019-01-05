@@ -501,7 +501,6 @@ AD-21,553,Fraser Hall,2550,Wesbrook,Mall,2550 Wesbrook Mall,Vancouver,BC,V6T 1Z3
 AD-26,584,Spirit,3478,Wesbrook,Mall,3478 Wesbrook Mall,Vancouver,BC,V6S 0B6,Wesbrook Place,Housing,62,,Current,{60B8C657-61B0-465D-8858-711A8D9D58A8}
 AD-27,586,Larkspur House,3428,Wesbrook,Mall,3428 Wesbrook Mall,Vancouver,BC,V6S 0G9,Wesbrook Place,Housing,46,,Current,{EA7D723F-0D77-46AC-B97C-F6A38A9698EA}
 AD-28,587,Keenleyside,5788,Birney,Avenue,5788 Birney Avenue,Vancouver,BC,V6S 0A2,Wesbrook Place,Housing,72,,Current,{6D728DF7-44FB-4DE8-AAE1-507D33996266}
-AD-31,590,University Hill Secondary School,3228,Ross,Drive,3228 Ross Drive,Vancouver,BC,V6S 0C6,Wesbrook Place,Non-UBC,0,,Current,{D10DA0C6-E13F-4865-BCF3-E61B01BC9503}
 AD-32,594,The Wesbrook,5838,Berton,Avenue,5838 Berton Avenue,Vancouver,BC,V6S 0A5,Wesbrook Place,Housing,69,,Current,{D30D8B17-1112-4C1F-81AC-F0DFA237E224}
 AD-1039,605,Crescent West,5879,Gray,Avenue,5879 Gray Avenue,Vancouver,BC,V6S 0A9,Wesbrook Place,Housing,24,,Current,{82958268-39BA-43B8-AEC0-3767DF42C35C}
 AD-38,617,Gardenia House,6309,Larkin,Drive,6309 Larkin Drive,Vancouver,BC,V6T 0C2,Hawthorn,Housing,60,,Current,{AC5EA528-EE78-4E6B-982E-801E0DFE6A84}
@@ -1027,3 +1026,5 @@ AD-14,506-1,The Stratford,5657,Hampton,Place,5657 Hampton Place,Vancouver,BC,V6T
 AD-13,506-2,Wyndham Hall,5683,Hampton,Place,5683 Hampton Place,Vancouver,BC,V6T 2H3,Hampton Place,Housing,55,,Current,{4A529FC0-1F53-4C50-9F54-159BE42AA6BA}
 AD-276,595,Sage,5782,Berton,Avenue,5782 Berton Avenue,Vancouver,BC,V6S 0C1,Wesbrook Place,Housing,115,,Current,{D6AF6B6F-03C8-453F-BF8C-F92135F0737C}
 AD-33,596,Academy,5728,Berton,Avenue,5728 Berton Avenue,Vancouver,BC,V6S 0E5,Wesbrook Place,Housing,162,,Current,{83AC8322-ECCE-4EFB-9FCF-796220631740}
+AD-31,590,University Hill Secondary School,3228,Ross,Drive,3228 Ross Drive,Vancouver,BC,V6S 0C6,Wesbrook Place,Non-UBC,0,,Current,{D10DA0C6-E13F-4865-BCF3-E61B01BC9503}
+,,,,,,,,,,,,,,,{3AC6C8AE-261F-41AA-A64B-D2E4B9E5FC6A}
