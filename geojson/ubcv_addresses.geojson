@@ -1356,31 +1356,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23192196731068, 49.25457112554956 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-1043",
-				"BL_ID" : null,
-				"BUILDINGNAME" : "Ivy on the Park - Townhouses",
-				"STREETNUM" : "5681",
-				"STREETNAME" : "Birney",
-				"STREETTYPE" : "Avenue",
-				"FULLADDRESS" : "5681 Birney Avenue",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : null,
-				"NEIGHBOURHOOD" : "Wesbrook Place",
-				"ADDRESSTYPE" : "Housing",
-				"NUM_UNITS" : 23,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "UC",
-				"GLOBALID" : "{C877D14C-F936-4290-8583-C977941B680F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.236096630541, 49.25468820020852 ]
 			},
 			"properties" : {
@@ -6256,6 +6231,81 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.23975968801287, 49.25387156359202 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-31",
+				"BL_ID" : "590",
+				"BUILDINGNAME" : "University Hill Secondary School",
+				"STREETNUM" : "3228",
+				"STREETNAME" : "Ross",
+				"STREETTYPE" : "Drive",
+				"FULLADDRESS" : "3228 Ross Drive",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6S 0C6",
+				"NEIGHBOURHOOD" : "Wesbrook Place",
+				"ADDRESSTYPE" : "Non-UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{D10DA0C6-E13F-4865-BCF3-E61B01BC9503}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23498176795293, 49.25437067828173 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"BL_ID" : null,
+				"BUILDINGNAME" : null,
+				"STREETNUM" : null,
+				"STREETNAME" : null,
+				"STREETTYPE" : null,
+				"FULLADDRESS" : null,
+				"MUNINAME" : null,
+				"PROVINCE" : null,
+				"POSTALCODE" : null,
+				"NEIGHBOURHOOD" : null,
+				"ADDRESSTYPE" : null,
+				"NUM_UNITS" : null,
+				"ADDRESSNOTES" : null,
+				"STATUS" : null,
+				"GLOBALID" : "{0AE91ED9-2EE1-4A02-B0E8-CB4452CFA789}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2318160210626, 49.25456937451699 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-1043",
+				"BL_ID" : null,
+				"BUILDINGNAME" : "Ivy on the Park - Townhouses",
+				"STREETNUM" : "5681",
+				"STREETNAME" : "Birney",
+				"STREETTYPE" : "Avenue",
+				"FULLADDRESS" : "5681 Birney Avenue",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : null,
+				"NEIGHBOURHOOD" : "Wesbrook Place",
+				"ADDRESSTYPE" : "Housing",
+				"NUM_UNITS" : 23,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "UC",
+				"GLOBALID" : "{C877D14C-F936-4290-8583-C977941B680F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.24907479845471, 49.26630769172128 ]
 			},
 			"properties" : {
@@ -6325,6 +6375,31 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "UC",
 				"GLOBALID" : "{DE1562E1-6A2F-4BB3-9A8F-7405476DB51D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23835728539355, 49.25305304067939 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"BL_ID" : null,
+				"BUILDINGNAME" : null,
+				"STREETNUM" : null,
+				"STREETNAME" : null,
+				"STREETTYPE" : null,
+				"FULLADDRESS" : null,
+				"MUNINAME" : null,
+				"PROVINCE" : null,
+				"POSTALCODE" : null,
+				"NEIGHBOURHOOD" : null,
+				"ADDRESSTYPE" : null,
+				"NUM_UNITS" : null,
+				"ADDRESSNOTES" : null,
+				"STATUS" : null,
+				"GLOBALID" : "{3AC6C8AE-261F-41AA-A64B-D2E4B9E5FC6A}"
 			}
 		},
 		{
@@ -12550,31 +12625,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{6D728DF7-44FB-4DE8-AAE1-507D33996266}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23975968801287, 49.25387156359202 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-31",
-				"BL_ID" : "590",
-				"BUILDINGNAME" : "University Hill Secondary School",
-				"STREETNUM" : "3228",
-				"STREETNAME" : "Ross",
-				"STREETTYPE" : "Drive",
-				"FULLADDRESS" : "3228 Ross Drive",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6S 0C6",
-				"NEIGHBOURHOOD" : "Wesbrook Place",
-				"ADDRESSTYPE" : "Non-UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{D10DA0C6-E13F-4865-BCF3-E61B01BC9503}"
 			}
 		},
 		{

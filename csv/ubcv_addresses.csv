@@ -53,7 +53,6 @@ AD-1033,721,The Residences at Nobel Park - lowrise,3563,Ross,Drive,3563 Ross Dri
 AD-1044,,Mundell House,6038,Birney,Avenue,6038 Birney Avenue,Vancouver,BC,,Wesbrook Place,Housing,135,,UC,{DEDC06A9-CAC2-413E-8CAD-5A8DA64AD181}
 AD-344,689,The Mews - Retail,3351,Wesbrook,Mall,3351 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{A9D13165-86B1-4346-86EF-28787F10725F}
 AD-1034,721,The Residences at Nobel Park - highrise,3533,Ross,Drive,3533 Ross Drive,Vancouver,BC,,Wesbrook Place,Housing,146,,UC,{7338FCC2-1A4B-4F6B-92C9-1ECE1EB4C4C1}
-AD-1043,,Ivy on the Park - Townhouses,5681,Birney,Avenue,5681 Birney Avenue,Vancouver,BC,,Wesbrook Place,Housing,23,,UC,{C877D14C-F936-4290-8583-C977941B680F}
 AD-348,689,The Mews - Retail,3308,Shrum,Lane,3308 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{FE6C141D-71BF-42F8-942E-1C6EDB1B6EB5}
 AD-1035,721,The Residences at Nobel Park - Townhouses,3483,Ross,Drive,3483 Ross Drive,Vancouver,BC,,Wesbrook Place,Housing,26,,UC,{DD6C284D-EFFB-49F3-89A6-FDBC91A3DAC8}
 AD-350,689,The Mews - Retail,3353,Wesbrook,Mall,3353 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{C3268CC3-0B82-4E19-9C88-464814195FF3}
@@ -249,9 +248,13 @@ AD-767,009-1,Acadia Park Townhouses,5624,Montgomery,Place,5624 Montgomery Place,
 AD-345,689,The Mews - Retail,3335,Wesbrook,Mall,3335 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{4B002EF8-EC0E-4247-AE87-7C456C2EBBC9}
 AD-1025,215,Central Retail,6001,University,Boulevard,6001 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Current,{D81FF12F-7DAB-4018-9EFC-7D6B96154E22}
 AD-355,689,The Mews - Retail,5900,Berton,Avenue,5900 Berton Avenue,Vancouver,BC,V6S 0E4,Wesbrook Place,Commercial,0,,N/A,{189C1A89-84D2-4A1F-8385-B5D205408753}
+AD-31,590,University Hill Secondary School,3228,Ross,Drive,3228 Ross Drive,Vancouver,BC,V6S 0C6,Wesbrook Place,Non-UBC,0,,Current,{D10DA0C6-E13F-4865-BCF3-E61B01BC9503}
+,,,,,,,,,,,,,,,{0AE91ED9-2EE1-4A02-B0E8-CB4452CFA789}
+AD-1043,,Ivy on the Park - Townhouses,5681,Birney,Avenue,5681 Birney Avenue,Vancouver,BC,,Wesbrook Place,Housing,23,,UC,{C877D14C-F936-4290-8583-C977941B680F}
 AD-1037,798,MacInnes Field Parkade/MacInnes Field,6131,University,Boulevard,6131 University Boulevard,Vancouver,BC,V6T 1W5,Academic,UBC,0,Field on top of underground parkade,UC,{12DBA0B9-D51B-4745-B840-8C925F4CF379}
 AD-1040,719,Georgia Point - Tower,3381,Ross,Drive,3381 Ross Drive,Vancouver,BC,,Wesbrook Place,Housing,153,,UC,{03372741-C0DC-433F-8C38-E92D0309E18F}
 AD-1041,719,Oakridge Residences,3383,Ross,Drive,3383 Ross Drive,Vancouver,BC,,Wesbrook Place,Housing,20,,UC,{DE1562E1-6A2F-4BB3-9A8F-7405476DB51D}
+,,,,,,,,,,,,,,,{3AC6C8AE-261F-41AA-A64B-D2E4B9E5FC6A}
 AD-769,009-1,Acadia Park Townhouses,5626,Montgomery,Place,5626 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{99F61CEA-218E-49F1-B7F1-21EE1454593C}
 AD-771,009-1,Acadia Park Townhouses,5628,Montgomery,Place,5628 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{8314E8D5-5677-418D-9F6E-9F6ADB93B3A6}
 AD-773,009-1,Acadia Park Townhouses,5630,Montgomery,Place,5630 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{96002AAA-5B75-4448-9759-CE6AFB8850D6}
@@ -1026,5 +1029,3 @@ AD-14,506-1,The Stratford,5657,Hampton,Place,5657 Hampton Place,Vancouver,BC,V6T
 AD-13,506-2,Wyndham Hall,5683,Hampton,Place,5683 Hampton Place,Vancouver,BC,V6T 2H3,Hampton Place,Housing,55,,Current,{4A529FC0-1F53-4C50-9F54-159BE42AA6BA}
 AD-276,595,Sage,5782,Berton,Avenue,5782 Berton Avenue,Vancouver,BC,V6S 0C1,Wesbrook Place,Housing,115,,Current,{D6AF6B6F-03C8-453F-BF8C-F92135F0737C}
 AD-33,596,Academy,5728,Berton,Avenue,5728 Berton Avenue,Vancouver,BC,V6S 0E5,Wesbrook Place,Housing,162,,Current,{83AC8322-ECCE-4EFB-9FCF-796220631740}
-AD-31,590,University Hill Secondary School,3228,Ross,Drive,3228 Ross Drive,Vancouver,BC,V6S 0C6,Wesbrook Place,Non-UBC,0,,Current,{D10DA0C6-E13F-4865-BCF3-E61B01BC9503}
-,,,,,,,,,,,,,,,{3AC6C8AE-261F-41AA-A64B-D2E4B9E5FC6A}
