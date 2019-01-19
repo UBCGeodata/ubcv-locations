@@ -1226,26 +1226,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25052141377705, 49.254012457844766 ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"PLACENAME" : "UBC Botanical Garden and Centre for Plant Research",
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"STATUS" : "Current",
-				"ACCESSIBLE" : null,
-				"PL_CLASS" : "attraction",
-				"PL_TYPE" : "garden",
-				"GLOBALID" : "{91C013DC-A152-43AC-857D-5A90B1EF7500}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.2596814474532, 49.26638589055261 ]
 			},
 			"properties" : {
@@ -1340,6 +1320,26 @@
 				"PL_CLASS" : "field",
 				"PL_TYPE" : "field",
 				"GLOBALID" : "{347E428D-CFAC-40F3-BAF7-1E63FEBEAFFB}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24953547007783, 49.25292830751684 ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"PLACENAME" : "UBC Botanical Garden and Centre for Plant Research",
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"STATUS" : "Current",
+				"ACCESSIBLE" : null,
+				"PL_CLASS" : "attraction",
+				"PL_TYPE" : "garden",
+				"GLOBALID" : "{91C013DC-A152-43AC-857D-5A90B1EF7500}"
 			}
 		}
 	]

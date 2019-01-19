@@ -46,16 +46,40 @@ AD-964,007-0,Fairview Crescent Residence,2744,Fairview,Crescent,2744 Fairview Cr
 AD-965,007-1,Fairview Crescent Residence,2745,Fairview,Crescent,2745 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{C9C1414E-7A78-45C6-AD96-2A655A6A5541}
 AD-966,007-0,Fairview Crescent Residence,2746,Fairview,Crescent,2746 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{1D5DF821-67B4-4FB9-9B7C-BCC7A70D8EBB}
 AD-967,007-1,Fairview Crescent Residence,2747,Fairview,Crescent,2747 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{E12FB2F4-4518-42F5-BB7F-17DA190C398C}
-AD-1042,,Ivy on the Park - Tower,5629,Birney,Avenue,5629 Birney Avenue,Vancouver,BC,,Wesbrook Place,Housing,159,,UC,{D13ACBE5-C684-41FF-A9B8-1578F180FE29}
 AD-55,695,Yu,5933,Birney,Avenue,5933 Birney Avenue,Vancouver,BC,V6S 0G7,Wesbrook Place,Commercial,0,,Current,{63838D46-8BB0-46A2-9B3C-2DB4768C3402}
 AD-347,689,The Mews - Retail,3340,Shrum,Lane,3340 Shrum Lane,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{6D461EFC-CD6C-4FA0-AB40-F121DBE7C96B}
-AD-1033,721,The Residences at Nobel Park - lowrise,3563,Ross,Drive,3563 Ross Drive,Vancouver,BC,,Wesbrook Place,Housing,95,,UC,{7216732C-058C-47A8-8DAD-621C0EEA3C29}
-AD-1044,,Mundell House,6038,Birney,Avenue,6038 Birney Avenue,Vancouver,BC,,Wesbrook Place,Housing,135,,UC,{DEDC06A9-CAC2-413E-8CAD-5A8DA64AD181}
 AD-344,689,The Mews - Retail,3351,Wesbrook,Mall,3351 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{A9D13165-86B1-4346-86EF-28787F10725F}
-AD-1034,721,The Residences at Nobel Park - highrise,3533,Ross,Drive,3533 Ross Drive,Vancouver,BC,,Wesbrook Place,Housing,146,,UC,{7338FCC2-1A4B-4F6B-92C9-1ECE1EB4C4C1}
+AD-293,865-2,Ponderosa Office Annex B,2029,West,Mall,2029 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{EA447A84-EF71-43F9-94D4-CC97036EAF22}
 AD-348,689,The Mews - Retail,3308,Shrum,Lane,3308 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{FE6C141D-71BF-42F8-942E-1C6EDB1B6EB5}
-AD-1035,721,The Residences at Nobel Park - Townhouses,3483,Ross,Drive,3483 Ross Drive,Vancouver,BC,,Wesbrook Place,Housing,26,,UC,{DD6C284D-EFFB-49F3-89A6-FDBC91A3DAC8}
 AD-350,689,The Mews - Retail,3353,Wesbrook,Mall,3353 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{C3268CC3-0B82-4E19-9C88-464814195FF3}
+AD-56,695,Yu,5955,Birney,Avenue,5955 Birney Avenue,Vancouver,BC,V6S 0C5,Wesbrook Place,Residential,106,,Current,{FE1F2EE7-6BFC-42D5-803C-1C85F72E75C2}
+AD-61,707,Sail 2,5981,Gray,Avenue,5981 Gray Avenue,Vancouver,BC,V6S 0G1,Wesbrook Place,Residential,77,,Current,{94671D52-513F-4AEB-BEF7-517058C5FFD5}
+AD-59,705,Sail 1,5983,Gray,Avenue,5983 Gray Avenue,Vancouver,BC,V6S 0G8,Wesbrook Place,Residential,95,,Current,{7126D29E-4B89-4712-ABA4-D1C9E6814805}
+AD-62,711,Prodigy 1,6033,Gray,Avenue,6033 Gray Avenue,Vancouver,BC,V6S 0G3,Wesbrook Place,Residential,105,,Current,{89B26C0D-807D-4EA4-83B5-52D81E79E191}
+AD-63,711,Prodigy 2,3462,Ross,Drive,3462 Ross Drive,Vancouver,BC,V6S 0H6,Wesbrook Place,Residential,83,,Current,{3FDA6C1B-3677-426E-B38D-C5050B3240A8}
+AD-51,691,Village Square,3338,Webber,Lane,3338 Webber Lane,Vancouver,BC,,Wesbrook Place,Residential,90,,Current,{50B908CC-7000-4935-BF3E-92B649960F03}
+AD-52,693,Webber House,3388,Webber,Lane,3388 Webber Lane,Vancouver,BC,,Wesbrook Place,Residential,36,,Current,{2EE880F2-9135-45DC-9B45-38E9B10DC84F}
+AD-310,718,Virtuoso,3581,Ross,Drive,3581 Ross Drive,Vancouver,BC,,Wesbrook Place,Residential,106,,UC,{BBE5025F-5D43-4C4A-AC5C-786E1E2CB3AF}
+AD-311,715,Pine House,3588,Ross,Drive,3588 Ross Drive,Vancouver,BC,,Wesbrook Place,Residential,93,,UC,{88D3CCC1-AEB3-495C-A75C-BAAA50F9F129}
+AD-312,714,Cypress House,5988,Gray,Avenue,5988 Gray Avenue,Vancouver,BC,,Wesbrook Place,Residential,82,,UC,{832D1CED-1EA5-4046-8188-620D7037DC78}
+AD-314,592,Eton - low rise and townhouses,5687,Gray,Avenue,5687 Gray Avenue,Vancouver,BC,,Wesbrook Place,Residential,80,,UC,{A651CBE0-798D-4BDC-BEC4-EEE24EAF272E}
+AD-321,839,Corus Apartments,5989,Walter Gage,Road,5989  Walter Gage Road,Vancouver,BC,V6T 0A8,Chancellor Place,Residential,51,,Current,{C6D2A5C4-0701-47B7-8F64-4371B04634BA}
+AD-322,824,Chancellor Hall Apartments,5989,Iona,Drive,5989  Iona Drive,Vancouver,BC,V6T 2L7,Chancellor Place,Residential,42,,Current,{AA51B3DF-0679-469B-B2E7-E8AFE6D82EE5}
+AD-1017,216,Focal (Site D),6111,University,Boulevard,6111 University Boulevard,Vancouver,BC,,University Blvd,Residential,90,,UC,{F747CBBD-2724-4CB8-A7C5-CD65F80B388A}
+AD-1033,721,The Residences at Nobel Park - lowrise,3563,Ross,Drive,3563 Ross Drive,Vancouver,BC,,Wesbrook Place,Residential,95,,UC,{7216732C-058C-47A8-8DAD-621C0EEA3C29}
+AD-1034,721,The Residences at Nobel Park - highrise,3533,Ross,Drive,3533 Ross Drive,Vancouver,BC,,Wesbrook Place,Residential,146,,UC,{7338FCC2-1A4B-4F6B-92C9-1ECE1EB4C4C1}
+AD-1035,721,The Residences at Nobel Park - Townhouses,3483,Ross,Drive,3483 Ross Drive,Vancouver,BC,,Wesbrook Place,Residential,26,,UC,{DD6C284D-EFFB-49F3-89A6-FDBC91A3DAC8}
+AD-1040,719,Georgia Point - Tower,3381,Ross,Drive,3381 Ross Drive,Vancouver,BC,,Wesbrook Place,Residential,153,,UC,{03372741-C0DC-433F-8C38-E92D0309E18F}
+AD-1041,719,Oakridge Residences,3383,Ross,Drive,3383 Ross Drive,Vancouver,BC,,Wesbrook Place,Residential,20,,UC,{DE1562E1-6A2F-4BB3-9A8F-7405476DB51D}
+AD-1042,,Ivy on the Park - Tower,5629,Birney,Avenue,5629 Birney Avenue,Vancouver,BC,,Wesbrook Place,Residential,159,,UC,{D13ACBE5-C684-41FF-A9B8-1578F180FE29}
+AD-1043,,Ivy on the Park - Townhouses,5681,Birney,Avenue,5681 Birney Avenue,Vancouver,BC,,Wesbrook Place,Residential,23,,UC,{C877D14C-F936-4290-8583-C977941B680F}
+AD-1044,,Mundell House,6038,Birney,Avenue,6038 Birney Avenue,Vancouver,BC,,Wesbrook Place,Residential,135,,UC,{DEDC06A9-CAC2-413E-8CAD-5A8DA64AD181}
+AD-444,620,Logan Lane,2569,East,Mall,2569 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{B01A3EBA-0F93-4DFD-8344-9C4DCD5B70D9}
+AD-445,620,Logan Lane,2571,East,Mall,2571 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{D3996FCF-89AF-4FC6-816F-627568FBD5C5}
+AD-446,620,Logan Lane,2573,East,Mall,2573 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{FE89898B-2987-449F-886B-FA770CEEA21F}
+AD-447,620,Logan Lane,2575,East,Mall,2575 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{0FACB5D9-CAE5-4962-AADF-2AFF7A14C4FC}
+AD-448,620,Logan Lane,2577,East,Mall,2577 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{EAECB2C1-19D1-4840-9B8F-D379D2A4E9B6}
+AD-449,620,Logan Lane,2579,East,Mall,2579 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{C1C2E9E7-2878-4ABB-8677-189D1003F108}
 AD-831,007-2,Fairview Crescent Residence,2614,Fairview,Crescent,2614 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{062DC793-CBF6-48FB-AA70-C4310A581095}
 AD-841,007-2,Fairview Crescent Residence,2624,Fairview,Crescent,2624 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{6D113F30-E2DB-43EA-B985-61117C1A9BA9}
 AD-842,007-2,Fairview Crescent Residence,2625,Fairview,Crescent,2625 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{87D3296B-02BE-441C-8B79-BFB2BDEDDC46}
@@ -217,7 +241,6 @@ AD-1031,215,Central Retail,6065,University,Boulevard,6065 University Boulevard,V
 AD-1013,872-2,West Coast Suites - Gage,5961,Student Union,Boulevard,5961 Student Union Boulevard,Vancouver,BC,V6T 1K2,Academic,Housing - Stude,0,,Current,{1C4E4128-E282-47A9-BAA7-BD61D1822A02}
 AD-1014,490,David Lam Management Research Centre,2015,Main,Mall,2015 Main Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{1C0A7C55-112D-41D7-BCBF-EF7F88E812D7}
 AD-1015,514,Indian Residential School History and Dialogue Centre,1985,Learners',Walk,1985 Learners' Walk,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{6B110610-D46B-45E5-9D06-526C57F380E2}
-AD-1017,216,Focal (Site D),6111,University,Boulevard,6111 University Boulevard,Vancouver,BC,,University Blvd,Housing,90,,UC,{F747CBBD-2724-4CB8-A7C5-CD65F80B388A}
 AD-1016,216,Focal (Site D) - Retail,6103,University,Boulevard,6103 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,UC,{A7E49A6C-AB5D-4EBB-813F-9BE48ACE868C}
 AD-1018,216,Focal (Site D) - Retail,6113,University,Boulevard,6113 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,UC,{85E602CB-6CBA-4C92-B1A4-0CF71D952389}
 AD-1019,216,Focal (Site D) - Retail,6117,University,Boulevard,6117 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,UC,{D5D8EEA3-065D-4171-A0A0-EB519004945E}
@@ -249,12 +272,14 @@ AD-345,689,The Mews - Retail,3335,Wesbrook,Mall,3335 Wesbrook Mall,Vancouver,BC,
 AD-1025,215,Central Retail,6001,University,Boulevard,6001 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,Current,{D81FF12F-7DAB-4018-9EFC-7D6B96154E22}
 AD-355,689,The Mews - Retail,5900,Berton,Avenue,5900 Berton Avenue,Vancouver,BC,V6S 0E4,Wesbrook Place,Commercial,0,,N/A,{189C1A89-84D2-4A1F-8385-B5D205408753}
 AD-31,590,University Hill Secondary School,3228,Ross,Drive,3228 Ross Drive,Vancouver,BC,V6S 0C6,Wesbrook Place,Non-UBC,0,,Current,{D10DA0C6-E13F-4865-BCF3-E61B01BC9503}
-,,,,,,,,,,,,,,,{0AE91ED9-2EE1-4A02-B0E8-CB4452CFA789}
-AD-1043,,Ivy on the Park - Townhouses,5681,Birney,Avenue,5681 Birney Avenue,Vancouver,BC,,Wesbrook Place,Housing,23,,UC,{C877D14C-F936-4290-8583-C977941B680F}
 AD-1037,798,MacInnes Field Parkade/MacInnes Field,6131,University,Boulevard,6131 University Boulevard,Vancouver,BC,V6T 1W5,Academic,UBC,0,Field on top of underground parkade,UC,{12DBA0B9-D51B-4745-B840-8C925F4CF379}
-AD-1040,719,Georgia Point - Tower,3381,Ross,Drive,3381 Ross Drive,Vancouver,BC,,Wesbrook Place,Housing,153,,UC,{03372741-C0DC-433F-8C38-E92D0309E18F}
-AD-1041,719,Oakridge Residences,3383,Ross,Drive,3383 Ross Drive,Vancouver,BC,,Wesbrook Place,Housing,20,,UC,{DE1562E1-6A2F-4BB3-9A8F-7405476DB51D}
-,,,,,,,,,,,,,,,{3AC6C8AE-261F-41AA-A64B-D2E4B9E5FC6A}
+AD-442,620,Logan Lane,2565,East,Mall,2565 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{02553D74-29AD-417F-A041-4784EE4A6717}
+AD-443,620,Logan Lane,2567,East,Mall,2567 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{3865EAB7-2CE2-4D55-8EB9-0E1F9D8E5C1C}
+AD-456,620,Logan Lane,6214,Logan,Lane,6214 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{522E6823-832D-4B27-BBE0-5192E6752D83}
+AD-457,620,Logan Lane,6216,Logan,Lane,6216 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{23E367B0-644C-45CF-B92F-2ECA38141C91}
+AD-279,832-1,Coast Apartments West,6093,Iona,Drive,6093 Iona Drive,Vancouver,BC,V6T 0B2,Chancellor Place,Residential,29,,Current,{422F4462-034E-42F6-82BB-6A0B28B8F1B4}
+AD-280,832-2,Coast Apartments East,6063,Iona,Drive,6063 Iona Drive,Vancouver,BC,V6T 0B1,Chancellor Place,Residential,38,,Current,{8D0E2F1C-8145-4F67-9AE5-4043042AB5A2}
+AD-4,215,Central (Site B),6015,University,Boulevard,6015 University Boulevard,Vancouver,BC,,University Blvd,Residential,98,,Current,{874E8AAE-7DEA-4F0E-868E-9C0865A6A572}
 AD-769,009-1,Acadia Park Townhouses,5626,Montgomery,Place,5626 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{99F61CEA-218E-49F1-B7F1-21EE1454593C}
 AD-771,009-1,Acadia Park Townhouses,5628,Montgomery,Place,5628 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{8314E8D5-5677-418D-9F6E-9F6ADB93B3A6}
 AD-773,009-1,Acadia Park Townhouses,5630,Montgomery,Place,5630 Montgomery Place,Vancouver,BC,V6T 2C7,Academic,Housing - Stude,1,,Current,{96002AAA-5B75-4448-9759-CE6AFB8850D6}
@@ -287,7 +312,6 @@ AD-827,007-2,Fairview Crescent Residence,2610,Fairview,Crescent,2610 Fairview Cr
 AD-832,007-2,Fairview Crescent Residence,2615,Fairview,Crescent,2615 Fairview Crescent,Vancouver,BC,V6T 2B8,Academic,Housing - Stude,1,,Current,{9CCD78BF-F728-456B-A7E1-6628EB38B400}
 AD-1023,691,Village Square - Retail,3337,Shrum,Lane,3337 Shrum Lane,Vancouver,BC,,Wesbrook Place,Commercial,0,,Current,{DB3B2E15-2325-4C66-A454-45F6509DC5B3}
 AD-1024,691,Village Square - Retail,3339,Shrum,Lane,3339 Shrum Lane,Vancouver,BC,,Wesbrook Place,Commercial,0,,Current,{0F88232B-9797-4BC5-A7B3-AA25FCD43CA0}
-AD-1011,081-2,UBC Security,2133,East,Mall,2133 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{B22B2344-2E88-49AA-8F74-FFF25B782421}
 AD-1012,473,IRC,2194,Health Sciences,Mall,2194 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{52A108E0-DB49-45AF-876D-E0D5F984DAF7}
 AD-750,009-2,Acadia Park Townhouses,5607,Montgomery,Place,5607 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{1AA04483-CFC0-4BC3-BE49-BD9BBA9D982C}
 AD-752,009-2,Acadia Park Townhouses,5609,Montgomery,Place,5609 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{A208D9E9-2024-4029-9FE6-F35E4086A79E}
@@ -301,25 +325,24 @@ AD-762,009-2,Acadia Park Townhouses,5619,Montgomery,Place,5619 Montgomery Place,
 AD-764,009-2,Acadia Park Townhouses,5621,Montgomery,Place,5621 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{40407001-FA6B-4265-AEBB-E066AA3E2FA4}
 AD-766,009-2,Acadia Park Townhouses,5623,Montgomery,Place,5623 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{A2F2ACE7-581B-4293-9914-A0D5D3C17A60}
 AD-768,009-2,Acadia Park Townhouses,5625,Montgomery,Place,5625 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{ECA5F856-F2F1-4812-913C-46D1F75C0FA8}
+AD-450,620,Logan Lane,6202,Logan,Lane,6202 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{CF17CFB8-3EB9-4440-BA57-C23DB349A654}
+AD-451,620,Logan Lane,6204,Logan,Lane,6204 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{EC449E21-6420-4EC3-ACCA-ED9FE3C05669}
+AD-452,620,Logan Lane,6206,Logan,Lane,6206 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{0A307CA9-F259-4D51-B12B-F9117CE42E18}
+AD-453,620,Logan Lane,6208,Logan,Lane,6208 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{A340D01F-55C0-4518-AAB8-B366D0F51D20}
+AD-454,620,Logan Lane,6210,Logan,Lane,6210 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{33B15FF9-C9F1-4F32-A04B-90D1E53AF2E6}
+AD-455,620,Logan Lane,6212,Logan,Lane,6212 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{C648121D-4AD6-4CE8-B660-6B530AD003AF}
+AD-439,620,Logan Lane,2559,East,Mall,2559 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{CEABF7A2-E226-4444-BBA0-FF1139C6ACC3}
+AD-440,620,Logan Lane,2561,East,Mall,2561 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{82CB02BF-2CBE-4B12-A63F-9489911FF8C1}
+AD-441,620,Logan Lane,2563,East,Mall,2563 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{3F4D4413-C542-43FB-937D-445E059AD977}
 AD-71,802,Chapel of the Epiphany,6030,Chancellor,Boulevard,6030 Chancellor Boulevard,Vancouver,BC,V6T 1X3,Chancellor Place,Non-UBC,0,,Current,{1573999A-A22F-479D-8CEF-9DA65FF77C98}
 AD-72,807,Carey Centre,5920,Iona,Drive,5920 Iona Drive,Vancouver,BC,V6T 1J6,Chancellor Place,Non-UBC,14,,Current,{C5C015D9-9D2D-48AC-B99D-2A1DF747FA49}
-AD-73,808,Esse,1863,Wesbrook,Mall,1863 Wesbrook Mall,Vancouver,BC,V6T 2J7,Chancellor Place,Housing,23,,Current,{F3681DBE-9C0B-48FE-8803-A3264271A416}
-AD-74,810,Argyll House East,5958,Iona,Drive,5958 Iona Drive,Vancouver,BC,V6T 2L2,Chancellor Place,Housing,42,,Current,{C822921B-77ED-4B80-824A-E3C14985038A}
-AD-75,818,Stirling House,6080,Iona,Drive,6080 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Housing,34,,Current,{54255DB1-8F41-4232-BC69-16512AE87AB3}
-AD-76,819,Axis,6090,Iona,Drive,6090 Iona Drive,Vancouver,BC,V6T 0B6,Chancellor Place,Housing,174,,Current,{F64E9DBA-1520-42C3-A4B3-E6336CBE9371}
-AD-77,825,Folio Apartments,5955,Iona,Drive,5955 Iona Drive,Vancouver,BC,V6T 2L4,Chancellor Place,Housing,53,,Current,{3B090024-1DAD-4D73-ADDF-F930DC8A2136}
 AD-78,828,St. Mark's College,5935,Iona,Drive,5935 Iona Drive,Vancouver,BC,V6T 1J7,Chancellor Place,Non-UBC,3,,Current,{AE40A58B-900D-4313-97AE-2143A6AF28C8}
-AD-79,830,Chancellor House Apartments,6015,Iona,Drive,6015 Iona Drive,Vancouver,BC,V6T 2J4,Chancellor Place,Housing,45,,Current,{9D586772-DEEB-49FF-B94D-CC22D4C889BE}
-AD-80,837,Argyll House West,6018,Iona,Drive,6018 Iona Drive,Vancouver,BC,V6T 2L1,Chancellor Place,Housing,42,,Current,{F60F2D94-23C8-41EF-923A-33FFF6B52300}
-AD-81,841,Westpoint,6005,Walter Gage,Road,6005 Walter Gage Road,Vancouver,BC,V6T 0B3,Chancellor Place,Housing,69,,Current,{C3F03FC6-5CFB-4D68-B9EB-3AB3393CE088}
-AD-82,841,Westpoint - Great Dane Coffee,6011,Walter Gage,Road,6011 Walter Gage Road,Vancouver,BC,V6T 0B4,Chancellor Place,Commercial,0,,Current,{A087B999-C38E-4D3D-A783-FD3860742EB1}
 AD-83,903,Ponderosa Commons - Spruce House,2118,West,Mall,2118 West Mall,Vancouver,BC,V6T 1Z4,Academic,Housing - Stude,104,,Current,{8C343670-A56E-40B7-8AE6-C62540EBA9E0}
 AD-88,918,Panhellenic House,2770,Wesbrook,Mall,2770 Wesbrook Mall,Vancouver,BC,V6T 2B7,Academic,Housing - Stude,72,,Current,{612F67A5-B66B-48CB-A0CD-C3DCBC8645CA}
 AD-89,921,Fraternity Village,2880,Wesbrook,Mall,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3,Academic,Housing - Stude,250,,Current,{370867AF-748D-4F6A-A398-32B6DC69A0BA}
 AD-90,002-1,Acadia Park Highrise,2725,Melfa,Road,2725 Melfa Road,Vancouver,BC,V6T 1N4,Academic,Housing - Stude,101,,Current,{023D56DD-36C5-490D-9602-27C4AAB0315A}
 AD-91,011,Acadia Community Centre,2707,Tennis,Crescent,2707 Tennis Crescent,Vancouver,BC,V6T 2E5,Academic,UBC,0,,Current,{0EAB0E7D-AB3E-4631-BB0B-792ED6D6DACF}
 AD-92,013,Kids Club,2855,Acadia,Road,2855 Acadia Road,Vancouver,BC,V6T 1S1,Academic,UBC,0,,Current,{85AA8ED0-864A-4A23-A576-8CA9D4C77B2E}
-AD-93,017,Old Administration Building,6328,Memorial,Road,6328 Memorial Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{4BDC45CF-2D36-4DF0-B96A-924C0DC034A0}
 AD-94,019,Bioenergy Research and Demonstration Facility,2337,Lower,Mall,2337 Lower Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{A997F7B9-9536-430F-9124-E53CB2C865F8}
 AD-95,020,The Brimacombe Building,2355,East,Mall,2355 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{AC1D7A89-2CD0-473A-BA4A-C46DFE6731BC}
 AD-96,021,Landscape Architecture Annex,2371,Main,Mall,2371 Main Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{B46B6166-7CA6-4C30-859B-5E1A4A600E04}
@@ -327,7 +350,6 @@ AD-97,022,Lower Mall Research Station,2259,Lower,Mall,2259 Lower Mall,Vancouver,
 AD-98,023,Henry Angus Building,2053,Main,Mall,2053 Main Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{EE85BB06-C146-4467-ADA2-5CD5062C914B}
 AD-99,024-3,Landscape Operations Building,2333,Lower,Mall,2333 Lower Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{57E6376C-0FCB-4B49-A195-DB920DB5E8D0}
 AD-100,024-5,Lower Mall Header House,2331,Lower,Mall,2331 Lower Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{A2317F2E-1F0F-4283-ABBC-141FF9099ADB}
-AD-101,028,Frederic Lasserre Building,6333,Memorial,Road,6333 Memorial Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{F03E1FAE-1049-4C9C-8875-08184C3DA383}
 AD-103,036,Theatre-Film Production Building,6358,University,Boulevard,6358 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{90DC7DF0-B22C-45A3-8DDE-3B8C527584CF}
 AD-104,044,Old Auditorium,6344,Memorial,Road,6344 Memorial Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{3D3DFD53-1543-46AA-8AE2-EF8EB30F7C9B}
 AD-105,045,Auditorium Annex Offices,1924,West,Mall,1924 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{E0F7F77E-1B9E-4A0F-A905-CEC05ACDF55B}
@@ -355,7 +377,6 @@ AD-128,155,Child Care Services Administration Building,2881,Acadia,Road,2881 Aca
 AD-129,160,Continuing Studies Building,2121,West,Mall,2121 West Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{8B7C3309-40E6-45EF-8F8B-6E26467F522C}
 AD-131,165,"Institute for Computing, Information and Cognitive Systems/Computer Science",2366,Main,Mall,2366 Main Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{9258ACC0-C242-4A69-B6FE-1882DF64DEC5}
 AD-119,094,Botanical Garden Workshop (Trailer),6450,Stadium,Road,6450 Stadium Road,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{BE1B6A07-794E-46EC-A9D5-10D4F9995244}
-AD-132,180,Rodney Graham Millennium Sculpture Pavilion,1940,Main,Mall,1940 Main Mall,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{F21A4DA0-8A73-479A-B814-2305D10067C1}
 AD-133,182,Ladner Clock Tower,1956,Main,Mall,1956 Main Mall,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{7874DF7A-B405-47F4-B59E-DA87C93DFCAE}
 AD-134,184-1,Coal and Mineral Processing Lab,2332,West,Mall,2332 West Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{301C51DB-8FF2-4D73-AFD8-A87E1A04D429}
 AD-723,009-1,Acadia Park Townhouses,2509,Pearkes,Lane,2509 Pearkes Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{3D492F3C-CA27-424A-816C-A12CF84B6DFE}
@@ -417,8 +438,6 @@ AD-991,007-0,Fairview Crescent Residence,2772,Fairview,Crescent,2772 Fairview Cr
 AD-992,007-0,Fairview Crescent Residence,2774,Fairview,Crescent,2774 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{36A58FB5-C4C3-4EDA-89F1-797B6AAB69B5}
 AD-993,007-0,Fairview Crescent Residence,2776,Fairview,Crescent,2776 Fairview Crescent,Vancouver,BC,V6T 2B9,Academic,Housing - Stude,1,,Current,{C9DBD33F-675A-47A4-8372-CC4C3ABF2AB3}
 AD-278,822-2,St. John's College,2111,Lower,Mall,2111 Lower Mall,Vancouver,BC,V6T 1Z4,Academic,Housing - Stude,171,,Current,{CBE222F2-CFE5-4CC9-A653-6F38AA14061B}
-AD-279,832-1,Coast Apartments West,6093,Iona,Drive,6093 Iona Drive,Vancouver,BC,V6T 0B2,Chancellor Place,Housing,29,,Current,{422F4462-034E-42F6-82BB-6A0B28B8F1B4}
-AD-280,832-2,Coast Apartments East,6063,Iona,Drive,6063 Iona Drive,Vancouver,BC,V6T 0B1,Chancellor Place,Housing,38,,Current,{8D0E2F1C-8145-4F67-9AE5-4043042AB5A2}
 AD-281,836,Iona Building,6000,Iona,Drive,6000 Iona Drive,Vancouver,BC,V6T 1L4,Chancellor Place,UBC,0,,Current,{6086B0D9-E61B-463F-914E-29C36ACD7F18}
 AD-282,838,Vancouver School of Theology,6015,Walter Gage,Road,6015 Walter Gage Road,Vancouver,BC,V6T 1Z1,Chancellor Place,UBC,0,,Current,{D47F41CC-9A80-4940-937A-3BD3829AE3AC}
 AD-284,846,Biological Archive Centre,4000,Wesbrook,Mall,4000 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,UBC,0,,Current,{49892845-D5CE-49A7-B761-547184BF3147}
@@ -429,24 +448,22 @@ AD-288,858,Berwick Memorial Centre,2765,Osoyoos,Crescent,2765 Osoyoos Crescent,V
 AD-289,858,Berwick Memorial Centre - Daycare,2767,Osoyoos,Crescent,2767 Osoyoos Crescent,Vancouver,BC,V6T 1X7,Academic,UBC,0,,Current,{8F268B54-B878-48C1-AEE6-E838F919478D}
 AD-290,863-1,West Mall Annex,1933,West,Mall,1933 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{3C60F4A5-34E1-4D16-A990-7DA4E8572C54}
 AD-291,864,Wesbrook Building,6174,University,Boulevard,6174 University Boulevard,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{E9FF0FA8-E22C-4745-8E08-88A5D094CA4E}
-AD-292,865-1,Ponderosa Office Annex A,2011,West,Mall,2011 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{F71376C1-04D7-46FC-B0E8-64153F79084F}
-AD-293,865-2,Ponderosa Office Annex B,2029,West,Mall,2029 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{EA447A84-EF71-43F9-94D4-CC97036EAF22}
-AD-294,865-3,Ponderosa Office Annex C,2021,West,Mall,2021 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{11BBC537-AFAC-4B54-BC0A-C2E15C7E64A6}
 AD-297,869-1,Walter H. Gage Residence,5959,Student Union,Boulevard,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2,Academic,Housing - Stude,366,,Current,{912F05DF-03B7-4CA6-B801-98C434A39762}
-AD-1,152,Azalea House,6388,Hawthorn,Lane,6388 Hawthorn Lane,Vancouver,BC,V6T 0B9,Hawthorn,Housing,11,,Current,{75C173E7-43F7-4780-B4ED-6721ABD92604}
-AD-2,153,Cascara House,6385,Hawthorn,Lane,6385 Hawthorn Lane,Vancouver,BC,V6T 0C1,Hawthorn,Housing,36,,Current,{964A1EDF-6E23-4DEE-B226-E4E8DE94DB77}
-AD-3,154,Sumac House,6395,Hawthorn,Lane,6395 Hawthorn Lane,Vancouver,BC,V6T 0C1,Hawthorn,Housing,42,,Current,{EF38BD63-D0BC-4AC5-BC5C-A9A0A7562758}
 AD-6,451,Sopron House,2730,Acadia,Road,2730 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Housing - Stude,81,,Current,{1D5D182E-8205-4FE1-90EE-4A7AA13C11FA}
-AD-7,500,Sandringham,5650,Hampton,Place,5650 Hampton Place,Vancouver,BC,V6T 2G5,Hampton Place,Housing,32,,Current,{FA381894-4CE6-481D-8DAF-BF90A522D7C5}
-AD-8,501,West Hampstead,5760,Hampton,Place,5760 Hampton Place,Vancouver,BC,V6T 2G1,Hampton Place,Housing,73,,Current,{F84DC3FC-9521-420A-A2E9-C474B9F25E79}
-AD-9,502,Thames Court,5880,Hampton,Place,5880 Hampton Place,Vancouver,BC,V6T 2E9,Hampton Place,Housing,86,,Current,{9E1322CA-04C2-4F1B-9A16-28D3CFAA1DFF}
-AD-10,503,St. James House,5835,Hampton,Place,5835 Hampton Place,Vancouver,BC,V6T 2G2,Hampton Place,Housing,142,,Current,{54A6554C-EB8F-423C-A666-A6906BBBFC82}
-AD-11,504,The Chatham,5775,Hampton,Place,5775 Hampton Place,Vancouver,BC,V6T 2G6,Hampton Place,Housing,97,,Current,{78314A7D-7186-41FC-A2CA-9CEB3C0D49B4}
-AD-12,505,The Bristol,5735,Hampton,Place,5735 Hampton Place,Vancouver,BC,V6T 2G8,Hampton Place,Housing,133,,Current,{D5C4ED82-9D91-4BA7-B15C-E4514C83990B}
-AD-15,507,The Regency,5639,Hampton,Place,5639 Hampton Place,Vancouver,BC,V6T 2H6,Hampton Place,Housing,120,,Current,{A005D673-F17A-4600-BA81-2DE625F82B0D}
-AD-16,508,The Balmoral,5615,Hampton,Place,5615 Hampton Place,Vancouver,BC,V6T 2H1,Hampton Place,Housing,84,,Current,{4C56F086-A7A2-4564-95B2-ACB0681BA8C7}
-AD-17,509,The Pemberley,5605,Hampton,Place,5605 Hampton Place,Vancouver,BC,V6T 2H2,Hampton Place,Housing,72,,Current,{05251C3F-D184-4A64-AA07-6BE98A8D0BB6}
-AD-18,534,TRIUMF House,5835,Thunderbird,Boulevard,5835 Thunderbird Boulevard,Vancouver,BC,V6T 2L6,East Campus,Housing,0,,Current,{478F4430-6F28-4F76-AAAD-A1F661EAC2DF}
+AD-551,616,Westchester,6375,Larkin,Drive,6375 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Residential,1,,Current,{6964C9B7-1FAB-41EA-BE0C-79D7ABF06B9E}
+AD-552,616,Westchester,6377,Larkin,Drive,6377 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Residential,1,,Current,{2968EF25-6EE7-4A8D-9F37-DDEA559D0A0C}
+AD-553,616,Westchester,6381,Larkin,Drive,6381 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Residential,1,,Current,{DC784053-9B2E-48B9-9EF5-574C5DDE67CF}
+AD-554,616,Westchester,6383,Larkin,Drive,6383 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Residential,1,,Current,{AAD00616-22F8-4D56-BD2A-C85312AA3388}
+AD-555,616,Westchester,6385,Larkin,Drive,6385 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Residential,1,,Current,{015BC9F5-5D54-40A3-9159-8CE6963664CD}
+AD-556,616,Westchester,6387,Larkin,Drive,6387 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Residential,1,,Current,{0B67A83B-6989-4290-A8B2-6A606D8CC6DE}
+AD-1,152,Azalea House,6388,Hawthorn,Lane,6388 Hawthorn Lane,Vancouver,BC,V6T 0B9,Hawthorn,Residential,11,,Current,{75C173E7-43F7-4780-B4ED-6721ABD92604}
+AD-2,153,Cascara House,6385,Hawthorn,Lane,6385 Hawthorn Lane,Vancouver,BC,V6T 0C1,Hawthorn,Residential,36,,Current,{964A1EDF-6E23-4DEE-B226-E4E8DE94DB77}
+AD-3,154,Sumac House,6395,Hawthorn,Lane,6395 Hawthorn Lane,Vancouver,BC,V6T 0C1,Hawthorn,Residential,42,,Current,{EF38BD63-D0BC-4AC5-BC5C-A9A0A7562758}
+AD-7,500,Sandringham,5650,Hampton,Place,5650 Hampton Place,Vancouver,BC,V6T 2G5,Hampton Place,Residential,32,,Current,{FA381894-4CE6-481D-8DAF-BF90A522D7C5}
+AD-8,501,West Hampstead,5760,Hampton,Place,5760 Hampton Place,Vancouver,BC,V6T 2G1,Hampton Place,Residential,73,,Current,{F84DC3FC-9521-420A-A2E9-C474B9F25E79}
+AD-9,502,Thames Court,5880,Hampton,Place,5880 Hampton Place,Vancouver,BC,V6T 2E9,Hampton Place,Residential,86,,Current,{9E1322CA-04C2-4F1B-9A16-28D3CFAA1DFF}
+AD-10,503,St. James House,5835,Hampton,Place,5835 Hampton Place,Vancouver,BC,V6T 2G2,Hampton Place,Residential,142,,Current,{54A6554C-EB8F-423C-A666-A6906BBBFC82}
+AD-11,504,The Chatham,5775,Hampton,Place,5775 Hampton Place,Vancouver,BC,V6T 2G6,Hampton Place,Residential,97,,Current,{78314A7D-7186-41FC-A2CA-9CEB3C0D49B4}
 AD-156,307,Civil and Mechanical Engineering Labs,2275,East,Mall,2275 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{9F192EE2-0C57-4666-ABDC-C9834635165E}
 AD-157,308-1,The Leonard S. Klinck Building,6356,Agricultural,Road,6356 Agricultural Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{0E06C4C2-4DFD-432F-B4A1-2AC5BDCD5510}
 AD-159,312,MacLeod Building,2356,Main,Mall,2356 Main Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{00D71073-2C75-41B5-85CF-FE5E34274724}
@@ -461,7 +478,6 @@ AD-167,353,Forest Sciences Centre,2424,Main,Mall,2424 Main Mall,Vancouver,BC,V6T
 AD-169,372,FPInnovations Wood Products,2665,East,Mall,2665 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{6D006771-1D20-444E-9A8B-851181F0E2B8}
 AD-170,373,FP Innovations Forest Operations,2601,East,Mall,2601 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{A460B2D4-A04D-4168-AAFE-137BAB08103F}
 AD-171,376,Frederic Wood Theatre,6354,Crescent,Road,6354 Crescent Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{9A8CD6AC-A7A9-4A97-B241-9FC72A7C07E0}
-AD-173,380,Old Fire Hall,2038,West,Mall,2038 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{69B08147-6F6D-4964-A4F5-D0F8CBF27983}
 AD-174,385,Wood Drying Laboratory,2324,West,Mall,2324 West Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{8FC9652A-3C86-47DF-9763-FB7B44F87793}
 AD-175,386,HR MacMillan Building,2357,Main,Mall,2357 Main Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{0F4485A9-7010-474C-A249-D8E90A8BE848}
 AD-176,394,Gas Gun Facility,6301,Stadium,Road,6301 Stadium Road,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{A8CDFC5E-9FAB-4E6F-B427-C1CD600F43CE}
@@ -478,7 +494,6 @@ AD-205,490,David Lam Learning Centre,6326,Agricultural,Road,6326 Agricultural Ro
 AD-206,496,Liu Institute for Global Issues,6476,NW Marine,Drive,6476 NW Marine Drive,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{E9862E92-1BE5-4681-96FA-A0408788C37C}
 AD-207,511,Engineering High Head Room Laboratory,2225,East,Mall,2225 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{E87100E1-D91E-46B3-B9BC-0ABBB524DB4F}
 AD-208,513,School of Population & Public Health,2206,East,Mall,2206 East Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{ECDC75C3-3AFC-4E69-AC6F-2C3F88A47E29}
-AD-209,515,Koerner Library,1958,Main,Mall,1958 Main Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{96C657B2-7CEF-4725-B20A-C466265A624C}
 AD-210,516,Irving K. Barber Learning Centre,1961,East,Mall,1961 East Mall,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{E8E4A638-1EB3-40B9-8F53-F5A6A5DDC79F}
 AD-211,518,Mathematics Building,1984,Mathematics,Road,1984 Mathematics Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{E562D82C-F408-44E0-8F50-63AD7272DC7A}
 AD-212,519,Mathematics Annex,1986,Mathematics,Road,1986 Mathematics Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{282FBF14-9212-4621-8225-E4F46409A005}
@@ -496,34 +511,35 @@ AD-188,447,"Chemistry A Block, Chemistry Physics Building",6221,University,Boule
 AD-189,449,"Food, Nutrition and Health Building",2205,East,Mall,2205 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{B69EDC47-E2AA-4A37-9CA7-ECE8F7DBA967}
 AD-190,450-1,Acadia House,2700,Acadia,Road,2700 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Housing - Stude,12,,Current,{ADCE0424-28B5-403D-BF61-2D4227E57BC6}
 AD-192,450-3,Acadia House,2720,Acadia,Road,2720 Acadia Road,Vancouver,BC,V6T 1R9,Academic,Housing - Stude,12,,Current,{19C800C1-523C-428A-9715-B07AAD33C9C2}
+AD-12,505,The Bristol,5735,Hampton,Place,5735 Hampton Place,Vancouver,BC,V6T 2G8,Hampton Place,Residential,133,,Current,{D5C4ED82-9D91-4BA7-B15C-E4514C83990B}
+AD-15,507,The Regency,5639,Hampton,Place,5639 Hampton Place,Vancouver,BC,V6T 2H6,Hampton Place,Residential,120,,Current,{A005D673-F17A-4600-BA81-2DE625F82B0D}
+AD-16,508,The Balmoral,5615,Hampton,Place,5615 Hampton Place,Vancouver,BC,V6T 2H1,Hampton Place,Residential,84,,Current,{4C56F086-A7A2-4564-95B2-ACB0681BA8C7}
+AD-17,509,The Pemberley,5605,Hampton,Place,5605 Hampton Place,Vancouver,BC,V6T 2H2,Hampton Place,Residential,72,,Current,{05251C3F-D184-4A64-AA07-6BE98A8D0BB6}
+AD-18,534,TRIUMF House,5835,Thunderbird,Boulevard,5835 Thunderbird Boulevard,Vancouver,BC,V6T 2L6,East Campus,Residential,0,,Current,{478F4430-6F28-4F76-AAAD-A1F661EAC2DF}
+AD-20,550,Sitka,5868,Agronomy,Road,5868 Agronomy Road,Vancouver,BC,V6T 0B5,East Campus,Residential,81,,Current,{FE15502D-272A-48D9-84F3-F344F00FB926}
+AD-26,584,Spirit,3478,Wesbrook,Mall,3478 Wesbrook Mall,Vancouver,BC,V6S 0B6,Wesbrook Place,Residential,62,,Current,{60B8C657-61B0-465D-8858-711A8D9D58A8}
+AD-27,586,Larkspur House,3428,Wesbrook,Mall,3428 Wesbrook Mall,Vancouver,BC,V6S 0G9,Wesbrook Place,Residential,46,,Current,{EA7D723F-0D77-46AC-B97C-F6A38A9698EA}
 AD-193,456,Horticulture Building,6394,Stores,Road,6394 Stores Road,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{E5F895EF-DB65-4222-92E6-4B6D411ACBAB}
 AD-194,458,Donald Rix Building,2389,Health Sciences,Mall,2389 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,Non-UBC,0,,Current,{2821B5C1-54F0-42FB-BAA1-B23A5D09FC8C}
 AD-19,544,Place Vanier Residence,1935,Lower,Mall,1935 Lower Mall,Vancouver,BC,V6T 1X1,Academic,Housing - Stude,1276,,Current,{40A2B790-1CF0-4B2C-8A8C-B0D3A844E964}
-AD-20,550,Sitka,5868,Agronomy,Road,5868 Agronomy Road,Vancouver,BC,V6T 0B5,East Campus,Housing,81,,Current,{FE15502D-272A-48D9-84F3-F344F00FB926}
 AD-21,553,Fraser Hall,2550,Wesbrook,Mall,2550 Wesbrook Mall,Vancouver,BC,V6T 1Z3,East Campus,Housing - Stude,24,,Current,{02AE6A76-41D1-4E81-8EA8-F8B87552FA3B}
-AD-26,584,Spirit,3478,Wesbrook,Mall,3478 Wesbrook Mall,Vancouver,BC,V6S 0B6,Wesbrook Place,Housing,62,,Current,{60B8C657-61B0-465D-8858-711A8D9D58A8}
-AD-27,586,Larkspur House,3428,Wesbrook,Mall,3428 Wesbrook Mall,Vancouver,BC,V6S 0G9,Wesbrook Place,Housing,46,,Current,{EA7D723F-0D77-46AC-B97C-F6A38A9698EA}
-AD-28,587,Keenleyside,5788,Birney,Avenue,5788 Birney Avenue,Vancouver,BC,V6S 0A2,Wesbrook Place,Housing,72,,Current,{6D728DF7-44FB-4DE8-AAE1-507D33996266}
-AD-32,594,The Wesbrook,5838,Berton,Avenue,5838 Berton Avenue,Vancouver,BC,V6S 0A5,Wesbrook Place,Housing,69,,Current,{D30D8B17-1112-4C1F-81AC-F0DFA237E224}
-AD-1039,605,Crescent West,5879,Gray,Avenue,5879 Gray Avenue,Vancouver,BC,V6S 0A9,Wesbrook Place,Housing,24,,Current,{82958268-39BA-43B8-AEC0-3767DF42C35C}
-AD-38,617,Gardenia House,6309,Larkin,Drive,6309 Larkin Drive,Vancouver,BC,V6T 0C2,Hawthorn,Housing,60,,Current,{AC5EA528-EE78-4E6B-982E-801E0DFE6A84}
-AD-39,619,Journey,6328,Larkin,Drive,6328 Larkin Drive,Vancouver,BC,V6T 2K2,Hawthorn,Housing,80,,Current,{8BFFE181-E15A-41C0-A5A6-3C1B968761E1}
-AD-40,621,Clement's Green,6268,Eagles,Drive,6268 Eagles Drive,Vancouver,BC,V6T 0A2,Hawthorn,Housing,55,,Current,{6477B52F-3BB6-48E0-9624-5AE0A0E51C2C}
-AD-41,623,Reflections,6279,Eagles,Drive,6279 Eagles Drive,Vancouver,BC,V6T 2K7,Hawthorn,Housing,77,,Current,{DCF1BE60-2EB1-422F-9E35-8967F8149C34}
-AD-42,626,Promontory,2688,West,Mall,2688 West Mall,Vancouver,BC,V6T 2J8,Hawthorn,Housing,95,,Current,{4B2B8258-84A3-4265-AD82-1E560B4F4D50}
+AD-37,605,Crescent West,5879,Gray,Avenue,5879 Gray Avenue,Vancouver,BC,V6S 0A9,Wesbrook Place,Residential,24,,Current,{82958268-39BA-43B8-AEC0-3767DF42C35C}
+AD-38,617,Gardenia House,6309,Larkin,Drive,6309 Larkin Drive,Vancouver,BC,V6T 0C2,Hawthorn,Residential,60,,Current,{AC5EA528-EE78-4E6B-982E-801E0DFE6A84}
+AD-28,587,Keenleyside,5788,Birney,Avenue,5788 Birney Avenue,Vancouver,BC,V6S 0A2,Wesbrook Place,Residential,72,,Current,{6D728DF7-44FB-4DE8-AAE1-507D33996266}
+AD-32,594,The Wesbrook,5838,Berton,Avenue,5838 Berton Avenue,Vancouver,BC,V6S 0A5,Wesbrook Place,Residential,69,,Current,{D30D8B17-1112-4C1F-81AC-F0DFA237E224}
+AD-39,619,Journey,6328,Larkin,Drive,6328 Larkin Drive,Vancouver,BC,V6T 2K2,Hawthorn,Residential,80,,Current,{8BFFE181-E15A-41C0-A5A6-3C1B968761E1}
+AD-40,621,Clement's Green,6268,Eagles,Drive,6268 Eagles Drive,Vancouver,BC,V6T 0A2,Hawthorn,Residential,55,,Current,{6477B52F-3BB6-48E0-9624-5AE0A0E51C2C}
+AD-41,623,Reflections,6279,Eagles,Drive,6279 Eagles Drive,Vancouver,BC,V6T 2K7,Hawthorn,Residential,77,,Current,{DCF1BE60-2EB1-422F-9E35-8967F8149C34}
+AD-42,626,Promontory,2688,West,Mall,2688 West Mall,Vancouver,BC,V6T 2J8,Hawthorn,Residential,95,,Current,{4B2B8258-84A3-4265-AD82-1E560B4F4D50}
+AD-44,629,Tamarack House,6230,Thunderbird,Boulevard,6230 Thunderbird Boulevard,Vancouver,BC,V6T 0C3,Hawthorn,Residential,71,,Current,{CFC107D8-62CA-4D08-A1BE-047BB69DB89F}
+AD-45,630,Legacy,6333,Larkin,Drive,6333 Larkin Drive,Vancouver,BC,V6T 0A7,Hawthorn,Residential,55,,Current,{E1AC4008-8EE8-426F-8441-B5148A003378}
+AD-48,687,Granite Terrace,3233,Wesbrook,Mall,3233 Wesbrook Mall,Vancouver,BC,V6S 0B4,Wesbrook Place,Residential,77,,Current,{05AE8983-3D41-42F6-A3F0-AF1ECB48B4CE}
+AD-49,689,The Mews,3333,Wesbrook,Mall,3333 Wesbrook Mall,Vancouver,BC,V6S 0E3,Wesbrook Place,Residential,72,,Current,{848D41A1-7214-4AD6-9DD7-00CE2B34C853}
 AD-43,627,Old Barn Community Centre,6308,Thunderbird,Boulevard,6308 Thunderbird Boulevard,Vancouver,BC,V6T 1Z4,Hawthorn,Non-UBC,0,,Current,{EFEA39C2-C8AA-4051-9D3D-B640C30A0312}
-AD-44,629,Tamarack House,6230,Thunderbird,Boulevard,6230 Thunderbird Boulevard,Vancouver,BC,V6T 0C3,Hawthorn,Housing,71,,Current,{CFC107D8-62CA-4D08-A1BE-047BB69DB89F}
-AD-45,630,Legacy,6333,Larkin,Drive,6333 Larkin Drive,Vancouver,BC,V6T 0A7,Hawthorn,Housing,55,,Current,{E1AC4008-8EE8-426F-8441-B5148A003378}
 AD-46,687,Save-on-Foods,5945,Berton,Avenue,5945 Berton Avenue,Vancouver,BC,V6S 0B3,Wesbrook Place,Commercial,0,,Current,{57DFB5A4-7184-4DFD-9769-EDBA66AEA464}
 AD-47,690,Save-on-Foods - Moveator and Underground Parking Annunciator,5940,Berton,Avenue,5940 Berton Avenue,Vancouver,BC,V6S 0B3,Wesbrook Place,Annunciator,0,,Current,{C20631BF-2DD2-45F1-BC89-C8BDDC67C127}
-AD-48,687,Granite Terrace,3233,Wesbrook,Mall,3233 Wesbrook Mall,Vancouver,BC,V6S 0B4,Wesbrook Place,Housing,77,,Current,{05AE8983-3D41-42F6-A3F0-AF1ECB48B4CE}
-AD-49,689,The Mews,3333,Wesbrook,Mall,3333 Wesbrook Mall,Vancouver,BC,V6S 0E3,Wesbrook Place,Housing,72,,Current,{848D41A1-7214-4AD6-9DD7-00CE2B34C853}
 AD-53,694,MBA House - Retail,3381,Wesbrook,Mall,3381 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{66446235-CD20-4A13-BFA5-CC0145FE625D}
 AD-54,694,MBA House - student residence,3385,Wesbrook,Mall,3385 Wesbrook Mall,Vancouver,BC,V6T 1Z4,Wesbrook Place,Housing - Stude,81,,Current,{A2CE2052-23CE-463A-8F8B-0C832F0ABB10}
-AD-58,699,Pacific,5928,Birney,Avenue,5928 Birney Avenue,Vancouver,BC,V6S 0B5,Wesbrook Place,Housing,91,,Current,{265432B6-52B0-4A2E-858F-687BC10B618C}
-AD-60,706,Ultima,3479,Wesbrook,Mall,3479 Wesbrook Mall,Vancouver,BC,V6S 0B7,Wesbrook Place,Housing,60,,Current,{19E347F3-159D-49B3-9AE8-88D646C46B6C}
-AD-65,713-1,Dahlia House,3515,Wesbrook,Mall,3515 Wesbrook Mall,Vancouver,BC,V6S 0H2,Wesbrook Place,Housing,47,,Current,{A2A50170-F397-42D6-95A9-B0EA2A6A113E}
-AD-67,728,Norman MacKenzie House,6565,NW Marine,Drive,6565 NW Marine Drive,Vancouver,BC,V6T 1A7,Academic,Housing,1,,Current,{D70E8849-857D-4C76-8065-37A73ECD09F5}
 AD-68,745,Ritsumeikan-UBC House,6460,Agronomy,Road,6460 Agronomy Road,Vancouver,BC,V6T 1Z4,Academic,Housing - Stude,56,,Current,{5AA80912-1B73-41D7-906A-1533E46B8A9A}
 AD-69,771,Point Grey Apartments,2875,Osoyoos,Crescent,2875 Osoyoos Crescent,Vancouver,BC,V6T 2G3,Academic,Housing - Stude,91,,Current,{E332AE54-163B-483F-A47D-88C8E8D87A84}
 AD-135,198,JB Macdonald Building,2199,Wesbrook,Mall,2199 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{72A71744-F4E7-4BA6-9E43-EA84014D82CB}
@@ -559,19 +575,18 @@ AD-306,,Energy and Water Services Works Yard,6027,Nurseries,Road,6027 Nurseries 
 AD-308,862,Baseball Indoor Training Centre,3085,Wesbrook,Mall,3085 Wesbrook Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{09849D70-9C48-420D-8D36-5B60E3F010EC}
 AD-307,435,National Soccer Development Centre,3065,Wesbrook,Mall,3065 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{44926F0E-252E-45D1-9955-6889060E7A2E}
 AD-309,,District energy system phase 2 for Wesbrook Place,3510,Binning,Road,3510 Binning Road,Vancouver,BC,V6T 1W5,Wesbrook Place,Non-UBC,0,,Current,{A875228C-DFE3-40A8-9527-636E6CC34FB0}
-AD-310,718,Virtuoso,3581,Ross,Drive,3581 Ross Drive,Vancouver,BC,,Wesbrook Place,Housing,106,,UC,{BBE5025F-5D43-4C4A-AC5C-786E1E2CB3AF}
-AD-311,715,Pine House,3588,Ross,Drive,3588 Ross Drive,Vancouver,BC,,Wesbrook Place,Housing,93,,UC,{88D3CCC1-AEB3-495C-A75C-BAAA50F9F129}
-AD-312,714,Cypress House,5988,Gray,Avenue,5988 Gray Avenue,Vancouver,BC,,Wesbrook Place,Housing,82,,UC,{832D1CED-1EA5-4046-8188-620D7037DC78}
-AD-313,592,Eton - high rise,3487,Binning,Road,3487 Binning Road,Vancouver,BC,,Wesbrook Place,Housing - unit,192,,UC,{8A0F03E0-91AA-4326-B2A8-1CBA8917F781}
-AD-314,592,Eton - low rise and townhouses,5687,Gray,Avenue,5687 Gray Avenue,Vancouver,BC,,Wesbrook Place,Housing,80,,UC,{A651CBE0-798D-4BDC-BEC4-EEE24EAF272E}
+AD-58,699,Pacific,5928,Birney,Avenue,5928 Birney Avenue,Vancouver,BC,V6S 0B5,Wesbrook Place,Residential,91,,Current,{265432B6-52B0-4A2E-858F-687BC10B618C}
+AD-60,706,Ultima,3479,Wesbrook,Mall,3479 Wesbrook Mall,Vancouver,BC,V6S 0B7,Wesbrook Place,Residential,60,,Current,{19E347F3-159D-49B3-9AE8-88D646C46B6C}
+AD-65,713-1,Dahlia House,3515,Wesbrook,Mall,3515 Wesbrook Mall,Vancouver,BC,V6S 0H2,Wesbrook Place,Residential,47,,Current,{A2A50170-F397-42D6-95A9-B0EA2A6A113E}
+AD-67,728,Norman MacKenzie House,6565,NW Marine,Drive,6565 NW Marine Drive,Vancouver,BC,V6T 1A7,Academic,Residential,1,,Current,{D70E8849-857D-4C76-8065-37A73ECD09F5}
+AD-73,808,Esse,1863,Wesbrook,Mall,1863 Wesbrook Mall,Vancouver,BC,V6T 2J7,Chancellor Place,Residential,23,,Current,{F3681DBE-9C0B-48FE-8803-A3264271A416}
+AD-75,818,Stirling House,6080,Iona,Drive,6080 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Residential,34,,Current,{54255DB1-8F41-4232-BC69-16512AE87AB3}
 AD-315,772,Exchange Residence,5960,Student Union,Boulevard,5960 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,Housing - Stude,353,,UC,{6F20E671-860B-4E58-9A05-067552C4B49E}
 AD-316,538,AYO Smart Home - YUNESIT'IN GOVERNMENT,5935,Agronomy,Road,5935 Agronomy Road,Vancouver,BC,V6T 1Z3,Academic,Non-UBC,0,,Current,{7C1C45D6-D356-4533-888B-CAB42BD6A391}
 AD-317,438,Chan Gunn Pavilion,2553,Wesbrook,Mall,2553 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{7861F061-0550-419B-9E4D-AB6D0D2476B5}
 AD-318,780,UBC Parking Impound Lot,2451,East,Mall,2451 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{897A3A6A-4FB8-41DB-8A05-9B6767743BB8}
 AD-319,353,Forest Sciences Centre - CAWP - secondary address for emergency,6247,Sopron,Lane,6247 Sopron Lane,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{9EC1C093-0E02-453B-99A1-B415151D0C8B}
 AD-320,783,Housing Warehouse,2440,West,Mall,2440 West Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{372329AA-69A0-4068-B48C-734234900997}
-AD-321,839,Corus Apartments,5989,Walter Gage,Road,5989  Walter Gage Road,Vancouver,BC,V6T 0A8,Chancellor Place,Housing,51,,Current,{C6D2A5C4-0701-47B7-8F64-4371B04634BA}
-AD-322,824,Chancellor Hall Apartments,5989,Iona,Drive,5989  Iona Drive,Vancouver,BC,V6T 2L7,Chancellor Place,Housing,42,,Current,{AA51B3DF-0679-469B-B2E7-E8AFE6D82EE5}
 AD-324,199,David Strangway - Retail,5940,University,Boulevard,5940 University Boulevard,Vancouver,BC,V6T 1Z3,University Blvd,Commercial,0,,Current,{D780A66D-1484-4D91-8DE9-4C1B39DEFABE}
 AD-327,199,David Strangway - Retail,5990,University,Boulevard,5990 University Boulevard,Vancouver,BC,V6T 1Z3,University Blvd,Commercial,0,,Current,{46BAC208-EBA3-43B0-9743-A86922E42E31}
 AD-326,199,David Strangway - Retail,5970,University,Boulevard,5970 University Boulevard,Vancouver,BC,V6T 1Z3,University Blvd,Commercial,0,,Current,{1C3BDE02-0B77-4B07-A9C1-4041DBCC5563}
@@ -594,18 +609,21 @@ AD-351,689,The Mews - Retail,3322,Shrum,Lane,3322 Shrum Lane,Vancouver,BC,V6S 0B
 AD-353,689,The Mews - Retail,3332,Shrum,Lane,3332 Shrum Lane,Vancouver,BC,V6S 0B9,Wesbrook Place,Commercial,0,,Current,{38862AA8-2E4B-4257-8421-CD1AFBF6B77F}
 AD-346,689,The Mews - Retail,3339,Wesbrook,Mall,3339 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{21D2873F-38DD-496E-83B1-2F3F4A96BD15}
 AD-352,689,The Mews - Retail,3337,Wesbrook,Mall,3337 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{68D264A7-CFB4-4426-9868-7922F79CE359}
+AD-550,616,Westchester,6373,Larkin,Drive,6373 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Residential,1,,Current,{ECD8AE5B-448F-42B9-957D-5CEAB4686E91}
 AD-343,689,The Mews - Retail,3329,Wesbrook,Mall,3329 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{93D0D848-AEBD-4625-B303-D51127728337}
 AD-342,689,The Mews - Retail,3323,Wesbrook,Mall,3323 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{2A768D14-5743-45A3-AF3C-485D4FBAFF29}
 AD-341,689,The Mews - Retail,3317,Wesbrook,Mall,3317 Wesbrook Mall,Vancouver,BC,V6S 0B1,Wesbrook Place,Commercial,0,,Current,{4E443221-F73B-4469-B995-A272E1BAF8A6}
-AD-363,839,Corus Townhouses,5977,Walter Gage,Road,5977 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing - unit,1,,Current,{9414E43E-F7F3-4A55-A983-C992DF72D252}
-AD-364,839,Corus Townhouses,5979,Walter Gage,Road,5979 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing - unit,1,,Current,{63A86F5B-27B3-46B3-9FA3-6FDE484A6288}
-AD-365,839,Corus Townhouses,5981,Walter Gage,Road,5981 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing - unit,1,,Current,{603421CD-9173-4757-A125-BB67180C6501}
-AD-366,839,Corus Townhouses,5983,Walter Gage,Road,5983 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing - unit,1,,Current,{A51A52F2-CE9A-45BA-A18F-40F622AC1EE0}
-AD-367,839,Corus Townhouses,5985,Walter Gage,Road,5985 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing - unit,1,,Current,{BC8D4CE5-9C3B-46B3-B154-1740352228E4}
-AD-368,839,Corus Townhouses,5987,Walter Gage,Road,5987 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing - unit,1,,Current,{2A332B1D-2BCB-4B38-8B62-8568EAE682E9}
-AD-369,839,Corus Townhouses,5991,Walter Gage,Road,5991 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing - unit,1,,Current,{5FCB5F1F-A19D-4DBD-87FF-4088C36A2122}
-AD-370,839,Corus Townhouses,5993,Walter Gage,Road,5993 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing - unit,1,,Current,{7BAD7200-C1E2-4017-B24E-B666B13B8CDF}
-AD-371,839,Corus Townhouses,5995,Walter Gage,Road,5995 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing - unit,1,,Current,{33F057F3-5444-4480-B039-E9BD8B13ECD8}
+AD-539,616,Westchester,2586,West,Mall,2586 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{32D005A8-0756-408F-9010-84EFA5D2D911}
+AD-540,616,Westchester,2588,West,Mall,2588 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{2B0D0303-232F-44F0-B9A2-5D7F602982D1}
+AD-541,616,Westchester,2590,West,Mall,2590 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{6F2653A7-EC10-4D1D-AFDC-093D0B11F788}
+AD-542,616,Westchester,2592,West,Mall,2592 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{CDF68A4B-9B17-4F25-8DE3-360AE25A0BC5}
+AD-543,616,Westchester,2596,West,Mall,2596 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{C0DC94B6-0E04-4ED1-AC8A-BFBD0DDD7E18}
+AD-544,616,Westchester,2598,West,Mall,2598 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{379BB53B-3247-4B5B-959F-4FDFBCE874CB}
+AD-545,616,Westchester,6361,Larkin,Drive,6361 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Residential,1,,Current,{F02ACE0F-56E6-4429-ADE8-1B2BC5C6BC90}
+AD-546,616,Westchester,6363,Larkin,Drive,6363 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Residential,1,,Current,{BA9CF304-754D-4DEC-8341-A9E598170506}
+AD-547,616,Westchester,6365,Larkin,Drive,6365 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Residential,1,,Current,{B3957DEF-F1C8-4B6C-9C9C-72AB05B450C8}
+AD-548,616,Westchester,6367,Larkin,Drive,6367 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Residential,1,,Current,{7D4C462A-7206-4F99-93D0-64B063EC329D}
+AD-549,616,Westchester,6371,Larkin,Drive,6371 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Residential,1,,Current,{22146D98-EFAA-44EA-B0C1-1711B385BC6E}
 AD-214,523-1,D.H. Copp Building,2146,Health Sciences,Mall,2146 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{9388E3E6-7C95-4CE1-9BA1-35158656B966}
 AD-215,525-2,Friedman Building,2177,Wesbrook,Mall,2177 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{0DCB2703-A7F8-46D4-A4F2-0985E44A0128}
 AD-216,523-3,Medical Sciences Block C,2176,Health Sciences,Mall,2176 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{9AF7676E-5809-4A09-A465-A7EB8DED672F}
@@ -623,9 +641,7 @@ AD-227,569,Gerald McGavin Building,2386,East,Mall,2386 East Mall,Vancouver,BC,V6
 AD-1036,570,Museum of Anthropology,6393,NW Marine,Drive,6393 NW Marine Drive,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{72D39266-98FC-4063-A96F-C131EFB54BD0}
 AD-229,575,Music Building,6361,Memorial,Road,6361 Memorial Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{CB5B1223-372E-457D-9B0D-911879937C51}
 AD-234,591,NRC Institute for Fuel Cell Innovation,4250,Wesbrook,Mall,4250 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,Non-UBC,0,,Current,{639500D7-FF52-4273-B591-0D9E67C8A0D4}
-AD-235,593-1,Tapestry Rental,3338,Wesbrook,Mall,3338 Wesbrook Mall,Vancouver,BC,V6S 0A6,Wesbrook Place,Housing,134,,Current,{6618378E-C1C5-452C-9FE2-731F5B5E1FD8}
 AD-236,593-2,Tapestry - Retail,3378,Wesbrook,Mall,3378 Wesbrook Mall,Vancouver,BC,V6S 0A8,Wesbrook Place,Commercial,0,,Current,{610E6A43-3E2F-43E2-9883-22B1A4CC7947}
-AD-237,593-2,Tapestry at Wesbrook Village,3382,Wesbrook,Mall,3382 Wesbrook Mall,Vancouver,BC,V6S 0A7,Wesbrook Place,Housing,46,,Current,{96D689CF-4CCC-47D7-B4FD-DD0622FE17D2}
 AD-238,606,Technology Enterprise Facility 3,6190,Agronomy,Road,6190 Agronomy Road,Vancouver,BC,V6T 1Z3,Academic,Non-UBC,0,,Current,{446AA259-C694-43F6-9B82-9DF5BB6C9C5F}
 AD-239,612,MT Innovations,3800,Wesbrook,Mall,3800 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,Non-UBC,0,,Current,{6D2A09F4-0C07-4AF7-BADA-5E18758C88B5}
 AD-240,614,Mary Bollert Hall,6253,NW Marine,Drive,6253 NW Marine Drive,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{C1DDC25A-8B55-4CCF-BC4E-A5DC9E0D1B78}
@@ -653,7 +669,6 @@ AD-266,770-2,Spirit Park Apartments,2715,Osoyoos,Crescent,2715 Osoyoos Crescent,
 AD-268,774,Student Recreation Centre,6000,Student Union,Boulevard,6000 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{7DFBD651-E02B-4620-811A-E676E8423B32}
 AD-269,785,Thunderbird Stadium,6288,Stadium,Road,6288 Stadium Road,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{CBEF48B4-AC7C-4416-AA87-38C7E5E2811D}
 AD-270,789,Main Substation,2446,Health Sciences,Mall,2446 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{3788AAE3-4D9D-4B35-8BC7-BBFA6C4A8029}
-AD-271,790,UBC Life Building (Old SUB),6138,Student Union,Boulevard,6138 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{863DB643-DCC8-4DB0-8C27-442F5E3ED77F}
 AD-272,792,North Parkade,6115,Student Union,Boulevard,6115 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{FDD55A0B-F93A-4AC9-B848-497DD93780EE}
 AD-273,795,AMS Nest,6133,University,Boulevard,6133 University Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{861EC74E-6842-438F-BD92-5B8B91C73E32}
 AD-274,797,Robert H. Lee Alumni Centre,6163,University,Boulevard,6163 University Boulevard,Vancouver,BC,V6T 1Z1,Academic,Non-UBC,0,,Current,{E2AD1E83-A3D4-40D1-9E31-0AD23FDBB99A}
@@ -708,78 +723,42 @@ AD-621,009-1,Acadia Park Townhouses,5503,Yalta,Place,5503 Yalta Place,Vancouver,
 AD-623,009-1,Acadia Park Townhouses,5505,Yalta,Place,5505 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{DD67118F-B156-4F12-8E22-3A1F67333EEF}
 AD-627,009-1,Acadia Park Townhouses,5601,Yalta,Place,5601 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{D7959425-345C-4728-BB30-7E5546C7326F}
 AD-629,009-1,Acadia Park Townhouses,5603,Yalta,Place,5603 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{06C10A62-D241-4D17-AB04-BE194B4E8F1C}
-AD-450,620,Logan Lane,6202,Logan,Lane,6202 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{CF17CFB8-3EB9-4440-BA57-C23DB349A654}
-AD-451,620,Logan Lane,6204,Logan,Lane,6204 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{EC449E21-6420-4EC3-ACCA-ED9FE3C05669}
-AD-436,620,Logan Lane,2553,East,Mall,2553 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{1BE790C6-7937-4BFF-93DF-7345D89868C8}
-AD-437,620,Logan Lane,2555,East,Mall,2555 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{0A2DEA09-1201-4AD5-9BB3-A41F9D3ADE30}
-AD-438,620,Logan Lane,2557,East,Mall,2557 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{B56FDE56-C37F-4BDB-AEC6-9AA550026551}
-AD-439,620,Logan Lane,2559,East,Mall,2559 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{CEABF7A2-E226-4444-BBA0-FF1139C6ACC3}
-AD-440,620,Logan Lane,2561,East,Mall,2561 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{82CB02BF-2CBE-4B12-A63F-9489911FF8C1}
-AD-441,620,Logan Lane,2563,East,Mall,2563 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{3F4D4413-C542-43FB-937D-445E059AD977}
-AD-442,620,Logan Lane,2565,East,Mall,2565 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{02553D74-29AD-417F-A041-4784EE4A6717}
-AD-443,620,Logan Lane,2567,East,Mall,2567 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{3865EAB7-2CE2-4D55-8EB9-0E1F9D8E5C1C}
-AD-434,620,Logan Lane,2549,East,Mall,2549 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{C17D2E16-15F2-4F14-8169-1C765EADAD80}
-AD-444,620,Logan Lane,2569,East,Mall,2569 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{B01A3EBA-0F93-4DFD-8344-9C4DCD5B70D9}
-AD-445,620,Logan Lane,2571,East,Mall,2571 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{D3996FCF-89AF-4FC6-816F-627568FBD5C5}
-AD-446,620,Logan Lane,2573,East,Mall,2573 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{FE89898B-2987-449F-886B-FA770CEEA21F}
-AD-435,620,Logan Lane,2551,East,Mall,2551 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{B727DDF7-DBCA-4D04-B5C2-4B588D263114}
-AD-447,620,Logan Lane,2575,East,Mall,2575 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{0FACB5D9-CAE5-4962-AADF-2AFF7A14C4FC}
-AD-448,620,Logan Lane,2577,East,Mall,2577 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{EAECB2C1-19D1-4840-9B8F-D379D2A4E9B6}
-AD-449,620,Logan Lane,2579,East,Mall,2579 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{C1C2E9E7-2878-4ABB-8677-189D1003F108}
-AD-469,620,Logan Lane,6240,Logan,Lane,6240 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{4AF2635E-7B53-4DC3-81CA-FACBCBACA49C}
-AD-458,620,Logan Lane,6218,Logan,Lane,6218 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{9A5D130A-D99A-4124-9900-40C7429B7D77}
-AD-459,620,Logan Lane,6220,Logan,Lane,6220 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{009FC6E4-00F1-4A2E-BE54-212E5437560D}
-AD-460,620,Logan Lane,6222,Logan,Lane,6222 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{DED13987-4EA5-4793-A424-95036FF7AE86}
-AD-461,620,Logan Lane,6224,Logan,Lane,6224 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{70AD2FAD-A872-48A6-98CC-228FD6504CA8}
-AD-462,620,Logan Lane,6226,Logan,Lane,6226 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{EAD4CE8B-F057-4A3A-8965-D7A958528006}
-AD-463,620,Logan Lane,6228,Logan,Lane,6228 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{5911855D-1C2E-4488-908B-F63A4BEE09E2}
-AD-452,620,Logan Lane,6206,Logan,Lane,6206 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{0A307CA9-F259-4D51-B12B-F9117CE42E18}
-AD-464,620,Logan Lane,6230,Logan,Lane,6230 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{46DC0C18-6F80-44BF-896B-8AF4967A8D48}
-AD-465,620,Logan Lane,6232,Logan,Lane,6232 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{BFEE6155-4931-4043-A973-B042FBD80216}
-AD-453,620,Logan Lane,6208,Logan,Lane,6208 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{A340D01F-55C0-4518-AAB8-B366D0F51D20}
-AD-466,620,Logan Lane,6234,Logan,Lane,6234 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{1E838A47-CCE5-4C05-B049-7BB3B38F44FD}
-AD-467,620,Logan Lane,6236,Logan,Lane,6236 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{B880A938-0A41-431E-B0D0-75594F99A8CC}
-AD-468,620,Logan Lane,6238,Logan,Lane,6238 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{6B174A43-8C28-44D5-A8CE-DC05E39CA97D}
-AD-454,620,Logan Lane,6210,Logan,Lane,6210 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{33B15FF9-C9F1-4F32-A04B-90D1E53AF2E6}
-AD-455,620,Logan Lane,6212,Logan,Lane,6212 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{C648121D-4AD6-4CE8-B660-6B530AD003AF}
-AD-456,620,Logan Lane,6214,Logan,Lane,6214 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{522E6823-832D-4B27-BBE0-5192E6752D83}
-AD-457,620,Logan Lane,6216,Logan,Lane,6216 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{23E367B0-644C-45CF-B92F-2ECA38141C91}
-AD-483,620,Logan Lane,6278,Logan,Lane,6278 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{0C1305B8-2D59-4454-BA15-ADBBA5F90F32}
-AD-484,620,Logan Lane,6280,Logan,Lane,6280 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{72DD5FCC-2B41-4B89-8FD2-5AF37F027A9D}
-AD-485,620,Logan Lane,6282,Logan,Lane,6282 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{7F8DBCB5-717E-48F8-9010-088119ACDE96}
-AD-486,620,Logan Lane,6284,Logan,Lane,6284 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{2C99DC95-2147-4A16-B5CA-EC7056A33D97}
-AD-487,620,Logan Lane,6286,Logan,Lane,6286 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{3B6189C4-6218-4D78-A4E5-B6519A2DD387}
-AD-470,620,Logan Lane,6242,Logan,Lane,6242 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{74A380C7-97D0-450D-9CCF-478CBD132346}
-AD-471,620,Logan Lane,6244,Logan,Lane,6244 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{A3B4CE3A-9F79-4DC8-BAAE-802752EFC04A}
-AD-472,620,Logan Lane,6246,Logan,Lane,6246 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{F61A7F54-011C-436E-997E-EABDA31C7759}
-AD-473,620,Logan Lane,6248,Logan,Lane,6248 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{1FC4B280-B372-43F4-87A1-96B8150FDC36}
-AD-474,620,Logan Lane,6250,Logan,Lane,6250 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{FB154BA8-7CAF-4A6E-890D-08126829E73D}
-AD-475,620,Logan Lane,6252,Logan,Lane,6252 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{E1548848-65DB-4B68-8150-833A9B5828EF}
-AD-476,620,Logan Lane,6254,Logan,Lane,6254 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{D119AABB-3DEE-46F2-9D2D-EEE4199BF623}
-AD-477,620,Logan Lane,6256,Logan,Lane,6256 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{6C79B5D8-4693-4F38-9468-076B6DB7B384}
-AD-478,620,Logan Lane,6258,Logan,Lane,6258 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{06AFD57D-48BB-4E32-823E-C859894C88FF}
-AD-479,620,Logan Lane,6260,Logan,Lane,6260 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{E0C63A8B-25F0-48D6-80A9-2BDB6C37CF5A}
-AD-480,620,Logan Lane,6272,Logan,Lane,6272 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{F674C2CE-19D9-42C8-BBED-FB0C39BE2FA1}
-AD-481,620,Logan Lane,6274,Logan,Lane,6274 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{F0CE0B0E-E440-47EF-837B-1DCCB52F5317}
-AD-482,620,Logan Lane,6276,Logan,Lane,6276 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{00DF3CB6-8818-4B8D-9880-2939DA7AD342}
-AD-488,620,Logan Lane,6288,Logan,Lane,6288 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Housing - unit,1,,Current,{1F7BB2A4-8064-447E-99D0-CD82BE8CD79C}
-AD-489,628,Nine on the Park,6282,Eagles,Drive,6282 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{F2693497-68BD-4D26-A642-9F8032E88338}
-AD-490,628,Nine on the Park,6284,Eagles,Drive,6284 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{CB3DA212-E8A5-4FF5-8D85-FA4809A8304B}
-AD-491,628,Nine on the Park,6286,Eagles,Drive,6286 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{E5BA9AAF-1120-49FE-B60F-FF7B269B4126}
-AD-492,628,Nine on the Park,6288,Eagles,Drive,6288 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{89A144AC-87F4-4C6D-A8FF-320B2EF42BE9}
-AD-493,628,Nine on the Park,6290,Eagles,Drive,6290 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{78C0E7A5-2067-402A-928F-AC423ABA4F66}
-AD-494,628,Nine on the Park,6292,Eagles,Drive,6292 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{C5C78386-C325-48DB-9B14-1E7B7C137A9D}
-AD-495,628,Nine on the Park,6294,Eagles,Drive,6294 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{EAB782FF-81B6-4A1A-A704-93B7C5794314}
-AD-496,628,Nine on the Park,6296,Eagles,Drive,6296 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{070B25FF-71D1-46A5-B551-3BEF98F7B970}
-AD-497,628,Nine on the Park,6298,Eagles,Drive,6298 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Housing - unit,1,,Current,{DFDAB863-D99E-4AA4-B228-A8E6691417D3}
-AD-498,622,Somerset,6360,Larkin,Drive,6360 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{67A6B85B-FFCB-4221-ABE2-CC2AD1D9A692}
-AD-499,622,Somerset,6362,Larkin,Drive,6362 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{7FF542D2-2405-4E04-9D80-B3631009BD1E}
-AD-500,622,Somerset,6366,Larkin,Drive,6366 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{21B57E35-C9DC-42D9-9149-609E5674CE88}
-AD-501,622,Somerset,6368,Larkin,Drive,6368 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{C821282A-461E-48F5-B031-1EAF2598EA9A}
-AD-502,622,Somerset,6370,Larkin,Drive,6370 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{3D2D70FA-7DAA-4395-9797-219EFA1AFD66}
-AD-503,622,Somerset,6372,Larkin,Drive,6372 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{A5945670-DBAD-41C9-A60E-7154A1CD5892}
-AD-504,622,Somerset,6376,Larkin,Drive,6376 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{528ADCEE-7695-4E3A-ADB7-778AC658B53C}
-AD-505,622,Somerset,6378,Larkin,Drive,6378 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{3DEB0D44-118A-4266-B54C-2922D893BC93}
+AD-370,839,Corus Townhouses,5993,Walter Gage,Road,5993 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Residential,1,,Current,{7BAD7200-C1E2-4017-B24E-B666B13B8CDF}
+AD-371,839,Corus Townhouses,5995,Walter Gage,Road,5995 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Residential,1,,Current,{33F057F3-5444-4480-B039-E9BD8B13ECD8}
+AD-372,839,Corus Townhouses,5997,Walter Gage,Road,5997 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Residential,1,,Current,{F38A4352-1DD9-4833-AC50-92D7079ADEF9}
+AD-373,830-1,Chancellor House Townhouses,6006,Chancellor,Mews,6006 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Residential,1,,Current,{FB88EDF0-2401-41CB-85F0-C03A1FE30CC3}
+AD-375,830-3,Chancellor House Townhouses,6018,Chancellor,Mews,6018 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Residential,1,,Current,{0E816ABE-38D0-4291-82E3-B0E2D5E71E16}
+AD-376,830-4,Chancellor House Townhouses,6022,Chancellor,Mews,6022 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Residential,1,,Current,{2C55344F-59A3-4939-BC3D-C166B7CD3184}
+AD-377,833,Chancellor House Duplexes,6002,Chancellor,Boulevard,6002 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{28C42192-27A3-4BAA-BEB5-7E5E168B91C7}
+AD-378,833,Chancellor House Duplexes,6008,Chancellor,Boulevard,6008 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{FCAEC6ED-ED02-499C-A880-70B7E25EC26A}
+AD-379,834,Chancellor House Duplexes,6012,Chancellor,Boulevard,6012 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{1582D380-2CE2-4C0A-9E88-ECE34D4E7CD4}
+AD-380,834,Chancellor House Duplexes,6016,Chancellor,Boulevard,6016 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{88510210-0D9A-450B-B546-E9880AB16813}
+AD-381,835,Chancellor House Duplexes,6020,Chancellor,Boulevard,6020 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{EA075C51-D015-44FB-8B6F-5AFAAE303C74}
+AD-382,835,Chancellor House Duplexes,6028,Chancellor,Boulevard,6028 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{23B6805A-53C7-4742-8BE5-36F0FBFB832E}
+AD-383,832-3,Coast Townhouses,6070,Chancellor,Mews,6070 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Residential,1,,Current,{C952E7B8-A5A3-4D7F-8CE8-2906C556CA14}
+AD-384,832-3,Coast Townhouses,6076,Chancellor,Mews,6076 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Residential,1,,Current,{6CD82785-B1A8-4DC0-A509-311816A55FF7}
+AD-385,832-3,Coast Townhouses,6080,Chancellor,Mews,6080 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Residential,1,,Current,{5387124B-6DC2-40F1-BC18-EC2D3C9F44E8}
+AD-418,618,Hawthorn Green,6318,Hawthorn,Lane,6318 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Residential,1,,Current,{F5BE3EBC-0496-4B54-849F-E1820488C405}
+AD-419,618,Hawthorn Green,6326,Hawthorn,Lane,6326 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Residential,1,,Current,{D8A12951-9E5C-4733-88BA-E92EAB5FB810}
+AD-420,618,Hawthorn Green,6328,Hawthorn,Lane,6328 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Residential,1,,Current,{528E9124-6362-4020-84DD-3D33FC01701D}
+AD-421,618,Hawthorn Green,6332,Hawthorn,Lane,6332 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Residential,1,,Current,{ED2214EF-A6DE-4A38-9A24-A78944F255C7}
+AD-422,618,Hawthorn Green,6336,Hawthorn,Lane,6336 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Residential,1,,Current,{CC12CCC4-6D23-466A-A8F0-C5F6862F9FF6}
+AD-423,618,Hawthorn Green,6338,Hawthorn,Lane,6338 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Residential,1,,Current,{D2D1E4F4-AFF5-4576-911F-A6E72473EDEF}
+AD-424,618,Hawthorn Green,6346,Hawthorn,Lane,6346 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Residential,1,,Current,{223200B9-3FFA-4E37-910C-5A8F6B7AF2DB}
+AD-425,618,Hawthorn Green,6352,Hawthorn,Lane,6352 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Residential,1,,Current,{EE685BA4-32AA-4D39-AE4B-0411FBDFCFF7}
+AD-426,618,Hawthorn Green,6356,Hawthorn,Lane,6356 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Residential,1,,Current,{0EF5E681-E028-4F08-8DB1-372999096FAE}
+AD-427,618,Hawthorn Green,6358,Hawthorn,Lane,6358 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Residential,1,,Current,{F84766D3-5D9E-499A-8CE9-0BC30C81F990}
+AD-428,620,Logan Lane,2537,East,Mall,2537 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{E5AFB168-1FFD-4A3B-B1AA-3ECEE27E9839}
+AD-429,620,Logan Lane,2539,East,Mall,2539 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{9A4CACED-28B7-4043-8EFC-810CCE35221C}
+AD-430,620,Logan Lane,2541,East,Mall,2541 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{05F13440-9D8E-47C5-9D95-7F04CB4638A2}
+AD-431,620,Logan Lane,2543,East,Mall,2543 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{0205E5E3-D318-4C5C-BCAA-0B1FBD9218AA}
+AD-432,620,Logan Lane,2545,East,Mall,2545 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{671B180A-EEDA-490E-AE73-55293762E72E}
+AD-433,620,Logan Lane,2547,East,Mall,2547 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{AE3AF60A-4645-40B2-8E2A-787546CBE55C}
+AD-434,620,Logan Lane,2549,East,Mall,2549 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{C17D2E16-15F2-4F14-8169-1C765EADAD80}
+AD-435,620,Logan Lane,2551,East,Mall,2551 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{B727DDF7-DBCA-4D04-B5C2-4B588D263114}
+AD-436,620,Logan Lane,2553,East,Mall,2553 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{1BE790C6-7937-4BFF-93DF-7345D89868C8}
+AD-437,620,Logan Lane,2555,East,Mall,2555 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{0A2DEA09-1201-4AD5-9BB3-A41F9D3ADE30}
+AD-438,620,Logan Lane,2557,East,Mall,2557 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Residential,1,,Current,{B56FDE56-C37F-4BDB-AEC6-9AA550026551}
 AD-588,010-0,Acadia Park Townhouses,2611,Melfa,Lane,2611 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{1511C05A-1817-4B83-BBA9-E0C0B123FC35}
 AD-590,010-0,Acadia Park Townhouses,2613,Melfa,Lane,2613 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{2EBD92D1-8CB2-44FE-8403-0BB37AA76EE9}
 AD-592,010-0,Acadia Park Townhouses,2615,Melfa,Lane,2615 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{0A6542FA-3E4A-42AF-8E56-FEE79DDD163C}
@@ -797,40 +776,38 @@ AD-614,010-0,Acadia Park Townhouses,2637,Melfa,Lane,2637 Melfa Lane,Vancouver,BC
 AD-616,010-0,Acadia Park Townhouses,2639,Melfa,Lane,2639 Melfa Lane,Vancouver,BC,V6T 2C5,Academic,Housing - Stude,1,,Current,{013531D4-77A3-46F0-9A38-BB6D65D8DDD0}
 AD-597,010-0,Acadia Park Townhouses,2620,Melfa,Lane,2620 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{C3A50401-7831-48C1-B66E-CC3241217F71}
 AD-599,010-0,Acadia Park Townhouses,2622,Melfa,Lane,2622 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{8E730003-7721-498C-A926-F6C74E59575F}
-AD-506,622,Somerset,6380,Larkin,Drive,6380 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{9CAC9FCC-1796-4123-A990-51DBE396C2B4}
-AD-507,622,Somerset,6382,Larkin,Drive,6382 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{D6FA5927-260A-4C9E-A609-114A5FFF6153}
-AD-508,622,Somerset,6386,Larkin,Drive,6386 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{F91E1345-16F3-4706-970D-903E9F09DA81}
-AD-509,622,Somerset,6388,Larkin,Drive,6388 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Housing - unit,1,,Current,{52C4E956-98AC-435D-AF3E-207B6C3CC38F}
-AD-510,622,Somerset,2602,West,Mall,2602 West Mall,Vancouver,BC,V6T 2K6,Hawthorn,Housing - unit,1,,Current,{1F507039-8D2F-463C-AB1A-3E702268884D}
-AD-511,622,Somerset,2606,West,Mall,2606 West Mall,Vancouver,BC,V6T 2K6,Hawthorn,Housing - unit,1,,Current,{5EDEAF0F-6BBE-4D3C-8E1F-2CA2F6925188}
-AD-512,622,Somerset,2608,West,Mall,2608 West Mall,Vancouver,BC,V6T 2K6,Hawthorn,Housing - unit,1,,Current,{2A6A52FA-B360-4208-890E-4E0400D8CADC}
-AD-513,622,Somerset,2610,West,Mall,2610 West Mall,Vancouver,BC,V6T 2K6,Hawthorn,Housing - unit,1,,Current,{768ABF04-CD3E-4AE4-BC96-1392F16C48D9}
-AD-514,622,Somerset,2612,West,Mall,2612 West Mall,Vancouver,BC,V6T 2K6,Hawthorn,Housing - unit,1,,Current,{2BADA5B9-8417-47B6-B2B8-38C692ADA2A0}
-AD-515,622,Somerset,2616,West,Mall,2616 West Mall,Vancouver,BC,V6T 2K6,Hawthorn,Housing - unit,1,,Current,{DECEE6B2-D086-4E54-A421-2FDEC3D8BEE2}
-AD-516,827-8,St Mark's Duplexes,5902,Chancellor,Boulevard,5902 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{7F5E6B88-AA8E-4850-BA57-7640B5629346}
-AD-517,827-8,St Mark's Duplexes,5908,Chancellor,Boulevard,5908 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{4DE896E2-A914-4502-A004-F1D5D70DC1A0}
-AD-518,827-7,St Mark's Duplexes,5912,Chancellor,Boulevard,5912 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{912C952F-CC35-4910-B4B2-649D40642354}
-AD-519,827-7,St Mark's Duplexes,5918,Chancellor,Boulevard,5918 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{7E1F807B-E536-47E8-A68A-9138337F4403}
-AD-520,827-6,St Mark's Duplexes,5922,Chancellor,Boulevard,5922 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{7ED8B953-185B-4839-91B1-CEDD64CF8CA1}
-AD-521,827-6,St Mark's Duplexes,5928,Chancellor,Boulevard,5928 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{76E6E95E-0035-4469-A3C4-9B5BA1FCCC10}
-AD-522,827-5,St Mark's Duplexes,5932,Chancellor,Boulevard,5932 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{9157C7C4-6403-4B71-9664-63D7ECBEFB6F}
-AD-531,616,Westchester,2566,West,Mall,2566 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{AEE891BE-E238-4B2E-9CF9-3F3A3EDDEA51}
-AD-532,616,Westchester,2568,West,Mall,2568 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{97A33310-DB13-4A1A-AD77-DD31F4149B90}
-AD-533,616,Westchester,2570,West,Mall,2570 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{D773F0B3-28CF-4940-9DE9-2230B35FE208}
-AD-534,616,Westchester,2572,West,Mall,2572 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{D130D31E-3243-4F93-94D6-04075F37A6BB}
-AD-535,616,Westchester,2576,West,Mall,2576 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{B489B755-7C9B-420F-82F3-9DF9A0BFBEB3}
-AD-536,616,Westchester,2578,West,Mall,2578 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{5899788F-790B-450F-BE59-16806F8C18E4}
-AD-537,616,Westchester,2580,West,Mall,2580 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{EFC2561D-54F1-4667-890A-EAD7000F67A8}
-AD-523,827-5,St Mark's Duplexes,5938,Chancellor,Boulevard,5938 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{711AB77D-0417-4CEE-BFAD-DE5E6929A62C}
-AD-524,818,Stirling House Townhouses,6068,Iona,Drive,6068 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Housing - unit,1,,Current,{245B6EC8-9CD9-4C85-8234-CD1345E60F41}
-AD-525,818,Stirling House Townhouses,6078,Iona,Drive,6078 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Housing - unit,1,,Current,{B02671E8-D8CA-413D-93A0-9C443A666182}
-AD-526,818,Stirling House Townhouses,6082,Iona,Drive,6082 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Housing - unit,1,,Current,{98A731D1-7661-484A-AA77-91BF38167649}
-AD-527,818,Stirling House Townhouses,6086,Iona,Drive,6086 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Housing - unit,1,,Current,{D3F07BD3-778A-4249-B7E5-BE2716F32290}
-AD-528,818,Stirling House Townhouses,6088,Iona,Drive,6088 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Housing - unit,1,,Current,{74F54B72-7623-4A29-99C2-70D7DBF37CB8}
-AD-529,616,Westchester,2560,West,Mall,2560 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{1366B525-621D-4806-B668-047FEADE18CF}
-AD-530,616,Westchester,2562,West,Mall,2562 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{F39D899E-C9CA-441D-BAA1-CAA8A9CB8F21}
-AD-538,616,Westchester,2582,West,Mall,2582 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{887D3AC0-A675-4558-A039-3A89DB0D8D8D}
-AD-539,616,Westchester,2586,West,Mall,2586 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{32D005A8-0756-408F-9010-84EFA5D2D911}
+AD-386,832-3,Coast Townhouses,6086,Chancellor,Mews,6086 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Residential,1,,Current,{80748049-7841-4029-9365-72D7090C3170}
+AD-387,832-3,Coast Townhouses,6090,Chancellor,Mews,6090 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Residential,1,,Current,{4DE89261-7F78-4EA2-8FF1-1FDA3EAEA5DE}
+AD-388,832-1,Coast Cityhome,6094,Chancellor,Mews,6094 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Residential,1,,Current,{1AF5F960-679A-415C-B1F0-3A441C7F2AF7}
+AD-397,831-5,Coast Duplexes,6050,Chancellor,Boulevard,6050 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{F1E061A9-145A-4C04-8837-79EA082A2474}
+AD-398,831-5,Coast Duplexes,6060,Chancellor,Boulevard,6060 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{C5553A66-F31E-491D-B9C1-2D0BDF24C1B2}
+AD-395,831-4,Coast Duplexes,6062,Chancellor,Boulevard,6062 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{4F7DF19D-5C60-48A0-89B5-FBA3E5E5CF70}
+AD-396,831-4,Coast Duplexes,6068,Chancellor,Boulevard,6068 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{40FEE132-9E0C-4D25-934F-2A21DDB1A636}
+AD-393,831-3,Coast Duplexes,6072,Chancellor,Boulevard,6072 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{879DACAF-5A75-45A1-87A6-32693C143DC2}
+AD-394,831-3,Coast Duplexes,6078,Chancellor,Boulevard,6078 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{48452276-F7B8-4EBB-903B-366A2FD27444}
+AD-391,831-2,Coast Duplexes,6082,Chancellor,Boulevard,6082 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{BAEE790E-0E35-4241-81D5-C7ACCFE0DC3F}
+AD-392,831-2,Coast Duplexes,6088,Chancellor,Boulevard,6088 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{7DB6FA7B-B82B-4F9A-83F3-FF311233117E}
+AD-389,831-1,Coast Duplexes,6092,Chancellor,Boulevard,6092 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{5F15A9BB-B3F0-46CF-A5C6-37885456C979}
+AD-390,831-1,Coast Duplexes,6098,Chancellor,Boulevard,6098 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Residential,1,,Current,{63E23C80-6F6F-4C88-8E72-6D11D8163849}
+AD-399,823,Chancellor Hall Townhouses,5978,Chancellor,Mews,5978 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Residential,1,,Current,{6805B980-8C14-4A9F-BE64-1559AF5E773E}
+AD-400,823,Chancellor Hall Townhouses,5980,Chancellor,Mews,5980 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Residential,1,,Current,{5830D52A-1EAA-4AFE-A995-332EAA32C57E}
+AD-401,824,Chancellor Hall Cityhomes,5982,Chancellor,Mews,5982 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Residential,1,,Current,{C1EEFDF2-B567-4411-971B-E2550ACC5E96}
+AD-402,824,Chancellor Hall Cityhomes,5984,Chancellor,Mews,5984 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Residential,1,,Current,{8C2862BE-ABA4-4488-BED9-384D16853DBB}
+AD-403,824,Chancellor Hall Cityhomes,5986,Chancellor,Mews,5986 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Residential,1,,Current,{C1EDE408-337C-49D2-9A39-B81A4357011D}
+AD-404,824,Chancellor Hall Cityhomes,5988,Chancellor,Mews,5988 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Residential,1,,Current,{D9C11312-C63C-4DBC-92B6-48366B4EDD70}
+AD-409,826,Folio Townhouses,5968,Chancellor,Mews,5968 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Residential,1,,Current,{947E3BAE-9B5C-49C4-9BFA-928158302E24}
+AD-408,826,Folio Townhouses,5966,Chancellor,Mews,5966 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Residential,1,,Current,{E78D7A02-28C1-405A-BC1D-11A6A90E9196}
+AD-407,826,Folio Townhouses,5962,Chancellor,Mews,5962 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Residential,1,,Current,{033054D5-F143-4EA6-BC64-29B2EED7D5E1}
+AD-406,825,Folio Cityhomes,5958,Chancellor,Mews,5958 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Residential,1,,Current,{31A140F0-0F7B-420B-B97C-3CF4B3C9D61D}
+AD-405,825,Folio Cityhomes,5952,Chancellor,Mews,5952 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Residential,1,,Current,{AB4C2E80-41EC-47C0-88E1-5E0FA07B92DC}
+AD-416,827-1,Folio Duplexes,5962,Chancellor,Boulevard,5962 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{6C365F79-66D4-479F-A4A8-6F1C34CD699A}
+AD-417,827-1,Folio Duplexes,5968,Chancellor,Boulevard,5968 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{936F9399-5746-4565-B702-8E570A4DDC39}
+AD-414,827-2,Folio Duplexes,5972,Chancellor,Boulevard,5972 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{DC0A544F-5372-485F-AB9F-2F43FDB95F72}
+AD-415,827-2,Folio Duplexes,5978,Chancellor,Boulevard,5978 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{F846A16E-0ADC-48F7-9C37-85AFAA6B4E89}
+AD-412,827-3,Folio Duplexes,5982,Chancellor,Boulevard,5982 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{BDAFA14B-83AE-4CAE-A763-762E7BFF1A5C}
+AD-413,827-3,Folio Duplexes,5988,Chancellor,Boulevard,5988 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{DBD5A2AD-50CD-4F32-A8C5-A0845597CC75}
+AD-410,827-4,Folio Duplexes,5992,Chancellor,Boulevard,5992 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{17DA26B5-305F-4B81-80DD-BD497D1DBC9A}
+AD-411,827-4,Folio Duplexes,5998,Chancellor,Boulevard,5998 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{D931B8A5-7CA1-43DB-95FD-D5D8C9C2EB51}
 AD-633,009-1,Acadia Park Townhouses,5607,Yalta,Place,5607 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{EE3A0C70-36A9-4B64-BE75-3F63D30C05A6}
 AD-635,009-1,Acadia Park Townhouses,5609,Yalta,Place,5609 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{3E2DE955-462F-4D57-9638-D25AE50018A3}
 AD-637,009-1,Acadia Park Townhouses,5611,Yalta,Place,5611 Yalta Place,Vancouver,BC,V6T 1L7,Academic,Housing - Stude,1,,Current,{B17758BE-4A46-4A41-9633-83F77F4DE817}
@@ -898,89 +875,93 @@ AD-670,009-0,Acadia Park Townhouses,2621,Tennis,Cres,2621 Tennis Cres,Vancouver,
 AD-672,009-0,Acadia Park Townhouses,2623,Tennis,Cres,2623 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{C3701ACF-5440-49CF-92ED-D49FD6283C49}
 AD-674,009-0,Acadia Park Townhouses,2625,Tennis,Cres,2625 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{A2FE3B9A-A38A-4310-9305-14D898B3ED58}
 AD-676,009-0,Acadia Park Townhouses,2627,Tennis,Cres,2627 Tennis Cres,Vancouver,BC,V6T 2C1,Academic,Housing - Stude,1,,Current,{F42624C7-648C-4A1C-AA2C-9C5F227D7B2D}
-AD-540,616,Westchester,2588,West,Mall,2588 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{2B0D0303-232F-44F0-B9A2-5D7F602982D1}
-AD-541,616,Westchester,2590,West,Mall,2590 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{6F2653A7-EC10-4D1D-AFDC-093D0B11F788}
-AD-542,616,Westchester,2592,West,Mall,2592 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{CDF68A4B-9B17-4F25-8DE3-360AE25A0BC5}
-AD-543,616,Westchester,2596,West,Mall,2596 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{C0DC94B6-0E04-4ED1-AC8A-BFBD0DDD7E18}
-AD-544,616,Westchester,2598,West,Mall,2598 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Housing - unit,1,,Current,{379BB53B-3247-4B5B-959F-4FDFBCE874CB}
-AD-545,616,Westchester,6361,Larkin,Drive,6361 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing - unit,1,,Current,{F02ACE0F-56E6-4429-ADE8-1B2BC5C6BC90}
-AD-546,616,Westchester,6363,Larkin,Drive,6363 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing - unit,1,,Current,{BA9CF304-754D-4DEC-8341-A9E598170506}
-AD-547,616,Westchester,6365,Larkin,Drive,6365 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing - unit,1,,Current,{B3957DEF-F1C8-4B6C-9C9C-72AB05B450C8}
-AD-548,616,Westchester,6367,Larkin,Drive,6367 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing - unit,1,,Current,{7D4C462A-7206-4F99-93D0-64B063EC329D}
-AD-549,616,Westchester,6371,Larkin,Drive,6371 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing - unit,1,,Current,{22146D98-EFAA-44EA-B0C1-1711B385BC6E}
-AD-550,616,Westchester,6373,Larkin,Drive,6373 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing - unit,1,,Current,{ECD8AE5B-448F-42B9-957D-5CEAB4686E91}
-AD-551,616,Westchester,6375,Larkin,Drive,6375 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing - unit,1,,Current,{6964C9B7-1FAB-41EA-BE0C-79D7ABF06B9E}
-AD-552,616,Westchester,6377,Larkin,Drive,6377 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing - unit,1,,Current,{2968EF25-6EE7-4A8D-9F37-DDEA559D0A0C}
-AD-553,616,Westchester,6381,Larkin,Drive,6381 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing - unit,1,,Current,{DC784053-9B2E-48B9-9EF5-574C5DDE67CF}
-AD-554,616,Westchester,6383,Larkin,Drive,6383 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing - unit,1,,Current,{AAD00616-22F8-4D56-BD2A-C85312AA3388}
-AD-555,616,Westchester,6385,Larkin,Drive,6385 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing - unit,1,,Current,{015BC9F5-5D54-40A3-9159-8CE6963664CD}
-AD-556,616,Westchester,6387,Larkin,Drive,6387 Larkin Drive,Vancouver,BC,V6T 2K1,Hawthorn,Housing - unit,1,,Current,{0B67A83B-6989-4290-A8B2-6A606D8CC6DE}
+AD-76,819,Axis,6090,Iona,Drive,6090 Iona Drive,Vancouver,BC,V6T 0B6,Chancellor Place,Residential,174,,Current,{F64E9DBA-1520-42C3-A4B3-E6336CBE9371}
 AD-557,009-0,Acadia Park Townhouses,2500,Melfa,Lane,2500 Melfa Lane,Vancouver,BC,V6T 2C6,Academic,Housing - Stude,1,,Current,{C0ABF71F-837F-4F4C-A034-4554A2DEE054}
-AD-52,693,Webber House,3388,Webber,Lane,3388 Webber Lane,Vancouver,BC,,Wesbrook Place,Housing,36,,Current,{2EE880F2-9135-45DC-9B45-38E9B10DC84F}
-AD-35,598,Binning Tower,3355,Binning,Road,3355 Binning Road,Vancouver,BC,V6S 0J1,Wesbrook Place,Housing,217,,Current,{9B11FD1A-6F2D-42E9-B4E1-B157BF39B339}
-AD-233,589-2,The Laureates - Low Rise,5638,Birney,Avenue,5638 Birney Avenue,Vancouver,BC,V6S 0H8,Wesbrook Place,Housing - unit,53,,Current,{F0151C57-0DBD-4604-AFC3-37379867859A}
-AD-232,589-1,The Laureates - High Rise,5628,Birney,Avenue,5628 Birney Avenue,Vancouver,BC,V6S 0H7,Wesbrook Place,Housing,161,,Current,{9F8999EC-7985-42DE-A6D5-4290E039236E}
-AD-29,588-2,Pathways East,5779,Birney,Avenue,5779 Birney Avenue,Vancouver,BC,V6S 0A3,Wesbrook Place,Housing,44,,Current,{BAC4BBCA-7AA6-4ABC-81DD-35AE567F7EED}
-AD-30,588-1,Pathways West,5777,Birney,Avenue,5777 Birney Avenue,Vancouver,BC,V6S 0A4,Wesbrook Place,Housing,65,,Current,{E4FFB2E8-509F-4819-BA3B-2545571195E2}
-AD-34,713,Magnolia House,3565,Wesbrook,Mall,3565 Wesbrook Mall,Vancouver,BC,V6S 0H1,Wesbrook Place,Housing,60,,Current,{EA09573D-E3A2-4DDC-91D4-CA7517BF2910}
-AD-66,717,Nobel House,3655,Wesbrook,Mall,3655 Wesbrook Mall,Vancouver,BC,V6S 0G6,Wesbrook Place,Housing,94,,Current,{8C34ED8A-1C64-4A8F-BB26-2F475CA5A849}
+AD-77,825,Folio Apartments,5955,Iona,Drive,5955 Iona Drive,Vancouver,BC,V6T 2L4,Chancellor Place,Residential,53,,Current,{3B090024-1DAD-4D73-ADDF-F930DC8A2136}
+AD-79,830,Chancellor House Apartments,6015,Iona,Drive,6015 Iona Drive,Vancouver,BC,V6T 2J4,Chancellor Place,Residential,45,,Current,{9D586772-DEEB-49FF-B94D-CC22D4C889BE}
+AD-80,837,Argyll House West,6018,Iona,Drive,6018 Iona Drive,Vancouver,BC,V6T 2L1,Chancellor Place,Residential,42,,Current,{F60F2D94-23C8-41EF-923A-33FFF6B52300}
+AD-81,841,Westpoint,6005,Walter Gage,Road,6005 Walter Gage Road,Vancouver,BC,V6T 0B3,Chancellor Place,Residential,69,,Current,{C3F03FC6-5CFB-4D68-B9EB-3AB3393CE088}
+AD-235,593-1,Tapestry Rental,3338,Wesbrook,Mall,3338 Wesbrook Mall,Vancouver,BC,V6S 0A6,Wesbrook Place,Residential,134,,Current,{6618378E-C1C5-452C-9FE2-731F5B5E1FD8}
+AD-374,830-2,Chancellor House Townhouses,6010,Chancellor,Mews,6010 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Residential,1,,Current,{A5A090FE-680D-4CEB-8ED0-5ABA37B5D354}
+AD-233,589-2,The Laureates - Low Rise,5638,Birney,Avenue,5638 Birney Avenue,Vancouver,BC,V6S 0H8,Wesbrook Place,Residential,53,,Current,{F0151C57-0DBD-4604-AFC3-37379867859A}
+AD-313,592,Eton - high rise,3487,Binning,Road,3487 Binning Road,Vancouver,BC,,Wesbrook Place,Residential,192,,UC,{8A0F03E0-91AA-4326-B2A8-1CBA8917F781}
+AD-363,839,Corus Townhouses,5977,Walter Gage,Road,5977 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Residential,1,,Current,{9414E43E-F7F3-4A55-A983-C992DF72D252}
+AD-364,839,Corus Townhouses,5979,Walter Gage,Road,5979 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Residential,1,,Current,{63A86F5B-27B3-46B3-9FA3-6FDE484A6288}
+AD-365,839,Corus Townhouses,5981,Walter Gage,Road,5981 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Residential,1,,Current,{603421CD-9173-4757-A125-BB67180C6501}
+AD-366,839,Corus Townhouses,5983,Walter Gage,Road,5983 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Residential,1,,Current,{A51A52F2-CE9A-45BA-A18F-40F622AC1EE0}
+AD-367,839,Corus Townhouses,5985,Walter Gage,Road,5985 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Residential,1,,Current,{BC8D4CE5-9C3B-46B3-B154-1740352228E4}
+AD-368,839,Corus Townhouses,5987,Walter Gage,Road,5987 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Residential,1,,Current,{2A332B1D-2BCB-4B38-8B62-8568EAE682E9}
+AD-369,839,Corus Townhouses,5991,Walter Gage,Road,5991 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Residential,1,,Current,{5FCB5F1F-A19D-4DBD-87FF-4088C36A2122}
+AD-489,628,Nine on the Park,6282,Eagles,Drive,6282 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Residential,1,,Current,{F2693497-68BD-4D26-A642-9F8032E88338}
+AD-490,628,Nine on the Park,6284,Eagles,Drive,6284 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Residential,1,,Current,{CB3DA212-E8A5-4FF5-8D85-FA4809A8304B}
+AD-491,628,Nine on the Park,6286,Eagles,Drive,6286 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Residential,1,,Current,{E5BA9AAF-1120-49FE-B60F-FF7B269B4126}
+AD-492,628,Nine on the Park,6288,Eagles,Drive,6288 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Residential,1,,Current,{89A144AC-87F4-4C6D-A8FF-320B2EF42BE9}
+AD-493,628,Nine on the Park,6290,Eagles,Drive,6290 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Residential,1,,Current,{78C0E7A5-2067-402A-928F-AC423ABA4F66}
+AD-494,628,Nine on the Park,6292,Eagles,Drive,6292 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Residential,1,,Current,{C5C78386-C325-48DB-9B14-1E7B7C137A9D}
+AD-495,628,Nine on the Park,6294,Eagles,Drive,6294 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Residential,1,,Current,{EAB782FF-81B6-4A1A-A704-93B7C5794314}
+AD-496,628,Nine on the Park,6296,Eagles,Drive,6296 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Residential,1,,Current,{070B25FF-71D1-46A5-B551-3BEF98F7B970}
+AD-497,628,Nine on the Park,6298,Eagles,Drive,6298 Eagles Drive,Vancouver,BC,V6T 0A3,Hawthorn,Residential,1,,Current,{DFDAB863-D99E-4AA4-B228-A8E6691417D3}
+AD-498,622,Somerset,6360,Larkin,Drive,6360 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Residential,1,,Current,{67A6B85B-FFCB-4221-ABE2-CC2AD1D9A692}
+AD-499,622,Somerset,6362,Larkin,Drive,6362 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Residential,1,,Current,{7FF542D2-2405-4E04-9D80-B3631009BD1E}
+AD-500,622,Somerset,6366,Larkin,Drive,6366 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Residential,1,,Current,{21B57E35-C9DC-42D9-9149-609E5674CE88}
+AD-501,622,Somerset,6368,Larkin,Drive,6368 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Residential,1,,Current,{C821282A-461E-48F5-B031-1EAF2598EA9A}
+AD-502,622,Somerset,6370,Larkin,Drive,6370 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Residential,1,,Current,{3D2D70FA-7DAA-4395-9797-219EFA1AFD66}
+AD-503,622,Somerset,6372,Larkin,Drive,6372 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Residential,1,,Current,{A5945670-DBAD-41C9-A60E-7154A1CD5892}
 AD-277,690,Wesbrook Professional Centre,3313,Shrum,Lane,3313 Shrum Lane,Vancouver,BC,V6S 0C8,Wesbrook Place,Commercial,0,,Current,{57AB29D0-30DC-4648-BCAD-39126DB301B6}
-AD-56,695,Yu,5955,Birney,Avenue,5955 Birney Avenue,Vancouver,BC,V6S 0C5,Wesbrook Place,Housing,106,,Current,{FE1F2EE7-6BFC-42D5-803C-1C85F72E75C2}
 AD-57,697,Wesbrook Community Centre,3335,Webber,Lane,3335 Webber Lane,Vancouver,BC,V6S 0H3,Wesbrook Place,Non-UBC,0,,Current,{902819BB-01CA-416C-9C0F-811AA904B77B}
-AD-61,707,Sail 2,5981,Gray,Avenue,5981 Gray Avenue,Vancouver,BC,V6S 0G1,Wesbrook Place,Housing,77,,Current,{94671D52-513F-4AEB-BEF7-517058C5FFD5}
-AD-59,705,Sail 1,5983,Gray,Avenue,5983 Gray Avenue,Vancouver,BC,V6S 0G8,Wesbrook Place,Housing,95,,Current,{7126D29E-4B89-4712-ABA4-D1C9E6814805}
-AD-62,711,Prodigy 1,6033,Gray,Avenue,6033 Gray Avenue,Vancouver,BC,V6S 0G3,Wesbrook Place,Housing,105,,Current,{89B26C0D-807D-4EA4-83B5-52D81E79E191}
-AD-63,711,Prodigy 2,3462,Ross,Drive,3462 Ross Drive,Vancouver,BC,V6S 0H6,Wesbrook Place,Housing,83,,Current,{3FDA6C1B-3677-426E-B38D-C5050B3240A8}
-AD-51,691,Village Square,3338,Webber,Lane,3338 Webber Lane,Vancouver,BC,,Wesbrook Place,Housing,90,,Current,{50B908CC-7000-4935-BF3E-92B649960F03}
 AD-50,691,Village Square - Retail,5958,Webber,Lane,5958 Webber Lane,Vancouver,BC,,Wesbrook Place,Commercial,0,,Current,{27509994-9369-413A-8C24-E3E17B788CE6}
-AD-372,839,Corus Townhouses,5997,Walter Gage,Road,5997 Walter Gage Road,Vancouver,BC,V6T 0A9,Chancellor Place,Housing - unit,1,,Current,{F38A4352-1DD9-4833-AC50-92D7079ADEF9}
-AD-386,832-3,Coast Townhouses,6086,Chancellor,Mews,6086 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Housing - unit,1,,Current,{80748049-7841-4029-9365-72D7090C3170}
-AD-373,830-1,Chancellor House Townhouses,6006,Chancellor,Mews,6006 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Housing - unit,1,,Current,{FB88EDF0-2401-41CB-85F0-C03A1FE30CC3}
-AD-374,830-2,Chancellor House Townhouses,6010,Chancellor,Mews,6010 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Housing - unit,1,,Current,{A5A090FE-680D-4CEB-8ED0-5ABA37B5D354}
-AD-375,830-3,Chancellor House Townhouses,6018,Chancellor,Mews,6018 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Housing - unit,1,,Current,{0E816ABE-38D0-4291-82E3-B0E2D5E71E16}
-AD-376,830-4,Chancellor House Townhouses,6022,Chancellor,Mews,6022 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Housing - unit,1,,Current,{2C55344F-59A3-4939-BC3D-C166B7CD3184}
-AD-377,833,Chancellor House Duplexes,6002,Chancellor,Boulevard,6002 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{28C42192-27A3-4BAA-BEB5-7E5E168B91C7}
-AD-378,833,Chancellor House Duplexes,6008,Chancellor,Boulevard,6008 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{FCAEC6ED-ED02-499C-A880-70B7E25EC26A}
-AD-379,834,Chancellor House Duplexes,6012,Chancellor,Boulevard,6012 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{1582D380-2CE2-4C0A-9E88-ECE34D4E7CD4}
-AD-380,834,Chancellor House Duplexes,6016,Chancellor,Boulevard,6016 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{88510210-0D9A-450B-B546-E9880AB16813}
-AD-381,835,Chancellor House Duplexes,6020,Chancellor,Boulevard,6020 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{EA075C51-D015-44FB-8B6F-5AFAAE303C74}
-AD-382,835,Chancellor House Duplexes,6028,Chancellor,Boulevard,6028 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{23B6805A-53C7-4742-8BE5-36F0FBFB832E}
-AD-383,832-3,Coast Townhouses,6070,Chancellor,Mews,6070 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Housing - unit,1,,Current,{C952E7B8-A5A3-4D7F-8CE8-2906C556CA14}
-AD-384,832-3,Coast Townhouses,6076,Chancellor,Mews,6076 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Housing - unit,1,,Current,{6CD82785-B1A8-4DC0-A509-311816A55FF7}
-AD-385,832-3,Coast Townhouses,6080,Chancellor,Mews,6080 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Housing - unit,1,,Current,{5387124B-6DC2-40F1-BC18-EC2D3C9F44E8}
-AD-433,620,Logan Lane,2547,East,Mall,2547 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{AE3AF60A-4645-40B2-8E2A-787546CBE55C}
-AD-411,827-4,Folio Duplexes,5998,Chancellor,Boulevard,5998 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{D931B8A5-7CA1-43DB-95FD-D5D8C9C2EB51}
-AD-418,618,Hawthorn Green,6318,Hawthorn,Lane,6318 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Housing - unit,1,,Current,{F5BE3EBC-0496-4B54-849F-E1820488C405}
-AD-419,618,Hawthorn Green,6326,Hawthorn,Lane,6326 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Housing - unit,1,,Current,{D8A12951-9E5C-4733-88BA-E92EAB5FB810}
-AD-420,618,Hawthorn Green,6328,Hawthorn,Lane,6328 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Housing - unit,1,,Current,{528E9124-6362-4020-84DD-3D33FC01701D}
-AD-421,618,Hawthorn Green,6332,Hawthorn,Lane,6332 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Housing - unit,1,,Current,{ED2214EF-A6DE-4A38-9A24-A78944F255C7}
-AD-422,618,Hawthorn Green,6336,Hawthorn,Lane,6336 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Housing - unit,1,,Current,{CC12CCC4-6D23-466A-A8F0-C5F6862F9FF6}
-AD-423,618,Hawthorn Green,6338,Hawthorn,Lane,6338 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Housing - unit,1,,Current,{D2D1E4F4-AFF5-4576-911F-A6E72473EDEF}
-AD-424,618,Hawthorn Green,6346,Hawthorn,Lane,6346 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Housing - unit,1,,Current,{223200B9-3FFA-4E37-910C-5A8F6B7AF2DB}
-AD-425,618,Hawthorn Green,6352,Hawthorn,Lane,6352 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Housing - unit,1,,Current,{EE685BA4-32AA-4D39-AE4B-0411FBDFCFF7}
-AD-426,618,Hawthorn Green,6356,Hawthorn,Lane,6356 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Housing - unit,1,,Current,{0EF5E681-E028-4F08-8DB1-372999096FAE}
-AD-427,618,Hawthorn Green,6358,Hawthorn,Lane,6358 Hawthorn Lane,Vancouver,BC,V6T 2J6,Hawthorn,Housing - unit,1,,Current,{F84766D3-5D9E-499A-8CE9-0BC30C81F990}
-AD-428,620,Logan Lane,2537,East,Mall,2537 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{E5AFB168-1FFD-4A3B-B1AA-3ECEE27E9839}
-AD-429,620,Logan Lane,2539,East,Mall,2539 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{9A4CACED-28B7-4043-8EFC-810CCE35221C}
-AD-430,620,Logan Lane,2541,East,Mall,2541 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{05F13440-9D8E-47C5-9D95-7F04CB4638A2}
-AD-431,620,Logan Lane,2543,East,Mall,2543 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{0205E5E3-D318-4C5C-BCAA-0B1FBD9218AA}
-AD-432,620,Logan Lane,2545,East,Mall,2545 East Mall,Vancouver,BC,V6T 2K8,Hawthorn,Housing - unit,1,,Current,{671B180A-EEDA-490E-AE73-55293762E72E}
-AD-402,824,Chancellor Hall Cityhomes,5984,Chancellor,Mews,5984 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{8C2862BE-ABA4-4488-BED9-384D16853DBB}
-AD-403,824,Chancellor Hall Cityhomes,5986,Chancellor,Mews,5986 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{C1EDE408-337C-49D2-9A39-B81A4357011D}
-AD-404,824,Chancellor Hall Cityhomes,5988,Chancellor,Mews,5988 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{D9C11312-C63C-4DBC-92B6-48366B4EDD70}
-AD-409,826,Folio Townhouses,5968,Chancellor,Mews,5968 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{947E3BAE-9B5C-49C4-9BFA-928158302E24}
-AD-408,826,Folio Townhouses,5966,Chancellor,Mews,5966 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{E78D7A02-28C1-405A-BC1D-11A6A90E9196}
-AD-407,826,Folio Townhouses,5962,Chancellor,Mews,5962 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{033054D5-F143-4EA6-BC64-29B2EED7D5E1}
-AD-406,825,Folio Cityhomes,5958,Chancellor,Mews,5958 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{31A140F0-0F7B-420B-B97C-3CF4B3C9D61D}
-AD-405,825,Folio Cityhomes,5952,Chancellor,Mews,5952 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{AB4C2E80-41EC-47C0-88E1-5E0FA07B92DC}
-AD-416,827-1,Folio Duplexes,5962,Chancellor,Boulevard,5962 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{6C365F79-66D4-479F-A4A8-6F1C34CD699A}
-AD-417,827-1,Folio Duplexes,5968,Chancellor,Boulevard,5968 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{936F9399-5746-4565-B702-8E570A4DDC39}
-AD-414,827-2,Folio Duplexes,5972,Chancellor,Boulevard,5972 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{DC0A544F-5372-485F-AB9F-2F43FDB95F72}
-AD-415,827-2,Folio Duplexes,5978,Chancellor,Boulevard,5978 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{F846A16E-0ADC-48F7-9C37-85AFAA6B4E89}
-AD-412,827-3,Folio Duplexes,5982,Chancellor,Boulevard,5982 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{BDAFA14B-83AE-4CAE-A763-762E7BFF1A5C}
-AD-413,827-3,Folio Duplexes,5988,Chancellor,Boulevard,5988 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{DBD5A2AD-50CD-4F32-A8C5-A0845597CC75}
-AD-410,827-4,Folio Duplexes,5992,Chancellor,Boulevard,5992 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Housing - unit,1,,Current,{17DA26B5-305F-4B81-80DD-BD497D1DBC9A}
+AD-504,622,Somerset,6376,Larkin,Drive,6376 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Residential,1,,Current,{528ADCEE-7695-4E3A-ADB7-778AC658B53C}
+AD-505,622,Somerset,6378,Larkin,Drive,6378 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Residential,1,,Current,{3DEB0D44-118A-4266-B54C-2922D893BC93}
+AD-506,622,Somerset,6380,Larkin,Drive,6380 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Residential,1,,Current,{9CAC9FCC-1796-4123-A990-51DBE396C2B4}
+AD-507,622,Somerset,6382,Larkin,Drive,6382 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Residential,1,,Current,{D6FA5927-260A-4C9E-A609-114A5FFF6153}
+AD-508,622,Somerset,6386,Larkin,Drive,6386 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Residential,1,,Current,{F91E1345-16F3-4706-970D-903E9F09DA81}
+AD-509,622,Somerset,6388,Larkin,Drive,6388 Larkin Drive,Vancouver,BC,V6T 2K5,Hawthorn,Residential,1,,Current,{52C4E956-98AC-435D-AF3E-207B6C3CC38F}
+AD-510,622,Somerset,2602,West,Mall,2602 West Mall,Vancouver,BC,V6T 2K6,Hawthorn,Residential,1,,Current,{1F507039-8D2F-463C-AB1A-3E702268884D}
+AD-511,622,Somerset,2606,West,Mall,2606 West Mall,Vancouver,BC,V6T 2K6,Hawthorn,Residential,1,,Current,{5EDEAF0F-6BBE-4D3C-8E1F-2CA2F6925188}
+AD-513,622,Somerset,2610,West,Mall,2610 West Mall,Vancouver,BC,V6T 2K6,Hawthorn,Residential,1,,Current,{768ABF04-CD3E-4AE4-BC96-1392F16C48D9}
+AD-514,622,Somerset,2612,West,Mall,2612 West Mall,Vancouver,BC,V6T 2K6,Hawthorn,Residential,1,,Current,{2BADA5B9-8417-47B6-B2B8-38C692ADA2A0}
+AD-515,622,Somerset,2616,West,Mall,2616 West Mall,Vancouver,BC,V6T 2K6,Hawthorn,Residential,1,,Current,{DECEE6B2-D086-4E54-A421-2FDEC3D8BEE2}
+AD-516,827-8,St Mark's Duplexes,5902,Chancellor,Boulevard,5902 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{7F5E6B88-AA8E-4850-BA57-7640B5629346}
+AD-517,827-8,St Mark's Duplexes,5908,Chancellor,Boulevard,5908 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{4DE896E2-A914-4502-A004-F1D5D70DC1A0}
+AD-518,827-7,St Mark's Duplexes,5912,Chancellor,Boulevard,5912 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{912C952F-CC35-4910-B4B2-649D40642354}
+AD-519,827-7,St Mark's Duplexes,5918,Chancellor,Boulevard,5918 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{7E1F807B-E536-47E8-A68A-9138337F4403}
+AD-520,827-6,St Mark's Duplexes,5922,Chancellor,Boulevard,5922 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{7ED8B953-185B-4839-91B1-CEDD64CF8CA1}
+AD-521,827-6,St Mark's Duplexes,5928,Chancellor,Boulevard,5928 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{76E6E95E-0035-4469-A3C4-9B5BA1FCCC10}
+AD-522,827-5,St Mark's Duplexes,5932,Chancellor,Boulevard,5932 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{9157C7C4-6403-4B71-9664-63D7ECBEFB6F}
+AD-523,827-5,St Mark's Duplexes,5938,Chancellor,Boulevard,5938 Chancellor Boulevard,Vancouver,BC,V6T 0A1,Chancellor Place,Residential,1,,Current,{711AB77D-0417-4CEE-BFAD-DE5E6929A62C}
+AD-524,818,Stirling House Townhouses,6068,Iona,Drive,6068 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Residential,1,,Current,{245B6EC8-9CD9-4C85-8234-CD1345E60F41}
+AD-525,818,Stirling House Townhouses,6078,Iona,Drive,6078 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Residential,1,,Current,{B02671E8-D8CA-413D-93A0-9C443A666182}
+AD-526,818,Stirling House Townhouses,6082,Iona,Drive,6082 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Residential,1,,Current,{98A731D1-7661-484A-AA77-91BF38167649}
+AD-527,818,Stirling House Townhouses,6086,Iona,Drive,6086 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Residential,1,,Current,{D3F07BD3-778A-4249-B7E5-BE2716F32290}
+AD-512,622,Somerset,2608,West,Mall,2608 West Mall,Vancouver,BC,V6T 2K6,Hawthorn,Residential,1,,Current,{2A6A52FA-B360-4208-890E-4E0400D8CADC}
+AD-528,818,Stirling House Townhouses,6088,Iona,Drive,6088 Iona Drive,Vancouver,BC,V6T 0A4,Chancellor Place,Residential,1,,Current,{74F54B72-7623-4A29-99C2-70D7DBF37CB8}
+AD-529,616,Westchester,2560,West,Mall,2560 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{1366B525-621D-4806-B668-047FEADE18CF}
+AD-530,616,Westchester,2562,West,Mall,2562 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{F39D899E-C9CA-441D-BAA1-CAA8A9CB8F21}
+AD-531,616,Westchester,2566,West,Mall,2566 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{AEE891BE-E238-4B2E-9CF9-3F3A3EDDEA51}
+AD-532,616,Westchester,2568,West,Mall,2568 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{97A33310-DB13-4A1A-AD77-DD31F4149B90}
+AD-533,616,Westchester,2570,West,Mall,2570 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{D773F0B3-28CF-4940-9DE9-2230B35FE208}
+AD-534,616,Westchester,2572,West,Mall,2572 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{D130D31E-3243-4F93-94D6-04075F37A6BB}
+AD-535,616,Westchester,2576,West,Mall,2576 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{B489B755-7C9B-420F-82F3-9DF9A0BFBEB3}
+AD-536,616,Westchester,2578,West,Mall,2578 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{5899788F-790B-450F-BE59-16806F8C18E4}
+AD-537,616,Westchester,2580,West,Mall,2580 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{EFC2561D-54F1-4667-890A-EAD7000F67A8}
+AD-538,616,Westchester,2582,West,Mall,2582 West Mall,Vancouver,BC,V6T 2J9,Hawthorn,Residential,1,,Current,{887D3AC0-A675-4558-A039-3A89DB0D8D8D}
 AD-213,521,Campus Energy Centre,6130,Agronomy,Road,6130 Agronomy Road,Vancouver,BC,V6T 1Z3,Academic,UBC,0,,Current,{284AA823-BCAA-40FD-8C96-B7922FAC3646}
+AD-275,817-1,St. Andrew's Hall,6040,Iona,Drive,6040 Iona Drive,Vancouver,BC,V6T 2E8,Chancellor Place,Residential,38,,Current,{0E3150A0-6CE1-4B5C-8400-0CBD4166D36D}
+AD-23,AD-23,Vista Point,5828,Thunderbird,Boulevard,5828 Thunderbird Boulevard,Vancouver,BC,V6T 0B8,East Campus,Residential,106,,Current,{25F761E2-4BD0-4B41-B520-ADA59DE7322E}
+AD-22,554-1,Greenwood Commons,2660,Wesbrook,Mall,2660 Wesbrook Mall,Vancouver,BC,V6T 0A5,East Campus,Residential,70,,Current,{367C0259-CA72-4593-A129-5261E2AD9499}
+AD-14,506-1,The Stratford,5657,Hampton,Place,5657 Hampton Place,Vancouver,BC,V6T 2H4,Hampton Place,Residential,59,,Current,{F677694E-256F-41F2-AB31-0E47FA7DB64E}
+AD-13,506-2,Wyndham Hall,5683,Hampton,Place,5683 Hampton Place,Vancouver,BC,V6T 2H3,Hampton Place,Residential,55,,Current,{4A529FC0-1F53-4C50-9F54-159BE42AA6BA}
+AD-276,595,Sage,5782,Berton,Avenue,5782 Berton Avenue,Vancouver,BC,V6S 0C1,Wesbrook Place,Residential,115,,Current,{D6AF6B6F-03C8-453F-BF8C-F92135F0737C}
+AD-33,596,Academy,5728,Berton,Avenue,5728 Berton Avenue,Vancouver,BC,V6S 0E5,Wesbrook Place,Residential,162,,Current,{83AC8322-ECCE-4EFB-9FCF-796220631740}
+AD-35,598,Binning Tower,3355,Binning,Road,3355 Binning Road,Vancouver,BC,V6S 0J1,Wesbrook Place,Residential,217,,Current,{9B11FD1A-6F2D-42E9-B4E1-B157BF39B339}
+AD-232,589-1,The Laureates - High Rise,5628,Birney,Avenue,5628 Birney Avenue,Vancouver,BC,V6S 0H7,Wesbrook Place,Residential,161,,Current,{9F8999EC-7985-42DE-A6D5-4290E039236E}
+AD-29,588-2,Pathways East,5779,Birney,Avenue,5779 Birney Avenue,Vancouver,BC,V6S 0A3,Wesbrook Place,Residential,44,,Current,{BAC4BBCA-7AA6-4ABC-81DD-35AE567F7EED}
+AD-30,588-1,Pathways West,5777,Birney,Avenue,5777 Birney Avenue,Vancouver,BC,V6S 0A4,Wesbrook Place,Residential,65,,Current,{E4FFB2E8-509F-4819-BA3B-2545571195E2}
+AD-34,713,Magnolia House,3565,Wesbrook,Mall,3565 Wesbrook Mall,Vancouver,BC,V6S 0H1,Wesbrook Place,Residential,60,,Current,{EA09573D-E3A2-4DDC-91D4-CA7517BF2910}
+AD-66,717,Nobel House,3655,Wesbrook,Mall,3655 Wesbrook Mall,Vancouver,BC,V6S 0G6,Wesbrook Place,Residential,94,,Current,{8C34ED8A-1C64-4A8F-BB26-2F475CA5A849}
+AD-459,620,Logan Lane,6220,Logan,Lane,6220 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{009FC6E4-00F1-4A2E-BE54-212E5437560D}
+AD-460,620,Logan Lane,6222,Logan,Lane,6222 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{DED13987-4EA5-4793-A424-95036FF7AE86}
+AD-461,620,Logan Lane,6224,Logan,Lane,6224 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{70AD2FAD-A872-48A6-98CC-228FD6504CA8}
 AD-261,767,Staging Environmental Research Centre (SERC),6045,Nurseries,Road,6045 Nurseries Road,Vancouver,BC,V6T 1W5,Academic,UBC,0,,Current,{AA8675B8-536D-4753-8EAD-E23EA53E96BC}
 AD-262,768,Building Operations Nursery,6029,Nurseries,Road,6029 Nurseries Road,Vancouver,BC,V6T 1W5,Academic,UBC,0,,Current,{F4F3EA8C-8352-46A4-B229-2BA459C79387}
 AD-231,585,UBC Research Ponds,4069,Wesbrook,Mall,4069 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,UBC,0,,Current,{319003A5-C79E-42CB-B95C-837EA5A88167}
@@ -995,23 +976,34 @@ AD-158,310,Engineering Student Centre,2335,Engineering,Road,2335 Engineering Roa
 AD-149,213,UBC Aquatic Centre,6080,Student Union,Boulevard,6080 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{D8ECE767-BD9E-4738-A1AF-F652DD4F7328}
 AD-84,904,Ponderosa Commons - Arbutus/Maple Houses,6488,University,Boulevard,6488 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,Housing - Stude,336,,Current,{371ABDF8-B70A-4C1D-AD90-3061AB8D3051}
 AD-85,905,Ponderosa Commons - Cedar House,2075,West,Mall,2075 West Mall,Vancouver,BC,V6T 1Z2,Academic,Housing - Stude,175,,Current,{CA50748B-4BBA-404A-82FF-B6040B92A41E}
-AD-87,905,Ponderosa Commons - Oak House,6445,University,Boulevard,6445 University Boulevard,Vancouver,BC,V6T 1Z2,Academic,Mixed,200,,Current,{0B5C4A16-F1E1-45C0-AEF0-B97CA8A78863}
-AD-86,905,Ponderosa Commons - Cedar House - Annunciator,2068,Lower,Mall,2068 Lower Mall,Vancouver,BC,V6T 1Z2,Academic,Annunciator,0,,Current,{6707C4D4-637C-40EF-9F4D-0EBDAD1D5D72}
-AD-387,832-3,Coast Townhouses,6090,Chancellor,Mews,6090 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Housing - unit,1,,Current,{4DE89261-7F78-4EA2-8FF1-1FDA3EAEA5DE}
-AD-388,832-1,Coast Cityhome,6094,Chancellor,Mews,6094 Chancellor Mews,Vancouver,BC,V6T 2J5,Chancellor Place,Housing - unit,1,,Current,{1AF5F960-679A-415C-B1F0-3A441C7F2AF7}
-AD-397,831-5,Coast Duplexes,6050,Chancellor,Boulevard,6050 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{F1E061A9-145A-4C04-8837-79EA082A2474}
-AD-398,831-5,Coast Duplexes,6060,Chancellor,Boulevard,6060 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{C5553A66-F31E-491D-B9C1-2D0BDF24C1B2}
-AD-395,831-4,Coast Duplexes,6062,Chancellor,Boulevard,6062 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{4F7DF19D-5C60-48A0-89B5-FBA3E5E5CF70}
-AD-396,831-4,Coast Duplexes,6068,Chancellor,Boulevard,6068 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{40FEE132-9E0C-4D25-934F-2A21DDB1A636}
-AD-393,831-3,Coast Duplexes,6072,Chancellor,Boulevard,6072 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{879DACAF-5A75-45A1-87A6-32693C143DC2}
-AD-394,831-3,Coast Duplexes,6078,Chancellor,Boulevard,6078 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{48452276-F7B8-4EBB-903B-366A2FD27444}
-AD-391,831-2,Coast Duplexes,6082,Chancellor,Boulevard,6082 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{BAEE790E-0E35-4241-81D5-C7ACCFE0DC3F}
-AD-392,831-2,Coast Duplexes,6088,Chancellor,Boulevard,6088 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{7DB6FA7B-B82B-4F9A-83F3-FF311233117E}
-AD-389,831-1,Coast Duplexes,6092,Chancellor,Boulevard,6092 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{5F15A9BB-B3F0-46CF-A5C6-37885456C979}
-AD-390,831-1,Coast Duplexes,6098,Chancellor,Boulevard,6098 Chancellor Boulevard,Vancouver,BC,V6T 1E7,Chancellor Place,Housing - unit,1,,Current,{63E23C80-6F6F-4C88-8E72-6D11D8163849}
-AD-399,823,Chancellor Hall Townhouses,5978,Chancellor,Mews,5978 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{6805B980-8C14-4A9F-BE64-1559AF5E773E}
-AD-400,823,Chancellor Hall Townhouses,5980,Chancellor,Mews,5980 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{5830D52A-1EAA-4AFE-A995-332EAA32C57E}
-AD-401,824,Chancellor Hall Cityhomes,5982,Chancellor,Mews,5982 Chancellor Mews,Vancouver,BC,V6T 2L5,Chancellor Place,Housing - unit,1,,Current,{C1EEFDF2-B567-4411-971B-E2550ACC5E96}
+AD-462,620,Logan Lane,6226,Logan,Lane,6226 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{EAD4CE8B-F057-4A3A-8965-D7A958528006}
+AD-463,620,Logan Lane,6228,Logan,Lane,6228 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{5911855D-1C2E-4488-908B-F63A4BEE09E2}
+AD-464,620,Logan Lane,6230,Logan,Lane,6230 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{46DC0C18-6F80-44BF-896B-8AF4967A8D48}
+AD-465,620,Logan Lane,6232,Logan,Lane,6232 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{BFEE6155-4931-4043-A973-B042FBD80216}
+AD-466,620,Logan Lane,6234,Logan,Lane,6234 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{1E838A47-CCE5-4C05-B049-7BB3B38F44FD}
+AD-467,620,Logan Lane,6236,Logan,Lane,6236 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{B880A938-0A41-431E-B0D0-75594F99A8CC}
+AD-468,620,Logan Lane,6238,Logan,Lane,6238 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{6B174A43-8C28-44D5-A8CE-DC05E39CA97D}
+AD-469,620,Logan Lane,6240,Logan,Lane,6240 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{4AF2635E-7B53-4DC3-81CA-FACBCBACA49C}
+AD-470,620,Logan Lane,6242,Logan,Lane,6242 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{74A380C7-97D0-450D-9CCF-478CBD132346}
+AD-471,620,Logan Lane,6244,Logan,Lane,6244 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{A3B4CE3A-9F79-4DC8-BAAE-802752EFC04A}
+AD-472,620,Logan Lane,6246,Logan,Lane,6246 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{F61A7F54-011C-436E-997E-EABDA31C7759}
+AD-473,620,Logan Lane,6248,Logan,Lane,6248 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{1FC4B280-B372-43F4-87A1-96B8150FDC36}
+AD-474,620,Logan Lane,6250,Logan,Lane,6250 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{FB154BA8-7CAF-4A6E-890D-08126829E73D}
+AD-458,620,Logan Lane,6218,Logan,Lane,6218 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{9A5D130A-D99A-4124-9900-40C7429B7D77}
+AD-475,620,Logan Lane,6252,Logan,Lane,6252 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{E1548848-65DB-4B68-8150-833A9B5828EF}
+AD-476,620,Logan Lane,6254,Logan,Lane,6254 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{D119AABB-3DEE-46F2-9D2D-EEE4199BF623}
+AD-477,620,Logan Lane,6256,Logan,Lane,6256 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{6C79B5D8-4693-4F38-9468-076B6DB7B384}
+AD-478,620,Logan Lane,6258,Logan,Lane,6258 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{06AFD57D-48BB-4E32-823E-C859894C88FF}
+AD-479,620,Logan Lane,6260,Logan,Lane,6260 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{E0C63A8B-25F0-48D6-80A9-2BDB6C37CF5A}
+AD-480,620,Logan Lane,6272,Logan,Lane,6272 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{F674C2CE-19D9-42C8-BBED-FB0C39BE2FA1}
+AD-481,620,Logan Lane,6274,Logan,Lane,6274 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{F0CE0B0E-E440-47EF-837B-1DCCB52F5317}
+AD-482,620,Logan Lane,6276,Logan,Lane,6276 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{00DF3CB6-8818-4B8D-9880-2939DA7AD342}
+AD-483,620,Logan Lane,6278,Logan,Lane,6278 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{0C1305B8-2D59-4454-BA15-ADBBA5F90F32}
+AD-484,620,Logan Lane,6280,Logan,Lane,6280 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{72DD5FCC-2B41-4B89-8FD2-5AF37F027A9D}
+AD-485,620,Logan Lane,6282,Logan,Lane,6282 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{7F8DBCB5-717E-48F8-9010-088119ACDE96}
+AD-486,620,Logan Lane,6284,Logan,Lane,6284 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{2C99DC95-2147-4A16-B5CA-EC7056A33D97}
+AD-487,620,Logan Lane,6286,Logan,Lane,6286 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{3B6189C4-6218-4D78-A4E5-B6519A2DD387}
+AD-488,620,Logan Lane,6288,Logan,Lane,6288 Logan Lane,Vancouver,BC,V6T 2K9,Hawthorn,Residential,1,,Current,{1F7BB2A4-8064-447E-99D0-CD82BE8CD79C}
 AD-298,871-2,Ponderosa Office Annex E,2034,Lower,Mall,2034 Lower Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{40EF84BA-AB0C-4EF0-8088-9E2EC2CBEB6C}
 AD-299,871-3,Ponderosa Office Annex F,2008,Lower,Mall,2008 Lower Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{E23A0064-57FD-41AD-8F19-38B56D450A04}
 AD-300,873,Ponderosa Office Annex G,2044,Lower,Mall,2044 Lower Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{FC6FD8BF-8638-44E3-B68B-224D4662A629}
@@ -1019,13 +1011,19 @@ AD-301,900,West Parkade,2140,Lower,Mall,2140 Lower Mall,Vancouver,BC,V6T 1Z4,Aca
 AD-302,901,West Mall Swing Space Building,2175,West,Mall,2175 West Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{31FDF791-1D7A-41D1-90DE-79F06DD27E89}
 AD-303,903,Ponderosa Commons - Audain Art Centre,6398,University,Boulevard,6398 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{F8ECC8EC-7999-4F10-ACF9-EFABFD0007DF}
 AD-0,114,Brock Commons - Tallwood House,6088,Walter Gage,Road,6088 Walter Gage Road,Vancouver,BC,V6T 1Z1,Academic,Housing - Stude,306,,Current,{1E2ACA34-70CE-44EA-81BE-E4CCD8A00592}
-AD-4,215,Central (Site B),6015,University,Boulevard,6015 University Boulevard,Vancouver,BC,,University Blvd,Housing,98,,Current,{874E8AAE-7DEA-4F0E-868E-9C0865A6A572}
-AD-5,418,Green College,6201,Cecil Green Park,Road,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,Housing - Stude,89,<Null>,Current,{AF91BDC0-CB0B-4696-AAC4-BD8F43DF0CF0}
-AD-275,817-1,St. Andrew's Hall,6040,Iona,Drive,6040 Iona Drive,Vancouver,BC,V6T 2E8,Chancellor Place,Housing,38,,Current,{0E3150A0-6CE1-4B5C-8400-0CBD4166D36D}
 AD-36,806,Carey Hall,1815,Wesbrook,Mall,1815 Wesbrook Mall,Vancouver,BC,V6T 1J6,Chancellor Place,Non-UBC,0,,Current,{6368137D-79A3-4276-B89B-E84256B991FE}
-AD-23,AD-23,Vista Point,5828,Thunderbird,Boulevard,5828 Thunderbird Boulevard,Vancouver,BC,V6T 0B8,East Campus,Housing,106,,Current,{25F761E2-4BD0-4B41-B520-ADA59DE7322E}
-AD-22,554-1,Greenwood Commons,2660,Wesbrook,Mall,2660 Wesbrook Mall,Vancouver,BC,V6T 0A5,East Campus,Housing,70,,Current,{367C0259-CA72-4593-A129-5261E2AD9499}
-AD-14,506-1,The Stratford,5657,Hampton,Place,5657 Hampton Place,Vancouver,BC,V6T 2H4,Hampton Place,Housing,59,,Current,{F677694E-256F-41F2-AB31-0E47FA7DB64E}
-AD-13,506-2,Wyndham Hall,5683,Hampton,Place,5683 Hampton Place,Vancouver,BC,V6T 2H3,Hampton Place,Housing,55,,Current,{4A529FC0-1F53-4C50-9F54-159BE42AA6BA}
-AD-276,595,Sage,5782,Berton,Avenue,5782 Berton Avenue,Vancouver,BC,V6S 0C1,Wesbrook Place,Housing,115,,Current,{D6AF6B6F-03C8-453F-BF8C-F92135F0737C}
-AD-33,596,Academy,5728,Berton,Avenue,5728 Berton Avenue,Vancouver,BC,V6S 0E5,Wesbrook Place,Housing,162,,Current,{83AC8322-ECCE-4EFB-9FCF-796220631740}
+AD-271,790,UBC Life Building (Old SUB),6138,Student Union,Boulevard,6138 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{863DB643-DCC8-4DB0-8C27-442F5E3ED77F}
+AD-292,865-1,Ponderosa Office Annex A,2011,West,Mall,2011 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{F71376C1-04D7-46FC-B0E8-64153F79084F}
+AD-173,380,Old Fire Hall,2038,West,Mall,2038 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{69B08147-6F6D-4964-A4F5-D0F8CBF27983}
+,865-3,Ponderosa Office Annex C,2021,West,Mall,2021 West Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{11BBC537-AFAC-4B54-BC0A-C2E15C7E64A6}
+AD-87,905,Ponderosa Commons - Oak House,6445,University,Boulevard,6445 University Boulevard,Vancouver,BC,V6T 1Z2,Academic,Mixed,200,,Current,{0B5C4A16-F1E1-45C0-AEF0-B97CA8A78863}
+AD-86,905,Ponderosa Commons - Cedar House - Annunciator,2068,Lower,Mall,2068 Lower Mall,Vancouver,BC,V6T 1Z2,Academic,Annunciator,0,,Current,{6707C4D4-637C-40EF-9F4D-0EBDAD1D5D72}
+AD-93,017,Old Administration Building,6328,Memorial,Road,6328 Memorial Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{4BDC45CF-2D36-4DF0-B96A-924C0DC034A0}
+AD-209,515,Koerner Library,1958,Main,Mall,1958 Main Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{96C657B2-7CEF-4725-B20A-C466265A624C}
+AD-101,028,Frederic Lasserre Building,6333,Memorial,Road,6333 Memorial Road,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{F03E1FAE-1049-4C9C-8875-08184C3DA383}
+AD-5,418,Green College,6201,Cecil Green Park,Road,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Academic,Housing - Stude,89,<Null>,Current,{AF91BDC0-CB0B-4696-AAC4-BD8F43DF0CF0}
+AD-82,841,Westpoint - Great Dane Coffee,6011,Walter Gage,Road,6011 Walter Gage Road,Vancouver,BC,V6T 0B4,Chancellor Place,Commercial,0,,Current,{A087B999-C38E-4D3D-A783-FD3860742EB1}
+AD-74,810,Argyll House East,5958,Iona,Drive,5958 Iona Drive,Vancouver,BC,V6T 2L2,Chancellor Place,Residential,42,,Current,{C822921B-77ED-4B80-824A-E3C14985038A}
+AD-1011,081-2,UBC Security,2133,East,Mall,2133 East Mall,Vancouver,BC,V6T 1Z4,Academic,UBC,0,,Current,{B22B2344-2E88-49AA-8F74-FFF25B782421}
+AD-237,593-2,Tapestry at Wesbrook Village,3382,Wesbrook,Mall,3382 Wesbrook Mall,Vancouver,BC,V6S 0A7,Wesbrook Place,Residential,46,,Current,{96D689CF-4CCC-47D7-B4FD-DD0622FE17D2}
+,180,Rodney Graham Millennium Sculpture Pavilion,1940,Main,Mall,1940 Main Mall,Vancouver,BC,V6T 1Z1,Academic,UBC,0,,Current,{F21A4DA0-8A73-479A-B814-2305D10067C1}
