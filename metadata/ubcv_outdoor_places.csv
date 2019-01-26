@@ -4,7 +4,7 @@ PLACENAME,string,Full name of location
 PLACENAME2,string,Short name of location
 PLACENAME3,string,location alias 1
 PLACENAME4,string,location alias 2
-ABBREVIATEDPLACENAME,string,
+ABBREVIATEDPLACENAME,string, Abbreviated location name
 STATUS,string,Current/ Under Construction
 ACCESSIBLE,string,Accessible? 1=Y (no data)
 PL_CLASS,string,Place class (BCN) REVIEW
