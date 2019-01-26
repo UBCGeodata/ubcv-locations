@@ -1728,66 +1728,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ null, null ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-517",
-				"ADD_ID" : null,
-				"PLACENAME" : null,
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : null,
-				"URL" : null,
-				"LICENSE" : null,
-				"MANAGE" : null,
-				"STATUS" : null,
-				"LEED" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : null,
-			"properties" : {
-				"POI_ID" : "POI-518",
-				"ADD_ID" : null,
-				"PLACENAME" : null,
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : null,
-				"URL" : null,
-				"LICENSE" : null,
-				"MANAGE" : null,
-				"STATUS" : null,
-				"LEED" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24986474432258, 49.26644566377662 ]
-			},
-			"properties" : {
-				"POI_ID" : "POI-519",
-				"ADD_ID" : null,
-				"PLACENAME" : null,
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : null,
-				"URL" : null,
-				"LICENSE" : null,
-				"MANAGE" : null,
-				"STATUS" : null,
-				"LEED" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23733453920795, 49.26258692009994 ]
 			},
 			"properties" : {

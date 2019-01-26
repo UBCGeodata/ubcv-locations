@@ -102,6 +102,30 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.25601805886963, 49.265012880612694 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-293",
+				"BL_ID" : "PONB",
+				"PLACENAME" : "Ponderosa Office Annex B",
+				"PLACENAME2" : "B",
+				"PLACENAME3" : "Ponderosa Annexes",
+				"PLACENAME4" : "B",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "PONB",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{B8B1CC05-76F6-413E-AEE9-A40687E52ADD}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.25720436620577, 49.26552933721503 ]
 			},
 			"properties" : {
@@ -246,6 +270,102 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2511161759892, 49.263449983852965 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-161",
+				"BL_ID" : "BEBC",
+				"PLACENAME" : "Beaty Biodiversity Centre",
+				"PLACENAME2" : "Beaty",
+				"PLACENAME3" : "Beaty Biodiversity Museum",
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 28.2,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Attraction",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{34F6A841-F6D1-4F60-BBFC-0DD3D3477341}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25632720343268, 49.26460363611973 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-300",
+				"BL_ID" : "PONG",
+				"PLACENAME" : "Ponderosa Office Annex G",
+				"PLACENAME2" : "G",
+				"PLACENAME3" : "Ponderosa Annexes",
+				"PLACENAME4" : "G",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "PONG",
+				"STATUS" : "Current",
+				"ROT" : 298.2,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{4E4B5BA3-221D-43D0-91BE-388FC59D259A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25677027769531, 49.26470324400358 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-298",
+				"BL_ID" : "PONE",
+				"PLACENAME" : "Ponderosa Office Annex E",
+				"PLACENAME2" : "E",
+				"PLACENAME3" : "Ponderosa Annexes",
+				"PLACENAME4" : "E",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "PONE",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{296926F9-3B0E-492F-95C1-AF67D3E88BF4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25700351055167, 49.264969828464125 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-299",
+				"BL_ID" : "PONF",
+				"PLACENAME" : "Ponderosa Office Annex F",
+				"PLACENAME2" : "F",
+				"PLACENAME3" : "Ponderosa Annexes",
+				"PLACENAME4" : "F",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "PONF",
+				"STATUS" : "Current",
+				"ROT" : 118.2,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{C71D1299-B844-40BE-B92E-97941835E6EC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.24730196070085, 49.261539570390376 ]
 			},
 			"properties" : {
@@ -264,6 +384,54 @@
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{A332D594-5055-47F7-AD6D-C950F28D20BD}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2560679539664, 49.264253597258225 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-85",
+				"BL_ID" : "PNCN",
+				"PLACENAME" : "Ponderosa Commons North",
+				"PLACENAME2" : "Ponderosa Commons",
+				"PLACENAME3" : "Cedar/Oak House",
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 118.10000000000001,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l3",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{95197B0B-8618-4A83-9D7F-77C1070FB07C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25260579203345, 49.26893824558227 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-121",
+				"BL_ID" : "BRKX",
+				"PLACENAME" : "Brock Hall Annex",
+				"PLACENAME2" : "Brock Hall Annex",
+				"PLACENAME3" : "Brock Hall",
+				"PLACENAME4" : "Annex",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 118.2,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l4",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{0B9BE243-94E5-4DD5-812C-70FB939F380E}"
 			}
 		},
 		{
@@ -456,6 +624,174 @@
 				"BL_CLASS" : "Attraction",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{79BF361B-920D-4F7B-9C56-87DBA9D4BC9F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24128279698171, 49.26080019068104 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-317",
+				"BL_ID" : "GUNN",
+				"PLACENAME" : "Chan Gunn Pavilion",
+				"PLACENAME2" : "Chan Gunn",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{4EA1A178-A128-4D29-AC46-DC83F0ADC731}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23427636717285, 49.25123029139013 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-311",
+				"BL_ID" : "PINE",
+				"PLACENAME" : "Pine House",
+				"PLACENAME2" : "Pine House",
+				"PLACENAME3" : "Wesbrook Lot 27",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 102.8,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l3",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{9903988B-4A01-4E78-8D68-85E9B7AFA0B8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2342559832254, 49.25094824757159 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-310",
+				"BL_ID" : "VIRT",
+				"PLACENAME" : "Virtuoso",
+				"PLACENAME2" : "Virtuoso",
+				"PLACENAME3" : "Wesbrook Lot 23",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 295,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l3",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{C5C1748A-5CAF-48AE-9735-3E0D367904AD}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23484738149247, 49.2519959487544 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-312",
+				"BL_ID" : "CYPR",
+				"PLACENAME" : "Cypress House",
+				"PLACENAME2" : "Cypress House",
+				"PLACENAME3" : "Wesbrook Lot 29",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 308.40000000000003,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l3",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{74B4BDB4-8711-4C9A-83D5-E2273E3411CA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24075573561544, 49.26326445875703 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-817",
+				"BL_ID" : "FAIR",
+				"PLACENAME" : "Fairview Crescent Residence",
+				"PLACENAME2" : "Fairview Crescent Residence",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 28.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Residence",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{90981238-4A0D-4D9E-AF59-4886B76922D8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23302497038702, 49.252869349161976 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-37",
+				"BL_ID" : "CRSW",
+				"PLACENAME" : "Crescent West",
+				"PLACENAME2" : "Crescent West",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 106.60000000000001,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l3",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{5653C9F3-1F57-45EA-B20D-83907B049FEC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2547002918326, 49.26389324951343 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-303",
+				"BL_ID" : "PNCE",
+				"PLACENAME" : "Ponderosa Commons East",
+				"PLACENAME2" : "Audain Art Centre",
+				"PLACENAME3" : "Spruce House",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l1",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{3696654D-FFAF-40E0-9792-F0F88526E7EC}"
 			}
 		},
 		{
@@ -5526,30 +5862,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25057772575813, 49.25398207576723 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-120",
-				"BL_ID" : "BOTG",
-				"PLACENAME" : "Admission and Shop in the Garden ",
-				"PLACENAME2" : "Botanical Garden",
-				"PLACENAME3" : "Gate House",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 78.8,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{A49DBA64-343C-48C2-9263-BD87576A235A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23216814704767, 49.24634686064395 ]
 			},
 			"properties" : {
@@ -5568,6 +5880,30 @@
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{BE03790C-D0F6-476C-8D02-32C6C441660B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25705091359073, 49.2687187294653 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-166",
+				"BL_ID" : "UCLL",
+				"PLACENAME" : "Leon and Thea Koerner University Centre",
+				"PLACENAME2" : "University Centre",
+				"PLACENAME3" : null,
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : "<Null>",
+				"BUILDING_SHORTCODE" : "UCLL",
+				"STATUS" : "Current",
+				"ROT" : 28.2,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Attraction",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{B0504E93-8116-4D45-B1D7-321239AE16B2}"
 			}
 		},
 		{
@@ -5694,14 +6030,14 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2547002918326, 49.26389324951343 ]
+				"coordinates" : [ -123.2564244501538, 49.26960821028767 ]
 			},
 			"properties" : {
-				"ADD_ID" : "AD-303",
-				"BL_ID" : "PONE",
-				"PLACENAME" : "Ponderosa Commons East",
-				"PLACENAME2" : "Audain Art Centre",
-				"PLACENAME3" : "Spruce House",
+				"ADD_ID" : "AD-218",
+				"BL_ID" : "PARR",
+				"PLACENAME" : "Rose Garden Parkade",
+				"PLACENAME2" : "Rose Garden Parkade",
+				"PLACENAME3" : null,
 				"PLACENAME4" : null,
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
@@ -5709,9 +6045,33 @@
 				"ROT" : 298.1,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l1",
+				"BL_CLASS" : "Parkade",
 				"ENT_TYPE" : null,
-				"GLOBALID" : "{3696654D-FFAF-40E0-9792-F0F88526E7EC}"
+				"GLOBALID" : "{35A38B07-5442-47CC-A2A7-DD91F0FA8DA1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25626707331068, 49.26494756482546 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-294",
+				"BL_ID" : "PONC",
+				"PLACENAME" : "Ponderosa Office Annex C",
+				"PLACENAME2" : "C",
+				"PLACENAME3" : "Ponderosa Annexes",
+				"PLACENAME4" : "C",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "PONC",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{9B1AC20E-16EF-4CD6-9E85-EC37E20C2FFD}"
 			}
 		},
 		{
@@ -5856,6 +6216,30 @@
 				"BL_CLASS" : "Residence",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{3CA4DBE0-6C51-4912-AE33-3870F52E8A8D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2490882839974, 49.264778003260034 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-241",
+				"BL_ID" : "CUNN",
+				"PLACENAME" : "George Cunningham Building ",
+				"PLACENAME2" : "Cunningham",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "CUNN",
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{0CB99217-0D6E-4713-94FE-85B991EEC67E}"
 			}
 		},
 		{
@@ -6078,408 +6462,48 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25705091359073, 49.2687187294653 ]
+				"coordinates" : [ -123.25057772575813, 49.25398207576723 ]
 			},
 			"properties" : {
-				"ADD_ID" : "AD-166",
-				"BL_ID" : "UCLL",
-				"PLACENAME" : "Leon and Thea Koerner University Centre",
-				"PLACENAME2" : "University Centre",
-				"PLACENAME3" : null,
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : "<Null>",
-				"BUILDING_SHORTCODE" : "UCLL",
-				"STATUS" : "Current",
-				"ROT" : 28.2,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Attraction",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{B0504E93-8116-4D45-B1D7-321239AE16B2}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2564244501538, 49.26960821028767 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-218",
-				"BL_ID" : "PARR",
-				"PLACENAME" : "Rose Garden Parkade",
-				"PLACENAME2" : "Rose Garden Parkade",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
+				"ADD_ID" : "AD-120",
+				"BL_ID" : "BOTG",
+				"PLACENAME" : "UBC Botanical Garden",
+				"PLACENAME2" : "Botanical Garden",
+				"PLACENAME3" : "Admission and Shop in the Garden ",
+				"PLACENAME4" : "UBC Botanical Garden and Centre for Plant Research",
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Parkade",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{35A38B07-5442-47CC-A2A7-DD91F0FA8DA1}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25626707331068, 49.26494756482546 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-294",
-				"BL_ID" : "PONC",
-				"PLACENAME" : "Ponderosa Office Annex C",
-				"PLACENAME2" : "C",
-				"PLACENAME3" : "Ponderosa Annexes",
-				"PLACENAME4" : "C",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "PONC",
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{9B1AC20E-16EF-4CD6-9E85-EC37E20C2FFD}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2490882839974, 49.264778003260034 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-241",
-				"BL_ID" : "CUNN",
-				"PLACENAME" : "George Cunningham Building ",
-				"PLACENAME2" : "Cunningham",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "CUNN",
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{0CB99217-0D6E-4713-94FE-85B991EEC67E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25601805886963, 49.265012880612694 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-293",
-				"BL_ID" : "PONB",
-				"PLACENAME" : "Ponderosa Office Annex B",
-				"PLACENAME2" : "B",
-				"PLACENAME3" : "Ponderosa Annexes",
-				"PLACENAME4" : "B",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "PONB",
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
+				"ROT" : 78.8,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
-				"GLOBALID" : "{B8B1CC05-76F6-413E-AEE9-A40687E52ADD}"
+				"GLOBALID" : "{A49DBA64-343C-48C2-9263-BD87576A235A}"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2511161759892, 49.263449983852965 ]
+				"coordinates" : [ null, null ]
 			},
 			"properties" : {
-				"ADD_ID" : "AD-161",
-				"BL_ID" : "BEBC",
-				"PLACENAME" : "Beaty Biodiversity Centre",
-				"PLACENAME2" : "Beaty",
-				"PLACENAME3" : "Beaty Biodiversity Museum",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 28.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Attraction",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{34F6A841-F6D1-4F60-BBFC-0DD3D3477341}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25632720343268, 49.26460363611973 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-300",
-				"BL_ID" : "PONG",
-				"PLACENAME" : "Ponderosa Office Annex G",
-				"PLACENAME2" : "G",
-				"PLACENAME3" : "Ponderosa Annexes",
-				"PLACENAME4" : "G",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "PONG",
-				"STATUS" : "Current",
-				"ROT" : 298.2,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{4E4B5BA3-221D-43D0-91BE-388FC59D259A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25677027769531, 49.26470324400358 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-298",
-				"BL_ID" : "PONE",
-				"PLACENAME" : "Ponderosa Office Annex E",
-				"PLACENAME2" : "E",
-				"PLACENAME3" : "Ponderosa Annexes",
-				"PLACENAME4" : "E",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "PONE",
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{296926F9-3B0E-492F-95C1-AF67D3E88BF4}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25700351055167, 49.264969828464125 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-299",
-				"BL_ID" : "PONF",
-				"PLACENAME" : "Ponderosa Office Annex F",
-				"PLACENAME2" : "F",
-				"PLACENAME3" : "Ponderosa Annexes",
-				"PLACENAME4" : "F",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "PONF",
-				"STATUS" : "Current",
-				"ROT" : 118.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{C71D1299-B844-40BE-B92E-97941835E6EC}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2560679539664, 49.264253597258225 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-85",
-				"BL_ID" : "PNCN",
-				"PLACENAME" : "Ponderosa Commons North",
-				"PLACENAME2" : "Ponderosa Commons",
-				"PLACENAME3" : "Cedar/Oak House",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 118.10000000000001,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l3",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{95197B0B-8618-4A83-9D7F-77C1070FB07C}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25260579203345, 49.26893824558227 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-121",
-				"BL_ID" : "BRKX",
-				"PLACENAME" : "Brock Hall Annex",
-				"PLACENAME2" : "Brock Hall Annex",
-				"PLACENAME3" : "Brock Hall",
-				"PLACENAME4" : "Annex",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 118.2,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l4",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{0B9BE243-94E5-4DD5-812C-70FB939F380E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24128279698171, 49.26080019068104 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-317",
-				"BL_ID" : "GUNN",
-				"PLACENAME" : "Chan Gunn Pavilion",
-				"PLACENAME2" : "Chan Gunn",
+				"ADD_ID" : null,
+				"BL_ID" : null,
+				"PLACENAME" : null,
+				"PLACENAME2" : null,
 				"PLACENAME3" : null,
 				"PLACENAME4" : null,
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "l2",
+				"STATUS" : null,
+				"ROT" : null,
+				"ACCESSIBLE" : null,
+				"POWER_DOOR" : null,
+				"BL_CLASS" : null,
 				"ENT_TYPE" : null,
-				"GLOBALID" : "{4EA1A178-A128-4D29-AC46-DC83F0ADC731}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23427636717285, 49.25123029139013 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-311",
-				"BL_ID" : "PINE",
-				"PLACENAME" : "Pine House",
-				"PLACENAME2" : "Pine House",
-				"PLACENAME3" : "Wesbrook Lot 27",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 102.8,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l3",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{9903988B-4A01-4E78-8D68-85E9B7AFA0B8}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2342559832254, 49.25094824757159 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-310",
-				"BL_ID" : "VIRT",
-				"PLACENAME" : "Virtuoso",
-				"PLACENAME2" : "Virtuoso",
-				"PLACENAME3" : "Wesbrook Lot 23",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 295,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l3",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{C5C1748A-5CAF-48AE-9735-3E0D367904AD}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23484738149247, 49.2519959487544 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-312",
-				"BL_ID" : "CYPR",
-				"PLACENAME" : "Cypress House",
-				"PLACENAME2" : "Cypress House",
-				"PLACENAME3" : "Wesbrook Lot 29",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 308.40000000000003,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l3",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{74B4BDB4-8711-4C9A-83D5-E2273E3411CA}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24075573561544, 49.26326445875703 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-817",
-				"BL_ID" : "FAIR",
-				"PLACENAME" : "Fairview Crescent Residence",
-				"PLACENAME2" : "Fairview Crescent Residence",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 28.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Residence",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{90981238-4A0D-4D9E-AF59-4886B76922D8}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23302497038702, 49.252869349161976 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-37",
-				"BL_ID" : "CRSW",
-				"PLACENAME" : "Crescent West",
-				"PLACENAME2" : "Crescent West",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 106.60000000000001,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l3",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{5653C9F3-1F57-45EA-B20D-83907B049FEC}"
+				"GLOBALID" : "{CC0B3493-9AC6-41A7-98EF-4A380425DF92}"
 			}
 		}
 	]
