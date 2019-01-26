@@ -1,0 +1,18 @@
+Fieldname,Type,Description
+ADD_ID,string,"Address Id, Primary Key"
+BLDG_ID,string,Foreign Key to Campus_Buildings
+SUBBLDG_ID,string,Foreign Key to Campus_SubBuildings
+REC_ID,string,Foreign Key to Campus_Projects(Records)
+BUILDINGNAME,string,Common building name
+STREETNUM,string,Street number
+STREETNAME,string,Name of street
+STREETTYPE,string,Street type (full word)
+FULLADDRESS,string,"The street number, name, type"
+MUNINAME,string,Municipality
+PROVINCE,string,Two letter province code
+POSTALCODE,string,Postal Code
+NEIGHBOURHOOD,string,
+ADDRESSTYPE,string,UBC or non-UBC address
+NUM_UNITS,int,Number of units at this address
+ADDRESSNOTES,string,Notes
+STATUS,string,Status of the address point

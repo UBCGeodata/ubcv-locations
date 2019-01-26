@@ -1,0 +1,15 @@
+Fieldname,Type,Description
+ADD_ID,string,"Address ID, Foreign key to addresses dataset"
+BLDG_ID,string,"Building ID, Foreign key to campus_buildings dataset"
+PLACENAME,string,Full name of building
+PLACENAME2,string,Short name of building
+PLACENAME3,string,Building alias 1
+PLACENAME4,string,Building alias 2
+ABBREVIATEDPLACENAME,string,Building abbreviation if different from class code
+BUILDING_SHORTCODE,string,Short code/classroom code
+STATUS,string,"Current, future, under construction"
+ROT,float,Rotation for map display
+ACCESSIBLE,int,"Is door accessible, 1=Y (out of date)"
+POWER_DOOR,int,"Is door powered, 1=Y (out of date)"
+BL_CLASS,string,"Building class: L1/2/3, Attraction, Parkade, Residence"
+ENT_TYPE,string,Place Holder

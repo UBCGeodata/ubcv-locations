@@ -1,0 +1,13 @@
+Fieldname,Type,Description
+POI_ID,string,"Point of Interest ID, Primary Key"
+ADD_ID,string,Address ID foreign key
+PLACENAME,string,Full name of location
+PLACENAME2,string,Short name of location
+ABBREVIATEDPLACENAME,string,
+BL_CLASS,string,"L1/2/3/4, garden"
+SERVICE_TYPE,string,"Type of service: childcare, retail, cafe, park, worship, etc (REVIEW)"
+URL,string,URL to service website
+LICENSE,string,N/Y/UC (REVIEW)
+MANAGE,string,Who manages the service/loction
+STATUS,string,Current/UEL? (REVIEW)
+LEED,string,Service type for LEED rating
