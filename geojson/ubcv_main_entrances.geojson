@@ -102,30 +102,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25601805886963, 49.265012880612694 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-293",
-				"BLDG_ID" : "PONB",
-				"PLACENAME" : "Ponderosa Office Annex B",
-				"PLACENAME2" : "B",
-				"PLACENAME3" : "Ponderosa Annexes",
-				"PLACENAME4" : "B",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "PONB",
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{B8B1CC05-76F6-413E-AEE9-A40687E52ADD}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25720436620577, 49.26552933721503 ]
 			},
 			"properties" : {
@@ -294,78 +270,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25632720343268, 49.26460363611973 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-300",
-				"BLDG_ID" : "PONG",
-				"PLACENAME" : "Ponderosa Office Annex G",
-				"PLACENAME2" : "G",
-				"PLACENAME3" : "Ponderosa Annexes",
-				"PLACENAME4" : "G",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "PONG",
-				"STATUS" : "Current",
-				"ROT" : 298.2,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{4E4B5BA3-221D-43D0-91BE-388FC59D259A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25677027769531, 49.26470324400358 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-298",
-				"BLDG_ID" : "PONE",
-				"PLACENAME" : "Ponderosa Office Annex E",
-				"PLACENAME2" : "E",
-				"PLACENAME3" : "Ponderosa Annexes",
-				"PLACENAME4" : "E",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "PONE",
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{296926F9-3B0E-492F-95C1-AF67D3E88BF4}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25700351055167, 49.264969828464125 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-299",
-				"BLDG_ID" : "PONF",
-				"PLACENAME" : "Ponderosa Office Annex F",
-				"PLACENAME2" : "F",
-				"PLACENAME3" : "Ponderosa Annexes",
-				"PLACENAME4" : "F",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "PONF",
-				"STATUS" : "Current",
-				"ROT" : 118.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{C71D1299-B844-40BE-B92E-97941835E6EC}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24730196070085, 49.261539570390376 ]
 			},
 			"properties" : {
@@ -414,30 +318,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25260579203345, 49.26893824558227 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-121",
-				"BLDG_ID" : "BRKX",
-				"PLACENAME" : "Brock Hall Annex",
-				"PLACENAME2" : "Brock Hall Annex",
-				"PLACENAME3" : "Brock Hall",
-				"PLACENAME4" : "Annex",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 118.2,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l4",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{0B9BE243-94E5-4DD5-812C-70FB939F380E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24410642453824, 49.25858074049815 ]
 			},
 			"properties" : {
@@ -480,30 +360,6 @@
 				"BL_CLASS" : "l3",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{F58F6DE3-4BAB-47DF-925A-FA23EBE21088}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25017772001898, 49.26213982163996 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-160",
-				"BLDG_ID" : "KAIS",
-				"PLACENAME" : "Fred Kaiser Building",
-				"PLACENAME2" : "Fred Kaiser",
-				"PLACENAME3" : "Faculty of Applied Science",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "KAIS",
-				"STATUS" : "Current",
-				"ROT" : 28.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l1",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{8E7F6191-71EE-4B0F-82EE-32BDE6697B26}"
 			}
 		},
 		{
@@ -846,6 +702,30 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.24555198339723, 49.26415848047819 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-197",
+				"BLDG_ID" : "ACU",
+				"PLACENAME" : "Koerner Pavilion",
+				"PLACENAME2" : "Koerner",
+				"PLACENAME3" : "Hospital",
+				"PLACENAME4" : "Urgent Care",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "ACU",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l1",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{6AD00031-5673-49A0-993B-6345589838A7}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.24435563460281, 49.25483835958421 ]
 			},
 			"properties" : {
@@ -864,6 +744,30 @@
 				"BL_CLASS" : "Attraction",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{EBD29987-FB3A-441C-825B-91BB493CC609}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24362708522246, 49.259609657938924 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-184",
+				"BLDG_ID" : "TENN",
+				"PLACENAME" : "UBC Tennis Centre",
+				"PLACENAME2" : "Tennis Bubble",
+				"PLACENAME3" : null,
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{CB9ED6BE-6DAA-4F99-834D-970804A1B7DE}"
 			}
 		},
 		{
@@ -1032,6 +936,78 @@
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{84B7406F-6155-4ACD-8FBB-6B22AF046B4C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24937474758475, 49.2705541577033 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-321",
+				"BLDG_ID" : "CORS",
+				"PLACENAME" : "Corus",
+				"PLACENAME2" : "Corus",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 118.10000000000001,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l3",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{F6C2E784-CDB8-472E-BF51-968C743FC0A9}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25041920241426, 49.260213800571435 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-24",
+				"BLDG_ID" : "ORCH",
+				"PLACENAME" : "Orchard Commons",
+				"PLACENAME2" : "Orchard Commons",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 118.10000000000001,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "Residence",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{3CA4DBE0-6C51-4912-AE33-3870F52E8A8D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24910886590133, 49.26208335813297 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-158",
+				"BLDG_ID" : "ENSC",
+				"PLACENAME" : "Engineering Student Centre",
+				"PLACENAME2" : "ESC",
+				"PLACENAME3" : "Engineering Undergraduate Society",
+				"PLACENAME4" : "Cheese",
+				"ABBREVIATEDPLACENAME" : "EUS",
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 118.10000000000001,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{4CB76D06-A708-4ADE-A141-615029670FC6}"
 			}
 		},
 		{
@@ -1248,30 +1224,6 @@
 				"BL_CLASS" : "l1",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{C226FB21-390C-4FB3-9B76-7BD7C082FEF1}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25238318145344, 49.26762308374964 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-210",
-				"BLDG_ID" : "IBLC",
-				"PLACENAME" : "Irving K. Barber Learning Centre",
-				"PLACENAME2" : "IK Barber",
-				"PLACENAME3" : "Ike Barber",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "IBLC",
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "l1",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{125082C7-EAE8-4933-A6DD-C97166A1FA04}"
 			}
 		},
 		{
@@ -1632,30 +1584,6 @@
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{ED6D4BD4-2341-4A4F-9590-C8EC207CC919}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24884294680677, 49.26350988631557 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-154",
-				"BLDG_ID" : "EERF",
-				"PLACENAME" : "Earthquake Engineering Research Facility",
-				"PLACENAME2" : "EERF",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : "EERF",
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{DFF282FC-25BC-4C09-808C-B4FFF3434B08}"
 			}
 		},
 		{
@@ -2214,30 +2142,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2481203600816, 49.26117788285241 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-130",
-				"BLDG_ID" : "DMP",
-				"PLACENAME" : "Hugh Dempster Pavilion",
-				"PLACENAME2" : "Dempster",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "DMP",
-				"STATUS" : "Current",
-				"ROT" : 28.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{7E2B3E7F-402E-479E-97FC-675BB3D3A263}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24608136030164, 49.25804677005425 ]
 			},
 			"properties" : {
@@ -2430,6 +2334,54 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.25057772575813, 49.25398207576723 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-120",
+				"BLDG_ID" : "BOTG",
+				"PLACENAME" : "UBC Botanical Garden",
+				"PLACENAME2" : "Botanical Garden",
+				"PLACENAME3" : "Admission and Shop in the Garden ",
+				"PLACENAME4" : "UBC Botanical Garden and Centre for Plant Research",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 78.8,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{A49DBA64-343C-48C2-9263-BD87576A235A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ null, null ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"BLDG_ID" : null,
+				"PLACENAME" : null,
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : null,
+				"ROT" : null,
+				"ACCESSIBLE" : null,
+				"POWER_DOOR" : null,
+				"BL_CLASS" : null,
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{CC0B3493-9AC6-41A7-98EF-4A380425DF92}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.22811667712106, 49.24538208792584 ]
 			},
 			"properties" : {
@@ -2454,7 +2406,79 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25328843383498, 49.261901626813454 ]
+				"coordinates" : [ -123.25621201082684, 49.26519153641453 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-292",
+				"BLDG_ID" : "PONA",
+				"PLACENAME" : "Ponderosa Annex A",
+				"PLACENAME2" : "A",
+				"PLACENAME3" : "Ponderosa Annexes",
+				"PLACENAME4" : "A",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "PONA",
+				"STATUS" : "Current",
+				"ROT" : 118.2,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{3ED7C406-83AB-4494-A5DF-D57F8A996ABF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25626707331068, 49.26494756482546 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-294",
+				"BLDG_ID" : "PONC",
+				"PLACENAME" : "Ponderosa Annex C",
+				"PLACENAME2" : "C",
+				"PLACENAME3" : "Ponderosa Annexes",
+				"PLACENAME4" : "C",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "PONC",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{9B1AC20E-16EF-4CD6-9E85-EC37E20C2FFD}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ null, null ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"BLDG_ID" : null,
+				"PLACENAME" : null,
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : null,
+				"ROT" : null,
+				"ACCESSIBLE" : null,
+				"POWER_DOOR" : null,
+				"BL_CLASS" : null,
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{94274A50-C687-49B7-9849-3C68C755B7D4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25330231712258, 49.26189631618352 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-243",
@@ -2472,6 +2496,150 @@
 				"BL_CLASS" : "l1",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{513413D8-B7D9-4B95-B86B-1C191368A8CC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25700351055167, 49.264969828464125 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-299",
+				"BLDG_ID" : "PONF",
+				"PLACENAME" : "Ponderosa Annex F",
+				"PLACENAME2" : "F",
+				"PLACENAME3" : "Ponderosa Annexes",
+				"PLACENAME4" : "F",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "PONF",
+				"STATUS" : "Current",
+				"ROT" : 118.2,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{C71D1299-B844-40BE-B92E-97941835E6EC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25601805886963, 49.265012880612694 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-293",
+				"BLDG_ID" : "PONB",
+				"PLACENAME" : "Ponderosa Annex B",
+				"PLACENAME2" : "B",
+				"PLACENAME3" : "Ponderosa Annexes",
+				"PLACENAME4" : "B",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "PONB",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{B8B1CC05-76F6-413E-AEE9-A40687E52ADD}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23106658455393, 49.25010867039837 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-239",
+				"BLDG_ID" : "MTIN",
+				"PLACENAME" : "MT Innovations",
+				"PLACENAME2" : "MT Innovations",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 10.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{28C36D3E-4F06-42BD-9436-59F813A0C46E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25632720343268, 49.26460363611973 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-300",
+				"BLDG_ID" : "PONG",
+				"PLACENAME" : "Ponderosa Annex G",
+				"PLACENAME2" : "G",
+				"PLACENAME3" : "Ponderosa Annexes",
+				"PLACENAME4" : "G",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "PONG",
+				"STATUS" : "Current",
+				"ROT" : 298.2,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{4E4B5BA3-221D-43D0-91BE-388FC59D259A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23687985529733, 49.25320634105789 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-52",
+				"BLDG_ID" : "WEBH",
+				"PLACENAME" : "Webber House",
+				"PLACENAME2" : "Webber House",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 28.2,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l3",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{2ED79BAC-A583-4131-BBB4-CFA652EA0DBE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25677027769531, 49.26470324400358 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-298",
+				"BLDG_ID" : "PONE",
+				"PLACENAME" : "Ponderosa Annex E",
+				"PLACENAME2" : "E",
+				"PLACENAME3" : "Ponderosa Annexes",
+				"PLACENAME4" : "E",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "PONE",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{296926F9-3B0E-492F-95C1-AF67D3E88BF4}"
 			}
 		},
 		{
@@ -3630,6 +3798,30 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2477805917015, 49.26216838654988 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-95",
+				"BLDG_ID" : "BRIM",
+				"PLACENAME" : "The Brimacombe Building",
+				"PLACENAME2" : "Brimacombe",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "BRIM",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{F12A33F1-D866-4E47-8027-59C8F1031F4E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.25289896371555, 49.26154249487824 ]
 			},
 			"properties" : {
@@ -3750,30 +3942,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24909086629052, 49.25919034681436 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-70",
-				"BLDG_ID" : "THUR",
-				"PLACENAME" : "Thunderbird Residence",
-				"PLACENAME2" : "Thunderbird Residence",
-				"PLACENAME3" : "Thunderbird Commonsblock",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 166.4,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Residence",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{6EF160FA-E5E3-4DE0-B87E-4EC4B2D7F85D}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24955380143197, 49.25827244577055 ]
 			},
 			"properties" : {
@@ -3816,6 +3984,30 @@
 				"BL_CLASS" : "l3",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{71CD147B-561A-485A-AD78-3F6F6D2AE566}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23784633241307, 49.25069892029999 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-112",
+				"BLDG_ID" : "FARM",
+				"PLACENAME" : "UBC Farm Centre",
+				"PLACENAME2" : "UBC Farm Centre",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 152.3,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{0898E998-7076-4468-8E65-65C47C577248}"
 			}
 		},
 		{
@@ -3990,24 +4182,48 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24555198339723, 49.26415848047819 ]
+				"coordinates" : [ -123.24811956981544, 49.26117870761214 ]
 			},
 			"properties" : {
-				"ADD_ID" : "AD-197",
-				"BLDG_ID" : "ACU",
-				"PLACENAME" : "Koerner Pavilion",
-				"PLACENAME2" : "Koerner",
+				"ADD_ID" : "AD-130",
+				"BLDG_ID" : "DMP",
+				"PLACENAME" : "Hugh Dempster Pavilion",
+				"PLACENAME2" : "Dempster",
 				"PLACENAME3" : null,
-				"PLACENAME4" : "Urgent Care",
+				"PLACENAME4" : null,
 				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "ACU",
+				"BUILDING_SHORTCODE" : "DMP",
 				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
+				"ROT" : 28.2,
 				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{7E2B3E7F-402E-479E-97FC-675BB3D3A263}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25017772001898, 49.26213982163996 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-160",
+				"BLDG_ID" : "KAIS",
+				"PLACENAME" : "Fred Kaiser Building",
+				"PLACENAME2" : "Fred Kaiser",
+				"PLACENAME3" : "Faculty of Applied Science",
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "KAIS",
+				"STATUS" : "Current",
+				"ROT" : 28.2,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l1",
 				"ENT_TYPE" : null,
-				"GLOBALID" : "{6AD00031-5673-49A0-993B-6345589838A7}"
+				"GLOBALID" : "{8E7F6191-71EE-4B0F-82EE-32BDE6697B26}"
 			}
 		},
 		{
@@ -4062,24 +4278,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24890307133644, 49.26356784071814 ]
+				"coordinates" : [ -123.2523858374472, 49.26762179792964 ]
 			},
 			"properties" : {
-				"ADD_ID" : "AD-207",
-				"BLDG_ID" : "EHHL",
-				"PLACENAME" : "Engineering High Head Room Laboratory",
-				"PLACENAME2" : "High Head",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
+				"ADD_ID" : "AD-210",
+				"BLDG_ID" : "IBLC",
+				"PLACENAME" : "Irving K. Barber Learning Centre",
+				"PLACENAME2" : "IK Barber",
+				"PLACENAME3" : "Ike Barber",
+				"PLACENAME4" : "<Null>",
 				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
+				"BUILDING_SHORTCODE" : "IBLC",
 				"STATUS" : "Current",
 				"ROT" : 208.20000000000002,
 				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l1",
 				"ENT_TYPE" : null,
-				"GLOBALID" : "{CE03F206-8031-40DC-B852-BE73F3B3328F}"
+				"GLOBALID" : "{125082C7-EAE8-4933-A6DD-C97166A1FA04}"
 			}
 		},
 		{
@@ -4104,6 +4320,30 @@
 				"BL_CLASS" : "l1",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{C85A9174-B5AD-44B2-9563-8482D69BD999}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24919270830044, 49.25932776760984 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-70",
+				"BLDG_ID" : "THUR",
+				"PLACENAME" : "Thunderbird Residence",
+				"PLACENAME2" : "Thunderbird Residence",
+				"PLACENAME3" : "Thunderbird Commonsblock",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 166.4,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Residence",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{6EF160FA-E5E3-4DE0-B87E-4EC4B2D7F85D}"
 			}
 		},
 		{
@@ -4152,30 +4392,6 @@
 				"BL_CLASS" : "l1",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{FFC94019-D9E7-4B3B-8692-A93395EEC4BA}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24766784635375, 49.26213103726633 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-95",
-				"BLDG_ID" : "BRIM",
-				"PLACENAME" : "The Brimacombe Building",
-				"PLACENAME2" : "Brimacombe",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "BRIM",
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{F12A33F1-D866-4E47-8027-59C8F1031F4E}"
 			}
 		},
 		{
@@ -4566,30 +4782,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24362708522246, 49.259609657938924 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-184",
-				"BLDG_ID" : "TENN",
-				"PLACENAME" : "Tennis Bubble",
-				"PLACENAME2" : "Tennis Bubble",
-				"PLACENAME3" : null,
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{CB9ED6BE-6DAA-4F99-834D-970804A1B7DE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25560502618822, 49.269389527290215 ]
 			},
 			"properties" : {
@@ -4662,30 +4854,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24910663647815, 49.262083335954074 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-158",
-				"BLDG_ID" : "ENSC",
-				"PLACENAME" : "Engineering Student Centre",
-				"PLACENAME2" : "ESC",
-				"PLACENAME3" : "Engineering Undergraduate Society",
-				"PLACENAME4" : "Cheese",
-				"ABBREVIATEDPLACENAME" : "EUS",
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 118.10000000000001,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{4CB76D06-A708-4ADE-A141-615029670FC6}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24645870936526, 49.25972170926378 ]
 			},
 			"properties" : {
@@ -4728,30 +4896,6 @@
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{232D535B-3820-42D8-B624-382D8A637F52}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24961725730189, 49.263166473385425 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-156",
-				"BLDG_ID" : "CEML",
-				"PLACENAME" : "Civil and Mechanical Engineering Labs",
-				"PLACENAME2" : "CEME Labs",
-				"PLACENAME3" : "Rusty Hut",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "CEME",
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{1CBB2DC0-A8E9-407D-B19C-31BEBC1C15CF}"
 			}
 		},
 		{
@@ -5262,30 +5406,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24002929992896, 49.251519602356744 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-112",
-				"BLDG_ID" : "FARM",
-				"PLACENAME" : "UBC Farm Centre",
-				"PLACENAME2" : "UBC Farm Centre",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 152.3,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{0898E998-7076-4468-8E65-65C47C577248}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23583301288453, 49.25350543232875 ]
 			},
 			"properties" : {
@@ -5544,30 +5664,6 @@
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{3E9CCB39-93D3-4F73-A589-19DE7E78FC6A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23106658455393, 49.25010867039837 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-239",
-				"BLDG_ID" : "PAPR",
-				"PLACENAME" : "MT Innovations",
-				"PLACENAME2" : "MT Innovations",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 10.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{28C36D3E-4F06-42BD-9436-59F813A0C46E}"
 			}
 		},
 		{
@@ -6054,30 +6150,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25626707331068, 49.26494756482546 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-294",
-				"BLDG_ID" : "PONC",
-				"PLACENAME" : "Ponderosa Office Annex C",
-				"PLACENAME2" : "C",
-				"PLACENAME3" : "Ponderosa Annexes",
-				"PLACENAME4" : "C",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "PONC",
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{9B1AC20E-16EF-4CD6-9E85-EC37E20C2FFD}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23529881131054, 49.25084517668403 ]
 			},
 			"properties" : {
@@ -6126,30 +6198,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23688725603422, 49.25320306331349 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-52",
-				"BLDG_ID" : "WEBH",
-				"PLACENAME" : "Webber House",
-				"PLACENAME2" : "Webber House",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 28.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l3",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{2ED79BAC-A583-4131-BBB4-CFA652EA0DBE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23973940413943, 49.25730733564594 ]
 			},
 			"properties" : {
@@ -6192,30 +6240,6 @@
 				"BL_CLASS" : "Residence",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{8065DF14-102A-48CA-8F91-CD4FF28CBD9D}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25093235429897, 49.26007191199588 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-24",
-				"BLDG_ID" : "ORCH",
-				"PLACENAME" : "Orchard Commons",
-				"PLACENAME2" : "Orchard Commons",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 118.10000000000001,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "Residence",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{3CA4DBE0-6C51-4912-AE33-3870F52E8A8D}"
 			}
 		},
 		{
@@ -6288,30 +6312,6 @@
 				"BL_CLASS" : "l3",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{6E0C28B1-FAAC-4064-801C-51D5C5B8A013}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24937317733298, 49.270553534126485 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-321",
-				"BLDG_ID" : "CORS",
-				"PLACENAME" : "Corus",
-				"PLACENAME2" : "Corus",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 118.10000000000001,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l3",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{F6C2E784-CDB8-472E-BF51-968C743FC0A9}"
 			}
 		},
 		{
@@ -6432,78 +6432,6 @@
 				"BL_CLASS" : "l2",
 				"ENT_TYPE" : null,
 				"GLOBALID" : "{29258936-7325-4B07-A4BB-16868D82D205}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25621201082684, 49.26519153641453 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-292",
-				"BLDG_ID" : "PONA",
-				"PLACENAME" : "Ponderosa Office Annex A",
-				"PLACENAME2" : "A",
-				"PLACENAME3" : "Ponderosa Annexes",
-				"PLACENAME4" : "A",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "PONA",
-				"STATUS" : "Current",
-				"ROT" : 118.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{3ED7C406-83AB-4494-A5DF-D57F8A996ABF}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25057772575813, 49.25398207576723 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-120",
-				"BLDG_ID" : "BOTG",
-				"PLACENAME" : "UBC Botanical Garden",
-				"PLACENAME2" : "Botanical Garden",
-				"PLACENAME3" : "Admission and Shop in the Garden ",
-				"PLACENAME4" : "UBC Botanical Garden and Centre for Plant Research",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 78.8,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{A49DBA64-343C-48C2-9263-BD87576A235A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ null, null ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"BLDG_ID" : null,
-				"PLACENAME" : null,
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : null,
-				"ROT" : null,
-				"ACCESSIBLE" : null,
-				"POWER_DOOR" : null,
-				"BL_CLASS" : null,
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{CC0B3493-9AC6-41A7-98EF-4A380425DF92}"
 			}
 		}
 	]
