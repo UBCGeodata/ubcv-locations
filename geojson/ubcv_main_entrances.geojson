@@ -6,35 +6,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24904655199074, 49.25688425018155 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-544",
-				"BLDG_ID" : "WSTR",
-				"PLACENAME" : "Westchester",
-				"PLACENAME2" : "Westchester",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 30,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l3",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{05AA8712-06C5-47E0-A850-2EA46691343D}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25910311458875, 49.26762694770149 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-206",
-				"BLDG_ID" : "LIUG",
+				"BL_ID" : "LIUG",
 				"PLACENAME" : "Liu Institute for Global Issues",
 				"PLACENAME2" : "Liu Institute",
 				"PLACENAME3" : null,
@@ -58,7 +34,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-157",
-				"BLDG_ID" : "LSK",
+				"BL_ID" : "LSK",
 				"PLACENAME" : "The Leonard S. Klinck Building",
 				"PLACENAME2" : "Klinck",
 				"PLACENAME3" : null,
@@ -82,7 +58,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-48",
-				"BLDG_ID" : "GRAT",
+				"BL_ID" : "GRAT",
 				"PLACENAME" : "Granite Terrace",
 				"PLACENAME2" : "Granite Terrace",
 				"PLACENAME3" : null,
@@ -102,11 +78,35 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.240928947986, 49.26316809445496 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-817",
+				"BL_ID" : "FAIR",
+				"PLACENAME" : "Fairview Crescent Residence",
+				"PLACENAME2" : "Fairview Crescent Residence",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 28.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Residence",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{90981238-4A0D-4D9E-AF59-4886B76922D8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.25720436620577, 49.26552933721503 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-165",
-				"BLDG_ID" : "FNLH",
+				"BL_ID" : "FNLH",
 				"PLACENAME" : "First Nations Longhouse",
 				"PLACENAME2" : "First Nations Longhouse",
 				"PLACENAME3" : "House of Learning",
@@ -130,7 +130,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-249",
-				"BLDG_ID" : "HENN",
+				"BL_ID" : "HENN",
 				"PLACENAME" : "Hennings Building",
 				"PLACENAME2" : "Hennings",
 				"PLACENAME3" : null,
@@ -154,7 +154,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-211",
-				"BLDG_ID" : "MATH",
+				"BL_ID" : "MATH",
 				"PLACENAME" : "Mathematics Building",
 				"PLACENAME2" : "Math",
 				"PLACENAME3" : null,
@@ -178,7 +178,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-251",
-				"BLDG_ID" : "HEBB",
+				"BL_ID" : "HEBB",
 				"PLACENAME" : "Hebb Building",
 				"PLACENAME2" : "Hebb",
 				"PLACENAME3" : null,
@@ -202,7 +202,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-252",
-				"BLDG_ID" : "TFS",
+				"BL_ID" : "TFS",
 				"PLACENAME" : "Totem Field Studios",
 				"PLACENAME2" : "Totem Field Studios",
 				"PLACENAME3" : null,
@@ -226,7 +226,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-235",
-				"BLDG_ID" : "TAPS",
+				"BL_ID" : "TAPS",
 				"PLACENAME" : "Tapestry at Wesbrook Village",
 				"PLACENAME2" : "Tapestry",
 				"PLACENAME3" : "Tapestry North",
@@ -250,7 +250,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-161",
-				"BLDG_ID" : "BEBC",
+				"BL_ID" : "BEBC",
 				"PLACENAME" : "Beaty Biodiversity Centre",
 				"PLACENAME2" : "Beaty",
 				"PLACENAME3" : "Beaty Biodiversity Museum",
@@ -270,11 +270,59 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.24837991144035, 49.25831425659657 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-418",
+				"BL_ID" : "HAWT",
+				"PLACENAME" : "Hawthorn Green",
+				"PLACENAME2" : "Hawthorn Green",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l3",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{B00BCED7-1852-4916-BBD9-2B86AF3F7DE6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25470131091, 49.263892830788436 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-303",
+				"BL_ID" : "PNCE",
+				"PLACENAME" : "Ponderosa Commons East",
+				"PLACENAME2" : "Audain Art Centre",
+				"PLACENAME3" : "Spruce House",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l1",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{3696654D-FFAF-40E0-9792-F0F88526E7EC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.24730196070085, 49.261539570390376 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-257",
-				"BLDG_ID" : "PAPC",
+				"BL_ID" : "PAPC",
 				"PLACENAME" : "Pulp and Paper Centre",
 				"PLACENAME2" : "Pulp and Paper",
 				"PLACENAME3" : null,
@@ -294,24 +342,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2560679539664, 49.264253597258225 ]
+				"coordinates" : [ -123.24815676589459, 49.256906294274735 ]
 			},
 			"properties" : {
-				"ADD_ID" : "AD-85",
-				"BLDG_ID" : "PNCN",
-				"PLACENAME" : "Ponderosa Commons North",
-				"PLACENAME2" : "Ponderosa Commons",
-				"PLACENAME3" : "Cedar/Oak House",
-				"PLACENAME4" : "<Null>",
+				"ADD_ID" : "AD-515",
+				"BL_ID" : "SOMS",
+				"PLACENAME" : "Somerset",
+				"PLACENAME2" : "Somerset",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 118.10000000000001,
+				"ROT" : 28.2,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
 				"ENT_TYPE" : null,
-				"GLOBALID" : "{95197B0B-8618-4A83-9D7F-77C1070FB07C}"
+				"GLOBALID" : "{03A06F8D-2415-4001-A81F-F916C3B905E7}"
 			}
 		},
 		{
@@ -322,7 +370,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-259",
-				"BLDG_ID" : "RUGB",
+				"BL_ID" : "RUGB",
 				"PLACENAME" : "Rugby Pavilion",
 				"PLACENAME2" : "Rugby",
 				"PLACENAME3" : null,
@@ -346,7 +394,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-35",
-				"BLDG_ID" : "BINT",
+				"BL_ID" : "BINT",
 				"PLACENAME" : "Binning Tower",
 				"PLACENAME2" : "Binning",
 				"PLACENAME3" : null,
@@ -370,7 +418,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-91",
-				"BLDG_ID" : "ACOM",
+				"BL_ID" : "ACOM",
 				"PLACENAME" : "Acadia Community Centre",
 				"PLACENAME2" : "Acadia Park Residence",
 				"PLACENAME3" : null,
@@ -394,7 +442,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-277",
-				"BLDG_ID" : "WPRO",
+				"BL_ID" : "WPRO",
 				"PLACENAME" : "Wesbrook Professional Centre",
 				"PLACENAME2" : "Wesbrook Professional Centre",
 				"PLACENAME3" : null,
@@ -418,7 +466,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-149",
-				"BLDG_ID" : "AQUA",
+				"BL_ID" : "AQUA",
 				"PLACENAME" : "UBC Aquatic Centre",
 				"PLACENAME2" : "Aquatic Centre",
 				"PLACENAME3" : "Swimming Pool",
@@ -442,7 +490,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-295",
-				"BLDG_ID" : "THUN",
+				"BL_ID" : "THUN",
 				"PLACENAME" : "Doug Mitchell Thunderbird Sports Centre",
 				"PLACENAME2" : "Doug Mitchell Centre",
 				"PLACENAME3" : "Thunderbird Sports Centre",
@@ -466,7 +514,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-1036",
-				"BLDG_ID" : "MUSM",
+				"BL_ID" : "MUSM",
 				"PLACENAME" : "Museum of Anthropology",
 				"PLACENAME2" : "MOA",
 				"PLACENAME3" : null,
@@ -490,7 +538,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-317",
-				"BLDG_ID" : "GUNN",
+				"BL_ID" : "GUNN",
 				"PLACENAME" : "Chan Gunn Pavilion",
 				"PLACENAME2" : "Chan Gunn",
 				"PLACENAME3" : null,
@@ -514,7 +562,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-311",
-				"BLDG_ID" : "PINE",
+				"BL_ID" : "PINE",
 				"PLACENAME" : "Pine House",
 				"PLACENAME2" : "Pine House",
 				"PLACENAME3" : "Wesbrook Lot 27",
@@ -538,7 +586,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-310",
-				"BLDG_ID" : "VIRT",
+				"BL_ID" : "VIRT",
 				"PLACENAME" : "Virtuoso",
 				"PLACENAME2" : "Virtuoso",
 				"PLACENAME3" : "Wesbrook Lot 23",
@@ -562,7 +610,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-312",
-				"BLDG_ID" : "CYPR",
+				"BL_ID" : "CYPR",
 				"PLACENAME" : "Cypress House",
 				"PLACENAME2" : "Cypress House",
 				"PLACENAME3" : "Wesbrook Lot 29",
@@ -582,35 +630,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24075573561544, 49.26326445875703 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-817",
-				"BLDG_ID" : "FAIR",
-				"PLACENAME" : "Fairview Crescent Residence",
-				"PLACENAME2" : "Fairview Crescent Residence",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 28.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Residence",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{90981238-4A0D-4D9E-AF59-4886B76922D8}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23302497038702, 49.252869349161976 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-37",
-				"BLDG_ID" : "CRSW",
+				"BL_ID" : "CRSW",
 				"PLACENAME" : "Crescent West",
 				"PLACENAME2" : "Crescent West",
 				"PLACENAME3" : null,
@@ -630,35 +654,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2547002918326, 49.26389324951343 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-303",
-				"BLDG_ID" : "PNCE",
-				"PLACENAME" : "Ponderosa Commons East",
-				"PLACENAME2" : "Audain Art Centre",
-				"PLACENAME3" : "Spruce House",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l1",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{3696654D-FFAF-40E0-9792-F0F88526E7EC}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25472673495356, 49.2646902374931 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-163",
-				"BLDG_ID" : "DSOM",
+				"BL_ID" : "DSOM",
 				"PLACENAME" : "Dorothy Somerset Studios",
 				"PLACENAME2" : "Somerset Studios",
 				"PLACENAME3" : "Hut M-18",
@@ -682,7 +682,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-104",
-				"BLDG_ID" : "AUDI",
+				"BL_ID" : "AUDI",
 				"PLACENAME" : "Old Auditorium",
 				"PLACENAME2" : "Old Aud",
 				"PLACENAME3" : null,
@@ -706,7 +706,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-197",
-				"BLDG_ID" : "ACU",
+				"BL_ID" : "ACU",
 				"PLACENAME" : "Koerner Pavilion",
 				"PLACENAME2" : "Koerner",
 				"PLACENAME3" : "Hospital",
@@ -730,7 +730,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-269",
-				"BLDG_ID" : "STAD",
+				"BL_ID" : "STAD",
 				"PLACENAME" : "Thunderbird Stadium",
 				"PLACENAME2" : "Thunderbird Stadium",
 				"PLACENAME3" : "David Sidoo Field",
@@ -754,7 +754,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-184",
-				"BLDG_ID" : "TENN",
+				"BL_ID" : "TENN",
 				"PLACENAME" : "UBC Tennis Centre",
 				"PLACENAME2" : "Tennis Bubble",
 				"PLACENAME3" : null,
@@ -778,7 +778,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-49",
-				"BLDG_ID" : "MEWS",
+				"BL_ID" : "MEWS",
 				"PLACENAME" : "The Mews",
 				"PLACENAME2" : "The Mews",
 				"PLACENAME3" : null,
@@ -802,7 +802,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-221",
-				"BLDG_ID" : "HSCC",
+				"BL_ID" : "HSCC",
 				"PLACENAME" : "Detwiller Pavilion",
 				"PLACENAME2" : "Detwiller",
 				"PLACENAME3" : null,
@@ -826,7 +826,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-169",
-				"BLDG_ID" : "FPIN",
+				"BL_ID" : "FPIN",
 				"PLACENAME" : "FPInnovations",
 				"PLACENAME2" : "FP Innovations",
 				"PLACENAME3" : "Forintek",
@@ -850,7 +850,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-93",
-				"BLDG_ID" : "OADM",
+				"BL_ID" : "OABG",
 				"PLACENAME" : "Old Administration Building",
 				"PLACENAME2" : "Old Admin",
 				"PLACENAME3" : null,
@@ -874,7 +874,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-5",
-				"BLDG_ID" : "GRNC",
+				"BL_ID" : "GRNC",
 				"PLACENAME" : "Green College",
 				"PLACENAME2" : "Green College",
 				"PLACENAME3" : "Adminstration Building F",
@@ -898,7 +898,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-209",
-				"BLDG_ID" : "KOER",
+				"BL_ID" : "KOER",
 				"PLACENAME" : "Walter C. Koerner Library",
 				"PLACENAME2" : "Koerner Library",
 				"PLACENAME3" : null,
@@ -922,7 +922,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-173",
-				"BLDG_ID" : "OFRH",
+				"BL_ID" : "OFRH",
 				"PLACENAME" : "Old Fire Hall",
 				"PLACENAME2" : "Old Fire Hall",
 				"PLACENAME3" : null,
@@ -946,7 +946,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-321",
-				"BLDG_ID" : "CORS",
+				"BL_ID" : "CORS",
 				"PLACENAME" : "Corus",
 				"PLACENAME2" : "Corus",
 				"PLACENAME3" : null,
@@ -966,35 +966,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25041920241426, 49.260213800571435 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-24",
-				"BLDG_ID" : "ORCH",
-				"PLACENAME" : "Orchard Commons",
-				"PLACENAME2" : "Orchard Commons",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 118.10000000000001,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "Residence",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{3CA4DBE0-6C51-4912-AE33-3870F52E8A8D}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24910886590133, 49.26208335813297 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-158",
-				"BLDG_ID" : "ENSC",
+				"BL_ID" : "ENSC",
 				"PLACENAME" : "Engineering Student Centre",
 				"PLACENAME2" : "ESC",
 				"PLACENAME3" : "Engineering Undergraduate Society",
@@ -1018,7 +994,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-1038",
-				"BLDG_ID" : "TOTM",
+				"BL_ID" : "TOTM",
 				"PLACENAME" : "Totem Park Residence ",
 				"PLACENAME2" : "Totem Park Residence ",
 				"PLACENAME3" : "Totem Park Commonsblock",
@@ -1038,11 +1014,35 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2509317352503, 49.26007071247823 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-24",
+				"BL_ID" : "ORCH",
+				"PLACENAME" : "Orchard Commons",
+				"PLACENAME2" : "Orchard Commons",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 118.10000000000001,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "Residence",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{3CA4DBE0-6C51-4912-AE33-3870F52E8A8D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.25883626357967, 49.26788409461132 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-200",
-				"BLDG_ID" : "INTL",
+				"BL_ID" : "INTL",
 				"PLACENAME" : "International House",
 				"PLACENAME2" : "International House",
 				"PLACENAME3" : "I- House",
@@ -1066,7 +1066,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-178",
-				"BLDG_ID" : "EOSM",
+				"BL_ID" : "EOSM",
 				"PLACENAME" : "Earth and Ocean Sciences ",
 				"PLACENAME2" : "EOS",
 				"PLACENAME3" : "EOS Main",
@@ -1086,24 +1086,72 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2503467131913, 49.26516071486311 ]
+				"coordinates" : [ -123.24445262517602, 49.25763326656282 ]
 			},
 			"properties" : {
-				"ADD_ID" : "AD-116",
-				"BLDG_ID" : "BOOK",
-				"PLACENAME" : "UBC Bookstore",
-				"PLACENAME2" : "Bookstore",
-				"PLACENAME3" : "UBC Bookstore",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
+				"ADD_ID" : "AD-170",
+				"BL_ID" : "FERC",
+				"PLACENAME" : "Feric",
+				"PLACENAME2" : "<Null>",
+				"PLACENAME3" : "<Null>",
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : "<Null>",
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
+				"ROT" : 118.2,
 				"ACCESSIBLE" : 1,
 				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Attraction",
+				"BL_CLASS" : "l4",
 				"ENT_TYPE" : null,
-				"GLOBALID" : "{DC467852-44F6-4B9F-91B9-3C1E370C8214}"
+				"GLOBALID" : "{54BEE339-4EEC-4923-A657-04B6EBB28724}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24961725730189, 49.263166473385425 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-155",
+				"BL_ID" : "CEML",
+				"PLACENAME" : "Civil and Mechanical Engineering Labs",
+				"PLACENAME2" : "CEME Labs",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : "CEME Labs",
+				"BUILDING_SHORTCODE" : "CEME",
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{EC51AD63-A6AC-4417-925C-3F9ABBCAC7D3}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24923482320487, 49.26268673129515 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-155",
+				"BL_ID" : "CEME",
+				"PLACENAME" : "Civil and Mechanical Engineering Building",
+				"PLACENAME2" : "CEME",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : "CEME",
+				"BUILDING_SHORTCODE" : "CEME",
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{232D535B-3820-42D8-B624-382D8A637F52}"
 			}
 		},
 		{
@@ -1114,7 +1162,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-183",
-				"BLDG_ID" : "OSBO",
+				"BL_ID" : "OSBO",
 				"PLACENAME" : "Robert F. Osborne Centre",
 				"PLACENAME2" : "Osborne Centre",
 				"PLACENAME3" : "Osborne Gym",
@@ -1138,7 +1186,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-69",
-				"BLDG_ID" : "PGRA",
+				"BL_ID" : "PGRA",
 				"PLACENAME" : "Point Grey Apartments ",
 				"PLACENAME2" : "Point Grey Apartments ",
 				"PLACENAME3" : "Osoyoos Housing",
@@ -1162,7 +1210,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-128",
-				"BLDG_ID" : "CHSC",
+				"BL_ID" : "CHSC",
 				"PLACENAME" : "Child Care Services Administration Building",
 				"PLACENAME2" : "Child Care Admin Building",
 				"PLACENAME3" : "Child Care Main Building",
@@ -1186,7 +1234,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-172",
-				"BLDG_ID" : "MARN",
+				"BL_ID" : "MARN",
 				"PLACENAME" : "Marine Drive Residence ",
 				"PLACENAME2" : "Marine Drive Residence ",
 				"PLACENAME3" : "Marine Drive Commonsblock",
@@ -1210,7 +1258,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-150",
-				"BLDG_ID" : "ESB",
+				"BL_ID" : "ESB",
 				"PLACENAME" : "Earth Sciences Building",
 				"PLACENAME2" : "Earth Sciences",
 				"PLACENAME3" : "Science Dean office",
@@ -1234,7 +1282,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-177",
-				"BLDG_ID" : "GEOG",
+				"BL_ID" : "GEOG",
 				"PLACENAME" : "Geography Building",
 				"PLACENAME2" : "Geography",
 				"PLACENAME3" : null,
@@ -1258,7 +1306,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-203",
-				"BLDG_ID" : "ALRD",
+				"BL_ID" : "ALRD",
 				"PLACENAME" : "Allard Hall",
 				"PLACENAME2" : "Allard Hall",
 				"PLACENAME3" : "Peter A. Allard School of Law ",
@@ -1282,7 +1330,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-122",
-				"BLDG_ID" : "BUTO",
+				"BL_ID" : "BUTO",
 				"PLACENAME" : "Buchanan Tower",
 				"PLACENAME2" : "Buchanan Tower",
 				"PLACENAME3" : null,
@@ -1306,7 +1354,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-290",
-				"BLDG_ID" : "WMAX",
+				"BL_ID" : "WMAX",
 				"PLACENAME" : "West Mall Annex",
 				"PLACENAME2" : "West Mall Annex",
 				"PLACENAME3" : null,
@@ -1330,7 +1378,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-133",
-				"BLDG_ID" : "CLCK",
+				"BL_ID" : "CLCK",
 				"PLACENAME" : "Ladner Clock Tower",
 				"PLACENAME2" : "Clock Tower",
 				"PLACENAME3" : null,
@@ -1354,7 +1402,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-125",
-				"BLDG_ID" : "CHEM",
+				"BL_ID" : "CHEM",
 				"PLACENAME" : "Chemistry Building",
 				"PLACENAME2" : "Chemistry",
 				"PLACENAME3" : "Chemistry Block D Centre Wing",
@@ -1378,7 +1426,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-98",
-				"BLDG_ID" : "ANGU",
+				"BL_ID" : "ANGU",
 				"PLACENAME" : "Henry Angus Building",
 				"PLACENAME2" : "Henry Angus",
 				"PLACENAME3" : "Sauder School of Business",
@@ -1402,7 +1450,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-278",
-				"BLDG_ID" : "STJC",
+				"BL_ID" : "STJC",
 				"PLACENAME" : "St. John's College",
 				"PLACENAME2" : "St. John's College",
 				"PLACENAME3" : "Saint John's",
@@ -1426,7 +1474,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-129",
-				"BLDG_ID" : "CSTB",
+				"BL_ID" : "CSTB",
 				"PLACENAME" : "Continuing Studies Building",
 				"PLACENAME2" : "Continuing Studies",
 				"PLACENAME3" : "English Language Institute",
@@ -1450,7 +1498,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-151",
-				"BLDG_ID" : "SCRF",
+				"BL_ID" : "SCRF",
 				"PLACENAME" : "Neville Scarfe Building ",
 				"PLACENAME2" : "Scarfe",
 				"PLACENAME3" : "Faculty of Education",
@@ -1474,7 +1522,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-256",
-				"BLDG_ID" : "KENN",
+				"BL_ID" : "KENN",
 				"PLACENAME" : "Douglas Kenny Building",
 				"PLACENAME2" : "Kenny",
 				"PLACENAME3" : "Psychology",
@@ -1498,7 +1546,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-135",
-				"BLDG_ID" : "MCDN",
+				"BL_ID" : "MCDN",
 				"PLACENAME" : "JB Macdonald Building",
 				"PLACENAME2" : "Macdonald",
 				"PLACENAME3" : "Dentistry Building",
@@ -1522,7 +1570,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-189",
-				"BLDG_ID" : "FNH",
+				"BL_ID" : "FNH",
 				"PLACENAME" : "Food Nutrition and Health Building",
 				"PLACENAME2" : "Food Nutrition Health",
 				"PLACENAME3" : null,
@@ -1546,7 +1594,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-208",
-				"BLDG_ID" : "SPPH",
+				"BL_ID" : "SPPH",
 				"PLACENAME" : "School of Population & Public Health",
 				"PLACENAME2" : "SPPH",
 				"PLACENAME3" : null,
@@ -1570,7 +1618,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-195",
-				"BLDG_ID" : "BIRC",
+				"BL_ID" : "BIRC",
 				"PLACENAME" : "Biomedical Research Centre",
 				"PLACENAME2" : "Biomedical",
 				"PLACENAME3" : "Biomedical Building",
@@ -1594,7 +1642,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-174",
-				"BLDG_ID" : "WDPL",
+				"BL_ID" : "WDPL",
 				"PLACENAME" : "Wood Drying Laboratory",
 				"PLACENAME2" : "Wood Lab",
 				"PLACENAME3" : null,
@@ -1618,7 +1666,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-246",
-				"BLDG_ID" : "UNSB",
+				"BL_ID" : "UNSB",
 				"PLACENAME" : "University Services Building",
 				"PLACENAME2" : "USB",
 				"PLACENAME3" : "Campus Mail",
@@ -1642,7 +1690,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-222",
-				"BLDG_ID" : "AMBS",
+				"BL_ID" : "AMBS",
 				"PLACENAME" : "Ambulance Station",
 				"PLACENAME2" : "Ambulance",
 				"PLACENAME3" : null,
@@ -1666,7 +1714,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-159",
-				"BLDG_ID" : "MCLD",
+				"BL_ID" : "MCLD",
 				"PLACENAME" : "MacLeod Building",
 				"PLACENAME2" : "MacLeod",
 				"PLACENAME3" : "Hector MacLeod Building",
@@ -1690,7 +1738,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-175",
-				"BLDG_ID" : "MCML",
+				"BL_ID" : "MCML",
 				"PLACENAME" : "HR MacMillan Building",
 				"PLACENAME2" : "MacMillan",
 				"PLACENAME3" : "Faculty of Land and Food Systems",
@@ -1714,7 +1762,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-96",
-				"BLDG_ID" : "LNDA",
+				"BL_ID" : "LNDA",
 				"PLACENAME" : "Landscape Architecture Annex",
 				"PLACENAME2" : "Landscape Architecture",
 				"PLACENAME3" : null,
@@ -1738,7 +1786,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-227",
-				"BLDG_ID" : "GMGB",
+				"BL_ID" : "GMGB",
 				"PLACENAME" : "Gerald McGavin Building",
 				"PLACENAME2" : "McGavin",
 				"PLACENAME3" : null,
@@ -1762,7 +1810,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-194",
-				"BLDG_ID" : "DRIX",
+				"BL_ID" : "DRIX",
 				"PLACENAME" : "Donald Rix Building",
 				"PLACENAME2" : "Donald Rix",
 				"PLACENAME3" : null,
@@ -1786,7 +1834,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-21",
-				"BLDG_ID" : "FRAS",
+				"BL_ID" : "FRAS",
 				"PLACENAME" : "Fraser Hall",
 				"PLACENAME2" : "Fraser Hall",
 				"PLACENAME3" : null,
@@ -1810,7 +1858,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-42",
-				"BLDG_ID" : "PROM",
+				"BL_ID" : "PROM",
 				"PLACENAME" : "Promontory",
 				"PLACENAME2" : "Promontory",
 				"PLACENAME3" : null,
@@ -1834,7 +1882,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-6",
-				"BLDG_ID" : "SOPR",
+				"BL_ID" : "SOPR",
 				"PLACENAME" : "Sopron House",
 				"PLACENAME2" : "Sopron House",
 				"PLACENAME3" : null,
@@ -1858,7 +1906,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-88",
-				"BLDG_ID" : "SORO",
+				"BL_ID" : "SORO",
 				"PLACENAME" : "Panhellenic House",
 				"PLACENAME2" : "Panhellenic House",
 				"PLACENAME3" : "Sorority House",
@@ -1882,7 +1930,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-92",
-				"BLDG_ID" : "KIDS",
+				"BL_ID" : "KIDS",
 				"PLACENAME" : "Kids Club",
 				"PLACENAME2" : "Kids Club",
 				"PLACENAME3" : null,
@@ -1906,7 +1954,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-31",
-				"BLDG_ID" : "UHIL",
+				"BL_ID" : "UHIL",
 				"PLACENAME" : "University Hill Secondary School",
 				"PLACENAME2" : "U-Hill Secondary",
 				"PLACENAME3" : "High school",
@@ -1930,7 +1978,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-89",
-				"BLDG_ID" : "FRAT",
+				"BL_ID" : "FRAT",
 				"PLACENAME" : "Fraternity Village ",
 				"PLACENAME2" : "Fraternity Village ",
 				"PLACENAME3" : null,
@@ -1954,7 +2002,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-54",
-				"BLDG_ID" : "MBAH",
+				"BL_ID" : "MBAH",
 				"PLACENAME" : "MBA House",
 				"PLACENAME2" : "MBA House",
 				"PLACENAME3" : null,
@@ -1978,7 +2026,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-27",
-				"BLDG_ID" : "LARK",
+				"BL_ID" : "LARK",
 				"PLACENAME" : "Larkspur House",
 				"PLACENAME2" : "Larkspur House",
 				"PLACENAME3" : "Faculty Staff Housing Building F",
@@ -2002,7 +2050,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-17",
-				"BLDG_ID" : "PEMB",
+				"BL_ID" : "PEMB",
 				"PLACENAME" : "The Pemberley",
 				"PLACENAME2" : "The Pemberley",
 				"PLACENAME3" : "Hampton Place Lot 10 ",
@@ -2026,7 +2074,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-15",
-				"BLDG_ID" : "REGE",
+				"BL_ID" : "REGE",
 				"PLACENAME" : "The Regency",
 				"PLACENAME2" : "The Regency",
 				"PLACENAME3" : "Hampton Place Lot 8 ",
@@ -2050,7 +2098,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-8",
-				"BLDG_ID" : "WHAM",
+				"BL_ID" : "WHAM",
 				"PLACENAME" : "West Hampstead",
 				"PLACENAME2" : "West Hampstead",
 				"PLACENAME3" : "Hampton Place Lot 2",
@@ -2074,7 +2122,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-18",
-				"BLDG_ID" : "TRMH",
+				"BL_ID" : "TRMH",
 				"PLACENAME" : "TRIUMF House",
 				"PLACENAME2" : "TRIUMF House",
 				"PLACENAME3" : "TRIUMF Visitor's Residence",
@@ -2098,7 +2146,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-72",
-				"BLDG_ID" : "CARY",
+				"BL_ID" : "CARY",
 				"PLACENAME" : "Carey Centre",
 				"PLACENAME2" : "Carey Centre",
 				"PLACENAME3" : null,
@@ -2122,7 +2170,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-80",
-				"BLDG_ID" : "ARGW",
+				"BL_ID" : "ARGW",
 				"PLACENAME" : "Argyll House West",
 				"PLACENAME2" : "Argyll House West",
 				"PLACENAME3" : null,
@@ -2146,7 +2194,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-40",
-				"BLDG_ID" : "CLEM",
+				"BL_ID" : "CLEM",
 				"PLACENAME" : "Clement's Green",
 				"PLACENAME2" : "Clement's Green",
 				"PLACENAME3" : null,
@@ -2170,7 +2218,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-41",
-				"BLDG_ID" : "REFL",
+				"BL_ID" : "REFL",
 				"PLACENAME" : "Reflections",
 				"PLACENAME2" : "Reflections",
 				"PLACENAME3" : null,
@@ -2194,7 +2242,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-43",
-				"BLDG_ID" : "OBCC",
+				"BL_ID" : "OBCC",
 				"PLACENAME" : "Old Barn Community Centre",
 				"PLACENAME2" : "Old Barn",
 				"PLACENAME3" : null,
@@ -2218,7 +2266,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-39",
-				"BLDG_ID" : "JOUR",
+				"BL_ID" : "JOUR",
 				"PLACENAME" : "Journey",
 				"PLACENAME2" : "Journey",
 				"PLACENAME3" : null,
@@ -2242,7 +2290,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-101",
-				"BLDG_ID" : "LASR",
+				"BL_ID" : "LASR",
 				"PLACENAME" : "Frederic Lasserre Building",
 				"PLACENAME2" : "Lasserre",
 				"PLACENAME3" : null,
@@ -2266,7 +2314,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-103",
-				"BLDG_ID" : "TFPB",
+				"BL_ID" : "TFPB",
 				"PLACENAME" : "Theatre-Film Production Building",
 				"PLACENAME2" : "Theatre-Film",
 				"PLACENAME3" : null,
@@ -2286,35 +2334,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25479948149847, 49.26466302487973 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-164",
-				"BLDG_ID" : "BINN",
-				"PLACENAME" : "B.C. Binning Studios",
-				"PLACENAME2" : "Binning Studios",
-				"PLACENAME3" : "Hut M-17",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "BINN",
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{263C0B63-D8BA-493A-B81A-5E2EC620DC6F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25165894545948, 49.27037460829107 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-275",
-				"BLDG_ID" : "STAH",
+				"BL_ID" : "STAH",
 				"PLACENAME" : "St. Andrew's Hall",
 				"PLACENAME2" : "St. Andrew's Hall",
 				"PLACENAME3" : "St. Andrew's Residence",
@@ -2338,7 +2362,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-120",
-				"BLDG_ID" : "BOTG",
+				"BL_ID" : "BOTG",
 				"PLACENAME" : "UBC Botanical Garden",
 				"PLACENAME2" : "Botanical Garden",
 				"PLACENAME3" : "Admission and Shop in the Garden ",
@@ -2358,35 +2382,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ null, null ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"BLDG_ID" : null,
-				"PLACENAME" : null,
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : null,
-				"ROT" : null,
-				"ACCESSIBLE" : null,
-				"POWER_DOOR" : null,
-				"BL_CLASS" : null,
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{CC0B3493-9AC6-41A7-98EF-4A380425DF92}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.22811667712106, 49.24538208792584 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-261",
-				"BLDG_ID" : "SRES",
+				"BL_ID" : "SRES",
 				"PLACENAME" : "Staging Environmental Research Centre",
 				"PLACENAME2" : "SERC",
 				"PLACENAME3" : null,
@@ -2410,7 +2410,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-292",
-				"BLDG_ID" : "PONA",
+				"BL_ID" : "PONA",
 				"PLACENAME" : "Ponderosa Annex A",
 				"PLACENAME2" : "A",
 				"PLACENAME3" : "Ponderosa Annexes",
@@ -2434,7 +2434,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-294",
-				"BLDG_ID" : "PONC",
+				"BL_ID" : "PONC",
 				"PLACENAME" : "Ponderosa Annex C",
 				"PLACENAME2" : "C",
 				"PLACENAME3" : "Ponderosa Annexes",
@@ -2454,35 +2454,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ null, null ]
-			},
-			"properties" : {
-				"ADD_ID" : null,
-				"BLDG_ID" : null,
-				"PLACENAME" : null,
-				"PLACENAME2" : null,
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : null,
-				"ROT" : null,
-				"ACCESSIBLE" : null,
-				"POWER_DOOR" : null,
-				"BL_CLASS" : null,
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{94274A50-C687-49B7-9849-3C68C755B7D4}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25330231712258, 49.26189631618352 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-243",
-				"BLDG_ID" : "CIRS",
+				"BL_ID" : "CIRS",
 				"PLACENAME" : "Centre for Interactive Research on Sustainability (CIRS)",
 				"PLACENAME2" : "CIRS",
 				"PLACENAME3" : null,
@@ -2506,7 +2482,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-299",
-				"BLDG_ID" : "PONF",
+				"BL_ID" : "PONF",
 				"PLACENAME" : "Ponderosa Annex F",
 				"PLACENAME2" : "F",
 				"PLACENAME3" : "Ponderosa Annexes",
@@ -2530,7 +2506,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-293",
-				"BLDG_ID" : "PONB",
+				"BL_ID" : "PONB",
 				"PLACENAME" : "Ponderosa Annex B",
 				"PLACENAME2" : "B",
 				"PLACENAME3" : "Ponderosa Annexes",
@@ -2554,7 +2530,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-239",
-				"BLDG_ID" : "MTIN",
+				"BL_ID" : "MTIN",
 				"PLACENAME" : "MT Innovations",
 				"PLACENAME2" : "MT Innovations",
 				"PLACENAME3" : null,
@@ -2578,7 +2554,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-300",
-				"BLDG_ID" : "PONG",
+				"BL_ID" : "PONG",
 				"PLACENAME" : "Ponderosa Annex G",
 				"PLACENAME2" : "G",
 				"PLACENAME3" : "Ponderosa Annexes",
@@ -2602,7 +2578,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-52",
-				"BLDG_ID" : "WEBH",
+				"BL_ID" : "WEBH",
 				"PLACENAME" : "Webber House",
 				"PLACENAME2" : "Webber House",
 				"PLACENAME3" : null,
@@ -2626,7 +2602,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-298",
-				"BLDG_ID" : "PONE",
+				"BL_ID" : "PONE",
 				"PLACENAME" : "Ponderosa Annex E",
 				"PLACENAME2" : "E",
 				"PLACENAME3" : "Ponderosa Annexes",
@@ -2646,11 +2622,83 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.24733992900985, 49.26479947798902 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-1012",
+				"BL_ID" : "WOOD",
+				"PLACENAME" : "P. A. Woodward Instructional Resources Centre",
+				"PLACENAME2" : "Woodward IRC",
+				"PLACENAME3" : "Faculty of Medicine",
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : "IRC",
+				"BUILDING_SHORTCODE" : "WOOD",
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : "<Null>",
+				"GLOBALID" : "{0EA8AA22-8251-4FDD-A063-D874F990415B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24797282524203, 49.26231838137894 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-153",
+				"BL_ID" : "EDC",
+				"PLACENAME" : "Wayne and William White Engineering Design Centre",
+				"PLACENAME2" : "EDC",
+				"PLACENAME3" : null,
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : "EDC",
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{461E2A3A-46A7-4B6A-AA64-1A621FDC74C9}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24610216908343, 49.25608738737584 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-176",
+				"BL_ID" : "GASG",
+				"PLACENAME" : "Gas Gun Facility",
+				"PLACENAME2" : "Gas Gun",
+				"PLACENAME3" : null,
+				"PLACENAME4" : "Gas Gun",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{17718644-4A52-4B39-B162-A91734352C8A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.23423117779555, 49.2527815110806 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-60",
-				"BLDG_ID" : "ULTM",
+				"BL_ID" : "ULTM",
 				"PLACENAME" : "Ultima",
 				"PLACENAME2" : "Ultima",
 				"PLACENAME3" : null,
@@ -2674,7 +2722,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-79",
-				"BLDG_ID" : "CHHS",
+				"BL_ID" : "CHHS",
 				"PLACENAME" : "Chancellor House",
 				"PLACENAME2" : "Chancellor House",
 				"PLACENAME3" : null,
@@ -2698,7 +2746,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-282",
-				"BLDG_ID" : "SOMH",
+				"BL_ID" : "SOMH",
 				"PLACENAME" : "Vancouver School of Theology (VST)",
 				"PLACENAME2" : "VST",
 				"PLACENAME3" : "Somerville House",
@@ -2722,7 +2770,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-280",
-				"BLDG_ID" : "COST",
+				"BL_ID" : "COST",
 				"PLACENAME" : "Coast",
 				"PLACENAME2" : "Coast",
 				"PLACENAME3" : null,
@@ -2746,7 +2794,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-76",
-				"BLDG_ID" : "AXIS",
+				"BL_ID" : "AXIS",
 				"PLACENAME" : "Axis ",
 				"PLACENAME2" : "Axis ",
 				"PLACENAME3" : null,
@@ -2770,7 +2818,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-180",
-				"BLDG_ID" : "CGPH",
+				"BL_ID" : "CGPH",
 				"PLACENAME" : "Cecil Green Park House",
 				"PLACENAME2" : "Cecil Green Park",
 				"PLACENAME3" : null,
@@ -2794,7 +2842,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-240",
-				"BLDG_ID" : "MBOL",
+				"BL_ID" : "MBOL",
 				"PLACENAME" : "Mary Bollert Hall",
 				"PLACENAME2" : "Bollert Hall",
 				"PLACENAME3" : null,
@@ -2818,7 +2866,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-181",
-				"BLDG_ID" : "CGPC",
+				"BL_ID" : "CGPC",
 				"PLACENAME" : "Cecil Green Park Coach House",
 				"PLACENAME2" : "Coach House",
 				"PLACENAME3" : null,
@@ -2842,7 +2890,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-73",
-				"BLDG_ID" : "ESSE",
+				"BL_ID" : "ESSE",
 				"PLACENAME" : "Esse",
 				"PLACENAME2" : "Esse",
 				"PLACENAME3" : null,
@@ -2866,7 +2914,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-171",
-				"BLDG_ID" : "FRWO",
+				"BL_ID" : "FRWO",
 				"PLACENAME" : "Frederic Wood Theatre",
 				"PLACENAME2" : "Wood Theatre",
 				"PLACENAME3" : "Freddy Wood",
@@ -2890,7 +2938,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-229",
-				"BLDG_ID" : "MUSC",
+				"BL_ID" : "MUSC",
 				"PLACENAME" : "Music Building",
 				"PLACENAME2" : "Music",
 				"PLACENAME3" : "Roy Barnett Recital Hall",
@@ -2914,7 +2962,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-148",
-				"BLDG_ID" : "SOJ",
+				"BL_ID" : "SOJ",
 				"PLACENAME" : "Sing Tao Building",
 				"PLACENAME2" : "Sing Tao",
 				"PLACENAME3" : "School of Journalism",
@@ -2938,7 +2986,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-67",
-				"BLDG_ID" : "PREZ",
+				"BL_ID" : "PREZ",
 				"PLACENAME" : "Norman MacKenzie House",
 				"PLACENAME2" : "Norman MacKenzie House",
 				"PLACENAME3" : "President's Residence",
@@ -2962,7 +3010,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-75",
-				"BLDG_ID" : "STIR",
+				"BL_ID" : "STIR",
 				"PLACENAME" : "Stirling House",
 				"PLACENAME2" : "Stirling House",
 				"PLACENAME3" : null,
@@ -2986,7 +3034,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-179",
-				"BLDG_ID" : "THEA",
+				"BL_ID" : "THEA",
 				"PLACENAME" : "Thea Koerner House",
 				"PLACENAME2" : "Thea Koerner House",
 				"PLACENAME3" : "Graduate Student Centre",
@@ -3010,7 +3058,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-182",
-				"BLDG_ID" : "MGYM",
+				"BL_ID" : "MGYM",
 				"PLACENAME" : "War Memorial Gymnasium",
 				"PLACENAME2" : "War Memorial",
 				"PLACENAME3" : "Gym",
@@ -3034,7 +3082,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-272",
-				"BLDG_ID" : "PARN",
+				"BL_ID" : "PARN",
 				"PLACENAME" : "North Parkade",
 				"PLACENAME2" : "North Parkade",
 				"PLACENAME3" : null,
@@ -3058,7 +3106,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-121",
-				"BLDG_ID" : "BRCK",
+				"BL_ID" : "BRCK",
 				"PLACENAME" : "Brock Hall  ",
 				"PLACENAME2" : "Brock Hall  ",
 				"PLACENAME3" : "Student Services and Welcome Centre",
@@ -3082,7 +3130,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-274",
-				"BLDG_ID" : "ALUM",
+				"BL_ID" : "ALUM",
 				"PLACENAME" : "Robert H. Lee Alumni Centre",
 				"PLACENAME2" : "Alumni Centre",
 				"PLACENAME3" : null,
@@ -3102,35 +3150,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24733988940615, 49.26479952934652 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-1012",
-				"BLDG_ID" : "WOOD",
-				"PLACENAME" : "P. A. Woodward Instructional Resources Centre",
-				"PLACENAME2" : "Woodward IRC",
-				"PLACENAME3" : "Faculty of Medicine",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : "IRC",
-				"BUILDING_SHORTCODE" : "WOOD",
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : "<Null>",
-				"GLOBALID" : "{0EA8AA22-8251-4FDD-A063-D874F990415B}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24602672336816, 49.2660254921761 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-136",
-				"BLDG_ID" : "DASB",
+				"BL_ID" : "DASB",
 				"PLACENAME" : "David Strangway Building",
 				"PLACENAME2" : "Strangway",
 				"PLACENAME3" : null,
@@ -3154,7 +3178,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-291",
-				"BLDG_ID" : "WESB",
+				"BL_ID" : "WESB",
 				"PLACENAME" : "Wesbrook Building",
 				"PLACENAME2" : "Wesbrook Building",
 				"PLACENAME3" : null,
@@ -3178,7 +3202,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-297",
-				"BLDG_ID" : "GAGE",
+				"BL_ID" : "GAGE",
 				"PLACENAME" : "Walter H. Gage Residence ",
 				"PLACENAME2" : "Gage Residence",
 				"PLACENAME3" : "Walter H. Gage Residence Commonsblock",
@@ -3202,7 +3226,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-216",
-				"BLDG_ID" : "MEDC",
+				"BL_ID" : "MEDC",
 				"PLACENAME" : "Medical Sciences Block C",
 				"PLACENAME2" : "Medical Sciences C",
 				"PLACENAME3" : null,
@@ -3226,7 +3250,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-220",
-				"BLDG_ID" : "WLIB",
+				"BL_ID" : "WLIB",
 				"PLACENAME" : "Woodward Library",
 				"PLACENAME2" : "Woodward Library",
 				"PLACENAME3" : null,
@@ -3250,7 +3274,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-110",
-				"BLDG_ID" : "CFCM",
+				"BL_ID" : "CFCM",
 				"PLACENAME" : "Centre for Comparative Medicine (CCM)",
 				"PLACENAME2" : "CCM",
 				"PLACENAME3" : null,
@@ -3274,7 +3298,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-234",
-				"BLDG_ID" : "NRCI",
+				"BL_ID" : "NRCI",
 				"PLACENAME" : "NRC Institute for Fuel Cell Innovation",
 				"PLACENAME2" : "NRC",
 				"PLACENAME3" : null,
@@ -3298,7 +3322,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-260",
-				"BLDG_ID" : "MARF",
+				"BL_ID" : "MARF",
 				"PLACENAME" : "Materials Recovery Facility",
 				"PLACENAME2" : "Material Recovery Facility",
 				"PLACENAME3" : null,
@@ -3322,7 +3346,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-262",
-				"BLDG_ID" : "BONR",
+				"BL_ID" : "BONR",
 				"PLACENAME" : "Building Operations Nursery",
 				"PLACENAME2" : "Building Ops Nursery",
 				"PLACENAME3" : "Plant Operations Greenhouses",
@@ -3346,7 +3370,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-126",
-				"BLDG_ID" : "COMP",
+				"BL_ID" : "COMP",
 				"PLACENAME" : "In-Vessel Composting Facility",
 				"PLACENAME2" : "Composting Facility",
 				"PLACENAME3" : null,
@@ -3370,7 +3394,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-127",
-				"BLDG_ID" : "ENSF",
+				"BL_ID" : "ENSF",
 				"PLACENAME" : "Environmental Services Facility ",
 				"PLACENAME2" : "Environmental Services Facility ",
 				"PLACENAME3" : null,
@@ -3394,7 +3418,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-196",
-				"BLDG_ID" : "PUDP",
+				"BL_ID" : "PUDP",
 				"PLACENAME" : "Purdy Pavilion",
 				"PLACENAME2" : "Purdy",
 				"PLACENAME3" : null,
@@ -3414,35 +3438,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24610216908343, 49.25608738737584 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-176",
-				"BLDG_ID" : "GASG",
-				"PLACENAME" : "Gas Gun",
-				"PLACENAME2" : "Gas Gun Facility",
-				"PLACENAME3" : null,
-				"PLACENAME4" : "Gas Gun",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{17718644-4A52-4B39-B162-A91734352C8A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24277495847262, 49.26258419086455 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-217",
-				"BLDG_ID" : "PHRM",
+				"BL_ID" : "PHRM",
 				"PLACENAME" : "Pharmaceutical Sciences Building",
 				"PLACENAME2" : "Pharmacy",
 				"PLACENAME3" : null,
@@ -3466,7 +3466,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-255",
-				"BLDG_ID" : "POWR",
+				"BL_ID" : "POWR",
 				"PLACENAME" : "Power House",
 				"PLACENAME2" : "Power House",
 				"PLACENAME3" : null,
@@ -3490,7 +3490,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-214",
-				"BLDG_ID" : "COPP",
+				"BL_ID" : "COPP",
 				"PLACENAME" : "D.H. Copp Building",
 				"PLACENAME2" : "Copp",
 				"PLACENAME3" : null,
@@ -3514,7 +3514,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-4",
-				"BLDG_ID" : "CNTL",
+				"BL_ID" : "CNTL",
 				"PLACENAME" : "Central",
 				"PLACENAME2" : "Site B",
 				"PLACENAME3" : null,
@@ -3538,7 +3538,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-108",
-				"BLDG_ID" : "BARN",
+				"BL_ID" : "BARN",
 				"PLACENAME" : "The Barn",
 				"PLACENAME2" : "Barn",
 				"PLACENAME3" : null,
@@ -3562,7 +3562,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-123",
-				"BLDG_ID" : "BUCH",
+				"BL_ID" : "BUCH",
 				"PLACENAME" : "Buchanan Building",
 				"PLACENAME2" : "Buchanan",
 				"PLACENAME3" : "Buchanan A",
@@ -3586,7 +3586,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-51",
-				"BLDG_ID" : "VSQU",
+				"BL_ID" : "VSQU",
 				"PLACENAME" : "Village Square",
 				"PLACENAME2" : "Village Square",
 				"PLACENAME3" : "Wesbrook Lot E",
@@ -3610,7 +3610,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-1015",
-				"BLDG_ID" : "IRSC",
+				"BL_ID" : "IRSC",
 				"PLACENAME" : "Indian Residential School History and Dialogue Centre (IRSC) ",
 				"PLACENAME2" : "IRSC",
 				"PLACENAME3" : null,
@@ -3634,7 +3634,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-315",
-				"BLDG_ID" : "EXCH",
+				"BL_ID" : "EXCH",
 				"PLACENAME" : "Exchange Residence",
 				"PLACENAME2" : null,
 				"PLACENAME3" : null,
@@ -3654,59 +3654,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24989956835692, 49.27268946566478 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-523",
-				"BLDG_ID" : "STMD",
-				"PLACENAME" : "St Mark's Duplexes",
-				"PLACENAME2" : "St Mark's Duplexes",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 19.6,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l3",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{F4BE2A79-B801-4449-80E6-7F342E8D4EDE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24698529402154, 49.25910704044197 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-489",
-				"BLDG_ID" : "NINE",
-				"PLACENAME" : "Nine on the Park",
-				"PLACENAME2" : "Nine on the Park",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 28.2,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l3",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{FEF8069D-C6E7-438A-8A5F-30097F1A9054}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24558899950766, 49.25932459881397 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-450",
-				"BLDG_ID" : "LOGN",
+				"BL_ID" : "LOGN",
 				"PLACENAME" : "Logan Lane",
 				"PLACENAME2" : "Logan Lane",
 				"PLACENAME3" : null,
@@ -3730,7 +3682,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-68",
-				"BLDG_ID" : "RITS",
+				"BL_ID" : "RITS",
 				"PLACENAME" : "Ritsumeikan-UBC House",
 				"PLACENAME2" : "Ritsumeikan",
 				"PLACENAME3" : null,
@@ -3754,7 +3706,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-100",
-				"BLDG_ID" : "RESA",
+				"BL_ID" : "RESA",
 				"PLACENAME" : "Lower Mall Header House",
 				"PLACENAME2" : "Header",
 				"PLACENAME3" : null,
@@ -3778,7 +3730,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-97",
-				"BLDG_ID" : "LMRS",
+				"BL_ID" : "LMRS",
 				"PLACENAME" : "Lower Mall Research Station",
 				"PLACENAME2" : "Lower Mall Research Station",
 				"PLACENAME3" : null,
@@ -3802,7 +3754,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-95",
-				"BLDG_ID" : "BRIM",
+				"BL_ID" : "BRIM",
 				"PLACENAME" : "The Brimacombe Building",
 				"PLACENAME2" : "Brimacombe",
 				"PLACENAME3" : null,
@@ -3826,7 +3778,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-193",
-				"BLDG_ID" : "GREN",
+				"BL_ID" : "GREN",
 				"PLACENAME" : "Horticulture Building",
 				"PLACENAME2" : "Horticulture",
 				"PLACENAME3" : "Greenhouse",
@@ -3846,35 +3798,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25229512132209, 49.26120825014645 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-134",
-				"BLDG_ID" : "MINL",
-				"PLACENAME" : "Coal and Mineral Processing Lab",
-				"PLACENAME2" : "Coal Lab",
-				"PLACENAME3" : "Keevil Institute of Mining Engineering",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "MINL",
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{A9FA359B-F354-45BE-9E15-D79C73F1D1D0}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25240070934073, 49.26173429026782 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-253",
-				"BLDG_ID" : "STOR",
+				"BL_ID" : "STOR",
 				"PLACENAME" : "Stores Road Annex",
 				"PLACENAME2" : "Stores Annex",
 				"PLACENAME3" : null,
@@ -3898,7 +3826,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-225",
-				"BLDG_ID" : "FORW",
+				"BL_ID" : "FORW",
 				"PLACENAME" : "Frank Forward Building",
 				"PLACENAME2" : "Frank Forward",
 				"PLACENAME3" : null,
@@ -3922,7 +3850,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-38",
-				"BLDG_ID" : "GARD",
+				"BL_ID" : "GARD",
 				"PLACENAME" : "Gardenia House",
 				"PLACENAME2" : "Gardenia House",
 				"PLACENAME3" : "Faculty Staff Housing Building D",
@@ -3946,7 +3874,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-3",
-				"BLDG_ID" : "SUMA",
+				"BL_ID" : "SUMA",
 				"PLACENAME" : "Sumac House",
 				"PLACENAME2" : "Sumac House",
 				"PLACENAME3" : "Faculty Staff Housing Building C",
@@ -3970,7 +3898,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-2",
-				"BLDG_ID" : "CASC",
+				"BL_ID" : "CASC",
 				"PLACENAME" : "Cascara House",
 				"PLACENAME2" : "Cascara House",
 				"PLACENAME3" : "Faculty Staff Housing Building B",
@@ -3994,7 +3922,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-112",
-				"BLDG_ID" : "FARM",
+				"BL_ID" : "FARM",
 				"PLACENAME" : "UBC Farm Centre",
 				"PLACENAME2" : "UBC Farm Centre",
 				"PLACENAME3" : null,
@@ -4018,7 +3946,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-226",
-				"BLDG_ID" : "BART",
+				"BL_ID" : "BART",
 				"PLACENAME" : "Morris and Helen Belkin Art Gallery",
 				"PLACENAME2" : "Belkin Art Gallery",
 				"PLACENAME3" : null,
@@ -4042,7 +3970,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-202",
-				"BLDG_ID" : "CHOI",
+				"BL_ID" : "CHOI",
 				"PLACENAME" : "C. K. Choi Building for the Institute of Asian Research",
 				"PLACENAME2" : "Choi Building",
 				"PLACENAME3" : null,
@@ -4066,7 +3994,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-106",
-				"BLDG_ID" : "ACEN",
+				"BL_ID" : "ACEN",
 				"PLACENAME" : "Asian Centre",
 				"PLACENAME2" : "Asian Centre",
 				"PLACENAME3" : null,
@@ -4086,35 +4014,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24978298398962, 49.26452680804046 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-118",
-				"BLDG_ID" : "MSB",
-				"PLACENAME" : "Michael Smith Laboratories",
-				"PLACENAME2" : "Michael Smith Labs",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : "MSB",
-				"STATUS" : "Current",
-				"ROT" : 210,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{C22DA29E-0E32-45D0-8E68-410055D825D6}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25126790451185, 49.26355756420087 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-162",
-				"BLDG_ID" : "AERL",
+				"BL_ID" : "AERL",
 				"PLACENAME" : "Aquatic Ecosystems Research Laboratory (AERL)",
 				"PLACENAME2" : "AERL",
 				"PLACENAME3" : null,
@@ -4138,7 +4042,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-250",
-				"BLDG_ID" : "LADH",
+				"BL_ID" : "LADH",
 				"PLACENAME" : "Abdul Ladha Science Student Centre",
 				"PLACENAME2" : "Ladha",
 				"PLACENAME3" : null,
@@ -4162,7 +4066,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-258",
-				"BLDG_ID" : "SOWK",
+				"BL_ID" : "SOWK",
 				"PLACENAME" : "Jack Bell Building for the School of Social Work",
 				"PLACENAME2" : "Jack Bell",
 				"PLACENAME3" : null,
@@ -4186,7 +4090,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-130",
-				"BLDG_ID" : "DMP",
+				"BL_ID" : "DMP",
 				"PLACENAME" : "Hugh Dempster Pavilion",
 				"PLACENAME2" : "Dempster",
 				"PLACENAME3" : null,
@@ -4210,7 +4114,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-160",
-				"BLDG_ID" : "KAIS",
+				"BL_ID" : "KAIS",
 				"PLACENAME" : "Fred Kaiser Building",
 				"PLACENAME2" : "Fred Kaiser",
 				"PLACENAME3" : "Faculty of Applied Science",
@@ -4234,7 +4138,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-302",
-				"BLDG_ID" : "SWNG",
+				"BL_ID" : "SWNG",
 				"PLACENAME" : "West Mall Swing Space Building",
 				"PLACENAME2" : "Swing Space",
 				"PLACENAME3" : null,
@@ -4258,7 +4162,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-198",
-				"BLDG_ID" : "CBH",
+				"BL_ID" : "CBH",
 				"PLACENAME" : "Djavad Mowafaghian Centre for Brain Health (CBH)",
 				"PLACENAME2" : "Centre for Brain Health",
 				"PLACENAME3" : null,
@@ -4282,7 +4186,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-210",
-				"BLDG_ID" : "IBLC",
+				"BL_ID" : "IBLC",
 				"PLACENAME" : "Irving K. Barber Learning Centre",
 				"PLACENAME2" : "IK Barber",
 				"PLACENAME3" : "Ike Barber",
@@ -4306,7 +4210,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-94",
-				"BLDG_ID" : "BRDF",
+				"BL_ID" : "BRDF",
 				"PLACENAME" : "Bioenergy Research and Demonstration Facility (BRDF)",
 				"PLACENAME2" : "Bioenergy Research",
 				"PLACENAME3" : null,
@@ -4330,7 +4234,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-70",
-				"BLDG_ID" : "THUR",
+				"BL_ID" : "THUR",
 				"PLACENAME" : "Thunderbird Residence",
 				"PLACENAME2" : "Thunderbird Residence",
 				"PLACENAME3" : "Thunderbird Commonsblock",
@@ -4350,35 +4254,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24797282524203, 49.26231838137894 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-153",
-				"BLDG_ID" : "WEDC",
-				"PLACENAME" : "Wayne and William White Engineering Design Centre",
-				"PLACENAME2" : "EDC",
-				"PLACENAME3" : null,
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : "EDC",
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 208.20000000000002,
-				"ACCESSIBLE" : 0,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{461E2A3A-46A7-4B6A-AA64-1A621FDC74C9}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24602537267018, 49.26239422841843 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-219",
-				"BLDG_ID" : "LSC",
+				"BL_ID" : "LSC",
 				"PLACENAME" : "Life Sciences Centre",
 				"PLACENAME2" : "Life Sciences ",
 				"PLACENAME3" : null,
@@ -4402,7 +4282,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-152",
-				"BLDG_ID" : "CHBE",
+				"BL_ID" : "CHBE",
 				"PLACENAME" : "Chemical & Biological Engineering Building",
 				"PLACENAME2" : "ChemBio",
 				"PLACENAME3" : null,
@@ -4426,7 +4306,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-131",
-				"BLDG_ID" : "ICCS",
+				"BL_ID" : "ICCS",
 				"PLACENAME" : "Institute for Computing Information and Cognitive Systems / Computer Science",
 				"PLACENAME2" : "ICICS/CS",
 				"PLACENAME3" : null,
@@ -4450,7 +4330,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-185",
-				"BLDG_ID" : "RUGC",
+				"BL_ID" : "RUGC",
 				"PLACENAME" : "Gerald McGavin Rugby Centre",
 				"PLACENAME2" : "Rugby Centre",
 				"PLACENAME3" : null,
@@ -4474,7 +4354,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-78",
-				"BLDG_ID" : "STMK",
+				"BL_ID" : "STMK",
 				"PLACENAME" : "St. Mark's College",
 				"PLACENAME2" : "St Mark's College",
 				"PLACENAME3" : null,
@@ -4498,7 +4378,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-268",
-				"BLDG_ID" : "SRC",
+				"BL_ID" : "SRC",
 				"PLACENAME" : "Student Recreation Centre (SRC)",
 				"PLACENAME2" : "SRC",
 				"PLACENAME3" : null,
@@ -4522,7 +4402,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-71",
-				"BLDG_ID" : "CHPL",
+				"BL_ID" : "CHPL",
 				"PLACENAME" : "Chapel of the Epiphany",
 				"PLACENAME2" : "Chapel of the Epiphany",
 				"PLACENAME3" : null,
@@ -4546,7 +4426,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-167",
-				"BLDG_ID" : "FSC",
+				"BL_ID" : "FSC",
 				"PLACENAME" : "Forest Sciences Centre",
 				"PLACENAME2" : "Forest Sciences",
 				"PLACENAME3" : null,
@@ -4570,7 +4450,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-273",
-				"BLDG_ID" : "NEST",
+				"BL_ID" : "NEST",
 				"PLACENAME" : "AMS Nest",
 				"PLACENAME2" : "AMS Nest",
 				"PLACENAME3" : null,
@@ -4590,35 +4470,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23088144411265, 49.24758458469722 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-283",
-				"BLDG_ID" : "TRMF",
-				"PLACENAME" : "TRIUMF - Canada's National Laboratory For Particle and Nuclear Physics",
-				"PLACENAME2" : "TRIUMF",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : "TRIUMF",
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 9.5,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{ADE0AAE8-9D93-4C5F-A331-BAC163CADDD4}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25328561817538, 49.262434795800445 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-247",
-				"BLDG_ID" : "CACP",
+				"BL_ID" : "CACP",
 				"PLACENAME" : "Campus & Community Planning",
 				"PLACENAME2" : "C&CP",
 				"PLACENAME3" : null,
@@ -4642,7 +4498,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-204",
-				"BLDG_ID" : "DLAM",
+				"BL_ID" : "DLAM",
 				"PLACENAME" : "David Lam Management Research Centre",
 				"PLACENAME2" : "David Lam",
 				"PLACENAME3" : null,
@@ -4666,7 +4522,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-263",
-				"BLDG_ID" : "LPRC",
+				"BL_ID" : "LPRC",
 				"PLACENAME" : "Library Preservation Archives",
 				"PLACENAME2" : "Library PARC",
 				"PLACENAME3" : null,
@@ -4690,7 +4546,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-57",
-				"BLDG_ID" : "WCOM",
+				"BL_ID" : "WCOM",
 				"PLACENAME" : "Wesbrook Community Centre",
 				"PLACENAME2" : "Wesbrook Community Centre",
 				"PLACENAME3" : null,
@@ -4714,7 +4570,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-712",
-				"BLDG_ID" : "ACAP",
+				"BL_ID" : "ACAP",
 				"PLACENAME" : "Acadia Park Residence",
 				"PLACENAME2" : "Acadia Park Residence",
 				"PLACENAME3" : null,
@@ -4738,7 +4594,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-74",
-				"BLDG_ID" : "ARGE",
+				"BL_ID" : "ARGE",
 				"PLACENAME" : "Argyll House East",
 				"PLACENAME2" : "Argyll House East",
 				"PLACENAME3" : null,
@@ -4762,7 +4618,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-187",
-				"BLDG_ID" : "HILL",
+				"BL_ID" : "HILL",
 				"PLACENAME" : "Hillel House - Diamond Foundation Centre for Jewish Campus Life",
 				"PLACENAME2" : "Hillel House",
 				"PLACENAME3" : null,
@@ -4786,7 +4642,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-124",
-				"BLDG_ID" : "CHAN",
+				"BL_ID" : "CHAN",
 				"PLACENAME" : "Chan Centre for the Performing Arts",
 				"PLACENAME2" : "Chan Centre",
 				"PLACENAME3" : null,
@@ -4810,7 +4666,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-107",
-				"BLDG_ID" : "ANSO",
+				"BL_ID" : "ANSO",
 				"PLACENAME" : "Anthropology and Sociology Building",
 				"PLACENAME2" : "ANSOC",
 				"PLACENAME3" : null,
@@ -4834,7 +4690,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-215",
-				"BLDG_ID" : "FRDM",
+				"BL_ID" : "FRDM",
 				"PLACENAME" : "Friedman Building",
 				"PLACENAME2" : "Friedman",
 				"PLACENAME3" : null,
@@ -4858,7 +4714,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-44",
-				"BLDG_ID" : "TAMK",
+				"BL_ID" : "TAMK",
 				"PLACENAME" : "Tamarack House",
 				"PLACENAME2" : "Tamarack House",
 				"PLACENAME3" : "Faculty Staff Housing Building E",
@@ -4878,35 +4734,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24923482320487, 49.26268673129515 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-155",
-				"BLDG_ID" : "CEME",
-				"PLACENAME" : "Civil and Mechanical Engineering Building",
-				"PLACENAME2" : "CEME",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : "CEME",
-				"BUILDING_SHORTCODE" : "CEME",
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{232D535B-3820-42D8-B624-382D8A637F52}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24528267068561, 49.2618038618894 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-213",
-				"BLDG_ID" : "DNRG",
+				"BL_ID" : "DNRG",
 				"PLACENAME" : "Campus Energy Centre (CEC)",
 				"PLACENAME2" : "Energy Centre",
 				"PLACENAME3" : null,
@@ -4930,7 +4762,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-270",
-				"BLDG_ID" : "MSUB",
+				"BL_ID" : "MSUB",
 				"PLACENAME" : "Main Substation",
 				"PLACENAME2" : "Substation",
 				"PLACENAME3" : null,
@@ -4954,7 +4786,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-238",
-				"BLDG_ID" : "TECH",
+				"BL_ID" : "TECH",
 				"PLACENAME" : "Technology Enterprise Facility (TEF) 3 ",
 				"PLACENAME2" : "TEF3",
 				"PLACENAME3" : null,
@@ -4978,7 +4810,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-224",
-				"BLDG_ID" : "PART",
+				"BL_ID" : "PART",
 				"PLACENAME" : "Thunderbird Parkade",
 				"PLACENAME2" : "Thunderbird Parkade",
 				"PLACENAME3" : null,
@@ -5002,7 +4834,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-199",
-				"BLDG_ID" : "PARH",
+				"BL_ID" : "PARH",
 				"PLACENAME" : "Health Sciences Parkade",
 				"PLACENAME2" : "Health Sciences Parkade",
 				"PLACENAME3" : null,
@@ -5026,7 +4858,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-23",
-				"BLDG_ID" : "VIST",
+				"BL_ID" : "VIST",
 				"PLACENAME" : "Vista Point",
 				"PLACENAME2" : "Vista Point",
 				"PLACENAME3" : null,
@@ -5050,7 +4882,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-191",
-				"BLDG_ID" : "ACAH",
+				"BL_ID" : "ACAH",
 				"PLACENAME" : "Acadia House",
 				"PLACENAME2" : "Acadia House",
 				"PLACENAME3" : null,
@@ -5074,7 +4906,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-146",
-				"BLDG_ID" : "CCSB",
+				"BL_ID" : "CCSB",
 				"PLACENAME" : "Child Care Services",
 				"PLACENAME2" : "Child Care Services",
 				"PLACENAME3" : "Child Care Services Building 4",
@@ -5098,7 +4930,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-14",
-				"BLDG_ID" : "STRA",
+				"BL_ID" : "STRA",
 				"PLACENAME" : "The Stratford",
 				"PLACENAME2" : "The Stratford",
 				"PLACENAME3" : "Hampton Place Lot 7-1 ",
@@ -5122,7 +4954,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-16",
-				"BLDG_ID" : "BALM",
+				"BL_ID" : "BALM",
 				"PLACENAME" : "The Balmoral",
 				"PLACENAME2" : "Balmoral",
 				"PLACENAME3" : "Hampton Place Lot 9",
@@ -5146,7 +4978,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-13",
-				"BLDG_ID" : "WYND",
+				"BL_ID" : "WYND",
 				"PLACENAME" : "Wyndham Hall",
 				"PLACENAME2" : "Wyndham Hall",
 				"PLACENAME3" : "Hampton Place Lot 7-2 ",
@@ -5170,7 +5002,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-7",
-				"BLDG_ID" : "SAND",
+				"BL_ID" : "SAND",
 				"PLACENAME" : "Sandringham",
 				"PLACENAME2" : "Sandringham",
 				"PLACENAME3" : "Hampton Place Lot 1",
@@ -5194,7 +5026,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-12",
-				"BLDG_ID" : "BRIS",
+				"BL_ID" : "BRIS",
 				"PLACENAME" : "The Bristol",
 				"PLACENAME2" : "The Bristol",
 				"PLACENAME3" : "Hampton Place Lot 6 ",
@@ -5218,7 +5050,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-11",
-				"BLDG_ID" : "CHAT",
+				"BL_ID" : "CHAT",
 				"PLACENAME" : "The Chatham",
 				"PLACENAME2" : "The Chatham",
 				"PLACENAME3" : "Hampton Place Lot 5 ",
@@ -5242,7 +5074,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-9",
-				"BLDG_ID" : "THAC",
+				"BL_ID" : "THAC",
 				"PLACENAME" : "Thames Court",
 				"PLACENAME2" : "Thames Court",
 				"PLACENAME3" : "Hampton Place Lot 3",
@@ -5266,7 +5098,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-10",
-				"BLDG_ID" : "STJA",
+				"BL_ID" : "STJA",
 				"PLACENAME" : "St. James",
 				"PLACENAME2" : "St. James",
 				"PLACENAME3" : "Hampton Place Lot 4",
@@ -5286,35 +5118,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23824239915558, 49.25869970590489 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-286",
-				"BLDG_ID" : "PSAB",
-				"PLACENAME" : "Public Safety Building",
-				"PLACENAME2" : "Public Safety Building",
-				"PLACENAME3" : "Police and Fire Department",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : "RCMP",
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 118.10000000000001,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l2",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{98474FEE-E84F-4545-A221-0F91A848B0D3}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23978720767171, 49.25640299406397 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-308",
-				"BLDG_ID" : "BTF",
+				"BL_ID" : "BTF",
 				"PLACENAME" : "UBC Baseball Indoor Training Centre",
 				"PLACENAME2" : "Baseball Training Centre",
 				"PLACENAME3" : null,
@@ -5338,7 +5146,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-233",
-				"BLDG_ID" : "LAUR",
+				"BL_ID" : "LAUR",
 				"PLACENAME" : "The Laureates",
 				"PLACENAME2" : "Laureates",
 				"PLACENAME3" : "Laureates 1",
@@ -5362,7 +5170,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-45",
-				"BLDG_ID" : "LGCY",
+				"BL_ID" : "LGCY",
 				"PLACENAME" : "Legacy",
 				"PLACENAME2" : "Legacy",
 				"PLACENAME3" : null,
@@ -5386,7 +5194,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-1",
-				"BLDG_ID" : "AZAL",
+				"BL_ID" : "AZAL",
 				"PLACENAME" : "Azalea House",
 				"PLACENAME2" : "Azalea House",
 				"PLACENAME3" : "Faculty Staff Housing Building A ",
@@ -5406,11 +5214,35 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.24961828443253, 49.25758628562788 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-544",
+				"BL_ID" : "WSTR",
+				"PLACENAME" : "Westchester",
+				"PLACENAME2" : "Westchester",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 30,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l3",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{05AA8712-06C5-47E0-A850-2EA46691343D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.23583301288453, 49.25350543232875 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-56",
-				"BLDG_ID" : "YUYU",
+				"BL_ID" : "YUYU",
 				"PLACENAME" : "Yu",
 				"PLACENAME2" : "Yu",
 				"PLACENAME3" : null,
@@ -5434,7 +5266,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-58",
-				"BLDG_ID" : "PACC",
+				"BL_ID" : "PACC",
 				"PLACENAME" : "Pacific",
 				"PLACENAME2" : "Pacific",
 				"PLACENAME3" : null,
@@ -5458,7 +5290,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-59",
-				"BLDG_ID" : "SAIL",
+				"BL_ID" : "SAIL",
 				"PLACENAME" : "Sail",
 				"PLACENAME2" : "Sail",
 				"PLACENAME3" : "Sail 1",
@@ -5482,7 +5314,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-62",
-				"BLDG_ID" : "PROD",
+				"BL_ID" : "PROD",
 				"PLACENAME" : "Prodigy",
 				"PLACENAME2" : "Prodigy",
 				"PLACENAME3" : "Prodigy 1",
@@ -5506,7 +5338,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-65",
-				"BLDG_ID" : "DAHL",
+				"BL_ID" : "DAHL",
 				"PLACENAME" : "Dahlia House",
 				"PLACENAME2" : "Dahlia House",
 				"PLACENAME3" : null,
@@ -5530,7 +5362,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-33",
-				"BLDG_ID" : "ACDY",
+				"BL_ID" : "ACDY",
 				"PLACENAME" : "Academy",
 				"PLACENAME2" : "Academy",
 				"PLACENAME3" : null,
@@ -5554,7 +5386,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-276",
-				"BLDG_ID" : "SAGE",
+				"BL_ID" : "SAGE",
 				"PLACENAME" : "Sage",
 				"PLACENAME2" : "Sage",
 				"PLACENAME3" : null,
@@ -5578,7 +5410,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-32",
-				"BLDG_ID" : "WSBT",
+				"BL_ID" : "WSBT",
 				"PLACENAME" : "The Wesbrook",
 				"PLACENAME2" : "The Wesbrook",
 				"PLACENAME3" : "Wesbrook Lot 1",
@@ -5602,7 +5434,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-28",
-				"BLDG_ID" : "KEEN",
+				"BL_ID" : "KEEN",
 				"PLACENAME" : "Keenleyside",
 				"PLACENAME2" : "Keenleyside",
 				"PLACENAME3" : null,
@@ -5626,7 +5458,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-29",
-				"BLDG_ID" : "PATH",
+				"BL_ID" : "PATH",
 				"PLACENAME" : "Pathways",
 				"PLACENAME2" : "Pathways",
 				"PLACENAME3" : "Pathways II East",
@@ -5646,11 +5478,35 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.24698918761193, 49.259105405782215 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-489",
+				"BL_ID" : "NINE",
+				"PLACENAME" : "Nine on the Park",
+				"PLACENAME2" : "Nine on the Park",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 28.2,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l3",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{FEF8069D-C6E7-438A-8A5F-30097F1A9054}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.23492940825979, 49.249491683091144 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-113",
-				"BLDG_ID" : "BOTR",
+				"BL_ID" : "BOTR",
 				"PLACENAME" : "UBC Botanical Garden Nursery",
 				"PLACENAME2" : "Nursery",
 				"PLACENAME3" : null,
@@ -5670,11 +5526,35 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2559106826971, 49.26344714134808 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-84",
+				"BL_ID" : "PNCW",
+				"PLACENAME" : "Ponderosa Commons West",
+				"PLACENAME2" : "Ponderosa Commons",
+				"PLACENAME3" : "Maple/Arbutus House",
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Residence",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{E8C5344A-492F-4623-9939-608B1A0DE8B6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.24190046355837, 49.26301619252544 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-20",
-				"BLDG_ID" : "SITK",
+				"BL_ID" : "SITK",
 				"PLACENAME" : "Sitka",
 				"PLACENAME2" : "Sitka",
 				"PLACENAME3" : null,
@@ -5698,7 +5578,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-26",
-				"BLDG_ID" : "SPRT",
+				"BL_ID" : "SPRT",
 				"PLACENAME" : "Spirit",
 				"PLACENAME2" : "Spirit",
 				"PLACENAME3" : null,
@@ -5722,7 +5602,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-34",
-				"BLDG_ID" : "MAGN",
+				"BL_ID" : "MAGN",
 				"PLACENAME" : "Magnolia House",
 				"PLACENAME2" : "Magnolia House",
 				"PLACENAME3" : null,
@@ -5742,24 +5622,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24837864354335, 49.258313006287516 ]
+				"coordinates" : [ -123.24897191505954, 49.27287595444042 ]
 			},
 			"properties" : {
-				"ADD_ID" : "AD-418",
-				"BLDG_ID" : "HAWT",
-				"PLACENAME" : "Hawthorn Green",
-				"PLACENAME2" : "Hawthorn Green",
+				"ADD_ID" : "AD-523",
+				"BL_ID" : "STMD",
+				"PLACENAME" : "St Mark's Duplexes",
+				"PLACENAME2" : "St Mark's Duplexes",
 				"PLACENAME3" : null,
 				"PLACENAME4" : null,
 				"ABBREVIATEDPLACENAME" : null,
 				"BUILDING_SHORTCODE" : null,
 				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
+				"ROT" : 19.6,
+				"ACCESSIBLE" : 0,
 				"POWER_DOOR" : 0,
 				"BL_CLASS" : "l3",
 				"ENT_TYPE" : null,
-				"GLOBALID" : "{B00BCED7-1852-4916-BBD9-2B86AF3F7DE6}"
+				"GLOBALID" : "{F4BE2A79-B801-4449-80E6-7F342E8D4EDE}"
 			}
 		},
 		{
@@ -5770,7 +5650,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-66",
-				"BLDG_ID" : "NOBL",
+				"BL_ID" : "NOBL",
 				"PLACENAME" : "Nobel House",
 				"PLACENAME2" : "Nobel House",
 				"PLACENAME3" : null,
@@ -5794,7 +5674,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-231",
-				"BLDG_ID" : "RESP",
+				"BL_ID" : "RESP",
 				"PLACENAME" : "UBC Research Ponds",
 				"PLACENAME2" : "Research Ponds",
 				"PLACENAME3" : null,
@@ -5814,35 +5694,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24837516530852, 49.256063131394804 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-515",
-				"BLDG_ID" : "SOMS",
-				"PLACENAME" : "Somerset",
-				"PLACENAME2" : "Somerset",
-				"PLACENAME3" : null,
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 28.2,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "l3",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{03A06F8D-2415-4001-A81F-F916C3B905E7}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23974992854151, 49.26081048337912 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-22",
-				"BLDG_ID" : "GRWC",
+				"BL_ID" : "GRWC",
 				"PLACENAME" : "Greenwood Commons ",
 				"PLACENAME2" : "Greenwood Commons ",
 				"PLACENAME3" : null,
@@ -5866,7 +5722,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-266",
-				"BLDG_ID" : "SPPA",
+				"BL_ID" : "SPPA",
 				"PLACENAME" : "Spirit Park Apartments",
 				"PLACENAME2" : "Spirit Park Apartments",
 				"PLACENAME3" : null,
@@ -5890,7 +5746,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-244",
-				"BLDG_ID" : "STJN",
+				"BL_ID" : "STJN",
 				"PLACENAME" : "St. John Hospice",
 				"PLACENAME2" : "Hospice",
 				"PLACENAME3" : null,
@@ -5914,7 +5770,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-186",
-				"BLDG_ID" : "STAC",
+				"BL_ID" : "STAC",
 				"PLACENAME" : "UBC Stadium Academic Centre",
 				"PLACENAME2" : "Stadium Centre",
 				"PLACENAME3" : null,
@@ -5938,7 +5794,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-288",
-				"BLDG_ID" : "BERW",
+				"BL_ID" : "BERW",
 				"PLACENAME" : "Berwick Memorial Centre",
 				"PLACENAME2" : "Berwick",
 				"PLACENAME3" : null,
@@ -5958,11 +5814,35 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.25581950789659, 49.26395044842746 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-85",
+				"BL_ID" : "PNCN",
+				"PLACENAME" : "Ponderosa Commons North",
+				"PLACENAME2" : "Ponderosa Commons",
+				"PLACENAME3" : "Cedar/Oak House",
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 118.10000000000001,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l3",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{95197B0B-8618-4A83-9D7F-77C1070FB07C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.23216814704767, 49.24634686064395 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-245",
-				"BLDG_ID" : "SCWH",
+				"BL_ID" : "SCWH",
 				"PLACENAME" : "South Campus Warehouse",
 				"PLACENAME2" : "SC Warehouse",
 				"PLACENAME3" : null,
@@ -5982,11 +5862,35 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.23854134587133, 49.25902028778725 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-286",
+				"BL_ID" : "PSAB",
+				"PLACENAME" : "Public Safety Building",
+				"PLACENAME2" : "Public Safety Building",
+				"PLACENAME3" : "Police and Fire Department",
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : "RCMP",
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 118.10000000000001,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{98474FEE-E84F-4545-A221-0F91A848B0D3}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.25705091359073, 49.2687187294653 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-166",
-				"BLDG_ID" : "UCLL",
+				"BL_ID" : "UCLL",
 				"PLACENAME" : "Leon and Thea Koerner University Centre",
 				"PLACENAME2" : "University Centre",
 				"PLACENAME3" : null,
@@ -6010,7 +5914,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-212",
-				"BLDG_ID" : "MATX",
+				"BL_ID" : "MATX",
 				"PLACENAME" : "Mathematics Annex",
 				"PLACENAME2" : "Math Annex",
 				"PLACENAME3" : null,
@@ -6034,7 +5938,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-111",
-				"BLDG_ID" : "BIOL",
+				"BL_ID" : "BIOL",
 				"PLACENAME" : "Biological Sciences Building",
 				"PLACENAME2" : "BioSciences",
 				"PLACENAME3" : "BioSciences West wing",
@@ -6058,7 +5962,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-109",
-				"BLDG_ID" : "PARF",
+				"BL_ID" : "PARF",
 				"PLACENAME" : "Fraser River Parkade",
 				"PLACENAME2" : "Fraser River Parkade",
 				"PLACENAME3" : null,
@@ -6082,7 +5986,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-19",
-				"BLDG_ID" : "VANR",
+				"BL_ID" : "VANR",
 				"PLACENAME" : "Place Vanier Residence  ",
 				"PLACENAME2" : "Place Vanier Residence  ",
 				"PLACENAME3" : "Gordon Shrum Commons Block",
@@ -6102,11 +6006,35 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2548002142234, 49.2646638490246 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-164",
+				"BL_ID" : "BINN",
+				"PLACENAME" : "B.C. Binning Studios",
+				"PLACENAME2" : "Binning Studios",
+				"PLACENAME3" : "Hut M-17",
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "BINN",
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{263C0B63-D8BA-493A-B81A-5E2EC620DC6F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.25561351859653, 49.26289436300065 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-301",
-				"BLDG_ID" : "PARW",
+				"BL_ID" : "PARW",
 				"PLACENAME" : "West Parkade",
 				"PLACENAME2" : "West Parkade",
 				"PLACENAME3" : null,
@@ -6126,11 +6054,35 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.25065180981059, 49.2652597734386 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-116",
+				"BL_ID" : "BOOK",
+				"PLACENAME" : "UBC Bookstore",
+				"PLACENAME2" : "Bookstore",
+				"PLACENAME3" : "UBC Bookstore",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 208.20000000000002,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "Attraction",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{DC467852-44F6-4B9F-91B9-3C1E370C8214}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2564244501538, 49.26960821028767 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-218",
-				"BLDG_ID" : "PARR",
+				"BL_ID" : "PARR",
 				"PLACENAME" : "Rose Garden Parkade",
 				"PLACENAME2" : "Rose Garden Parkade",
 				"PLACENAME3" : null,
@@ -6150,11 +6102,59 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.25229556836966, 49.261207783217834 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-134",
+				"BL_ID" : "MINL",
+				"PLACENAME" : "Coal and Mineral Processing Lab",
+				"PLACENAME2" : "Coal Lab",
+				"PLACENAME3" : "Keevil Institute of Mining Engineering",
+				"PLACENAME4" : "<Null>",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "MINL",
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{A9FA359B-F354-45BE-9E15-D79C73F1D1D0}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25146794380252, 49.26954255195832 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-0",
+				"BL_ID" : "BRCE",
+				"PLACENAME" : "Tallwood House",
+				"PLACENAME2" : "Tallwood House",
+				"PLACENAME3" : "Brock Commons East",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 298.1,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "Residence",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{8065DF14-102A-48CA-8F91-CD4FF28CBD9D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.23529881131054, 49.25084517668403 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-1034",
-				"BLDG_ID" : "RESN",
+				"BL_ID" : "RESN",
 				"PLACENAME" : "The Residence at Nobel Park",
 				"PLACENAME2" : null,
 				"PLACENAME3" : "Wesbrook Lots 7+8",
@@ -6174,11 +6174,59 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.24978298398962, 49.26452680804046 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-118",
+				"BL_ID" : "MSL",
+				"PLACENAME" : "Michael Smith Laboratories",
+				"PLACENAME2" : "Michael Smith Labs",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : "MSB",
+				"STATUS" : "Current",
+				"ROT" : 210,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{C22DA29E-0E32-45D0-8E68-410055D825D6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23088144411265, 49.24758458469722 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-283",
+				"BL_ID" : "TRMF",
+				"PLACENAME" : "TRIUMF - Canada’s particle accelerator centre",
+				"PLACENAME2" : "TRIUMF",
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : "TRIUMF",
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : "Current",
+				"ROT" : 9.5,
+				"ACCESSIBLE" : 1,
+				"POWER_DOOR" : 0,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{ADE0AAE8-9D93-4C5F-A331-BAC163CADDD4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.23036085876645, 49.25345478794616 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-313",
-				"BLDG_ID" : "ETON",
+				"BL_ID" : "ETON",
 				"PLACENAME" : "Eton",
 				"PLACENAME2" : "Eton",
 				"PLACENAME3" : "Wesbrook Lot 15",
@@ -6202,7 +6250,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-307",
-				"BLDG_ID" : "NSDC",
+				"BL_ID" : "NSDC",
 				"PLACENAME" : "National Soccer Development Centre",
 				"PLACENAME2" : "Soccer",
 				"PLACENAME3" : null,
@@ -6222,35 +6270,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25146645821889, 49.2695407354611 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-0",
-				"BLDG_ID" : "BRKC",
-				"PLACENAME" : "Brock Commons",
-				"PLACENAME2" : "Tallwood House",
-				"PLACENAME3" : "Brock Commons I",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 1,
-				"BL_CLASS" : "Residence",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{8065DF14-102A-48CA-8F91-CD4FF28CBD9D}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.2490882839974, 49.264778003260034 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-241",
-				"BLDG_ID" : "CUNN",
+				"BL_ID" : "CUNN",
 				"PLACENAME" : "George Cunningham Building ",
 				"PLACENAME2" : "Cunningham",
 				"PLACENAME3" : null,
@@ -6274,7 +6298,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-77",
-				"BLDG_ID" : "FOLI",
+				"BL_ID" : "FOLI",
 				"PLACENAME" : "Folio",
 				"PLACENAME2" : "Folio",
 				"PLACENAME3" : null,
@@ -6298,7 +6322,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-322",
-				"BLDG_ID" : "CHAH",
+				"BL_ID" : "CHAH",
 				"PLACENAME" : "Chancellor Hall",
 				"PLACENAME2" : "Chancellor Hall",
 				"PLACENAME3" : null,
@@ -6322,7 +6346,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-281",
-				"BLDG_ID" : "IONA",
+				"BL_ID" : "IONA",
 				"PLACENAME" : "Iona Building",
 				"PLACENAME2" : "Iona Building",
 				"PLACENAME3" : null,
@@ -6346,7 +6370,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-81",
-				"BLDG_ID" : "WSPT",
+				"BL_ID" : "WSPT",
 				"PLACENAME" : "Westpoint",
 				"PLACENAME2" : "Westpoint",
 				"PLACENAME3" : null,
@@ -6370,7 +6394,7 @@
 			},
 			"properties" : {
 				"ADD_ID" : "AD-271",
-				"BLDG_ID" : "LIFE",
+				"BL_ID" : "LIFE",
 				"PLACENAME" : "UBC Life Building (Old SUB)",
 				"PLACENAME2" : "Old SUB",
 				"PLACENAME3" : null,
@@ -6390,35 +6414,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25591496107458, 49.26344601736438 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-84",
-				"BLDG_ID" : "PNCW",
-				"PLACENAME" : "Ponderosa Commons West",
-				"PLACENAME2" : "Ponderosa Commons",
-				"PLACENAME3" : "Maple/Arbutus House",
-				"PLACENAME4" : "<Null>",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"STATUS" : "Current",
-				"ROT" : 298.1,
-				"ACCESSIBLE" : 1,
-				"POWER_DOOR" : 0,
-				"BL_CLASS" : "Residence",
-				"ENT_TYPE" : null,
-				"GLOBALID" : "{E8C5344A-492F-4623-9939-608B1A0DE8B6}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25687044176809, 49.26671995786526 ]
 			},
 			"properties" : {
 				"ADD_ID" : "AD-105",
-				"BLDG_ID" : "AUDX",
+				"BL_ID" : "AUDX",
 				"PLACENAME" : "Auditorium Annexes",
 				"PLACENAME2" : "Auditorium Annexes",
 				"PLACENAME3" : "Auditorium Annex Offices A",

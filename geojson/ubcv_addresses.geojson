@@ -1302,33 +1302,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.22983005249151, 49.24494622418744 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-263",
-				"BLDG_ID" : "LPRC",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "769",
-				"BUILDINGNAME" : "Library Preservation Archives",
-				"STREETNUM" : "6049",
-				"STREETNAME" : "Nurseries",
-				"STREETTYPE" : "Road",
-				"FULLADDRESS" : "6049 Nurseries Road",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1W5",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{EF16C625-D11E-4D2F-B66A-199ECC7F9465}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23934695804874, 49.26150038952868 ]
 			},
 			"properties" : {
@@ -2112,33 +2085,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25921194166986, 49.26653892973247 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-201",
-				"BLDG_ID" : null,
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "476",
-				"BUILDINGNAME" : "Nitobe Memorial Garden",
-				"STREETNUM" : "1895",
-				"STREETNAME" : "Lower",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "1895 Lower Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z2",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{600C164B-CDCC-4BB0-A10E-7646A5ACA116}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24885790249161, 49.2673311016929 ]
 			},
 			"properties" : {
@@ -2166,60 +2112,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25591496107458, 49.26344601736438 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-84",
-				"BLDG_ID" : "PNCW",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "904",
-				"BUILDINGNAME" : "Ponderosa Commons - Arbutus/Maple Houses",
-				"STREETNUM" : "6488",
-				"STREETNAME" : "University",
-				"STREETTYPE" : "Boulevard",
-				"FULLADDRESS" : "6488 University Boulevard",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Housing - Student",
-				"NUM_UNITS" : 336,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{371ABDF8-B70A-4C1D-AD90-3061AB8D3051}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2560679539664, 49.264253597258225 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-85",
-				"BLDG_ID" : "PNCN",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "905",
-				"BUILDINGNAME" : "Ponderosa Commons - Cedar House",
-				"STREETNUM" : "2075",
-				"STREETNAME" : "West",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "2075 West Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z2",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Housing - Student",
-				"NUM_UNITS" : 175,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{CA50748B-4BBA-404A-82FF-B6040B92A41E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23585132782763, 49.262923641148014 ]
 			},
 			"properties" : {
@@ -2241,33 +2133,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{FD8F5132-3A5F-49DF-A716-CF454B3554B1}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25583011917143, 49.263951311860716 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-87",
-				"BLDG_ID" : "PNCN",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "905",
-				"BUILDINGNAME" : "Ponderosa Commons - Oak House",
-				"STREETNUM" : "6445",
-				"STREETNAME" : "University",
-				"STREETTYPE" : "Boulevard",
-				"FULLADDRESS" : "6445 University Boulevard",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z2",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Mixed",
-				"NUM_UNITS" : 200,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{0B5C4A16-F1E1-45C0-AEF0-B97CA8A78863}"
 			}
 		},
 		{
@@ -2403,33 +2268,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{BF02547D-E6EE-40D4-BCEA-7E17A9912B3E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25202624916454, 49.26064277851047 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-25",
-				"BLDG_ID" : "ORCH",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "557",
-				"BUILDINGNAME" : "Orchard Commons - Annunciator",
-				"STREETNUM" : "2362",
-				"STREETNAME" : "West",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "2362 West Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Annunciator",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{AEF949BA-3CE1-4553-B89E-5025DCC12494}"
 			}
 		},
 		{
@@ -2673,33 +2511,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{832D1CED-1EA5-4046-8188-620D7037DC78}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24335422049269, 49.2629812480733 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-316",
-				"BLDG_ID" : "AYOH",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "538",
-				"BUILDINGNAME" : "AYO Smart Home - YUNESIT'IN GOVERNMENT",
-				"STREETNUM" : "5935",
-				"STREETNAME" : "Agronomy",
-				"STREETTYPE" : "Road",
-				"FULLADDRESS" : "5935 Agronomy Road",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z3",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Non-UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{7C1C45D6-D356-4533-888B-CAB42BD6A391}"
 			}
 		},
 		{
@@ -3678,33 +3489,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25505693001351, 49.26826202779822 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-123",
-				"BLDG_ID" : "BUCH",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "121-1",
-				"BUILDINGNAME" : "Buchanan Building",
-				"STREETNUM" : "1866",
-				"STREETNAME" : "Main",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "1866 Main Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z1",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{FA81A311-BB12-4F2B-8889-B53AD6B7B06E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25537412115658, 49.26945962119542 ]
 			},
 			"properties" : {
@@ -4104,60 +3888,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{9B11FD1A-6F2D-42E9-B4E1-B157BF39B339}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23128517748404, 49.25421810159703 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-233",
-				"BLDG_ID" : "LAUR",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "589-2",
-				"BUILDINGNAME" : "The Laureates - Low Rise",
-				"STREETNUM" : "5638",
-				"STREETNAME" : "Birney",
-				"STREETTYPE" : "Avenue",
-				"FULLADDRESS" : "5638 Birney Avenue",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6S 0H8",
-				"NEIGHBOURHOOD" : "Wesbrook Place",
-				"ADDRESSTYPE" : "Residential",
-				"NUM_UNITS" : 53,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{F0151C57-0DBD-4604-AFC3-37379867859A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2309210647146, 49.254206343653 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-232",
-				"BLDG_ID" : "LAUR",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "589-1",
-				"BUILDINGNAME" : "The Laureates - High Rise",
-				"STREETNUM" : "5628",
-				"STREETNAME" : "Birney",
-				"STREETTYPE" : "Avenue",
-				"FULLADDRESS" : "5628 Birney Avenue",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6S 0H7",
-				"NEIGHBOURHOOD" : "Wesbrook Place",
-				"ADDRESSTYPE" : "Residential",
-				"NUM_UNITS" : 161,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{9F8999EC-7985-42DE-A6D5-4290E039236E}"
 			}
 		},
 		{
@@ -4758,33 +4488,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24797282386761, 49.26231838138189 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-153",
-				"BLDG_ID" : "WEDC",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "301",
-				"BUILDINGNAME" : "Wayne and William White Engineering Design Centre",
-				"STREETNUM" : "2345",
-				"STREETNAME" : "East",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "2345 East Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{CDAF4091-E775-4AA0-89C3-FAAEE81B4BF8}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24923482320487, 49.26268673129515 ]
 			},
 			"properties" : {
@@ -4947,33 +4650,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25479952403316, 49.26466301039357 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-164",
-				"BLDG_ID" : "BINN",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "324",
-				"BUILDINGNAME" : "B.C. Binning Studios",
-				"STREETNUM" : "6373",
-				"STREETNAME" : "University",
-				"STREETTYPE" : "Boulevard",
-				"FULLADDRESS" : "6373 University Boulevard",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z2",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{6C43CAE9-B23A-482A-A8E0-276E1007A64A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25720436620577, 49.26552933721503 ]
 			},
 			"properties" : {
@@ -5076,33 +4752,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{6D006771-1D20-444E-9A8B-851181F0E2B8}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24445262517602, 49.25763326656282 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-170",
-				"BLDG_ID" : "FPIN",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "373",
-				"BUILDINGNAME" : "FP Innovations Forest Operations",
-				"STREETNUM" : "2601",
-				"STREETNAME" : "East",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "2601 East Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{A460B2D4-A04D-4168-AAFE-137BAB08103F}"
 			}
 		},
 		{
@@ -5562,60 +5211,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{B69EDC47-E2AA-4A37-9CA7-ECE8F7DBA967}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23612784606124, 49.26322219517022 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-190",
-				"BLDG_ID" : "ACAH",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "450-1",
-				"BUILDINGNAME" : "Acadia House",
-				"STREETNUM" : "2700",
-				"STREETNAME" : "Acadia",
-				"STREETTYPE" : "Road",
-				"FULLADDRESS" : "2700 Acadia Road",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1R9",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Housing - Student",
-				"NUM_UNITS" : 12,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{ADCE0424-28B5-403D-BF61-2D4227E57BC6}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2354205669601, 49.26264071698911 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-192",
-				"BLDG_ID" : "ACAH",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "450-3",
-				"BUILDINGNAME" : "Acadia House",
-				"STREETNUM" : "2720",
-				"STREETNAME" : "Acadia",
-				"STREETTYPE" : "Road",
-				"FULLADDRESS" : "2720 Acadia Road",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1R9",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Housing - Student",
-				"NUM_UNITS" : 12,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{19C800C1-523C-428A-9715-B07AAD33C9C2}"
 			}
 		},
 		{
@@ -6783,33 +6378,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24092761217929, 49.263170950522984 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-817",
-				"BLDG_ID" : "FAIR",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "007-26",
-				"BUILDINGNAME" : "Fairview Crescent Residence",
-				"STREETNUM" : "2600",
-				"STREETNAME" : "Fairview",
-				"STREETTYPE" : "Crescent",
-				"FULLADDRESS" : "2600 Fairview Crescent",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 2B9",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Housing - Student",
-				"NUM_UNITS" : 1,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{FB65F8E4-6937-463D-8993-3D0408755FD1}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24078367058597, 49.26308858544832 ]
 			},
 			"properties" : {
@@ -6831,33 +6399,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{69835C07-64C2-432D-AAC7-461958A5FA65}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24092761217929, 49.263170950522984 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-819",
-				"BLDG_ID" : "FAIR",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "007-26",
-				"BUILDINGNAME" : "Fairview Crescent Residence",
-				"STREETNUM" : "2602",
-				"STREETNAME" : "Fairview",
-				"STREETTYPE" : "Crescent",
-				"FULLADDRESS" : "2602 Fairview Crescent",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 2B9",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Housing - Student",
-				"NUM_UNITS" : 1,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{622F974E-CF54-488C-8EE5-5AD808C76B34}"
 			}
 		},
 		{
@@ -12264,60 +11805,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24837864354335, 49.258313006287516 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-418",
-				"BLDG_ID" : "HAWT",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "618",
-				"BUILDINGNAME" : "Hawthorn Green",
-				"STREETNUM" : "6318",
-				"STREETNAME" : "Hawthorn",
-				"STREETTYPE" : "Lane",
-				"FULLADDRESS" : "6318 Hawthorn Lane",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 2J6",
-				"NEIGHBOURHOOD" : "Hawthorn",
-				"ADDRESSTYPE" : "Residential",
-				"NUM_UNITS" : 1,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{F5BE3EBC-0496-4B54-849F-E1820488C405}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24837972898321, 49.25831432175442 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-419",
-				"BLDG_ID" : "HAWT",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "618",
-				"BUILDINGNAME" : "Hawthorn Green",
-				"STREETNUM" : "6326",
-				"STREETNAME" : "Hawthorn",
-				"STREETTYPE" : "Lane",
-				"FULLADDRESS" : "6326 Hawthorn Lane",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 2J6",
-				"NEIGHBOURHOOD" : "Hawthorn",
-				"ADDRESSTYPE" : "Residential",
-				"NUM_UNITS" : 1,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{D8A12951-9E5C-4733-88BA-E92EAB5FB810}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24849869159941, 49.258272242652716 ]
 			},
 			"properties" : {
@@ -13587,33 +13074,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24698529402154, 49.25910704044197 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-489",
-				"BLDG_ID" : "NINE",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "628",
-				"BUILDINGNAME" : "Nine on the Park",
-				"STREETNUM" : "6282",
-				"STREETNAME" : "Eagles",
-				"STREETTYPE" : "Drive",
-				"FULLADDRESS" : "6282 Eagles Drive",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 0A3",
-				"NEIGHBOURHOOD" : "Hawthorn",
-				"ADDRESSTYPE" : "Residential",
-				"NUM_UNITS" : 1,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{F2693497-68BD-4D26-A642-9F8032E88338}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24716167338224, 49.259315272372916 ]
 			},
 			"properties" : {
@@ -14397,33 +13857,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2455864972083, 49.25931719746663 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-450",
-				"BLDG_ID" : "LOGN",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "620",
-				"BUILDINGNAME" : "Logan Lane",
-				"STREETNUM" : "6202",
-				"STREETNAME" : "Logan",
-				"STREETTYPE" : "Lane",
-				"FULLADDRESS" : "6202 Logan Lane",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 2K9",
-				"NEIGHBOURHOOD" : "Hawthorn",
-				"ADDRESSTYPE" : "Residential",
-				"NUM_UNITS" : 1,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{CF17CFB8-3EB9-4440-BA57-C23DB349A654}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24564980294845, 49.259298781895744 ]
 			},
 			"properties" : {
@@ -14532,33 +13965,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23623152868142, 49.254134930148 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-50",
-				"BLDG_ID" : "VSQU",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "691",
-				"BUILDINGNAME" : "Village Square - Retail",
-				"STREETNUM" : "5958",
-				"STREETNAME" : "Webber",
-				"STREETTYPE" : "Lane",
-				"FULLADDRESS" : "5958 Webber Lane",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6S 0J7",
-				"NEIGHBOURHOOD" : "Wesbrook Place",
-				"ADDRESSTYPE" : "Commercial",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{27509994-9369-413A-8C24-E3E17B788CE6}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24910886590133, 49.26208335813297 ]
 			},
 			"properties" : {
@@ -14580,60 +13986,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{570FF733-CD46-488D-822E-36F094D33529}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.24733988940615, 49.26479952934652 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-1012",
-				"BLDG_ID" : "WOOD",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "473",
-				"BUILDINGNAME" : "IRC",
-				"STREETNUM" : "2194",
-				"STREETNAME" : "Health Sciences",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "2194 Health Sciences Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z3",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{52A108E0-DB49-45AF-876D-E0D5F984DAF7}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25093315966055, 49.26007245085956 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-24",
-				"BLDG_ID" : "ORCH",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "557",
-				"BUILDINGNAME" : "Orchard Commons",
-				"STREETNUM" : "6363",
-				"STREETNAME" : "Agronomy",
-				"STREETTYPE" : "Road",
-				"FULLADDRESS" : "6363 Agronomy Road",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Mixed",
-				"NUM_UNITS" : 1057,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{28EBFA02-B572-4E61-A850-D528B3546456}"
 			}
 		},
 		{
@@ -14877,141 +14229,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{C6D2A5C4-0701-47B7-8F64-4371B04634BA}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23587249163958, 49.254828330536625 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-356",
-				"BLDG_ID" : "MEWS",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "689",
-				"BUILDINGNAME" : "The Mews - Retail",
-				"STREETNUM" : "5910",
-				"STREETNAME" : "Berton",
-				"STREETTYPE" : "Avenue",
-				"FULLADDRESS" : "5910 Berton Avenue",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6S 0E4",
-				"NEIGHBOURHOOD" : "Wesbrook Place",
-				"ADDRESSTYPE" : "Commercial",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{3D9F4326-FD65-4D1C-947E-5938E5A947E7}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23598788911941, 49.25478771080766 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-357",
-				"BLDG_ID" : "MEWS",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "689",
-				"BUILDINGNAME" : "The Mews - Retail",
-				"STREETNUM" : "5920",
-				"STREETNAME" : "Berton",
-				"STREETTYPE" : "Avenue",
-				"FULLADDRESS" : "5920 Berton Avenue",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6S 0E4",
-				"NEIGHBOURHOOD" : "Wesbrook Place",
-				"ADDRESSTYPE" : "Commercial",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "N/A",
-				"GLOBALID" : "{C97D3296-93FD-4CE3-9A95-9BBF815FA2CD}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23609854484737, 49.25469108646363 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-348",
-				"BLDG_ID" : "MEWS",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "689",
-				"BUILDINGNAME" : "The Mews - Retail",
-				"STREETNUM" : "3308",
-				"STREETNAME" : "Shrum",
-				"STREETTYPE" : "Lane",
-				"FULLADDRESS" : "3308 Shrum Lane",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6S 0B9",
-				"NEIGHBOURHOOD" : "Wesbrook Place",
-				"ADDRESSTYPE" : "Commercial",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{FE6C141D-71BF-42F8-942E-1C6EDB1B6EB5}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23591026298789, 49.25456957582278 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-351",
-				"BLDG_ID" : "MEWS",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "689",
-				"BUILDINGNAME" : "The Mews - Retail",
-				"STREETNUM" : "3322",
-				"STREETNAME" : "Shrum",
-				"STREETTYPE" : "Lane",
-				"FULLADDRESS" : "3322 Shrum Lane",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6S 0B9",
-				"NEIGHBOURHOOD" : "Wesbrook Place",
-				"ADDRESSTYPE" : "Commercial",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{FD5BD1B3-C32F-4D25-AF8C-E62589D01DD7}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23587532422228, 49.25446414391569 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-353",
-				"BLDG_ID" : "MEWS",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "689",
-				"BUILDINGNAME" : "The Mews - Retail",
-				"STREETNUM" : "3332",
-				"STREETNAME" : "Shrum",
-				"STREETTYPE" : "Lane",
-				"FULLADDRESS" : "3332 Shrum Lane",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6S 0B9",
-				"NEIGHBOURHOOD" : "Wesbrook Place",
-				"ADDRESSTYPE" : "Commercial",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{38862AA8-2E4B-4257-8421-CD1AFBF6B77F}"
 			}
 		},
 		{
@@ -15585,33 +14802,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25428098414173, 49.2658624133272 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-1014",
-				"BLDG_ID" : "DLAM",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "490",
-				"BUILDINGNAME" : "David Lam Management Research Centre",
-				"STREETNUM" : "2015",
-				"STREETNAME" : "Main",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "2015 Main Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z2",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{1C0A7C55-112D-41D7-BCBF-EF7F88E812D7}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25357779022318, 49.267050378676394 ]
 			},
 			"properties" : {
@@ -15633,33 +14823,6 @@
 				"ADDRESSNOTES" : "Front entrance address only; annunciator at back of Koerner Library",
 				"STATUS" : "Current",
 				"GLOBALID" : "{6B110610-D46B-45E5-9D06-526C57F380E2}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25694398650465, 49.27092165339508 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-1032",
-				"BLDG_ID" : "GRNC",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "418",
-				"BUILDINGNAME" : "Green College - President's House",
-				"STREETNUM" : "6205",
-				"STREETNAME" : "Cecil Green Park",
-				"STREETTYPE" : "Road",
-				"FULLADDRESS" : "6205 Cecil Green Park Road",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z1",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Housing - Student",
-				"NUM_UNITS" : 1,
-				"ADDRESSNOTES" : "<Null>",
-				"STATUS" : "Current",
-				"GLOBALID" : "{F4D23FE8-0D4D-49FA-AA76-FE9B4AB0C768}"
 			}
 		},
 		{
@@ -16044,33 +15207,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24961725730189, 49.263166473385425 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-156",
-				"BLDG_ID" : "CEME",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "307",
-				"BUILDINGNAME" : "Civil and Mechanical Engineering Labs",
-				"STREETNUM" : "2275",
-				"STREETNAME" : "East",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "2275 East Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{9F192EE2-0C57-4666-ABDC-C9834635165E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24555198339723, 49.26415848047819 ]
 			},
 			"properties" : {
@@ -16125,33 +15261,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.24890307133644, 49.26356784071814 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-207",
-				"BLDG_ID" : "CEME",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "511",
-				"BUILDINGNAME" : "Engineering High Head Room Laboratory",
-				"STREETNUM" : "2225",
-				"STREETNAME" : "East",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "2225 East Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{E87100E1-D91E-46B3-B9BC-0ABBB524DB4F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23667226270628, 49.25400423687177 ]
 			},
 			"properties" : {
@@ -16173,33 +15282,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{0432B2BB-3F4F-4263-8697-48D37D02D713}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23882389606761, 49.26090644626648 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-289",
-				"BLDG_ID" : "BERW",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "858",
-				"BUILDINGNAME" : "Berwick Memorial Centre - Daycare",
-				"STREETNUM" : "2767",
-				"STREETNAME" : "Osoyoos",
-				"STREETTYPE" : "Crescent",
-				"FULLADDRESS" : "2767 Osoyoos Crescent",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1X7",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{8F268B54-B878-48C1-AEE6-E838F919478D}"
 			}
 		},
 		{
@@ -16341,60 +15423,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2547002918326, 49.26389324951343 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-303",
-				"BLDG_ID" : "PNCE",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "903",
-				"BUILDINGNAME" : "Ponderosa Commons - Audain Art Centre",
-				"STREETNUM" : "6398",
-				"STREETNAME" : "University",
-				"STREETTYPE" : "Boulevard",
-				"FULLADDRESS" : "6398 University Boulevard",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{F8ECC8EC-7999-4F10-ACF9-EFABFD0007DF}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25146645821889, 49.2695407354611 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-0",
-				"BLDG_ID" : "BRCE",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "114",
-				"BUILDINGNAME" : "Brock Commons - Tallwood House",
-				"STREETNUM" : "6088",
-				"STREETNAME" : "Walter Gage",
-				"STREETTYPE" : "Road",
-				"FULLADDRESS" : "6088 Walter Gage Road",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z1",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Housing - Student",
-				"NUM_UNITS" : 306,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{1E2ACA34-70CE-44EA-81BE-E4CCD8A00592}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24849374399697, 49.27173351723643 ]
 			},
 			"properties" : {
@@ -16443,33 +15471,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{FB772AD1-F5A5-4928-9DC6-D106551E7CB1}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25673296687472, 49.264077174442974 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-86",
-				"BLDG_ID" : "PNCN",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "905",
-				"BUILDINGNAME" : "Ponderosa Commons - Cedar House - Annunciator",
-				"STREETNUM" : "2068",
-				"STREETNAME" : "Lower",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "2068 Lower Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z2",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Annunciator",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{6707C4D4-637C-40EF-9F4D-0EBDAD1D5D72}"
 			}
 		},
 		{
@@ -16773,33 +15774,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2488447440293, 49.263509225794 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-154",
-				"BLDG_ID" : "CEME",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "305",
-				"BUILDINGNAME" : "Earthquake Engineering Research Facility",
-				"STREETNUM" : "2235",
-				"STREETNAME" : "East",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "2235 East Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{AD720201-5DC6-446B-B1A2-E9F9F2963CAF}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25322143729187, 49.27103492470292 ]
 			},
 			"properties" : {
@@ -16929,33 +15903,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{422F4462-034E-42F6-82BB-6A0B28B8F1B4}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23561440030181, 49.25353676258848 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-55",
-				"BLDG_ID" : "YUYU",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "695",
-				"BUILDINGNAME" : "Yu",
-				"STREETNUM" : "5933",
-				"STREETNAME" : "Birney",
-				"STREETTYPE" : "Avenue",
-				"FULLADDRESS" : "5933 Birney Avenue",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6S 0G7",
-				"NEIGHBOURHOOD" : "Wesbrook Place",
-				"ADDRESSTYPE" : "Commercial",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{63838D46-8BB0-46A2-9B3C-2DB4768C3402}"
 			}
 		},
 		{
@@ -18306,6 +17253,951 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{947E3BAE-9B5C-49C4-9BFA-928158302E24}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2548002142234, 49.2646638490246 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-164",
+				"BLDG_ID" : "BINN",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "324",
+				"BUILDINGNAME" : "B.C. Binning Studios",
+				"STREETNUM" : "6373",
+				"STREETNAME" : "University",
+				"STREETTYPE" : "Boulevard",
+				"FULLADDRESS" : "6373 University Boulevard",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z2",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{6C43CAE9-B23A-482A-A8E0-276E1007A64A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23623141494211, 49.2541347090979 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-50",
+				"BLDG_ID" : "VSQU",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "691",
+				"BUILDINGNAME" : "Village Square - Retail",
+				"STREETNUM" : "5958",
+				"STREETNAME" : "Webber",
+				"STREETTYPE" : "Lane",
+				"FULLADDRESS" : "5958 Webber Lane",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6S 0J7",
+				"NEIGHBOURHOOD" : "Wesbrook Place",
+				"ADDRESSTYPE" : "Commercial",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{27509994-9369-413A-8C24-E3E17B788CE6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24797282386761, 49.26231838138189 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-153",
+				"BLDG_ID" : "EDC",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "301",
+				"BUILDINGNAME" : "Wayne and William White Engineering Design Centre",
+				"STREETNUM" : "2345",
+				"STREETNAME" : "East",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "2345 East Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{CDAF4091-E775-4AA0-89C3-FAAEE81B4BF8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23590570649277, 49.25457138867003 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-351",
+				"BLDG_ID" : "MEWS",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "689",
+				"BUILDINGNAME" : "The Mews - Retail",
+				"STREETNUM" : "3322",
+				"STREETNAME" : "Shrum",
+				"STREETTYPE" : "Lane",
+				"FULLADDRESS" : "3322 Shrum Lane",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6S 0B9",
+				"NEIGHBOURHOOD" : "Wesbrook Place",
+				"ADDRESSTYPE" : "Commercial",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{FD5BD1B3-C32F-4D25-AF8C-E62589D01DD7}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2359877207971, 49.25478699423174 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-357",
+				"BLDG_ID" : "MEWS",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "689",
+				"BUILDINGNAME" : "The Mews - Retail",
+				"STREETNUM" : "5920",
+				"STREETNAME" : "Berton",
+				"STREETTYPE" : "Avenue",
+				"FULLADDRESS" : "5920 Berton Avenue",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6S 0E4",
+				"NEIGHBOURHOOD" : "Wesbrook Place",
+				"ADDRESSTYPE" : "Commercial",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "N/A",
+				"GLOBALID" : "{C97D3296-93FD-4CE3-9A95-9BBF815FA2CD}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2433548786812, 49.26298205175891 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-316",
+				"BLDG_ID" : "AYOH",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "538",
+				"BUILDINGNAME" : "AYO Smart Home - YUNESIT'IN GOVERNMENT",
+				"STREETNUM" : "5935",
+				"STREETNAME" : "Agronomy",
+				"STREETTYPE" : "Road",
+				"FULLADDRESS" : "5935 Agronomy Road",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z3",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Non-UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{7C1C45D6-D356-4533-888B-CAB42BD6A391}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25146794380252, 49.26954255195832 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-0",
+				"BLDG_ID" : "BRCE",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "114",
+				"BUILDINGNAME" : "Brock Commons - Tallwood House",
+				"STREETNUM" : "6088",
+				"STREETNAME" : "Walter Gage",
+				"STREETTYPE" : "Road",
+				"FULLADDRESS" : "6088 Walter Gage Road",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z1",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Housing - Student",
+				"NUM_UNITS" : 306,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{1E2ACA34-70CE-44EA-81BE-E4CCD8A00592}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23587040405718, 49.25482830061669 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-356",
+				"BLDG_ID" : "MEWS",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "689",
+				"BUILDINGNAME" : "The Mews - Retail",
+				"STREETNUM" : "5910",
+				"STREETNAME" : "Berton",
+				"STREETTYPE" : "Avenue",
+				"FULLADDRESS" : "5910 Berton Avenue",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6S 0E4",
+				"NEIGHBOURHOOD" : "Wesbrook Place",
+				"ADDRESSTYPE" : "Commercial",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{3D9F4326-FD65-4D1C-947E-5938E5A947E7}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24733992900985, 49.26479947798902 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-1012",
+				"BLDG_ID" : "WOOD",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "473",
+				"BUILDINGNAME" : "IRC",
+				"STREETNUM" : "2194",
+				"STREETNAME" : "Health Sciences",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "2194 Health Sciences Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z3",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{52A108E0-DB49-45AF-876D-E0D5F984DAF7}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2360937644273, 49.25469262722042 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-348",
+				"BLDG_ID" : "MEWS",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "689",
+				"BUILDINGNAME" : "The Mews - Retail",
+				"STREETNUM" : "3308",
+				"STREETNAME" : "Shrum",
+				"STREETTYPE" : "Lane",
+				"FULLADDRESS" : "3308 Shrum Lane",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6S 0B9",
+				"NEIGHBOURHOOD" : "Wesbrook Place",
+				"ADDRESSTYPE" : "Commercial",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{FE6C141D-71BF-42F8-942E-1C6EDB1B6EB5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23587063089721, 49.254465790629204 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-353",
+				"BLDG_ID" : "MEWS",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "689",
+				"BUILDINGNAME" : "The Mews - Retail",
+				"STREETNUM" : "3332",
+				"STREETNAME" : "Shrum",
+				"STREETTYPE" : "Lane",
+				"FULLADDRESS" : "3332 Shrum Lane",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6S 0B9",
+				"NEIGHBOURHOOD" : "Wesbrook Place",
+				"ADDRESSTYPE" : "Commercial",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{38862AA8-2E4B-4257-8421-CD1AFBF6B77F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25065180981059, 49.2652597734386 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-116",
+				"BLDG_ID" : "BOOK",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "081",
+				"BUILDINGNAME" : "UBC Bookstore",
+				"STREETNUM" : "6200",
+				"STREETNAME" : "University",
+				"STREETTYPE" : "Boulevard",
+				"FULLADDRESS" : "6200 University Boulevard",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{34D127B5-73F3-4097-B57D-E8267D8C42B5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23882389606761, 49.26090644626648 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-288",
+				"BLDG_ID" : "BERW",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "858",
+				"BUILDINGNAME" : "Berwick Memorial Centre",
+				"STREETNUM" : "2765",
+				"STREETNAME" : "Osoyoos",
+				"STREETTYPE" : "Crescent",
+				"FULLADDRESS" : "2765 Osoyoos Crescent",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1X7",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{DB84A0A6-0F0B-4ADA-BB6D-7BBB1B028DAC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23934761168461, 49.260494515763845 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-289",
+				"BLDG_ID" : "BERW",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "858",
+				"BUILDINGNAME" : "Berwick Memorial Centre - Daycare",
+				"STREETNUM" : "2767",
+				"STREETNAME" : "Osoyoos",
+				"STREETTYPE" : "Crescent",
+				"FULLADDRESS" : "2767 Osoyoos Crescent",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1X7",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{8F268B54-B878-48C1-AEE6-E838F919478D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24092550234448, 49.26317545702811 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-819",
+				"BLDG_ID" : "FAIR",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "007-26",
+				"BUILDINGNAME" : "Fairview Crescent Residence",
+				"STREETNUM" : "2602",
+				"STREETNAME" : "Fairview",
+				"STREETTYPE" : "Crescent",
+				"FULLADDRESS" : "2602 Fairview Crescent",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2B9",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Housing - Student",
+				"NUM_UNITS" : 1,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{622F974E-CF54-488C-8EE5-5AD808C76B34}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.240928947986, 49.26316809445496 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-817",
+				"BLDG_ID" : "FAIR",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "007-26",
+				"BUILDINGNAME" : "Fairview Crescent Residence",
+				"STREETNUM" : "2600",
+				"STREETNAME" : "Fairview",
+				"STREETTYPE" : "Crescent",
+				"FULLADDRESS" : "2600 Fairview Crescent",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2B9",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Housing - Student",
+				"NUM_UNITS" : 1,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{FB65F8E4-6937-463D-8993-3D0408755FD1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25691654214003, 49.270921819665524 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-1032",
+				"BLDG_ID" : "GRNC",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "418",
+				"BUILDINGNAME" : "Green College - President's House",
+				"STREETNUM" : "6205",
+				"STREETNAME" : "Cecil Green Park",
+				"STREETTYPE" : "Road",
+				"FULLADDRESS" : "6205 Cecil Green Park Road",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z1",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Housing - Student",
+				"NUM_UNITS" : 1,
+				"ADDRESSNOTES" : "<Null>",
+				"STATUS" : "Current",
+				"GLOBALID" : "{F4D23FE8-0D4D-49FA-AA76-FE9B4AB0C768}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24839988466817, 49.25830719288395 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-419",
+				"BLDG_ID" : "HAWT",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "618",
+				"BUILDINGNAME" : "Hawthorn Green",
+				"STREETNUM" : "6326",
+				"STREETNAME" : "Hawthorn",
+				"STREETTYPE" : "Lane",
+				"FULLADDRESS" : "6326 Hawthorn Lane",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2J6",
+				"NEIGHBOURHOOD" : "Hawthorn",
+				"ADDRESSTYPE" : "Residential",
+				"NUM_UNITS" : 1,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{D8A12951-9E5C-4733-88BA-E92EAB5FB810}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24837991144035, 49.25831425659657 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-418",
+				"BLDG_ID" : "HAWT",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "618",
+				"BUILDINGNAME" : "Hawthorn Green",
+				"STREETNUM" : "6318",
+				"STREETNAME" : "Hawthorn",
+				"STREETTYPE" : "Lane",
+				"FULLADDRESS" : "6318 Hawthorn Lane",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2J6",
+				"NEIGHBOURHOOD" : "Hawthorn",
+				"ADDRESSTYPE" : "Residential",
+				"NUM_UNITS" : 1,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{F5BE3EBC-0496-4B54-849F-E1820488C405}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2312977219934, 49.25421856402526 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-233",
+				"BLDG_ID" : "LAUR",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "589-2",
+				"BUILDINGNAME" : "The Laureates - Low Rise",
+				"STREETNUM" : "5638",
+				"STREETNAME" : "Birney",
+				"STREETTYPE" : "Avenue",
+				"FULLADDRESS" : "5638 Birney Avenue",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6S 0H8",
+				"NEIGHBOURHOOD" : "Wesbrook Place",
+				"ADDRESSTYPE" : "Residential",
+				"NUM_UNITS" : 53,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{F0151C57-0DBD-4604-AFC3-37379867859A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23091435477532, 49.25420611149435 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-232",
+				"BLDG_ID" : "LAUR",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "589-1",
+				"BUILDINGNAME" : "The Laureates - High Rise",
+				"STREETNUM" : "5628",
+				"STREETNAME" : "Birney",
+				"STREETTYPE" : "Avenue",
+				"FULLADDRESS" : "5628 Birney Avenue",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6S 0H7",
+				"NEIGHBOURHOOD" : "Wesbrook Place",
+				"ADDRESSTYPE" : "Residential",
+				"NUM_UNITS" : 161,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{9F8999EC-7985-42DE-A6D5-4290E039236E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24558899950766, 49.25932459881397 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-450",
+				"BLDG_ID" : "LOGN",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "620",
+				"BUILDINGNAME" : "Logan Lane",
+				"STREETNUM" : "6202",
+				"STREETNAME" : "Logan",
+				"STREETTYPE" : "Lane",
+				"FULLADDRESS" : "6202 Logan Lane",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2K9",
+				"NEIGHBOURHOOD" : "Hawthorn",
+				"ADDRESSTYPE" : "Residential",
+				"NUM_UNITS" : 1,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{CF17CFB8-3EB9-4440-BA57-C23DB349A654}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23501848626617, 49.25394825597759 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-54",
+				"BLDG_ID" : "MBAH",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "694",
+				"BUILDINGNAME" : "MBA House",
+				"STREETNUM" : "3385",
+				"STREETNAME" : "Wesbrook",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "3385 Wesbrook Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"NEIGHBOURHOOD" : "Wesbrook Place",
+				"ADDRESSTYPE" : "Housing - Student",
+				"NUM_UNITS" : 81,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{A2CE2052-23CE-463A-8F8B-0C832F0ABB10}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24698918761193, 49.259105405782215 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-489",
+				"BLDG_ID" : "NINE",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "628",
+				"BUILDINGNAME" : "Nine on the Park",
+				"STREETNUM" : "6282",
+				"STREETNAME" : "Eagles",
+				"STREETTYPE" : "Drive",
+				"FULLADDRESS" : "6282 Eagles Drive",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 0A3",
+				"NEIGHBOURHOOD" : "Hawthorn",
+				"ADDRESSTYPE" : "Residential",
+				"NUM_UNITS" : 1,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{F2693497-68BD-4D26-A642-9F8032E88338}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2559106826971, 49.26344714134808 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-84",
+				"BLDG_ID" : "PNCW",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "904",
+				"BUILDINGNAME" : "Ponderosa Commons - Arbutus/Maple Houses",
+				"STREETNUM" : "6488",
+				"STREETNAME" : "University",
+				"STREETTYPE" : "Boulevard",
+				"FULLADDRESS" : "6488 University Boulevard",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Housing - Student",
+				"NUM_UNITS" : 336,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{371ABDF8-B70A-4C1D-AD90-3061AB8D3051}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25470131091, 49.263892830788436 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-303",
+				"BLDG_ID" : "PNCE",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "903",
+				"BUILDINGNAME" : "Ponderosa Commons - Audain Art Centre",
+				"STREETNUM" : "6398",
+				"STREETNAME" : "University",
+				"STREETTYPE" : "Boulevard",
+				"FULLADDRESS" : "6398 University Boulevard",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{F8ECC8EC-7999-4F10-ACF9-EFABFD0007DF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2545725977765, 49.26364046850912 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-83",
+				"BLDG_ID" : "PNCE",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "903",
+				"BUILDINGNAME" : "Ponderosa Commons - Spruce House",
+				"STREETNUM" : "2118",
+				"STREETNAME" : "West",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "2118 West Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Housing - Student",
+				"NUM_UNITS" : 104,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{8C343670-A56E-40B7-8AE6-C62540EBA9E0}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25606505063308, 49.264250858352845 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-85",
+				"BLDG_ID" : "PNCN",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "905",
+				"BUILDINGNAME" : "Ponderosa Commons - Cedar House",
+				"STREETNUM" : "2075",
+				"STREETNAME" : "West",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "2075 West Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z2",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Housing - Student",
+				"NUM_UNITS" : 175,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{CA50748B-4BBA-404A-82FF-B6040B92A41E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2567353821994, 49.26408280907664 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-86",
+				"BLDG_ID" : "PNCN",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "905",
+				"BUILDINGNAME" : "Ponderosa Commons - Cedar House - Annunciator",
+				"STREETNUM" : "2068",
+				"STREETNAME" : "Lower",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "2068 Lower Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z2",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Annunciator",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{6707C4D4-637C-40EF-9F4D-0EBDAD1D5D72}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25581950789659, 49.26395044842746 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-87",
+				"BLDG_ID" : "PNCN",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "905",
+				"BUILDINGNAME" : "Ponderosa Commons - Oak House",
+				"STREETNUM" : "6445",
+				"STREETNAME" : "University",
+				"STREETTYPE" : "Boulevard",
+				"FULLADDRESS" : "6445 University Boulevard",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z2",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Mixed",
+				"NUM_UNITS" : 200,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{0B5C4A16-F1E1-45C0-AEF0-B97CA8A78863}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23824482211486, 49.25869885355863 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-286",
+				"BLDG_ID" : "PSAB",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "852",
+				"BUILDINGNAME" : "Public Safety Building - Fire Hall",
+				"STREETNUM" : "2992",
+				"STREETNAME" : "Wesbrook",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "2992 Wesbrook Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2B7",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Non-UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{F98C58C2-43AA-4C8C-9393-6E07BF5D9EE6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23608794390572, 49.26308525798815 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-190",
+				"BLDG_ID" : "ACAH",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "450-1",
+				"BUILDINGNAME" : "Acadia House",
+				"STREETNUM" : "2700",
+				"STREETNAME" : "Acadia",
+				"STREETTYPE" : "Road",
+				"FULLADDRESS" : "2700 Acadia Road",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1R9",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Housing - Student",
+				"NUM_UNITS" : 12,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{ADCE0424-28B5-403D-BF61-2D4227E57BC6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23548663632175, 49.262686394086344 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-192",
+				"BLDG_ID" : "ACAH",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "450-3",
+				"BUILDINGNAME" : "Acadia House",
+				"STREETNUM" : "2720",
+				"STREETNAME" : "Acadia",
+				"STREETTYPE" : "Road",
+				"FULLADDRESS" : "2720 Acadia Road",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1R9",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Housing - Student",
+				"NUM_UNITS" : 12,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{19C800C1-523C-428A-9715-B07AAD33C9C2}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.23561440030181, 49.25353676258848 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-55",
+				"BLDG_ID" : "YUYU",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "695",
+				"BUILDINGNAME" : "Yu",
+				"STREETNUM" : "5933",
+				"STREETNAME" : "Birney",
+				"STREETTYPE" : "Avenue",
+				"FULLADDRESS" : "5933 Birney Avenue",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6S 0G7",
+				"NEIGHBOURHOOD" : "Wesbrook Place",
+				"ADDRESSTYPE" : "Commercial",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{63838D46-8BB0-46A2-9B3C-2DB4768C3402}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25504037509933, 49.26824189348349 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-123",
+				"BLDG_ID" : "BUCH",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "121-1",
+				"BUILDINGNAME" : "Buchanan Building",
+				"STREETNUM" : "1866",
+				"STREETNAME" : "Main",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "1866 Main Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z1",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{FA81A311-BB12-4F2B-8889-B53AD6B7B06E}"
 			}
 		},
 		{
@@ -20931,6 +20823,33 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.25209960549499, 49.2606144661297 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-25",
+				"BLDG_ID" : "ORCH",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "557",
+				"BUILDINGNAME" : "Orchard Commons - Annunciator",
+				"STREETNUM" : "2362",
+				"STREETNAME" : "West",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "2362 West Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Annunciator",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{AEF949BA-3CE1-4553-B89E-5025DCC12494}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.23677574058355, 49.2639072086656 ]
 			},
 			"properties" : {
@@ -21357,6 +21276,249 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{DD67118F-B156-4F12-8E22-3A1F67333EEF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2509317352503, 49.26007071247823 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-24",
+				"BLDG_ID" : "ORCH",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "557",
+				"BUILDINGNAME" : "Orchard Commons",
+				"STREETNUM" : "6363",
+				"STREETNAME" : "Agronomy",
+				"STREETTYPE" : "Road",
+				"FULLADDRESS" : "6363 Agronomy Road",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Mixed",
+				"NUM_UNITS" : 1057,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{28EBFA02-B572-4E61-A850-D528B3546456}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25430415135773, 49.26593053166243 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-1014",
+				"BLDG_ID" : "DLAM",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "490",
+				"BUILDINGNAME" : "David Lam Management Research Centre",
+				"STREETNUM" : "2015",
+				"STREETNAME" : "Main",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "2015 Main Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z2",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{1C0A7C55-112D-41D7-BCBF-EF7F88E812D7}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2488447440293, 49.263509225794 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-154",
+				"BLDG_ID" : "CEML",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "305",
+				"BUILDINGNAME" : "Earthquake Engineering Research Facility",
+				"STREETNUM" : "2235",
+				"STREETNAME" : "East",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "2235 East Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{AD720201-5DC6-446B-B1A2-E9F9F2963CAF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24961725730189, 49.263166473385425 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-156",
+				"BLDG_ID" : "CEML",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "307",
+				"BUILDINGNAME" : "Civil and Mechanical Engineering Labs",
+				"STREETNUM" : "2275",
+				"STREETNAME" : "East",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "2275 East Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{9F192EE2-0C57-4666-ABDC-C9834635165E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24890307133644, 49.26356784071814 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-207",
+				"BLDG_ID" : "CEML",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "511",
+				"BUILDINGNAME" : "Engineering High Head Room Laboratory",
+				"STREETNUM" : "2225",
+				"STREETNAME" : "East",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "2225 East Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{E87100E1-D91E-46B3-B9BC-0ABBB524DB4F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.255528734938, 49.267251765015224 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-93",
+				"BLDG_ID" : "OABG",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "017",
+				"BUILDINGNAME" : "Old Administration Building",
+				"STREETNUM" : "6328",
+				"STREETNAME" : "Memorial",
+				"STREETTYPE" : "Road",
+				"FULLADDRESS" : "6328 Memorial Road",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z2",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{4BDC45CF-2D36-4DF0-B96A-924C0DC034A0}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.24445262517602, 49.25763326656282 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-170",
+				"BLDG_ID" : "FERC",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "373",
+				"BUILDINGNAME" : "Feric",
+				"STREETNUM" : "2601",
+				"STREETNAME" : "East",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "2601 East Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{A460B2D4-A04D-4168-AAFE-137BAB08103F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.22983005249151, 49.24494622418744 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-263",
+				"BLDG_ID" : "LPRC",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "769",
+				"BUILDINGNAME" : "Library PARC@UBC",
+				"STREETNUM" : "6049",
+				"STREETNAME" : "Nurseries",
+				"STREETTYPE" : "Road",
+				"FULLADDRESS" : "6049 Nurseries Road",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1W5",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{EF16C625-D11E-4D2F-B66A-199ECC7F9465}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.25882166894597, 49.264880046436005 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-19",
+				"BLDG_ID" : "VANR",
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "544",
+				"BUILDINGNAME" : "Place Vanier Residence",
+				"STREETNUM" : "1935",
+				"STREETNAME" : "Lower",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "1935 Lower Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1X1",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "Housing - Student",
+				"NUM_UNITS" : 1276,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{40A2B790-1CF0-4B2C-8A8C-B0D3A844E964}"
 			}
 		},
 		{
@@ -24279,60 +24441,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.23824239915558, 49.25869970590489 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-286",
-				"BLDG_ID" : "PSAB",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "852",
-				"BUILDINGNAME" : "Public Safety Building - Fire Hall",
-				"STREETNUM" : "2992",
-				"STREETNAME" : "Wesbrook",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "2992 Wesbrook Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 2B7",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Non-UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{F98C58C2-43AA-4C8C-9393-6E07BF5D9EE6}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23934761168461, 49.260494515763845 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-288",
-				"BLDG_ID" : "BERW",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "858",
-				"BUILDINGNAME" : "Berwick Memorial Centre",
-				"STREETNUM" : "2765",
-				"STREETNAME" : "Osoyoos",
-				"STREETTYPE" : "Crescent",
-				"FULLADDRESS" : "2765 Osoyoos Crescent",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1X7",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{DB84A0A6-0F0B-4ADA-BB6D-7BBB1B028DAC}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.25709269062925, 49.26627217751006 ]
 			},
 			"properties" : {
@@ -25170,33 +25278,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25882166894597, 49.264880046436005 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-19",
-				"BLDG_ID" : "VANR",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "544",
-				"BUILDINGNAME" : "Place Vanier Residence",
-				"STREETNUM" : "1935",
-				"STREETNAME" : "Lower",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "1935 Lower Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1X1",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Housing - Student",
-				"NUM_UNITS" : 1276,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{40A2B790-1CF0-4B2C-8A8C-B0D3A844E964}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.24190046355837, 49.26301619252544 ]
 			},
 			"properties" : {
@@ -25677,33 +25758,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{66446235-CD20-4A13-BFA5-CC0145FE625D}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.23501848626617, 49.25394825597759 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-54",
-				"BLDG_ID" : "MBAH",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "694",
-				"BUILDINGNAME" : "MBA House - student residence",
-				"STREETNUM" : "3385",
-				"STREETNAME" : "Wesbrook",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "3385 Wesbrook Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"NEIGHBOURHOOD" : "Wesbrook Place",
-				"ADDRESSTYPE" : "Housing - Student",
-				"NUM_UNITS" : 81,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{A2CE2052-23CE-463A-8F8B-0C832F0ABB10}"
 			}
 		},
 		{
@@ -26196,33 +26250,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.25457285582944, 49.263642538639424 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-83",
-				"BLDG_ID" : "PNCE",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "903",
-				"BUILDINGNAME" : "Ponderosa Commons - Spruce House",
-				"STREETNUM" : "2118",
-				"STREETNAME" : "West",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "2118 West Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "Housing - Student",
-				"NUM_UNITS" : 104,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{8C343670-A56E-40B7-8AE6-C62540EBA9E0}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.23966684175878, 49.26008200064457 ]
 			},
 			"properties" : {
@@ -26352,33 +26379,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{85AA8ED0-864A-4A23-A576-8CA9D4C77B2E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.255528734938, 49.267251765015224 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-93",
-				"BLDG_ID" : "OADM",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "017",
-				"BUILDINGNAME" : "Old Administration Building",
-				"STREETNUM" : "6328",
-				"STREETNAME" : "Memorial",
-				"STREETTYPE" : "Road",
-				"FULLADDRESS" : "6328 Memorial Road",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z2",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{4BDC45CF-2D36-4DF0-B96A-924C0DC034A0}"
 			}
 		},
 		{
@@ -26892,33 +26892,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{2156D965-8D3D-4C4B-A4F8-8929D73BC226}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2503467131913, 49.26516071486311 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-116",
-				"BLDG_ID" : "BOOK",
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "081",
-				"BUILDINGNAME" : "UBC Bookstore",
-				"STREETNUM" : "6200",
-				"STREETNAME" : "University",
-				"STREETTYPE" : "Boulevard",
-				"FULLADDRESS" : "6200 University Boulevard",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{34D127B5-73F3-4097-B57D-E8267D8C42B5}"
 			}
 		},
 		{
@@ -27837,6 +27810,33 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{ECA5F856-F2F1-4812-913C-46D1F75C0FA8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2592314128679, 49.26653461512127 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-201",
+				"BLDG_ID" : null,
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "476",
+				"BUILDINGNAME" : "Nitobe Memorial Garden",
+				"STREETNUM" : "1895",
+				"STREETNAME" : "Lower",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "1895 Lower Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z2",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{600C164B-CDCC-4BB0-A10E-7646A5ACA116}"
 			}
 		}
 	]
