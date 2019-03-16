@@ -526,6 +526,7 @@ AD-1045,EXCH,,772,Exchange Residence,5050,Student Union,Boulevard,5950 Student U
 AD-1046,TRAN,,772,Translink Exchange,1985,Wesbrook,Mall,1985 Wesbrook Mall,Vancouver,BC,<Null>,Academic,Annunciator,0,Fire Emergency Access,UC,{798D9D46-4ECF-4599-A8CF-D29B4F406E4A}
 AD-1016,FOCL,,216,Focal (Site D) - Retail,6103,University,Boulevard,6103 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,UC,{A7E49A6C-AB5D-4EBB-813F-9BE48ACE868C}
 AD-321,CORS,,839,Corus Apartments,5989,Walter Gage,Road,5989  Walter Gage Road,Vancouver,BC,V6T 0A8,Chancellor Place,Residential,51,,Current,{C6D2A5C4-0701-47B7-8F64-4371B04634BA}
+AD-201,,,476,Nitobe Memorial Garden,1895,Lower,Mall,1895 Lower Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{600C164B-CDCC-4BB0-A10E-7646A5ACA116}
 AD-1018,FOCL,,216,Focal (Site D) - Retail,6113,University,Boulevard,6113 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,UC,{85E602CB-6CBA-4C92-B1A4-0CF71D952389}
 AD-1019,FOCL,,216,Focal (Site D) - Retail,6117,University,Boulevard,6117 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,UC,{D5D8EEA3-065D-4171-A0A0-EB519004945E}
 AD-1020,FOCL,,216,Focal (Site D) - Retail,6123,University,Boulevard,6123 University Boulevard,Vancouver,BC,,University Blvd,Commercial,0,,UC,{E3EF7081-34BD-4AF2-9981-F815DCA22E48}
@@ -1029,4 +1030,3 @@ AD-762,ACAP,,009-23,Acadia Park Townhouses,5619,Montgomery,Place,5619 Montgomery
 AD-764,ACAP,,009-23,Acadia Park Townhouses,5621,Montgomery,Place,5621 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{40407001-FA6B-4265-AEBB-E066AA3E2FA4}
 AD-766,ACAP,,009-22,Acadia Park Townhouses,5623,Montgomery,Place,5623 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{A2F2ACE7-581B-4293-9914-A0D5D3C17A60}
 AD-768,ACAP,,009-22,Acadia Park Townhouses,5625,Montgomery,Place,5625 Montgomery Place,Vancouver,BC,V6T 2C8,Academic,Housing - Stude,1,,Current,{ECA5F856-F2F1-4812-913C-46D1F75C0FA8}
-AD-201,,,476,Nitobe Memorial Garden,1895,Lower,Mall,1895 Lower Mall,Vancouver,BC,V6T 1Z2,Academic,UBC,0,,Current,{600C164B-CDCC-4BB0-A10E-7646A5ACA116}

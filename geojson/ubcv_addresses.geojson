@@ -14235,6 +14235,33 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2592314128679, 49.26653461512127 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-201",
+				"BLDG_ID" : null,
+				"SUBBLDG_ID" : null,
+				"REC_ID" : "476",
+				"BUILDINGNAME" : "Nitobe Memorial Garden",
+				"STREETNUM" : "1895",
+				"STREETNAME" : "Lower",
+				"STREETTYPE" : "Mall",
+				"FULLADDRESS" : "1895 Lower Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z2",
+				"NEIGHBOURHOOD" : "Academic",
+				"ADDRESSTYPE" : "UBC",
+				"NUM_UNITS" : 0,
+				"ADDRESSNOTES" : null,
+				"STATUS" : "Current",
+				"GLOBALID" : "{600C164B-CDCC-4BB0-A10E-7646A5ACA116}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.24828211595742, 49.2661058469423 ]
 			},
 			"properties" : {
@@ -27810,33 +27837,6 @@
 				"ADDRESSNOTES" : null,
 				"STATUS" : "Current",
 				"GLOBALID" : "{ECA5F856-F2F1-4812-913C-46D1F75C0FA8}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2592314128679, 49.26653461512127 ]
-			},
-			"properties" : {
-				"ADD_ID" : "AD-201",
-				"BLDG_ID" : null,
-				"SUBBLDG_ID" : null,
-				"REC_ID" : "476",
-				"BUILDINGNAME" : "Nitobe Memorial Garden",
-				"STREETNUM" : "1895",
-				"STREETNAME" : "Lower",
-				"STREETTYPE" : "Mall",
-				"FULLADDRESS" : "1895 Lower Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z2",
-				"NEIGHBOURHOOD" : "Academic",
-				"ADDRESSTYPE" : "UBC",
-				"NUM_UNITS" : 0,
-				"ADDRESSNOTES" : null,
-				"STATUS" : "Current",
-				"GLOBALID" : "{600C164B-CDCC-4BB0-A10E-7646A5ACA116}"
 			}
 		}
 	]
