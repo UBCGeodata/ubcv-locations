@@ -1110,6 +1110,54 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.25128014836561, 49.26573765651245 ]
+			},
+			"properties" : {
+				"ADD_ID" : "AD-125",
+				"BL_ID" : "CHPH",
+				"PLACENAME" : "Chemistry Physics Building",
+				"PLACENAME2" : "Chemistry",
+				"PLACENAME3" : "Chemistry A Block",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : "<Null>",
+				"BUILDING_SHORTCODE" : "CHPH",
+				"STATUS" : "Current",
+				"ROT" : 28.2,
+				"ACCESSIBLE" : 0,
+				"POWER_DOOR" : 1,
+				"BL_CLASS" : "l2",
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{F4E8E30A-6293-4541-B98E-7A57A9DD5CDE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ null, null ]
+			},
+			"properties" : {
+				"ADD_ID" : null,
+				"BL_ID" : null,
+				"PLACENAME" : null,
+				"PLACENAME2" : null,
+				"PLACENAME3" : null,
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"STATUS" : null,
+				"ROT" : null,
+				"ACCESSIBLE" : null,
+				"POWER_DOOR" : null,
+				"BL_CLASS" : null,
+				"ENT_TYPE" : null,
+				"GLOBALID" : "{EA4F7E29-4AB7-4EF7-827C-F87D3A372017}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.24961725730189, 49.263166473385425 ]
 			},
 			"properties" : {
